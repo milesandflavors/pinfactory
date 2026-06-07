@@ -2,7 +2,7 @@ name: Post pins to Pinterest
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 min (UTC); cloud_post.py gates by Europe/Budapest time
+    - cron: "2-59/5 * * * *"  # every 5 min, offset off the top-of-hour (GitHub's busiest window); cloud_post.py gates by Europe/Budapest time
   workflow_dispatch: {}        # manual "Run workflow" button for testing
 
 permissions:
