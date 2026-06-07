@@ -1,0 +1,10 @@
+# NEVER commit secrets — these go into GitHub Secrets, not the repo
+secrets.json
+tokens.json
+
+# Raw source photos (large, not needed in the cloud — cloud posts the finished done/ images)
+input_images/
+
+# Python junk
+__pycache__/
+*.pyc
