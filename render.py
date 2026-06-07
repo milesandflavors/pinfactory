@@ -116,7 +116,7 @@ def wrap(draw, text, fnt, maxw):
             lo = mid
     return _greedy(draw, words, fnt, best)
 
-def render_pin(template, bold, light, url, photos):
+def render_pin(template, bold, light, url, photos, dark=False):
     base = Image.new("RGBA", (W, H), (0, 0, 0, 255))
     # ---- photos ----
     if template == "Split" and len(photos) >= 2:
@@ -165,6 +165,7 @@ def render_pin(template, bold, light, url, photos):
     mean = base.crop(box).convert("L").resize((1, 1)).getpixel((0, 0))  # average luminance 0-255
     a = max(0.0, min(0.58, (mean - 70) / 150))
     if busy: a = max(a, 0.46)
+    if dark: a = max(0.58, min(0.82, (mean - 20) / 150))   # stronger scrim for hard-to-read photos
     base = Image.alpha_composite(base, rrect_layer(box, (0, 0, 0, int(a * 255))))
     base = Image.alpha_composite(base, rrect_layer(box, (242, 239, 234, 38)))   # subtle frosted tint on top
     d = ImageDraw.Draw(base)
@@ -203,6 +204,8 @@ def main():
         url = r[col["URL"]]; slug = url.replace("https://milesandflavors.com/", "").strip("/")
         if only and only != slug and only != cluster(slug): continue
         template = r[col["Template"]]; need = int(r[col["Photos"]])
+        dark = template.endswith(" dark")
+        if dark: template = template.replace(" dark", "")
         bold = r[col["Pin bold (vastag)"]]; light = r[col["Pin light (vekony)"]]
         pin_no = r[col["Pin #"]]; datum = r[col["Datum"]]; idop = r[col["Idopont"]]
         board = r[col["Board"]]; pcim = r[col["Pin cim"]]; pdesc = r[col["Pin leiras"]]
@@ -223,7 +226,7 @@ def main():
         start = (int(pin_no) - 1) % len(files)
         chosen = [files[(start + k) % len(files)] for k in range(need)]
         photos = [load(p) for p in chosen]
-        img = render_pin(template, bold, light, "www.milesandflavors.com", photos)
+        img = render_pin(template, bold, light, "www.milesandflavors.com", photos, dark=dark)
         fname = f"{datum}_{idop.replace(':','-')}_{slug}_pin{pin_no}.png"
         img.save(os.path.join(DONE, fname), "PNG")
         sched.append([datum, idop, fname, board, pcim, pdesc, url])
