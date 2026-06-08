@@ -9,7 +9,7 @@ Usage:
   python render.py                 -> render every pin that has photos
   python render.py 2-days-in-athens  -> render only one article (for testing)
 """
-import csv, os, sys, glob
+import csv, os, sys, glob, json
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -201,6 +201,8 @@ def main():
     head = rows[0]; col = {name: i for i, name in enumerate(head)}
     made, skipped, missing = 0, 0, {}
     sched = []
+    OVR = os.path.join(ROOT, "_photo_overrides.json")
+    overrides = json.load(open(OVR, encoding="utf-8")) if os.path.exists(OVR) else {}
     for r in rows[1:]:
         url = r[col["URL"]]; slug = url.replace("https://milesandflavors.com/", "").strip("/")
         if only and only != slug and only != cluster(slug): continue
@@ -223,9 +225,15 @@ def main():
             files = imgs_in(sub) if sub else imgs_in(cldir)
         if len(files) == 0:
             skipped += 1; missing[slug] = need; continue
-        # pick photos: rotate by pin number, cycle if fewer than needed
+        # pick photos: per-pin override first, else rotate by pin number
         start = (int(pin_no) - 1) % len(files)
-        chosen = [files[(start + k) % len(files)] for k in range(need)]
+        okey = f"{slug}_pin{pin_no}"
+        if okey in overrides:
+            ov = os.path.join(IMG_DIR, slug, overrides[okey])
+            first = ov if os.path.exists(ov) else files[start]
+            chosen = [first] + [files[(start + k) % len(files)] for k in range(1, need)]
+        else:
+            chosen = [files[(start + k) % len(files)] for k in range(need)]
         photos = [load(p) for p in chosen]
         img = render_pin(template, bold, light, "www.milesandflavors.com", photos, dark=dark, pale=pale)
         fname = f"{datum}_{idop.replace(':','-')}_{slug}_pin{pin_no}.png"
