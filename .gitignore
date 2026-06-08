@@ -8,3 +8,8 @@ input_images/
 # Python junk
 __pycache__/
 *.pyc
+
+# staging + preview artifacts (not for the repo)
+_sort/
+*_preview.png
+_contact.png
