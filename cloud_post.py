@@ -51,6 +51,25 @@ def get_boards():
     return boards
 
 
+def fetch_recent_titles(max_pages=3):
+    """Build a set of titles already on Pinterest so we never double-post the same pin,
+    even if two runs ever overlap. Returns {lowercased_title: pin_id}. Fails soft."""
+    titles, bm = {}, None
+    try:
+        for _ in range(max_pages):
+            d = api("/pins?page_size=100" + (f"&bookmark={urllib.parse.quote(bm)}" if bm else ""))
+            for p in d.get("items", []):
+                t = (p.get("title") or "").strip().lower()
+                if t:
+                    titles[t] = p.get("id")
+            bm = d.get("bookmark")
+            if not bm:
+                break
+    except Exception as e:
+        print(f"WARN: could not fetch recent pins ({e}); posting without dup-guard this run")
+    return titles
+
+
 def slug_of(url):
     return url.replace("https://milesandflavors.com/", "").strip("/")
 
@@ -64,6 +83,7 @@ def main():
     global ACCESS
     ACCESS = refresh_access_token()
     boards = get_boards()
+    recent = fetch_recent_titles()   # dup-guard: titles already live on Pinterest
     posted = json.load(open(POSTED, encoding="utf-8")) if os.path.exists(POSTED) else {}
     now = datetime.datetime.now(TZ)
 
@@ -86,13 +106,21 @@ def main():
             print(f"SKIP (no board): {r[h['Board']]} | {r[h['Cikk']]}"); continue
         if not img:
             print(f"SKIP (no image): {slug}_pin{pin}"); continue
+        title = r[h["Pin cim"]][:100]
+        tkey = title.strip().lower()
+        if tkey in recent:
+            # Already on Pinterest (e.g. a parallel run posted it). Record + skip, never re-post.
+            posted[key] = {"pin_id": recent[tkey], "at": now.isoformat(), "note": "already-on-pinterest"}
+            print(f"SKIP (already on Pinterest): {key}")
+            continue
         b64 = base64.b64encode(open(img, "rb").read()).decode()
-        body = {"board_id": board_id, "title": r[h["Pin cim"]][:100], "description": r[h["Pin leiras"]][:500],
+        body = {"board_id": board_id, "title": title, "description": r[h["Pin leiras"]][:500],
                 "link": r[h["URL"]], "alt_text": r[h["Alt text"]][:500],
                 "media_source": {"source_type": "image_base64", "content_type": "image/png", "data": b64}}
         try:
             res = api("/pins", "POST", body)
             posted[key] = {"pin_id": res.get("id"), "at": now.isoformat()}
+            recent[tkey] = res.get("id")
             posted_count += 1
             print(f"POSTED {r[h['Idopont']]} {r[h['Cikk']][:34]} -> {res.get('id')}")
         except Exception as e:

@@ -1,9 +1,10 @@
 name: Post pins to Pinterest
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"   # every 5 min (backup; primary trigger is external cron-job.org)
-  workflow_dispatch: {}        # manual "Run workflow" button for testing
+  # Single trigger source = external cron-job.org (every 5 min) via the dispatch API.
+  # The native GitHub `schedule` cron was REMOVED on 2026-06-08: having two trigger
+  # sources caused two runs to fire at once and double-post a pin (Amsterdam 20:00).
+  workflow_dispatch: {}        # fired by cron-job.org + manual "Run workflow" button
 
 permissions:
   contents: write              # so the run can commit posted.json back
