@@ -51,19 +51,34 @@ def get_boards():
     return boards
 
 
-def fetch_recent_titles(max_pages=3):
-    """Build a set of titles already on Pinterest so we never double-post the same pin,
-    even if two runs ever overlap. Returns {lowercased_title: pin_id}. Fails soft."""
+def fetch_recent_titles(max_pages=3, window_hours=6):
+    """Titles posted to Pinterest within the last `window_hours`. This catches a GENUINE
+    near-duplicate (a pin re-posted minutes ago by a run whose posted.json push failed),
+    but deliberately does NOT block a pin that merely reuses a title from days ago
+    (different image, different scheduled pin). Pins are returned newest-first, so we can
+    stop once we pass the window. Returns {lowercased_title: pin_id}. Fails soft."""
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=window_hours)
     titles, bm = {}, None
     try:
         for _ in range(max_pages):
             d = api("/pins?page_size=100" + (f"&bookmark={urllib.parse.quote(bm)}" if bm else ""))
+            stop = False
             for p in d.get("items", []):
+                ca = (p.get("created_at") or "").replace("Z", "+00:00")
+                try:
+                    cdt = datetime.datetime.fromisoformat(ca)
+                    if cdt.tzinfo is None:
+                        cdt = cdt.replace(tzinfo=datetime.timezone.utc)
+                except Exception:
+                    continue  # can't confirm recency -> don't guard on it
+                if cdt < cutoff:
+                    stop = True
+                    break  # newest-first: everything after this is older too
                 t = (p.get("title") or "").strip().lower()
                 if t:
                     titles[t] = p.get("id")
             bm = d.get("bookmark")
-            if not bm:
+            if stop or not bm:
                 break
     except Exception as e:
         print(f"WARN: could not fetch recent pins ({e}); posting without dup-guard this run")
