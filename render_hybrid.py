@@ -1,0 +1,336 @@
+# -*- coding: utf-8 -*-
+"""
+Miles & Flavors — Hybrid Pin Style (M&F × She Wanders Abroad)
+Kísérlet: Lili terrakotta brandja + SWA-s alul-sáv layout + nagyobb szöveg hierarchia.
+
+Különbségek a render.py-hoz képest:
+  - Teljes szélességű terrakotta sáv alul (nem szűk lekerekített panel)
+  - Főszöveg JÓVAL nagyobb (120px vs 90px)
+  - Mindig alul-sávos elrendezés (Title bottom stílus)
+  - Kisebb hook szöveg felette (elegáns, light)
+  - Erősebb gradient az alul harmadban
+
+Használat:
+  python render_hybrid.py zakynthos-boat-tour   -> egy cikk tesztelése
+  python render_hybrid.py 2-days-in-athens
+  python render_hybrid.py best-things-to-do-in-london
+"""
+import csv, os, sys, glob
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageStat
+
+ROOT   = os.path.dirname(os.path.abspath(__file__))
+IMG_DIR = os.path.join(ROOT, "input_images")
+DONE   = os.path.join(ROOT, "done")
+FONTS  = os.path.join(ROOT, "fonts")
+PINS   = os.path.join(ROOT, "pins.csv")
+os.makedirs(DONE, exist_ok=True)
+
+W, H = 1000, 1500
+
+# Brand colors
+TERRA     = (196, 132, 90)      # terrakotta #C4845A
+TERRA_ALT = (172, 108, 68)      # sötétebb terrakotta a sávhoz
+WHITE     = (255, 255, 255)
+CREAM     = (249, 246, 241)     # #F9F6F1
+
+EXT = (".jpg", ".jpeg", ".png", ".webp")
+
+# --- Font helpers (ugyanaz mint render.py) ---
+PLAYFAIR = os.path.join(FONTS, "PlayfairDisplay.ttf")
+INTER    = os.path.join(FONTS, "Inter.ttf")
+_fc = {}
+def font(path, size, weight=400):
+    key = (path, size, weight)
+    if key not in _fc:
+        f = ImageFont.truetype(path, size)
+        try: f.set_variation_by_axes([weight])
+        except Exception: pass
+        _fc[key] = f
+    return _fc[key]
+
+def cluster(s):
+    if 'athens' in s: return 'Athens'
+    if 'rome' in s: return 'Rome'
+    if 'nyc' in s or 'new-york' in s: return 'NYC'
+    if 'greece' in s or 'zakynthos' in s or 'shipwreck' in s: return 'Greece'
+    if 'amalfi' in s or 'southern-italy' in s: return 'Amalfi'
+    if 'dolomite' in s or 'milan' in s: return 'Dolomites'
+    if 'barcelona' in s: return 'Barcelona'
+    if 'amsterdam' in s: return 'Amsterdam'
+    if 'chicago' in s: return 'Chicago'
+    if any(k in s for k in ['japan','tokyo','kyoto','osaka','hakone','ryokan']): return 'Japan'
+    if 'marsa' in s: return 'Egypt'
+    return 'Planning'
+
+def cover(im, w, h):
+    s = max(w / im.width, h / im.height)
+    nw, nh = int(im.width * s), int(im.height * s)
+    im = im.resize((nw, nh), Image.LANCZOS)
+    return im.crop(((nw-w)//2, (nh-h)//2, (nw-w)//2+w, (nh-h)//2+h))
+
+def load(path):
+    return Image.open(path).convert("RGB")
+
+def imgs_in(d):
+    if not d or not os.path.isdir(d): return []
+    return sorted([f for f in glob.glob(os.path.join(d,"*")) if f.lower().endswith(EXT)])
+
+def _greedy(draw, words, fnt, limit):
+    lines, ln = [], ""
+    for w in words:
+        t = (ln + " " + w).strip()
+        if draw.textlength(t, font=fnt) > limit and ln:
+            lines.append(ln); ln = w
+        else:
+            ln = t
+    if ln: lines.append(ln)
+    return lines
+
+def wrap(draw, text, fnt, maxw):
+    words = text.split()
+    if not words: return []
+    n = len(_greedy(draw, words, fnt, maxw))
+    if n <= 1: return [text]
+    minw = max(draw.textlength(w, font=fnt) for w in words)
+    lo, hi, best = minw, maxw, maxw
+    for _ in range(28):
+        mid = (lo + hi) / 2.0
+        if len(_greedy(draw, words, fnt, mid)) <= n:
+            best = mid; hi = mid
+        else:
+            lo = mid
+    return _greedy(draw, words, fnt, best)
+
+
+def find_best_zone(photo_rgb):
+    """
+    Megvizsgálja a fotó 3 harmadát és megkeresi ahol a legtöbb 'szabad tér' van
+    (legkisebb variancia = legegyenletesebb kép = szöveg nem harcolna a háttérrel).
+    Visszaad: 'top', 'middle', vagy 'bottom'
+    """
+    gray = photo_rgb.convert("L")
+    zones = {
+        "top":    gray.crop((0,        0,    W, H//3)),
+        "middle": gray.crop((0,    H//3,     W, 2*H//3)),
+        "bottom": gray.crop((0,    2*H//3,   W, H)),
+    }
+    scores = {}
+    for name, zone in zones.items():
+        stat   = ImageStat.Stat(zone)
+        stddev = stat.stddev[0]   # alacsony = egyenletes = jó szöveg zóna
+        mean   = stat.mean[0]
+        # nagyon sötét (<45) vagy nagyon világos (>215) zóna kevésbé ideális
+        legibility = 0.5 if (mean < 45 or mean > 215) else 1.0
+        scores[name] = (1.0 / (stddev + 1)) * legibility
+    best = max(scores, key=scores.get)
+    # ha a különbség kicsi a bottom és a nyertes között → maradunk alul (Pinterest konvenció)
+    if best != "bottom" and scores["bottom"] >= scores[best] * 0.82:
+        best = "bottom"
+    return best
+
+
+def zone_gradient(base, zone):
+    """Directional gradient a szöveg zóna szerint."""
+    grad = Image.new("RGBA", (W, H), (0,0,0,0))
+    pix  = []
+    for y in range(H):
+        t = y / (H - 1)
+        if zone == "top":
+            if t < 0.12:   a = int(0.60 * 255)
+            elif t < 0.44: a = int((0.60 - (t-0.12)/0.32 * 0.52) * 255)
+            else:           a = int(0.08 * 255)
+        elif zone == "middle":
+            dist = abs(t - 0.50)
+            a = int((0.06 + dist * 0.88) * 255)
+        else:  # bottom
+            if t < 0.45:   a = 0
+            else:
+                frac = (t - 0.45) / 0.55
+                a = int((frac ** 1.6) * 0.72 * 255)
+        pix.append(min(255, a))
+    col = Image.new("L", (1, H)); col.putdata(pix)
+    grad.putalpha(col.resize((W, H)))
+    return Image.alpha_composite(base, grad)
+
+
+def adaptive_text_color(photo_rgb, text_zone_top):
+    """
+    Mintavételezi a fotót a szöveg zónájában (text_zone_top-tól aljáig),
+    és visszaad egy (főszín, subszín) tuple-t ami harmonizál a fotóval.
+    - Sötét fotó alj → fehér / krém
+    - Világos fotó alj → sötét (terrakotta vagy mély barna)
+    - Közepes → krém
+    """
+    zone = photo_rgb.crop((0, text_zone_top, W, H))
+    lum = zone.convert("L").resize((1, 1)).getpixel((0, 0))  # átlag luminance
+
+    if lum < 110:
+        # sötét fotó → tiszta fehér + krém subtitle
+        return WHITE, (249, 246, 241)
+    else:
+        # világos/közepes fotó → krém főcím + halvány krém subtitle
+        # (terrakotta szöveg sehol sem szép — csak az accent vonalnak való)
+        return (249, 246, 241), (230, 220, 210)
+
+
+def render_hybrid_pin(bold, light, photos):
+    """
+    Hybrid layout v3 — SWA stílus, M&F betűkkel + adaptív szín.
+      - Teljes fotó, semmi doboz/sáv
+      - Csak enyhe gradient az alján (olvashatósághoz, nem "sávnak")
+      - Nagy Playfair bold főcím + kisebb light subtitle (SWA hierarchia)
+      - Terrakotta accent vonal (M&F brand)
+      - Szöveg színe a fotóhoz igazodik (nem mindig fehér)
+    """
+    # 1. Fotó háttér
+    base = Image.new("RGBA", (W, H), (0,0,0,255))
+    raw_photo = cover(photos[0], W, H)
+    base.paste(raw_photo, (0, 0))
+
+    # 2. Legjobb szöveg zóna meghatározása képelemzéssel
+    zone = find_best_zone(raw_photo)
+
+    # 3. Betűméretek — nagyobb subtitle mint korábban
+    dummy = ImageDraw.Draw(Image.new("RGBA", (W, H)))
+    maxw = W - 100
+    t1, t2 = 112, 62          # t2 volt 50 → most 62 (nagyobb subtitle)
+    while True:
+        fb = font(PLAYFAIR, t1, 700)
+        fl = font(PLAYFAIR, t2, 400)
+        L1 = wrap(dummy, bold, fb, maxw)
+        L2 = wrap(dummy, light, fl, maxw) if light else []
+        if (len(L1) <= 3 and len(L2) <= 2) or t1 <= 58:
+            break
+        t1 = int(t1 * 0.92); t2 = int(t2 * 0.92)
+
+    lh1, lh2 = int(t1 * 1.10), int(t2 * 1.18)
+    acc_h, acc_gap = 5, 22
+
+    if light:
+        block_h = len(L2)*lh2 + acc_gap + acc_h + acc_gap + len(L1)*lh1
+    else:
+        block_h = len(L1)*lh1
+
+    # 4. Szöveg pozíció a zóna szerint
+    if zone == "top":
+        block_bottom = int(H * 0.40)
+    elif zone == "middle":
+        block_bottom = int(H * 0.67)
+    else:
+        block_bottom = int(H * 0.91)
+    text_top = block_bottom - block_h
+
+    # 5. Adaptív szövegszín (fotó alapján, gradient ELŐTT mintavételezve)
+    col_bold, col_light = adaptive_text_color(raw_photo, text_top - 40)
+
+    # 6. Zóna-irányú gradient
+    base = zone_gradient(base, zone)
+
+    # 5. Halvány "légpárna" a szöveg mögé — alig látható, csak az olvashatóságért
+    #    Nem doboz, hanem sötét elliptikus enyhe folt a szöveg területén
+    pad_box = 30
+    box_top    = text_top - pad_box
+    box_bottom = int(H * 0.93)
+    box_left   = W // 2 - maxw // 2 - pad_box
+    box_right  = W // 2 + maxw // 2 + pad_box
+    overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(overlay).rounded_rectangle(
+        (box_left, box_top, box_right, box_bottom),
+        radius=18,
+        fill=(0, 0, 0, 55)   # ~22% opacity — alig látható
+    )
+    # Blur a széleken hogy ne legyen kemény vonal
+    overlay = overlay.filter(ImageFilter.GaussianBlur(12))
+    base = Image.alpha_composite(base, overlay)
+
+    # 6. Szöveg réteg
+    fg = Image.new("RGBA", (W, H), (0,0,0,0))
+    fd = ImageDraw.Draw(fg)
+    y = text_top
+
+    # Subtitle / hook (SWA: kis szöveg a főcím FELETT)
+    if light:
+        for ln in L2:
+            fd.text((W//2, y), ln, font=font(PLAYFAIR, t2, 400),
+                    fill=(*col_light, 220), anchor="ma")
+            y += lh2
+        # Terrakotta accent vonal
+        y += acc_gap
+        dw = min(110, int(maxw * 0.26))
+        ImageDraw.Draw(base).rectangle(
+            (W//2 - dw//2, y, W//2 + dw//2, y + acc_h),
+            fill=(*TERRA, 255))
+        y += acc_h + acc_gap
+
+    # Főcím — nagy, domináns
+    for ln in L1:
+        fd.text((W//2, y), ln, font=font(PLAYFAIR, t1, 700),
+                fill=(*col_bold, 255), anchor="ma")
+        y += lh1
+
+    # URL
+    fd.text((W//2, H - 48), "www.milesandflavors.com",
+            font=font(INTER, 24, 400), fill=(*col_light, 150), anchor="ma")
+
+    # Puha árnyék (csak ha a szöveg világos, azaz sötét fotón)
+    if col_bold == WHITE or col_bold == (249, 246, 241):
+        sh = Image.new("RGBA", (W, H), (0,0,0,0))
+        sh.putalpha(fg.split()[3].point(lambda a: int(a * 0.60)))
+        sh = sh.filter(ImageFilter.GaussianBlur(5))
+        base = Image.alpha_composite(base, sh)
+
+    base = Image.alpha_composite(base, fg)
+    return base.convert("RGB")
+
+
+def render_one(r, col):
+    url_val = r[col["URL"]]
+    slug = url_val.replace("https://milesandflavors.com/","").strip("/")
+    bold  = r[col["Pin bold (vastag)"]]
+    light = r[col["Pin light (vekony)"]]
+    pin_no = r[col["Pin #"]]
+
+    files = imgs_in(os.path.join(IMG_DIR, slug))
+    if not files:
+        cldir = os.path.join(IMG_DIR, cluster(slug))
+        sub = None
+        if os.path.isdir(cldir):
+            for name in sorted(os.listdir(cldir)):
+                sd = os.path.join(cldir, name)
+                if os.path.isdir(sd) and name.lower() in slug and imgs_in(sd):
+                    sub = sd; break
+        files = imgs_in(sub) if sub else imgs_in(cldir)
+
+    if not files:
+        print(f"  [SKIP] Nincs fotó: {slug}"); return None
+
+    start = (int(pin_no) - 1) % len(files)
+    photos = [load(files[start])]
+    img = render_hybrid_pin(bold, light, photos)
+    fname = f"{slug}_pin{pin_no}.png"
+    img.save(os.path.join(DONE, fname), "PNG")
+    print(f"  OK: {fname}")
+    return fname
+
+
+def main():
+    only = sys.argv[1] if len(sys.argv) > 1 else None
+
+    rows = list(csv.reader(open(PINS, encoding="utf-8-sig"), delimiter=";"))
+    head = rows[0]; col = {name: i for i, name in enumerate(head)}
+    made = 0
+
+    for r in rows[1:]:
+        if not r or not r[col["URL"]].startswith("http"): continue
+        url_val = r[col["URL"]]
+        slug = url_val.replace("https://milesandflavors.com/","").strip("/")
+        if only and only not in slug and only != cluster(slug): continue
+
+        result = render_one(r, col)
+        if result: made += 1
+
+    print(f"\nElkészült: {made} pin  ->  {DONE}")
+
+
+if __name__ == "__main__":
+    main()

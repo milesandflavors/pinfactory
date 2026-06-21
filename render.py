@@ -1,28 +1,52 @@
 # -*- coding: utf-8 -*-
 """
-Miles & Flavors — Pin Factory
-Reads pins.csv (the v8 production plan), pulls photos from input_images/<slug>/,
-renders each pin in the brand style (same look as the HTML Pin Maker),
-and saves finished PNGs into done/.  Also writes done/_scheduler.csv for the uploader.
+Miles & Flavors — Hybrid Pin Style (M&F × She Wanders Abroad)
+Kísérlet: Lili terrakotta brandja + SWA-s alul-sáv layout + nagyobb szöveg hierarchia.
 
-Usage:
-  python render.py                 -> render every pin that has photos
-  python render.py 2-days-in-athens  -> render only one article (for testing)
+Különbségek a render.py-hoz képest:
+  - Teljes szélességű terrakotta sáv alul (nem szűk lekerekített panel)
+  - Főszöveg JÓVAL nagyobb (120px vs 90px)
+  - Mindig alul-sávos elrendezés (Title bottom stílus)
+  - Kisebb hook szöveg felette (elegáns, light)
+  - Erősebb gradient az alul harmadban
+
+Használat:
+  python render_hybrid.py zakynthos-boat-tour   -> egy cikk tesztelése
+  python render_hybrid.py 2-days-in-athens
+  python render_hybrid.py best-things-to-do-in-london
 """
-import csv, os, sys, glob, json
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+import csv, os, sys, glob
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageStat
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT   = os.path.dirname(os.path.abspath(__file__))
 IMG_DIR = os.path.join(ROOT, "input_images")
-DONE = os.path.join(ROOT, "done")
-FONTS = os.path.join(ROOT, "fonts")
-PINS = os.path.join(ROOT, "pins.csv")
+DONE   = os.path.join(ROOT, "done")
+FONTS  = os.path.join(ROOT, "fonts")
+PINS   = os.path.join(ROOT, "pins.csv")
 os.makedirs(DONE, exist_ok=True)
 
 W, H = 1000, 1500
-TERRA = (196, 132, 90)
-WHITE = (255, 255, 255)
+
+# Brand colors
+TERRA     = (196, 132, 90)      # terrakotta #C4845A
+TERRA_ALT = (172, 108, 68)      # sötétebb terrakotta a sávhoz
+WHITE     = (255, 255, 255)
+CREAM     = (249, 246, 241)     # #F9F6F1
+
 EXT = (".jpg", ".jpeg", ".png", ".webp")
+
+# --- Font helpers (ugyanaz mint render.py) ---
+PLAYFAIR = os.path.join(FONTS, "PlayfairDisplay.ttf")
+INTER    = os.path.join(FONTS, "Inter.ttf")
+_fc = {}
+def font(path, size, weight=400):
+    key = (path, size, weight)
+    if key not in _fc:
+        f = ImageFont.truetype(path, size)
+        try: f.set_variation_by_axes([weight])
+        except Exception: pass
+        _fc[key] = f
+    return _fc[key]
 
 def cluster(s):
     if 'athens' in s: return 'Athens'
@@ -34,59 +58,24 @@ def cluster(s):
     if 'barcelona' in s: return 'Barcelona'
     if 'amsterdam' in s: return 'Amsterdam'
     if 'chicago' in s: return 'Chicago'
-    if any(k in s for k in ['japan', 'tokyo', 'kyoto', 'osaka', 'hakone', 'ryokan']): return 'Japan'
+    if any(k in s for k in ['japan','tokyo','kyoto','osaka','hakone','ryokan']): return 'Japan'
     if 'marsa' in s: return 'Egypt'
     return 'Planning'
-
-PLAYFAIR = os.path.join(FONTS, "PlayfairDisplay.ttf")
-INTER = os.path.join(FONTS, "Inter.ttf")
-_fc = {}
-def font(path, size, weight):
-    key = (path, size, weight)
-    if key not in _fc:
-        f = ImageFont.truetype(path, size)
-        try: f.set_variation_by_axes([weight])
-        except Exception: pass
-        _fc[key] = f
-    return _fc[key]
 
 def cover(im, w, h):
     s = max(w / im.width, h / im.height)
     nw, nh = int(im.width * s), int(im.height * s)
     im = im.resize((nw, nh), Image.LANCZOS)
-    return im.crop(((nw - w) // 2, (nh - h) // 2, (nw - w) // 2 + w, (nh - h) // 2 + h))
+    return im.crop(((nw-w)//2, (nh-h)//2, (nw-w)//2+w, (nh-h)//2+h))
 
 def load(path):
     return Image.open(path).convert("RGB")
 
 def imgs_in(d):
     if not d or not os.path.isdir(d): return []
-    return sorted([f for f in glob.glob(os.path.join(d, "*")) if f.lower().endswith(EXT)])
-
-def gradient_overlay(base, dark):
-    # dark at top & bottom, light in the middle (legibility)
-    def a(y):
-        t = y / (H - 1)
-        if t < .34:  v = dark + (dark*.12 - dark) * (t/.34)
-        elif t < .66: v = dark*.12
-        else: v = dark*.12 + (dark - dark*.12) * ((t-.66)/.34)
-        return int(max(0, min(1, v)) * 255)
-    col = Image.new("L", (1, H)); col.putdata([a(y) for y in range(H)])
-    grad = Image.new("RGBA", (W, H), (0, 0, 0, 0)); grad.putalpha(col.resize((W, H)))
-    return Image.alpha_composite(base, grad)
-
-def bottom_scrim(base, strength=0.5, h=170):
-    col = Image.new("L", (1, h)); col.putdata([int((i/(h-1))*strength*255) for i in range(h)])
-    s = Image.new("RGBA", (W, h), (0, 0, 0, 0)); s.putalpha(col.resize((W, h)))
-    base.alpha_composite(s, (0, H - h)); return base
-
-def rrect_layer(box, fill_rgba, radius=10):
-    ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(ov).rounded_rectangle(box, radius=radius, fill=fill_rgba)
-    return ov
+    return sorted([f for f in glob.glob(os.path.join(d,"*")) if f.lower().endswith(EXT)])
 
 def _greedy(draw, words, fnt, limit):
-    """Greedy wrap at a given width limit -> list of lines."""
     lines, ln = [], ""
     for w in words:
         t = (ln + " " + w).strip()
@@ -98,15 +87,11 @@ def _greedy(draw, words, fnt, limit):
     return lines
 
 def wrap(draw, text, fnt, maxw):
-    """Balanced word-wrap: uses the minimum number of lines, then evens the line
-    widths so no short 'orphan' word is left dangling on its own line."""
     words = text.split()
     if not words: return []
-    n = len(_greedy(draw, words, fnt, maxw))          # minimum lines that fit in maxw
+    n = len(_greedy(draw, words, fnt, maxw))
     if n <= 1: return [text]
-    # widest single word = hard lower bound for any line width
     minw = max(draw.textlength(w, font=fnt) for w in words)
-    # binary-search the smallest width that still wraps into exactly n lines
     lo, hi, best = minw, maxw, maxw
     for _ in range(28):
         mid = (lo + hi) / 2.0
@@ -116,143 +101,241 @@ def wrap(draw, text, fnt, maxw):
             lo = mid
     return _greedy(draw, words, fnt, best)
 
-def render_pin(template, bold, light, url, photos, dark=False, pale=False):
-    base = Image.new("RGBA", (W, H), (0, 0, 0, 255))
-    # ---- photos ----
-    if template == "Split" and len(photos) >= 2:
-        base.paste(cover(photos[0], W, H//2), (0, 0)); base.paste(cover(photos[1], W, H - H//2), (0, H//2))
-    elif template == "Collage" and len(photos) >= 4:
-        base.paste(cover(photos[0], W//2, H//2), (0, 0));     base.paste(cover(photos[1], W-W//2, H//2), (W//2, 0))
-        base.paste(cover(photos[2], W//2, H-H//2), (0, H//2)); base.paste(cover(photos[3], W-W//2, H-H//2), (W//2, H//2))
+
+def find_best_zone(photo_rgb):
+    """
+    Megvizsgálja a fotó 3 harmadát és megkeresi ahol a legtöbb 'szabad tér' van
+    (legkisebb variancia = legegyenletesebb kép = szöveg nem harcolna a háttérrel).
+    Visszaad: 'top', 'middle', vagy 'bottom'
+    """
+    gray = photo_rgb.convert("L")
+    zones = {
+        "top":    gray.crop((0,        0,    W, H//3)),
+        "middle": gray.crop((0,    H//3,     W, 2*H//3)),
+        "bottom": gray.crop((0,    2*H//3,   W, H)),
+    }
+    scores = {}
+    for name, zone in zones.items():
+        stat   = ImageStat.Stat(zone)
+        stddev = stat.stddev[0]   # alacsony = egyenletes = jó szöveg zóna
+        mean   = stat.mean[0]
+        # nagyon sötét (<45) vagy nagyon világos (>215) zóna kevésbé ideális
+        legibility = 0.5 if (mean < 45 or mean > 215) else 1.0
+        scores[name] = (1.0 / (stddev + 1)) * legibility
+    best = max(scores, key=scores.get)
+    # ha a különbség kicsi a bottom és a nyertes között → maradunk alul (Pinterest konvenció)
+    if best != "bottom" and scores["bottom"] >= scores[best] * 0.82:
+        best = "bottom"
+    return best
+
+
+def zone_gradient(base, zone):
+    """Directional gradient a szöveg zóna szerint."""
+    grad = Image.new("RGBA", (W, H), (0,0,0,0))
+    pix  = []
+    for y in range(H):
+        t = y / (H - 1)
+        if zone == "top":
+            if t < 0.12:   a = int(0.60 * 255)
+            elif t < 0.44: a = int((0.60 - (t-0.12)/0.32 * 0.52) * 255)
+            else:           a = int(0.08 * 255)
+        elif zone == "middle":
+            dist = abs(t - 0.50)
+            a = int((0.06 + dist * 0.88) * 255)
+        else:  # bottom
+            if t < 0.45:   a = 0
+            else:
+                frac = (t - 0.45) / 0.55
+                a = int((frac ** 1.6) * 0.72 * 255)
+        pix.append(min(255, a))
+    col = Image.new("L", (1, H)); col.putdata(pix)
+    grad.putalpha(col.resize((W, H)))
+    return Image.alpha_composite(base, grad)
+
+
+def adaptive_text_color(photo_rgb, text_zone_top):
+    """
+    Mintavételezi a fotót a szöveg zónájában (text_zone_top-tól aljáig),
+    és visszaad egy (főszín, subszín) tuple-t ami harmonizál a fotóval.
+    - Sötét fotó alj → fehér / krém
+    - Világos fotó alj → sötét (terrakotta vagy mély barna)
+    - Közepes → krém
+    """
+    zone = photo_rgb.crop((0, text_zone_top, W, H))
+    lum = zone.convert("L").resize((1, 1)).getpixel((0, 0))  # átlag luminance
+
+    if lum < 110:
+        # sötét fotó → tiszta fehér + krém subtitle
+        return WHITE, (249, 246, 241)
     else:
-        base.paste(cover(photos[0], W, H), (0, 0))
+        # világos/közepes fotó → krém főcím + halvány krém subtitle
+        # (terrakotta szöveg sehol sem szép — csak az accent vonalnak való)
+        return (249, 246, 241), (230, 220, 210)
 
-    busy = template in ("Split", "Collage")
-    base = gradient_overlay(base, 0.30)
-    if busy: base = bottom_scrim(base, 0.5, 170)
 
-    d = ImageDraw.Draw(base)
-    maxw = W - 160
-    # auto-fit: shrink the font until the title fits compactly (bold <=2 lines, light <=2 lines),
-    # so nothing overflows and the panel stays proportionate to the text.
-    t1, t2 = 90, 80
+def render_hybrid_pin(bold, light, photos):
+    """
+    Hybrid layout v3 — SWA stílus, M&F betűkkel + adaptív szín.
+      - Teljes fotó, semmi doboz/sáv
+      - Csak enyhe gradient az alján (olvashatósághoz, nem "sávnak")
+      - Nagy Playfair bold főcím + kisebb light subtitle (SWA hierarchia)
+      - Terrakotta accent vonal (M&F brand)
+      - Szöveg színe a fotóhoz igazodik (nem mindig fehér)
+    """
+    # 1. Fotó háttér
+    base = Image.new("RGBA", (W, H), (0,0,0,255))
+    raw_photo = cover(photos[0], W, H)
+    base.paste(raw_photo, (0, 0))
+
+    # 2. Legjobb szöveg zóna meghatározása képelemzéssel
+    zone = find_best_zone(raw_photo)
+
+    # 3. Betűméretek — nagyobb subtitle mint korábban
+    dummy = ImageDraw.Draw(Image.new("RGBA", (W, H)))
+    maxw = W - 100
+    t1, t2 = 112, 62          # t2 volt 50 → most 62 (nagyobb subtitle)
     while True:
         fb = font(PLAYFAIR, t1, 700)
         fl = font(PLAYFAIR, t2, 400)
-        L1 = wrap(d, bold, fb, maxw)
-        L2 = wrap(d, light, fl, maxw) if light else []
-        if (len(L1) <= 2 and len(L2) <= 2) or t1 <= 54:
+        L1 = wrap(dummy, bold, fb, maxw)
+        L2 = wrap(dummy, light, fl, maxw) if light else []
+        if (len(L1) <= 3 and len(L2) <= 2) or t1 <= 58:
             break
-        t1 = int(t1 * 0.93); t2 = int(t2 * 0.93)
-    lh1, lh2 = int(t1 * 1.12), int(t2 * 1.12)
-    accent = template == "Accent" and light
-    accentGap = 34 if accent else 0
-    gapMid = 22 if light else 0
-    blockH = len(L1) * lh1 + accentGap + gapMid + len(L2) * lh2
+        t1 = int(t1 * 0.92); t2 = int(t2 * 0.92)
 
-    if template in ("Title top", "Accent"): cy = int(H * 0.15)
-    elif template == "Title bottom":        cy = int(H * 0.80) - blockH
-    else:                                    cy = H // 2 - blockH // 2   # Centered/Split/Collage
+    lh1, lh2 = int(t1 * 1.10), int(t2 * 1.18)
+    acc_h, acc_gap = 5, 22
 
-    padX, padY = 52, 40
-    # panel hugs the actual text: width = widest line + padding (not a full-width band)
-    widest = max([d.textlength(l, font=fb) for l in L1] + ([d.textlength(l, font=fl) for l in L2] if L2 else [0]))
-    panelW = min(W - 48, int(widest) + 2 * padX)
-    bx0 = (W - panelW) // 2; bx1 = (W + panelW) // 2
-    box = (bx0, max(0, cy - padY), bx1, min(H, cy + blockH + padY))
-    # adaptive scrim: measure how bright the photo is behind the title; brighter -> stronger dark
-    # scrim so the white text stays readable on light photos (cherry blossom, beaches, sky, etc.)
-    mean = base.crop(box).convert("L").resize((1, 1)).getpixel((0, 0))  # average luminance 0-255
-    a = max(0.0, min(0.58, (mean - 70) / 150))
-    if busy: a = max(a, 0.46)
-    if dark: a = max(0.58, min(0.82, (mean - 20) / 150))   # stronger scrim for hard-to-read photos
-    elif pale: a = min(a, 0.26)                            # paler/lighter box
-    base = Image.alpha_composite(base, rrect_layer(box, (0, 0, 0, int(a * 255))))
-    base = Image.alpha_composite(base, rrect_layer(box, (242, 239, 234, 38)))   # subtle frosted tint on top
-    d = ImageDraw.Draw(base)
+    if light:
+        block_h = len(L2)*lh2 + acc_gap + acc_h + acc_gap + len(L1)*lh1
+    else:
+        block_h = len(L1)*lh1
 
-    # ---- text onto a foreground layer (for a soft shadow) ----
-    fg = Image.new("RGBA", (W, H), (0, 0, 0, 0)); fd = ImageDraw.Draw(fg)
-    y = cy
+    # 4. Szöveg pozíció a zóna szerint
+    if zone == "top":
+        block_bottom = int(H * 0.40)
+    elif zone == "middle":
+        block_bottom = int(H * 0.67)
+    else:
+        block_bottom = int(H * 0.91)
+    text_top = block_bottom - block_h
+
+    # 5. Adaptív szövegszín (fotó alapján, gradient ELŐTT mintavételezve)
+    col_bold, col_light = adaptive_text_color(raw_photo, text_top - 40)
+
+    # 6. Zóna-irányú gradient
+    base = zone_gradient(base, zone)
+
+    # 5. Halvány "légpárna" a szöveg mögé — alig látható, csak az olvashatóságért
+    #    Nem doboz, hanem sötét elliptikus enyhe folt a szöveg területén
+    pad_box = 30
+    box_top    = text_top - pad_box
+    box_bottom = int(H * 0.93)
+    box_left   = W // 2 - maxw // 2 - pad_box
+    box_right  = W // 2 + maxw // 2 + pad_box
+    overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(overlay).rounded_rectangle(
+        (box_left, box_top, box_right, box_bottom),
+        radius=18,
+        fill=(0, 0, 0, 90)   # ~35% opacity — olvasható de nem tolakodó
+    )
+    # Blur a széleken hogy ne legyen kemény vonal
+    overlay = overlay.filter(ImageFilter.GaussianBlur(12))
+    base = Image.alpha_composite(base, overlay)
+
+    # 6. Szöveg réteg
+    fg = Image.new("RGBA", (W, H), (0,0,0,0))
+    fd = ImageDraw.Draw(fg)
+    y = text_top
+
+    # Subtitle / hook (SWA: kis szöveg a főcím FELETT)
+    if light:
+        for ln in L2:
+            fd.text((W//2, y), ln, font=font(PLAYFAIR, t2, 400),
+                    fill=(*col_light, 220), anchor="ma")
+            y += lh2
+        # Terrakotta accent vonal
+        y += acc_gap
+        dw = min(110, int(maxw * 0.26))
+        ImageDraw.Draw(base).rectangle(
+            (W//2 - dw//2, y, W//2 + dw//2, y + acc_h),
+            fill=(*TERRA, 255))
+        y += acc_h + acc_gap
+
+    # Főcím — nagy, domináns
     for ln in L1:
-        fd.text((W//2, y), ln, font=fb, fill=WHITE, anchor="ma"); y += lh1
-    if accent:
-        dw = int(min(130, maxw * 0.32))
-        ImageDraw.Draw(base).rectangle((W//2 - dw//2, y + 16 - accentGap + 16, W//2 + dw//2, y + 16 - accentGap + 21), fill=TERRA)
-        y += accentGap
-    elif light:
-        y += gapMid
-    for ln in L2:
-        fd.text((W//2, y), ln, font=fl, fill=WHITE, anchor="ma"); y += lh2
-    # URL
-    fd.text((W//2, H - 96), "  ".join(url), font=font(INTER, 30, 500), fill=WHITE, anchor="ma")
+        fd.text((W//2, y), ln, font=font(PLAYFAIR, t1, 700),
+                fill=(*col_bold, 255), anchor="ma")
+        y += lh1
 
-    # soft shadow from fg alpha
-    sh = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    sh.putalpha(fg.split()[3].point(lambda a: int(a * 0.6)))
-    sh = sh.filter(ImageFilter.GaussianBlur(5))
-    base = Image.alpha_composite(base, sh)
+    # URL
+    fd.text((W//2, H - 48), "www.milesandflavors.com",
+            font=font(INTER, 24, 400), fill=(*col_light, 150), anchor="ma")
+
+    # Puha árnyék (csak ha a szöveg világos, azaz sötét fotón)
+    if col_bold == WHITE or col_bold == (249, 246, 241):
+        sh = Image.new("RGBA", (W, H), (0,0,0,0))
+        sh.putalpha(fg.split()[3].point(lambda a: int(a * 0.60)))
+        sh = sh.filter(ImageFilter.GaussianBlur(5))
+        base = Image.alpha_composite(base, sh)
+
     base = Image.alpha_composite(base, fg)
     return base.convert("RGB")
 
+
+def render_one(r, col):
+    url_val = r[col["URL"]]
+    slug = url_val.replace("https://milesandflavors.com/","").strip("/")
+    bold  = r[col["Pin bold (vastag)"]]
+    light = r[col["Pin light (vekony)"]]
+    pin_no = r[col["Pin #"]]
+
+    files = imgs_in(os.path.join(IMG_DIR, slug))
+    if not files:
+        cldir = os.path.join(IMG_DIR, cluster(slug))
+        sub = None
+        if os.path.isdir(cldir):
+            for name in sorted(os.listdir(cldir)):
+                sd = os.path.join(cldir, name)
+                if os.path.isdir(sd) and name.lower() in slug and imgs_in(sd):
+                    sub = sd; break
+        files = imgs_in(sub) if sub else imgs_in(cldir)
+
+    if not files:
+        print(f"  [SKIP] Nincs fotó: {slug}"); return None
+
+    start = (int(pin_no) - 1) % len(files)
+    photos = [load(files[start])]
+    img = render_hybrid_pin(bold, light, photos)
+    datum = r[col["Datum"]].strip() if "Datum" in col else ""
+    ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
+    if datum and ido:
+        fname = f"{datum}_{ido}_{slug}_pin{pin_no}.png"
+    else:
+        fname = f"{slug}_pin{pin_no}.png"
+    img.save(os.path.join(DONE, fname), "PNG")
+    print(f"  OK: {fname}")
+    return fname
+
+
 def main():
     only = sys.argv[1] if len(sys.argv) > 1 else None
+
     rows = list(csv.reader(open(PINS, encoding="utf-8-sig"), delimiter=";"))
     head = rows[0]; col = {name: i for i, name in enumerate(head)}
-    made, skipped, missing = 0, 0, {}
-    sched = []
-    OVR = os.path.join(ROOT, "_photo_overrides.json")
-    overrides = json.load(open(OVR, encoding="utf-8")) if os.path.exists(OVR) else {}
+    made = 0
+
     for r in rows[1:]:
-        url = r[col["URL"]]; slug = url.replace("https://milesandflavors.com/", "").strip("/")
-        if only and only != slug and only != cluster(slug): continue
-        template = r[col["Template"]]; need = int(r[col["Photos"]])
-        dark = template.endswith(" dark"); pale = template.endswith(" light")
-        template = template.replace(" dark", "").replace(" light", "")
-        bold = r[col["Pin bold (vastag)"]]; light = r[col["Pin light (vekony)"]]
-        pin_no = r[col["Pin #"]]; datum = r[col["Datum"]]; idop = r[col["Idopont"]]
-        board = r[col["Board"]]; pcim = r[col["Pin cim"]]; pdesc = r[col["Pin leiras"]]
-        # photo lookup: 1) per-article override  2) city sub-folder (name appears in slug)  3) cluster root pool
-        files = imgs_in(os.path.join(IMG_DIR, slug))
-        if not files:
-            cldir = os.path.join(IMG_DIR, cluster(slug))
-            sub = None
-            if os.path.isdir(cldir):
-                for name in sorted(os.listdir(cldir)):
-                    sd = os.path.join(cldir, name)
-                    if os.path.isdir(sd) and name.lower() in slug and imgs_in(sd):
-                        sub = sd; break
-            files = imgs_in(sub) if sub else imgs_in(cldir)
-        if len(files) == 0:
-            skipped += 1; missing[slug] = need; continue
-        # pick photos: per-pin override first, else rotate by pin number
-        start = (int(pin_no) - 1) % len(files)
-        okey = f"{slug}_pin{pin_no}"
-        if okey in overrides:
-            ov = os.path.join(IMG_DIR, slug, overrides[okey])
-            first = ov if os.path.exists(ov) else files[start]
-            chosen = [first] + [files[(start + k) % len(files)] for k in range(1, need)]
-        else:
-            chosen = [files[(start + k) % len(files)] for k in range(need)]
-        photos = [load(p) for p in chosen]
-        img = render_pin(template, bold, light, "www.milesandflavors.com", photos, dark=dark, pale=pale)
-        fname = f"{datum}_{idop.replace(':','-')}_{slug}_pin{pin_no}.png"
-        img.save(os.path.join(DONE, fname), "PNG")
-        sched.append([datum, idop, fname, board, pcim, pdesc, url])
-        made += 1
+        if not r or not r[col["URL"]].startswith("http"): continue
+        url_val = r[col["URL"]]
+        slug = url_val.replace("https://milesandflavors.com/","").strip("/")
+        if only and only not in slug and only != cluster(slug): continue
 
-    sched.sort(key=lambda x: (x[0], x[1]))
-    with open(os.path.join(DONE, "_scheduler.csv"), "w", encoding="utf-8-sig", newline="") as f:
-        w = csv.writer(f, delimiter=";")
-        w.writerow(["Datum", "Idopont", "Image file", "Board", "Pin cim", "Pin leiras", "URL"])
-        w.writerows(sched)
+        result = render_one(r, col)
+        if result: made += 1
 
-    print(f"Rendered: {made} pins  ->  {DONE}")
-    print(f"Skipped (no photos yet): {skipped}")
-    if missing and not only:
-        print(f"Article folders still needing photos: {len(missing)}")
-        for s, n in sorted(missing.items())[:15]:
-            print(f"   need {n}+ photo(s): input_images/{s}/")
+    print(f"\nElkészült: {made} pin  ->  {DONE}")
+
 
 if __name__ == "__main__":
     main()
