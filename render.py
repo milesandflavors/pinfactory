@@ -173,7 +173,27 @@ def adaptive_text_color(photo_rgb, text_zone_top):
         return (249, 246, 241), (230, 220, 210)
 
 
-def render_hybrid_pin(bold, light, photos):
+def parse_template(template):
+    """Template oszlopból kiolvasja a zóna override-ot és az overlay erősségét."""
+    t = template.lower()
+    if "top" in t:
+        zone_override = "top"
+    elif "bottom" in t:
+        zone_override = "bottom"
+    elif "center" in t or "centred" in t or "centered" in t:
+        zone_override = "middle"
+    else:
+        zone_override = None  # auto-detect (pl. "Accent")
+    if "dark" in t:
+        overlay_alpha = 140
+    elif "light" in t:
+        overlay_alpha = 45
+    else:
+        overlay_alpha = 90
+    return zone_override, overlay_alpha
+
+
+def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90):
     """
     Hybrid layout v3 — SWA stílus, M&F betűkkel + adaptív szín.
       - Teljes fotó, semmi doboz/sáv
@@ -187,8 +207,8 @@ def render_hybrid_pin(bold, light, photos):
     raw_photo = cover(photos[0], W, H)
     base.paste(raw_photo, (0, 0))
 
-    # 2. Legjobb szöveg zóna meghatározása képelemzéssel
-    zone = find_best_zone(raw_photo)
+    # 2. Szöveg zóna: ha van Template override, azt használjuk; különben auto-detect
+    zone = zone_override if zone_override else find_best_zone(raw_photo)
 
     # 3. Betűméretek — nagyobb subtitle mint korábban
     dummy = ImageDraw.Draw(Image.new("RGBA", (W, H)))
@@ -237,7 +257,7 @@ def render_hybrid_pin(bold, light, photos):
     ImageDraw.Draw(overlay).rounded_rectangle(
         (box_left, box_top, box_right, box_bottom),
         radius=18,
-        fill=(0, 0, 0, 90)   # ~35% opacity — olvasható de nem tolakodó
+        fill=(0, 0, 0, overlay_alpha)   # overlay erősség: Template dark/light/default
     )
     # Blur a széleken hogy ne legyen kemény vonal
     overlay = overlay.filter(ImageFilter.GaussianBlur(12))
@@ -304,9 +324,19 @@ def render_one(r, col):
     if not files:
         print(f"  [SKIP] Nincs fotó: {slug}"); return None
 
-    start = (int(pin_no) - 1) % len(files)
+    # Foto oszlop: ha van és érvényes szám, azt használja (1-alapú index)
+    foto_val = r[col["Foto"]].strip() if "Foto" in col else ""
+    if foto_val and foto_val.isdigit() and int(foto_val) > 0:
+        start = min(int(foto_val) - 1, len(files) - 1)
+    else:
+        start = (int(pin_no) - 1) % len(files)
+
+    # Template oszlop: zóna + overlay override
+    template = r[col["Template"]].strip() if "Template" in col else ""
+    zone_override, overlay_alpha = parse_template(template)
+
     photos = [load(files[start])]
-    img = render_hybrid_pin(bold, light, photos)
+    img = render_hybrid_pin(bold, light, photos, zone_override=zone_override, overlay_alpha=overlay_alpha)
     datum = r[col["Datum"]].strip() if "Datum" in col else ""
     ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
     if datum and ido:
