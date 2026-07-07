@@ -16,7 +16,7 @@ Használat:
   python render_hybrid.py best-things-to-do-in-london
 """
 import csv, os, sys, glob
-from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageStat
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageStat, ImageEnhance
 
 ROOT   = os.path.dirname(os.path.abspath(__file__))
 IMG_DIR = os.path.join(ROOT, "input_images")
@@ -186,14 +186,17 @@ def parse_template(template):
         zone_override = None  # auto-detect (pl. "Accent")
     if "dark" in t:
         overlay_alpha = 140
+        brightness = 1.0
     elif "light" in t:
         overlay_alpha = 45
+        brightness = 1.18
     else:
         overlay_alpha = 90
-    return zone_override, overlay_alpha
+        brightness = 1.0
+    return zone_override, overlay_alpha, brightness
 
 
-def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90):
+def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90, brightness=1.0):
     """
     Hybrid layout v3 — SWA stílus, M&F betűkkel + adaptív szín.
       - Teljes fotó, semmi doboz/sáv
@@ -205,6 +208,8 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90)
     # 1. Fotó háttér
     base = Image.new("RGBA", (W, H), (0,0,0,255))
     raw_photo = cover(photos[0], W, H)
+    if brightness != 1.0:
+        raw_photo = ImageEnhance.Brightness(raw_photo).enhance(brightness)
     base.paste(raw_photo, (0, 0))
 
     # 2. Szöveg zóna: ha van Template override, azt használjuk; különben auto-detect
@@ -333,10 +338,10 @@ def render_one(r, col):
 
     # Template oszlop: zóna + overlay override
     template = r[col["Template"]].strip() if "Template" in col else ""
-    zone_override, overlay_alpha = parse_template(template)
+    zone_override, overlay_alpha, brightness = parse_template(template)
 
     photos = [load(files[start])]
-    img = render_hybrid_pin(bold, light, photos, zone_override=zone_override, overlay_alpha=overlay_alpha)
+    img = render_hybrid_pin(bold, light, photos, zone_override=zone_override, overlay_alpha=overlay_alpha, brightness=brightness)
     datum = r[col["Datum"]].strip() if "Datum" in col else ""
     ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
     if datum and ido:
