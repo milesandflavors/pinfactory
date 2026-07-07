@@ -189,7 +189,7 @@ def parse_template(template):
         brightness = 1.0
     elif "light" in t:
         overlay_alpha = 45
-        brightness = 1.18
+        brightness = 1.10
     else:
         overlay_alpha = 90
         brightness = 1.0
