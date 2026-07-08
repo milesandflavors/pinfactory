@@ -73,7 +73,9 @@ def load(path):
 
 def imgs_in(d):
     if not d or not os.path.isdir(d): return []
-    return sorted([f for f in glob.glob(os.path.join(d,"*")) if f.lower().endswith(EXT)])
+    files = sorted([f for f in glob.glob(os.path.join(d,"*")) if f.lower().endswith(EXT)])
+    ezt = [f for f in files if os.path.basename(f).upper() == "EZT.JPG"]
+    return ezt + [f for f in files if f not in ezt] if ezt else files
 
 def _greedy(draw, words, fnt, limit):
     lines, ln = [], ""
@@ -136,9 +138,9 @@ def zone_gradient(base, zone):
     for y in range(H):
         t = y / (H - 1)
         if zone == "top":
-            if t < 0.12:   a = int(0.60 * 255)
-            elif t < 0.44: a = int((0.60 - (t-0.12)/0.32 * 0.52) * 255)
-            else:           a = int(0.08 * 255)
+            if t < 0.12:   a = int(0.42 * 255)
+            elif t < 0.44: a = int((0.42 - (t-0.12)/0.32 * 0.36) * 255)
+            else:           a = int(0.06 * 255)
         elif zone == "middle":
             dist = abs(t - 0.50)
             a = int((0.06 + dist * 0.88) * 255)
@@ -146,7 +148,7 @@ def zone_gradient(base, zone):
             if t < 0.45:   a = 0
             else:
                 frac = (t - 0.45) / 0.55
-                a = int((frac ** 1.6) * 0.72 * 255)
+                a = int((frac ** 1.6) * 0.52 * 255)
         pix.append(min(255, a))
     col = Image.new("L", (1, H)); col.putdata(pix)
     grad.putalpha(col.resize((W, H)))
@@ -185,16 +187,16 @@ def parse_template(template):
     else:
         zone_override = None  # auto-detect (pl. "Accent")
     if "dark" in t:
-        overlay_alpha = 140
+        overlay_alpha = 100
         brightness = 1.0
     elif "light" in t:
-        overlay_alpha = 45
+        overlay_alpha = 28
         brightness = 1.10
     elif "medium" in t:
-        overlay_alpha = 65
+        overlay_alpha = 50
         brightness = 1.0
     else:
-        overlay_alpha = 90
+        overlay_alpha = 55
         brightness = 1.0
     return zone_override, overlay_alpha, brightness
 
