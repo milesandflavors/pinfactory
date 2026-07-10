@@ -73,7 +73,8 @@ def load(path):
 
 def imgs_in(d):
     if not d or not os.path.isdir(d): return []
-    files = sorted([f for f in glob.glob(os.path.join(d,"*")) if f.lower().endswith(EXT)])
+    files = sorted([f for f in glob.glob(os.path.join(d,"*")) if f.lower().endswith(EXT)],
+                   key=os.path.getmtime, reverse=True)  # legfrissebb először
     ezt = [f for f in files if os.path.basename(f).upper() == "EZT.JPG"]
     return ezt + [f for f in files if f not in ezt] if ezt else files
 
@@ -339,7 +340,7 @@ def render_one(r, col):
     if foto_val and foto_val.isdigit() and int(foto_val) > 0:
         start = min(int(foto_val) - 1, len(files) - 1)
     else:
-        start = (int(pin_no) - 1) % len(files)
+        start = 0  # mindig a legfrissebb kép (imgs_in mtime szerint sortol)
 
     # Template oszlop: zóna + overlay override
     template = r[col["Template"]].strip() if "Template" in col else ""
