@@ -347,7 +347,7 @@ def render_one(r, col):
     zone_override, overlay_alpha, brightness = parse_template(template)
 
     photos = [load(files[start])]
-    img = render_hybrid_pin(bold, light, photos, zone_override=zone_override, overlay_alpha=overlay_alpha, brightness=brightness)
+    img = render_hybrid_pin(bold, light, photos, zone_override="bottom", overlay_alpha=overlay_alpha, brightness=brightness)
     datum = r[col["Datum"]].strip() if "Datum" in col else ""
     ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
     if datum and ido:
@@ -360,7 +360,25 @@ def render_one(r, col):
 
 
 def main():
-    only = sys.argv[1] if len(sys.argv) > 1 else None
+    import datetime
+    arg = sys.argv[1] if len(sys.argv) > 1 else None
+
+    # Ha az arg dátum formátumú (YYYY.MM.DD), csak azt a napot rendeli
+    # Ha slug/cluster, csak azokat rendeli
+    # Ha nincs arg, csak a mai napot rendeli
+    today_str = datetime.date.today().strftime("%Y.%m.%d")
+    date_filter = None
+    slug_filter = None
+
+    if arg:
+        import re
+        if re.match(r"^\d{4}\.\d{2}\.\d{2}$", arg):
+            date_filter = arg
+        else:
+            slug_filter = arg
+    else:
+        date_filter = today_str
+        print(f"  [INFO] Csak mai pinek: {date_filter}")
 
     rows = list(csv.reader(open(PINS, encoding="utf-8-sig"), delimiter=";"))
     head = rows[0]; col = {name: i for i, name in enumerate(head)}
@@ -370,7 +388,14 @@ def main():
         if not r or not r[col["URL"]].startswith("http"): continue
         url_val = r[col["URL"]]
         slug = url_val.replace("https://milesandflavors.com/","").strip("/")
-        if only and only not in slug and only != cluster(slug): continue
+
+        if date_filter:
+            row_date = r[col["Datum"]].strip() if "Datum" in col else ""
+            if row_date != date_filter:
+                continue
+        elif slug_filter:
+            if slug_filter not in slug and slug_filter != cluster(slug):
+                continue
 
         result = render_one(r, col)
         if result: made += 1
