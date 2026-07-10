@@ -283,7 +283,7 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     if light:
         for ln in L2:
             fd.text((W//2, y), ln, font=font(PLAYFAIR, t2, 400),
-                    fill=(*col_light, 220), anchor="ma")
+                    fill=(*WHITE, 245), anchor="ma")
             y += lh2
         # Terrakotta accent vonal
         y += acc_gap
@@ -306,7 +306,7 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     # Puha árnyék (csak ha a szöveg világos, azaz sötét fotón)
     if col_bold == WHITE or col_bold == (249, 246, 241):
         sh = Image.new("RGBA", (W, H), (0,0,0,0))
-        sh.putalpha(fg.split()[3].point(lambda a: int(a * 0.60)))
+        sh.putalpha(fg.split()[3].point(lambda a: int(a * 0.75)))
         sh = sh.filter(ImageFilter.GaussianBlur(5))
         base = Image.alpha_composite(base, sh)
 
@@ -347,7 +347,8 @@ def render_one(r, col):
     zone_override, overlay_alpha, brightness = parse_template(template)
 
     photos = [load(files[start])]
-    img = render_hybrid_pin(bold, light, photos, zone_override="bottom", overlay_alpha=overlay_alpha, brightness=brightness)
+    effective_zone = "middle" if zone_override == "middle" else "bottom"
+    img = render_hybrid_pin(bold, light, photos, zone_override=effective_zone, overlay_alpha=overlay_alpha, brightness=brightness)
     datum = r[col["Datum"]].strip() if "Datum" in col else ""
     ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
     if datum and ido:
