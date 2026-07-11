@@ -316,7 +316,7 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
 
 def render_one(r, col):
     url_val = r[col["URL"]]
-    slug = url_val.replace("https://milesandflavors.com/","").strip("/")
+    slug = url_val.replace("https://milesandflavors.com/","").split("#")[0].strip("/")
     bold  = r[col["Pin bold (vastag)"]]
     light = r[col["Pin light (vekony)"]]
     pin_no = r[col["Pin #"]]
@@ -388,7 +388,7 @@ def main():
     for r in rows[1:]:
         if not r or not r[col["URL"]].startswith("http"): continue
         url_val = r[col["URL"]]
-        slug = url_val.replace("https://milesandflavors.com/","").strip("/")
+        slug = url_val.replace("https://milesandflavors.com/","").split("#")[0].strip("/")
 
         if date_filter:
             row_date = r[col["Datum"]].strip() if "Datum" in col else ""
