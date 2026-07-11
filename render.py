@@ -204,7 +204,7 @@ def parse_template(template):
         overlay_alpha = 50
         brightness = 1.0
     else:
-        overlay_alpha = 82
+        overlay_alpha = 62
         brightness = 1.0
     return zone_override, overlay_alpha, brightness
 
