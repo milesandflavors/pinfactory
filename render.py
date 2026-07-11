@@ -71,10 +71,17 @@ def cover(im, w, h):
 def load(path):
     return Image.open(path).convert("RGB")
 
-def imgs_in(d):
+def imgs_in(d, prefer_suffix=None):
     if not d or not os.path.isdir(d): return []
     files = sorted([f for f in glob.glob(os.path.join(d,"*")) if f.lower().endswith(EXT)],
                    key=os.path.getmtime, reverse=True)  # legfrissebb először
+    # Pin-specifikus kép: pl. -2.jpg pin2-höz — ez megelőz mindent
+    if prefer_suffix:
+        preferred = [f for f in files
+                     if os.path.splitext(os.path.basename(f))[0].endswith(prefer_suffix)]
+        if preferred:
+            return preferred + [f for f in files if f not in preferred]
+    # EZT.jpg fallback (ha nincs pin-specifikus)
     ezt = [f for f in files if os.path.basename(f).upper() == "EZT.JPG"]
     return ezt + [f for f in files if f not in ezt] if ezt else files
 
@@ -146,10 +153,10 @@ def zone_gradient(base, zone):
             dist = abs(t - 0.50)
             a = int((0.06 + dist * 0.88) * 255)
         else:  # bottom
-            if t < 0.45:   a = 0
+            if t < 0.38:   a = 0
             else:
-                frac = (t - 0.45) / 0.55
-                a = int((frac ** 1.6) * 0.52 * 255)
+                frac = (t - 0.38) / 0.62
+                a = int((frac ** 1.3) * 0.65 * 255)
         pix.append(min(255, a))
     col = Image.new("L", (1, H)); col.putdata(pix)
     grad.putalpha(col.resize((W, H)))
@@ -197,7 +204,7 @@ def parse_template(template):
         overlay_alpha = 50
         brightness = 1.0
     else:
-        overlay_alpha = 55
+        overlay_alpha = 82
         brightness = 1.0
     return zone_override, overlay_alpha, brightness
 
@@ -282,8 +289,11 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     # Subtitle / hook (SWA: kis szöveg a főcím FELETT)
     if light:
         for ln in L2:
-            fd.text((W//2, y), ln, font=font(PLAYFAIR, t2, 400),
-                    fill=(*WHITE, 245), anchor="ma")
+            # Árnyék a subtitle mögé — extra kontrasztért mobil nézeten
+            fd.text((W//2 + 2, y + 2), ln, font=font(PLAYFAIR, t2, 500),
+                    fill=(0, 0, 0, 160), anchor="ma")
+            fd.text((W//2, y), ln, font=font(PLAYFAIR, t2, 500),
+                    fill=(*WHITE, 255), anchor="ma")
             y += lh2
         # Terrakotta accent vonal
         y += acc_gap
@@ -321,7 +331,8 @@ def render_one(r, col):
     light = r[col["Pin light (vekony)"]]
     pin_no = r[col["Pin #"]]
 
-    files = imgs_in(os.path.join(IMG_DIR, slug))
+    pin_suffix = f"-{pin_no}" if pin_no and str(pin_no).isdigit() and int(pin_no) > 0 else None
+    files = imgs_in(os.path.join(IMG_DIR, slug), prefer_suffix=pin_suffix)
     if not files:
         cldir = os.path.join(IMG_DIR, cluster(slug))
         sub = None
