@@ -358,7 +358,7 @@ def render_one(r, col):
     zone_override, overlay_alpha, brightness = parse_template(template)
 
     photos = [load(files[start])]
-    effective_zone = "middle" if zone_override == "middle" else "bottom"
+    effective_zone = zone_override if zone_override else "bottom"
     img = render_hybrid_pin(bold, light, photos, zone_override=effective_zone, overlay_alpha=overlay_alpha, brightness=brightness)
     datum = r[col["Datum"]].strip() if "Datum" in col else ""
     ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
