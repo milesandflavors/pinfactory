@@ -86,6 +86,7 @@ def fetch_recent_titles(max_pages=3, window_hours=6):
 
 
 def slug_of(url):
+    url = url.split("#")[0]  # strip anchor fragment before computing slug
     return url.replace("https://milesandflavors.com/", "").strip("/")
 
 
