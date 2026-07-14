@@ -346,10 +346,17 @@ def render_one(r, col):
     if not files:
         print(f"  [SKIP] Nincs fotó: {slug}"); return None
 
-    # Foto oszlop: ha van és érvényes szám, azt használja (1-alapú index)
+    # Foto oszlop: szám = 1-alapú index; fájlnév = adott kép; üres = legfrissebb
     foto_val = r[col["Foto"]].strip() if "Foto" in col else ""
     if foto_val and foto_val.isdigit() and int(foto_val) > 0:
         start = min(int(foto_val) - 1, len(files) - 1)
+    elif foto_val:
+        img_dir = os.path.join(IMG_DIR, slug)
+        named = os.path.join(img_dir, foto_val)
+        if os.path.isfile(named):
+            start = next((i for i, f in enumerate(files) if os.path.basename(f) == foto_val), 0)
+        else:
+            start = 0
     else:
         start = 0  # mindig a legfrissebb kép (imgs_in mtime szerint sortol)
 
