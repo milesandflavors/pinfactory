@@ -303,8 +303,10 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
             fill=(*TERRA, 255))
         y += acc_h + acc_gap
 
-    # Főcím — nagy, domináns
+    # Főcím — nagy, domináns (drop shadow + szöveg)
     for ln in L1:
+        fd.text((W//2 + 2, y + 2), ln, font=font(PLAYFAIR, t1, 700),
+                fill=(0, 0, 0, 175), anchor="ma")
         fd.text((W//2, y), ln, font=font(PLAYFAIR, t1, 700),
                 fill=(*col_bold, 255), anchor="ma")
         y += lh1
@@ -313,12 +315,11 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     fd.text((W//2, H - 48), "www.milesandflavors.com",
             font=font(INTER, 24, 400), fill=(*col_light, 150), anchor="ma")
 
-    # Puha árnyék (csak ha a szöveg világos, azaz sötét fotón)
-    if col_bold == WHITE or col_bold == (249, 246, 241):
-        sh = Image.new("RGBA", (W, H), (0,0,0,0))
-        sh.putalpha(fg.split()[3].point(lambda a: int(a * 0.75)))
-        sh = sh.filter(ImageFilter.GaussianBlur(5))
-        base = Image.alpha_composite(base, sh)
+    # Puha glowing árnyék az összes szöveg mögé (erősebb mint korábban)
+    sh = Image.new("RGBA", (W, H), (0,0,0,0))
+    sh.putalpha(fg.split()[3].point(lambda a: int(a * 0.90)))
+    sh = sh.filter(ImageFilter.GaussianBlur(8))
+    base = Image.alpha_composite(base, sh)
 
     base = Image.alpha_composite(base, fg)
     return base.convert("RGB")
