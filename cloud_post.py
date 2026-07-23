@@ -11,6 +11,15 @@ TZ = ZoneInfo("Europe/Budapest")
 API = "https://api.pinterest.com/v5"
 POSTED = os.path.join(ROOT, "posted.json")
 
+# Safety window: a "due but not logged as posted" row is only caught up if its
+# scheduled time is within this many hours of now. Without this, editing the
+# URL/slug of an already-posted row (which changes its posted.json key) makes
+# cloud_post.py think it was never posted and re-post it, however old the date --
+# this is exactly how two accidental duplicate posts happened (2026.07.09
+# millennium-park-cloud-gate-chicago pin1 posted 5 days late on 07.14, and
+# 2026.07.08 best-things-to-do-in-chicago pin1 posted 14 days late on 07.22).
+MAX_CATCHUP_HOURS = 48
+
 CID = os.environ["PINTEREST_CLIENT_ID"]
 CSECRET = os.environ["PINTEREST_CLIENT_SECRET"]
 REFRESH = os.environ["PINTEREST_REFRESH_TOKEN"]
@@ -115,6 +124,10 @@ def main():
         slug = slug_of(r[h["URL"]]); pin = r[h["Pin #"]]
         key = f"{r[h['Datum']]}_{slug}_pin{pin}"
         if dt > now or key in posted:
+            continue
+        stale_hours = (now - dt).total_seconds() / 3600
+        if stale_hours > MAX_CATCHUP_HOURS:
+            print(f"SKIP (stale {stale_hours/24:.1f}d, not logged under current slug -- check for a URL/slug edit): {key}")
             continue
         board_id = boards.get(r[h["Board"]].strip().lower())
         img = find_image(slug, pin)
