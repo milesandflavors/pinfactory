@@ -99,7 +99,15 @@ def slug_of(url):
     return url.replace("https://milesandflavors.com/", "").strip("/")
 
 
-def find_image(slug, pin_no):
+def find_image(slug, pin_no, datum):
+    # Scope by date first: the same slug+pin repeats across cycles (e.g. Pin1
+    # posted 07.08, then again 07.23), and a bare "*{slug}_pin{N}.png" glob
+    # would match every cycle's render with no guaranteed order -- glob.glob()
+    # is not sorted, so it can silently return an old cycle's stale image
+    # instead of the one actually due today.
+    dated = glob.glob(os.path.join(ROOT, "done", f"{datum}_*_{slug}_pin{pin_no}.png"))
+    if dated:
+        return sorted(dated, key=os.path.getmtime, reverse=True)[0]
     g = glob.glob(os.path.join(ROOT, "done", f"*{slug}_pin{pin_no}.png"))
     return g[0] if g else None
 
@@ -130,7 +138,7 @@ def main():
             print(f"SKIP (stale {stale_hours/24:.1f}d, not logged under current slug -- check for a URL/slug edit): {key}")
             continue
         board_id = boards.get(r[h["Board"]].strip().lower())
-        img = find_image(slug, pin)
+        img = find_image(slug, pin, r[h["Datum"]])
         if not board_id:
             print(f"SKIP (no board): {r[h['Board']]} | {r[h['Cikk']]}"); continue
         if not img:
