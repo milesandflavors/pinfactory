@@ -5,6 +5,9 @@ tokens.json
 # Raw source photos (large, not needed in the cloud — cloud posts the finished done/ images)
 input_images/
 
+# Local backup of already-posted pins (large, not needed in the cloud)
+done_archive/
+
 # Python junk
 __pycache__/
 *.pyc
