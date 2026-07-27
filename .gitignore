@@ -8,6 +8,11 @@ input_images/
 # Local backup of already-posted pins (large, not needed in the cloud)
 done_archive/
 
+# Video pins (large, posted manually — cloud_post.py has no video upload yet)
+done/*.mp4
+done/*.mov
+done/*.webm
+
 # Python junk
 __pycache__/
 *.pyc
