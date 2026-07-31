@@ -16,6 +16,7 @@ Használat:
   python render_hybrid.py best-things-to-do-in-london
 """
 import csv, os, sys, glob
+import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageStat, ImageEnhance
 
 ROOT   = os.path.dirname(os.path.abspath(__file__))
@@ -163,6 +164,62 @@ def zone_gradient(base, zone):
     return Image.alpha_composite(base, grad)
 
 
+def clutter_score(gray_arr, y0, y1):
+    """Edge energy per pixel in a horizontal band — high = busy (ornate detail,
+    faces, hard edges), low = calm (sky, water, uniform texture). Used so text
+    doesn't land on visual clutter just because a Template forces a zone."""
+    y0 = max(0, y0); y1 = min(gray_arr.shape[0], y1)
+    if y1 <= y0:
+        return 1e9
+    band = gray_arr[y0:y1, :].astype(np.int16)
+    gy = np.abs(np.diff(band, axis=0)).sum() if band.shape[0] > 1 else 0
+    gx = np.abs(np.diff(band, axis=1)).sum()
+    return (gy + gx) / (band.shape[0] * band.shape[1])
+
+
+def best_block_bottom(photo_rgb, zone, block_h, default_bottom, allow_escape=True):
+    """
+    Nudges the text block within its assigned zone toward the least busy spot.
+    If the WHOLE assigned zone is clearly worse than some other part of the
+    photo (e.g. Template says 'middle' but that's ornate architecture while
+    the top is calm sky), escape to the better spot instead of forcing it —
+    unless allow_escape=False (an explicit user placement choice for this pin).
+    """
+    gray = np.array(photo_rgb.convert("L"))
+    step = 20
+    zone_ranges = {
+        "top":    (int(H * 0.30), int(H * 0.52)),
+        "middle": (int(H * 0.56), int(H * 0.78)),
+        "bottom": (int(H * 0.78), int(H * 0.93)),
+    }
+    lo, hi = zone_ranges.get(zone, zone_ranges["bottom"])
+
+    def scan(lo, hi):
+        best, best_score = None, None
+        for bottom in range(lo, hi, step):
+            top = bottom - block_h
+            if top < 0:
+                continue
+            score = clutter_score(gray, top - 40, bottom + 20)
+            if best_score is None or score < best_score:
+                best_score, best = score, bottom
+        return best, best_score
+
+    zone_best, zone_score = scan(lo, hi)
+    if zone_best is None:
+        return default_bottom
+
+    if not allow_escape:
+        return zone_best
+
+    global_lo, global_hi = int(H * 0.18), int(H * 0.92)
+    global_best, global_score = scan(global_lo, global_hi)
+
+    if global_best is not None and global_score < zone_score * 0.6:
+        return global_best
+    return zone_best
+
+
 def adaptive_text_color(photo_rgb, text_zone_top):
     """
     Mintavételezi a fotót a szöveg zónájában (text_zone_top-tól aljáig),
@@ -209,7 +266,7 @@ def parse_template(template):
     return zone_override, overlay_alpha, brightness
 
 
-def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90, brightness=1.0):
+def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90, brightness=1.0, allow_escape=True):
     """
     Hybrid layout v3 — SWA stílus, M&F betűkkel + adaptív szín.
       - Teljes fotó, semmi doboz/sáv
@@ -249,13 +306,14 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     else:
         block_h = len(L1)*lh1
 
-    # 4. Szöveg pozíció a zóna szerint
+    # 4. Szöveg pozíció a zóna szerint, a zónán belül a legkevésbé zsúfolt sávra igazítva
     if zone == "top":
-        block_bottom = int(H * 0.40)
+        default_bottom = int(H * 0.40)
     elif zone == "middle":
-        block_bottom = int(H * 0.67)
+        default_bottom = int(H * 0.67)
     else:
-        block_bottom = int(H * 0.91)
+        default_bottom = int(H * 0.91)
+    block_bottom = best_block_bottom(raw_photo, zone, block_h, default_bottom, allow_escape=allow_escape)
     text_top = block_bottom - block_h
 
     # 5. Adaptív szövegszín (fotó alapján, gradient ELŐTT mintavételezve)
@@ -325,7 +383,7 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     return base.convert("RGB")
 
 
-def render_one(r, col):
+def render_one(r, col, allow_escape=True):
     url_val = r[col["URL"]]
     slug = url_val.replace("https://milesandflavors.com/","").split("#")[0].strip("/")
     bold  = r[col["Pin bold (vastag)"]]
@@ -367,7 +425,7 @@ def render_one(r, col):
 
     photos = [load(files[start])]
     effective_zone = zone_override if zone_override else "bottom"
-    img = render_hybrid_pin(bold, light, photos, zone_override=effective_zone, overlay_alpha=overlay_alpha, brightness=brightness)
+    img = render_hybrid_pin(bold, light, photos, zone_override=effective_zone, overlay_alpha=overlay_alpha, brightness=brightness, allow_escape=allow_escape)
     datum = r[col["Datum"]].strip() if "Datum" in col else ""
     ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
     if datum and ido:
