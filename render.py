@@ -280,6 +280,7 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     raw_photo = cover(photos[0], W, H)
     if brightness != 1.0:
         raw_photo = ImageEnhance.Brightness(raw_photo).enhance(brightness)
+    raw_photo = ImageEnhance.Color(raw_photo).enhance(1.18)  # vibrance boost (user-confirmed 2026-08-03)
     base.paste(raw_photo, (0, 0))
 
     # 2. Szöveg zóna: ha van Template override, azt használjuk; különben auto-detect
