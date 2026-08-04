@@ -255,8 +255,8 @@ def parse_template(template):
         overlay_alpha = 100
         brightness = 1.0
     elif "light" in t:
-        overlay_alpha = 28
-        brightness = 1.10
+        overlay_alpha = 40
+        brightness = 1.16
     elif "medium" in t:
         overlay_alpha = 50
         brightness = 1.0
@@ -280,7 +280,7 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     raw_photo = cover(photos[0], W, H)
     if brightness != 1.0:
         raw_photo = ImageEnhance.Brightness(raw_photo).enhance(brightness)
-    raw_photo = ImageEnhance.Color(raw_photo).enhance(1.18)  # vibrance boost (user-confirmed 2026-08-03)
+    raw_photo = ImageEnhance.Color(raw_photo).enhance(1.30)  # vibrance boost (increased 2026-08-04 per user feedback)
     base.paste(raw_photo, (0, 0))
 
     # 2. Szöveg zóna: ha van Template override, azt használjuk; különben auto-detect
@@ -349,8 +349,8 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     if light:
         for ln in L2:
             # Árnyék a subtitle mögé — extra kontrasztért mobil nézeten
-            fd.text((W//2 + 2, y + 2), ln, font=font(PLAYFAIR, t2, 500),
-                    fill=(0, 0, 0, 160), anchor="ma")
+            fd.text((W//2 + 3, y + 3), ln, font=font(PLAYFAIR, t2, 500),
+                    fill=(0, 0, 0, 200), anchor="ma")
             fd.text((W//2, y), ln, font=font(PLAYFAIR, t2, 500),
                     fill=(*WHITE, 255), anchor="ma")
             y += lh2
@@ -364,8 +364,8 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
 
     # Főcím — nagy, domináns (drop shadow + szöveg)
     for ln in L1:
-        fd.text((W//2 + 2, y + 2), ln, font=font(PLAYFAIR, t1, 700),
-                fill=(0, 0, 0, 175), anchor="ma")
+        fd.text((W//2 + 3, y + 3), ln, font=font(PLAYFAIR, t1, 700),
+                fill=(0, 0, 0, 215), anchor="ma")
         fd.text((W//2, y), ln, font=font(PLAYFAIR, t1, 700),
                 fill=(*col_bold, 255), anchor="ma")
         y += lh1
@@ -376,8 +376,8 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
 
     # Puha glowing árnyék az összes szöveg mögé (erősebb mint korábban)
     sh = Image.new("RGBA", (W, H), (0,0,0,0))
-    sh.putalpha(fg.split()[3].point(lambda a: int(a * 0.90)))
-    sh = sh.filter(ImageFilter.GaussianBlur(8))
+    sh.putalpha(fg.split()[3].point(lambda a: int(a * 1.0)))
+    sh = sh.filter(ImageFilter.GaussianBlur(11))
     base = Image.alpha_composite(base, sh)
 
     base = Image.alpha_composite(base, fg)
