@@ -3,7 +3,7 @@
 Refreshes the Pinterest access token from a long-lived refresh token (kept in GitHub Secrets),
 then posts every pin whose scheduled time (Europe/Budapest) has arrived and isn't posted yet.
 Dependency-free (urllib). Times in pins.csv are treated as Europe/Budapest local time."""
-import os, csv, json, base64, glob, urllib.request, urllib.parse, datetime
+import os, csv, json, base64, glob, urllib.request, urllib.parse, urllib.error, datetime
 from zoneinfo import ZoneInfo
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -160,6 +160,9 @@ def main():
             recent[tkey] = res.get("id")
             posted_count += 1
             print(f"POSTED {r[h['Idopont']]} {r[h['Cikk']][:34]} -> {res.get('id')}")
+        except urllib.error.HTTPError as e:
+            body = e.read().decode(errors="replace")
+            print(f"ERROR posting {key}: HTTP {e.code} {e.reason} | body={body}")
         except Exception as e:
             print(f"ERROR posting {key}: {e}")
 
