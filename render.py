@@ -324,20 +324,22 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     base = zone_gradient(base, zone)
 
     # 5. Halvány "légpárna" a szöveg mögé — alig látható, csak az olvashatóságért
-    #    Nem doboz, hanem sötét elliptikus enyhe folt a szöveg területén
-    pad_box = 30
-    box_top    = text_top - pad_box
-    box_bottom = int(H * 0.93)
-    box_left   = W // 2 - maxw // 2 - pad_box
-    box_right  = W // 2 + maxw // 2 + pad_box
-    overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(overlay).rounded_rectangle(
-        (box_left, box_top, box_right, box_bottom),
-        radius=18,
-        fill=(0, 0, 0, overlay_alpha)   # overlay erősség: Template dark/light/default
-    )
-    # Blur a széleken hogy ne legyen kemény vonal
-    overlay = overlay.filter(ImageFilter.GaussianBlur(12))
+    #    Valódi radiális (elliptikus) alfa-elhalványulás, NEM blur-özött doboz —
+    #    így nincs látható perem/árnyék-kontúr még egyenletes hátterű fotókon
+    #    (pl. tiszta ég) sem. (2026-08-06: box+blur helyett radial fade, user
+    #    jelezte hogy a régi verzió "shadow"-nak / doboznak látszott.)
+    cx = W // 2
+    cy = (text_top + int(H * 0.93)) // 2
+    rx = (maxw // 2) + 90
+    ry = ((int(H * 0.93) - text_top) // 2) + 90
+    yy, xx = np.mgrid[0:H, 0:W]
+    dist = np.sqrt(((xx - cx) / rx) ** 2 + ((yy - cy) / ry) ** 2)
+    # sima, kemény perem nélküli lecsengés: 1.0-ig teljes erő, utána cosine fade 1.0->1.6-ig, azon túl 0
+    fade = np.clip((1.6 - dist) / 0.6, 0, 1)
+    fade = fade * fade * (3 - 2 * fade)  # smoothstep
+    alpha = (fade * overlay_alpha).astype(np.uint8)
+    overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))  # fekete RGB, alfa alább
+    overlay.putalpha(Image.fromarray(alpha, mode="L"))
     base = Image.alpha_composite(base, overlay)
 
     # 6. Szöveg réteg
