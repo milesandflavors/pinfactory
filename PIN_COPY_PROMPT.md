@@ -60,6 +60,7 @@ Célozz pinenként **1 long-tail kulcsszó-kifejezést** (pl. "chicago riverwalk
 Az alt text 2026-ban már nem csak akadálymentesítés — a Pinterest AI ezzel **ellenőrzi, hogy a kép ténylegesen egyezik-e a szöveges kulcsszavakkal**. Amikor a fotó megvan:
 - Írd le **konkrétan, mit mutat a kép** (helyszín, mit csinál rajta valaki, napszak stb.), kulcsszavakkal, de leíró jelleggel — ne csak a pin címét másold be.
 - Ha a kép és a szöveg nem egyezik (pl. leírás "minimalist home office", de a képen kaotikus asztal látszik), a pin relevancia-pontszáma romlik. Ez azt is jelenti, hogy a **fotóválasztásnál** figyelni kell, hogy a kép vizuálisan tükrözze, amiről a pin cím/leírás szól.
+- **Az alt text idézze a pinen lévő (bold+light) szöveget is**, ne csak a fotót írja le — a képre rásütött szöveg pixel, amit se a screen reader, se a Pinterest képfelismerő AI nem lát másképp. Formátum: `"[fotó leírása]. Pin text overlay: '[bold] — [light]'."` (user kérése, 2026-08-06).
 
 ### Board-specifikusság
 A board neve maga is rangsorolási jel. Egy specifikus board (pl. "Chicago with Kids Itinerary") erősebb kontextust ad, mint egy általános ("Chicago Travel"). **Külön, később elvégzendő audit-feladat**: érdemes átnézni a jelenlegi board-listát, hogy elég specifikusak-e, mielőtt az új 18 cikk pinjeit szétosztjuk közöttük — ezt nem most csinálom, csak jelzem.
@@ -70,6 +71,10 @@ A Pinterest "Article Rich Pin" automatikusan behúzza a linkelt oldal meta title
 ### Amit NEM kell csinálni
 - **Hashtag-ek**: a rangsorolásban mára ~1%-os súlyuk van, nem kell erőltetni.
 - **Kulcsszó-halmozás / nem természetes leírás**: az algoritmus ezt bünteti — ez megerősíti a meglévő "soha pipe-lista" szabályt.
+
+## Város-egyértelműség szabály (2026-08-06)
+
+Minden pinen egyértelműen ki kell derülnie, MELYIK városról van szó — vagy a képből (felismerhető, ikonikus látvány), vagy a szövegből (cím/bold/light), de valahonnan mindig. Egy generikus, távoli felhőkarcoló-skyline (ami városok között könnyen összekeverhető) önmagában NEM elég. Kérdezd meg magadtól minden pinnél: "ha valaki csak a képet nézi, 1 másodperc alatt tudja-e, melyik város ez?" Ha nem egyértelmű: válassz ikonikusabb fotót, VAGY írd bele a városnevet a szövegbe.
 
 ## Önellenőrzés minden pin után
 - [ ] Cím ≤ 100 karakter, **fő kulcsszó legelöl**?
