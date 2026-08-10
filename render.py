@@ -372,9 +372,9 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
                 fill=(*col_bold, 255), anchor="ma")
         y += lh1
 
-    # URL
-    fd.text((W//2, H - 48), "www.milesandflavors.com",
-            font=font(INTER, 24, 400), fill=(*col_light, 150), anchor="ma")
+    # URL — kicsit látványosabb (user kérés, 2026-08-10): nagyobb, félkövérebb, kevésbé halvány
+    fd.text((W//2, H - 52), "www.milesandflavors.com",
+            font=font(INTER, 33, 600), fill=(*col_light, 205), anchor="ma")
 
     # Puha glowing árnyék az összes szöveg mögé (erősebb mint korábban)
     sh = Image.new("RGBA", (W, H), (0,0,0,0))
@@ -422,13 +422,15 @@ def render_one(r, col, allow_escape=True):
     else:
         start = 0  # mindig a legfrissebb kép (imgs_in mtime szerint sortol)
 
-    # Template oszlop: zóna + overlay override
+    # Template oszlop: CSAK az overlay erősségét/fényességét vesszük innen (light/dark/medium).
+    # A zóna (top/bottom/center) override-ot szándékosan NEM alkalmazzuk (user kérés, 2026-08-10) —
+    # helyette a find_best_zone() auto-detect dönt a tényleges fotó tartalma alapján, hogy a
+    # szöveg sose takarja ki a kép lényegét, függetlenül attól mit ír a CSV Template oszlopa.
     template = r[col["Template"]].strip() if "Template" in col else ""
-    zone_override, overlay_alpha, brightness = parse_template(template)
+    _, overlay_alpha, brightness = parse_template(template)
 
     photos = [load(files[start])]
-    effective_zone = zone_override if zone_override else "bottom"
-    img = render_hybrid_pin(bold, light, photos, zone_override=effective_zone, overlay_alpha=overlay_alpha, brightness=brightness, allow_escape=allow_escape)
+    img = render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=overlay_alpha, brightness=brightness, allow_escape=allow_escape)
     datum = r[col["Datum"]].strip() if "Datum" in col else ""
     ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
     if datum and ido:
