@@ -72,6 +72,10 @@ A Pinterest "Article Rich Pin" automatikusan behúzza a linkelt oldal meta title
 - **Hashtag-ek**: a rangsorolásban mára ~1%-os súlyuk van, nem kell erőltetni.
 - **Kulcsszó-halmozás / nem természetes leírás**: az algoritmus ezt bünteti — ez megerősíti a meglévő "soha pipe-lista" szabályt.
 
+## Még meg nem írt cikkekhez készülő pin — TILOS a "hamarosan jön" keret (2026-08-15)
+
+Ha egy pin olyan cikkhez készül, ami még nem létezik (de a pin-dátumig el fog készülni), a szöveg **soha ne utaljon rá, hogy a cikk még nincs kész** — tilos az "is coming", "coming soon", "a dedicated guide is coming", "save this for later" jellegű keret. A pin úgy íródjon, mintha a cikk már megvolna: normál marketingszöveg, csak a ténylegesen megerősített tényekre alapozva (ne találj ki konkrét számokat/árakat/időpontokat, amiket nem adtak meg). **Why:** egy "hamarosan jön" pin rossz marketingszöveg (nem sürget kattintásra, és ha a cikk időközben elkészül, a szöveg elavulttá válik anélkül, hogy bárki visszamenne frissíteni).
+
 ## Város-egyértelműség szabály (2026-08-06)
 
 Minden pinen egyértelműen ki kell derülnie, MELYIK városról van szó — vagy a képből (felismerhető, ikonikus látvány), vagy a szövegből (cím/bold/light), de valahonnan mindig. Egy generikus, távoli felhőkarcoló-skyline (ami városok között könnyen összekeverhető) önmagában NEM elég. Kérdezd meg magadtól minden pinnél: "ha valaki csak a képet nézi, 1 másodperc alatt tudja-e, melyik város ez?" Ha nem egyértelmű: válassz ikonikusabb fotót, VAGY írd bele a városnevet a szövegbe.
