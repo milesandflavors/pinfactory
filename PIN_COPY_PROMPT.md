@@ -76,6 +76,17 @@ A Pinterest "Article Rich Pin" automatikusan behúzza a linkelt oldal meta title
 
 Ha egy pin olyan cikkhez készül, ami még nem létezik (de a pin-dátumig el fog készülni), a szöveg **soha ne utaljon rá, hogy a cikk/terv még nincs kész** — se nyíltan ("is coming", "coming soon", "a dedicated guide is coming", "save this for later"), se burkoltan ("Our Planning-Stage Itinerary", "We're planning a trip around...", "the itinerary I'm working on"). A pin úgy íródjon, mintha a cikk már kész, magabiztos, végleges útmutató lenne: normál marketingszöveg, csak a ténylegesen megerősített tényekre alapozva (ne találj ki konkrét számokat/árakat/időpontokat, se hamis személyes élményt, amit nem éltünk át — pl. ha még nem jártunk ott karácsonykor, ne írjunk úgy, mintha jártunk volna). **Why:** mindkét keret ugyanazt a hibát követi el más szavakkal — felfedi a gyártási/tervezési folyamatot a végterméktartalom helyett, ami gyengíti a hitelességet, és Pinteresten az olvasó kész megoldást keres, nem egy készülő tervet (user visszajelzés, 2026-08-15).
 
+## "This guide…" túlhasználat — max. 25%-os korlát (2026-08-15)
+
+Egy user-audit szerint a leírások túl nagy hányada (73-ból 43, kb. 59%) kezdi vagy zárja "This guide covers..." / "This guide..." típusú mondattal — ez ismétlődővé, gépiessé teszi a batch-et. **Szabály: egy generálási körön belül a leírásoknak legfeljebb 25%-a használhatja a "This guide…" mondatkezdést/zárást.** A többinél más lezárást/összegzést kell írni — pl. konkrét, cselekvésre ösztönző mondatot a téma tartalmához igazítva. Példák (ihletadó minta, NE szó szerint másold be mindenhova):
+
+- "Compare the routes, prices and travel times before you land."
+- "Use this day-by-day route to avoid backtracking."
+- "Find the best neighborhood for your budget and travel style."
+- "Check the dates before booking your hotel."
+
+**Why:** a leírás záró mondata ugyanolyan variálandó elem, mint a hook-típus (lásd fent) — ha mindig ugyanaz a sablon zárja a szöveget, az rontja a Pinterest "fresh pin" egyediség-érzetét és a szöveg természetességét.
+
 ## Város-egyértelműség szabály (2026-08-06)
 
 Minden pinen egyértelműen ki kell derülnie, MELYIK városról van szó — vagy a képből (felismerhető, ikonikus látvány), vagy a szövegből (cím/bold/light), de valahonnan mindig. Egy generikus, távoli felhőkarcoló-skyline (ami városok között könnyen összekeverhető) önmagában NEM elég. Kérdezd meg magadtól minden pinnél: "ha valaki csak a képet nézi, 1 másodperc alatt tudja-e, melyik város ez?" Ha nem egyértelmű: válassz ikonikusabb fotót, VAGY írd bele a városnevet a szövegbe.
