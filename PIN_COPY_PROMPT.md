@@ -72,9 +72,9 @@ A Pinterest "Article Rich Pin" automatikusan behúzza a linkelt oldal meta title
 - **Hashtag-ek**: a rangsorolásban mára ~1%-os súlyuk van, nem kell erőltetni.
 - **Kulcsszó-halmozás / nem természetes leírás**: az algoritmus ezt bünteti — ez megerősíti a meglévő "soha pipe-lista" szabályt.
 
-## Még meg nem írt cikkekhez készülő pin — TILOS a "hamarosan jön" keret (2026-08-15)
+## Még meg nem írt cikkekhez készülő pin — TILOS a "hamarosan jön" ÉS a "még csak tervezzük" keret (2026-08-15)
 
-Ha egy pin olyan cikkhez készül, ami még nem létezik (de a pin-dátumig el fog készülni), a szöveg **soha ne utaljon rá, hogy a cikk még nincs kész** — tilos az "is coming", "coming soon", "a dedicated guide is coming", "save this for later" jellegű keret. A pin úgy íródjon, mintha a cikk már megvolna: normál marketingszöveg, csak a ténylegesen megerősített tényekre alapozva (ne találj ki konkrét számokat/árakat/időpontokat, amiket nem adtak meg). **Why:** egy "hamarosan jön" pin rossz marketingszöveg (nem sürget kattintásra, és ha a cikk időközben elkészül, a szöveg elavulttá válik anélkül, hogy bárki visszamenne frissíteni).
+Ha egy pin olyan cikkhez készül, ami még nem létezik (de a pin-dátumig el fog készülni), a szöveg **soha ne utaljon rá, hogy a cikk/terv még nincs kész** — se nyíltan ("is coming", "coming soon", "a dedicated guide is coming", "save this for later"), se burkoltan ("Our Planning-Stage Itinerary", "We're planning a trip around...", "the itinerary I'm working on"). A pin úgy íródjon, mintha a cikk már kész, magabiztos, végleges útmutató lenne: normál marketingszöveg, csak a ténylegesen megerősített tényekre alapozva (ne találj ki konkrét számokat/árakat/időpontokat, se hamis személyes élményt, amit nem éltünk át — pl. ha még nem jártunk ott karácsonykor, ne írjunk úgy, mintha jártunk volna). **Why:** mindkét keret ugyanazt a hibát követi el más szavakkal — felfedi a gyártási/tervezési folyamatot a végterméktartalom helyett, ami gyengíti a hitelességet, és Pinteresten az olvasó kész megoldást keres, nem egy készülő tervet (user visszajelzés, 2026-08-15).
 
 ## Város-egyértelműség szabály (2026-08-06)
 
