@@ -422,15 +422,15 @@ def render_one(r, col, allow_escape=True):
     else:
         start = 0  # mindig a legfrissebb kép (imgs_in mtime szerint sortol)
 
-    # Template oszlop: CSAK az overlay erősségét/fényességét vesszük innen (light/dark/medium).
-    # A zóna (top/bottom/center) override-ot szándékosan NEM alkalmazzuk (user kérés, 2026-08-10) —
-    # helyette a find_best_zone() auto-detect dönt a tényleges fotó tartalma alapján, hogy a
-    # szöveg sose takarja ki a kép lényegét, függetlenül attól mit ír a CSV Template oszlopa.
+    # Template oszlop: a zóna (top/bottom/center) override ÉS az overlay erősség/fényesség
+    # is innen jön. (2026-08-17: user kérés — visszaállítva, hogy a Template oszlop zóna-szava
+    # ténylegesen érvényesüljön; az aug.10-i "mindig auto-detect" szabály felülírva. Ha a
+    # Template oszlopban nincs zóna-szó (pl. csak "Accent"), továbbra is find_best_zone() dönt.)
     template = r[col["Template"]].strip() if "Template" in col else ""
-    _, overlay_alpha, brightness = parse_template(template)
+    zone_override, overlay_alpha, brightness = parse_template(template)
 
     photos = [load(files[start])]
-    img = render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=overlay_alpha, brightness=brightness, allow_escape=allow_escape)
+    img = render_hybrid_pin(bold, light, photos, zone_override=zone_override, overlay_alpha=overlay_alpha, brightness=brightness, allow_escape=allow_escape)
     datum = r[col["Datum"]].strip() if "Datum" in col else ""
     ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
     if datum and ido:
