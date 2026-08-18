@@ -190,7 +190,7 @@ def best_block_bottom(photo_rgb, zone, block_h, default_bottom, allow_escape=Tru
     zone_ranges = {
         "top":    (int(H * 0.30), int(H * 0.52)),
         "middle": (int(H * 0.56), int(H * 0.78)),
-        "bottom": (int(H * 0.78), int(H * 0.93)),
+        "bottom": (int(H * 0.82), int(H * 0.945)),  # 2026-08-18: pushed lower per user request
     }
     lo, hi = zone_ranges.get(zone, zone_ranges["bottom"])
 
@@ -316,7 +316,7 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     elif zone == "middle":
         default_bottom = int(H * 0.67)
     else:
-        default_bottom = int(H * 0.91)
+        default_bottom = int(H * 0.945)  # 2026-08-18: pushed lower (was 0.91) per user request
     block_bottom = best_block_bottom(raw_photo, zone, block_h, default_bottom, allow_escape=allow_escape)
     text_top = block_bottom - block_h
 
