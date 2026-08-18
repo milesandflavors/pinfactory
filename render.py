@@ -251,18 +251,21 @@ def parse_template(template):
         zone_override = "middle"
     else:
         zone_override = None  # auto-detect (pl. "Accent")
+    # 2026-08-18 user kérés: a fotó ne tűnjön "sötétítettnek" — a szöveg olvashatóságát
+    # az árnyék/glow (lásd render_hybrid_pin) vigye, ne egy erős fekete scrim. Minden
+    # preset most brightness>=1.0-t kap (a "dark" is), az overlay_alpha-k lejjebb vitték.
     if "dark" in t:
-        overlay_alpha = 100
-        brightness = 1.0
+        overlay_alpha = 68
+        brightness = 1.10
     elif "light" in t:
-        overlay_alpha = 40
-        brightness = 1.16
+        overlay_alpha = 38
+        brightness = 1.18
     elif "medium" in t:
-        overlay_alpha = 50
-        brightness = 1.0
+        overlay_alpha = 46
+        brightness = 1.08
     else:
-        overlay_alpha = 62
-        brightness = 1.0
+        overlay_alpha = 50
+        brightness = 1.08
     return zone_override, overlay_alpha, brightness
 
 
@@ -280,7 +283,7 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     raw_photo = cover(photos[0], W, H)
     if brightness != 1.0:
         raw_photo = ImageEnhance.Brightness(raw_photo).enhance(brightness)
-    raw_photo = ImageEnhance.Color(raw_photo).enhance(1.30)  # vibrance boost (increased 2026-08-04 per user feedback)
+    raw_photo = ImageEnhance.Color(raw_photo).enhance(1.38)  # vibrance boost (2026-08-04: 1.30; 2026-08-18: 1.38, user wants "élénkítő" not "sötétítő" filter)
     base.paste(raw_photo, (0, 0))
 
     # 2. Szöveg zóna: ha van Template override, azt használjuk; különben auto-detect
