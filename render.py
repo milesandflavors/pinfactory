@@ -286,16 +286,16 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     # 2. Szöveg zóna: ha van Template override, azt használjuk; különben auto-detect
     zone = zone_override if zone_override else find_best_zone(raw_photo)
 
-    # 3. Betűméretek — nagyobb subtitle mint korábban
+    # 3. Betűméretek — 2026-08-18 user kérésre feljebb véve, jobb olvashatóságért
     dummy = ImageDraw.Draw(Image.new("RGBA", (W, H)))
     maxw = W - 100
-    t1, t2 = 112, 62          # t2 volt 50 → most 62 (nagyobb subtitle)
+    t1, t2 = 126, 70          # 112->126 bold, 62->70 subtitle
     while True:
         fb = font(PLAYFAIR, t1, 700)
         fl = font(PLAYFAIR, t2, 400)
         L1 = wrap(dummy, bold, fb, maxw)
         L2 = wrap(dummy, light, fl, maxw) if light else []
-        if (len(L1) <= 3 and len(L2) <= 2) or t1 <= 58:
+        if (len(L1) <= 3 and len(L2) <= 2) or t1 <= 64:
             break
         t1 = int(t1 * 0.92); t2 = int(t2 * 0.92)
 
@@ -350,9 +350,9 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     # Subtitle / hook (SWA: kis szöveg a főcím FELETT)
     if light:
         for ln in L2:
-            # Árnyék a subtitle mögé — extra kontrasztért mobil nézeten
-            fd.text((W//2 + 3, y + 3), ln, font=font(PLAYFAIR, t2, 500),
-                    fill=(0, 0, 0, 200), anchor="ma")
+            # Árnyék a subtitle mögé — erősítve 2026-08-18 (user kérés: jobb olvashatóság)
+            fd.text((W//2 + 4, y + 4), ln, font=font(PLAYFAIR, t2, 500),
+                    fill=(0, 0, 0, 235), anchor="ma")
             fd.text((W//2, y), ln, font=font(PLAYFAIR, t2, 500),
                     fill=(*WHITE, 255), anchor="ma")
             y += lh2
@@ -364,10 +364,10 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
             fill=(*TERRA, 255))
         y += acc_h + acc_gap
 
-    # Főcím — nagy, domináns (drop shadow + szöveg)
+    # Főcím — nagy, domináns (drop shadow + szöveg) — árnyék erősítve 2026-08-18
     for ln in L1:
-        fd.text((W//2 + 3, y + 3), ln, font=font(PLAYFAIR, t1, 700),
-                fill=(0, 0, 0, 215), anchor="ma")
+        fd.text((W//2 + 4, y + 4), ln, font=font(PLAYFAIR, t1, 700),
+                fill=(0, 0, 0, 235), anchor="ma")
         fd.text((W//2, y), ln, font=font(PLAYFAIR, t1, 700),
                 fill=(*col_bold, 255), anchor="ma")
         y += lh1
@@ -376,10 +376,10 @@ def render_hybrid_pin(bold, light, photos, zone_override=None, overlay_alpha=90,
     fd.text((W//2, H - 52), "www.milesandflavors.com",
             font=font(INTER, 33, 600), fill=(*col_light, 205), anchor="ma")
 
-    # Puha glowing árnyék az összes szöveg mögé (erősebb mint korábban)
+    # Puha glowing árnyék az összes szöveg mögé (erősítve 2026-08-18, user kérés)
     sh = Image.new("RGBA", (W, H), (0,0,0,0))
     sh.putalpha(fg.split()[3].point(lambda a: int(a * 1.0)))
-    sh = sh.filter(ImageFilter.GaussianBlur(11))
+    sh = sh.filter(ImageFilter.GaussianBlur(15))
     base = Image.alpha_composite(base, sh)
 
     base = Image.alpha_composite(base, fg)
