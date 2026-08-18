@@ -428,9 +428,13 @@ def render_one(r, col, allow_escape=True):
     # Template oszlopban nincs zóna-szó (pl. csak "Accent"), továbbra is find_best_zone() dönt.)
     template = r[col["Template"]].strip() if "Template" in col else ""
     zone_override, overlay_alpha, brightness = parse_template(template)
+    # An explicit zone word in the Template column is a deliberate placement choice —
+    # don't let best_block_bottom() escape it, even if some other part of the photo
+    # scores as "calmer". No zone word (pure auto-detect) keeps the escape behavior.
+    escape_for_this = allow_escape if zone_override is None else False
 
     photos = [load(files[start])]
-    img = render_hybrid_pin(bold, light, photos, zone_override=zone_override, overlay_alpha=overlay_alpha, brightness=brightness, allow_escape=allow_escape)
+    img = render_hybrid_pin(bold, light, photos, zone_override=zone_override, overlay_alpha=overlay_alpha, brightness=brightness, allow_escape=escape_for_this)
     datum = r[col["Datum"]].strip() if "Datum" in col else ""
     ido   = r[col["Idopont"]].strip().replace(":", "-") if "Idopont" in col else ""
     if datum and ido:
