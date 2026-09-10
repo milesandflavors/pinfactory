@@ -21,3 +21,17 @@ __pycache__/
 _sort/
 *_preview.png
 _contact.png
+
+# Scratch/working exports (2026-09-10: accidentally swept into a commit via `git add -A` — never repo material)
+all_meta.json
+all_used_slugs.txt
+never_used_meta.json
+never_used_slugs.txt
+examples_out.txt
+remaining21.txt
+intros.json
+pins_export.xlsx
+pinterest_calendar_artifact.html
+infographic_pack_extracted/
+infographic_source_pack/
+infographic_source_pack.zip
