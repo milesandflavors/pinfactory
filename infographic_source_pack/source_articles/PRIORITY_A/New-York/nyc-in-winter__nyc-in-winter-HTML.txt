@@ -1,0 +1,218 @@
+<!-- wp:image {"id":2757,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/nyc-winter-street-steam.jpg" alt="Steam rising from a New York City street grate on a cold winter day with pedestrians bundled up" class="wp-image-2757"/><figcaption class="wp-element-caption">NYC in winter: steam grates, real cold, and a season most first-timers plan for wrong.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Winter in New York City isn't one season — it's three different trips depending on which weeks you land in. December is the tree, the windows, the crowds, and prices to match. January and February are the actual cold, with real snow chances, thinner crowds, and some of the cheapest hotel rates of the year. Most first-timers plan for the December version and get surprised by the other two.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here's what actually changes across a New York winter, and which stretch fits the trip you're trying to take.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#weather">Weather in NYC in Winter — What to Pack</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#which-part">December vs. January vs. February</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#events">Events Worth Planning Around</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#hotels">Hotel Prices and Crowds</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#practical-tips">Practical Tips</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-from-nyc">More from NYC</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> NYC winter runs roughly 43°F average in December down to around 34°F in January, the coldest month, before climbing slightly to about 36°F in February. December means holiday crowds and peak hotel prices; January and February are colder but noticeably cheaper and quieter, with events like NYC Winter Jazzfest (January 8-13, 2026) and NYC Restaurant Week (January 20 – February 12, 2026) filling the gap between the holidays and spring. Pack real layers and waterproof boots regardless of which weeks you pick — slush is more of a daily reality than snow itself.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-plan-winter">How I'd plan a winter trip to NYC</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>First move: decide whether the trip is actually about Christmas, or just about New York in the cold. If it's the tree and the windows, that's a December trip and I'd book early. If it's genuinely just "I want to see NYC and don't mind the cold," January or February saves real money and gives you a much calmer city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the specific things worth building a January or February day around — a Bronx train show, a Polar Bear Plunge, a quiet museum morning — see the <a href="/nyc-winter-bucket-list/">NYC Winter Bucket List</a>. This page is the planning overview; that one is the actual to-do list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a genuinely cheaper, quieter version of New York and don't need the holiday decorations to make the trip worth it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> January sits right after the holiday price peak, before spring demand builds back up — one of the better value windows of the entire year.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you want guaranteed mild weather — January averages around 34°F and a real cold snap or snowstorm is genuinely possible.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you book:</strong> check NYC Restaurant Week's exact dates if trying specific restaurants is part of the plan — reservations open ahead and fill fast at popular spots.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weather">Weather in NYC in Winter — What to Pack</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NWS climate normals put NYC's December average high around 50°F with lows near 35°F (mean about 43°F). January is the coldest month, with highs closer to 40°F and lows around 28°F (mean roughly 34°F). February recovers slightly, with highs near 42°F and lows around 29°F (mean about 36°F).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Snow happens most winters but isn't guaranteed on any given week, and the bigger daily annoyance is usually slush from melted snow and salted sidewalks, not the snow itself. Pack real waterproof boots, wool socks, a proper winter coat rather than a fashion jacket, and gloves you can actually type on a phone with — you'll need them more than you expect standing on subway platforms.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="which-part">December vs. January vs. February</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>December is the version most people picture: the Rockefeller tree, the Fifth Avenue windows, and genuinely festive energy — but also the highest hotel prices and the thickest Midtown crowds of the year. For that specific version, see <a href="/nyc-at-christmas/">NYC at Christmas</a> and <a href="/nyc-christmas-itinerary/">the day-by-day plan</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>January is the sharpest contrast: the tree comes down, the crowds thin out fast, and prices drop noticeably in the first two weeks of the month. It's also genuinely the coldest stretch, so the trade-off is real. February splits the difference — still cold, but creeping toward spring, with Valentine's Day adding a small bump in restaurant demand around the 14th.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="events">Events Worth Planning Around</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong><a href="https://winterjazzfest.com/" rel="nofollow noopener noreferrer" target="_blank">NYC Winter Jazzfest</a></strong> (January 8-13, 2026) — venues across Manhattan and Brooklyn, with single-night "marathon" passes covering multiple stages in one evening.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><a href="https://www.nycgo.com/restaurant-week" rel="nofollow noopener noreferrer" target="_blank">NYC Restaurant Week (Winter)</a></strong> (January 20 – February 12, 2026) — prix-fixe menus at restaurants that are normally pricier or harder to book, with reservations opening about two weeks ahead.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>The Coney Island Polar Bear Plunge</strong> (January 1st) — see the <a href="/nyc-winter-bucket-list/">Winter Bucket List</a> for the full details on joining or just watching.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Valentine's Day</strong> (February 14) — a genuine bump in restaurant demand citywide; book well ahead if a specific dinner reservation matters to the trip.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hotels">Hotel Prices and Crowds</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>December, especially the two weeks around Christmas, is peak pricing and peak crowds — Midtown in particular gets genuinely difficult to move through some afternoons. January flips that completely: the first three weeks especially are some of the cheapest hotel dates of the entire year, with noticeably thinner crowds at museums, observation decks, and restaurants.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>February sits in between — still well below December pricing, with a small, predictable bump around Valentine's Day weekend specifically.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Decide your season first:</strong> December for the holiday version, January or February for the cheaper, quieter version — the trip changes a lot depending on which.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Pack for slush, not just cold:</strong> waterproof boots matter more than a heavier coat most days.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book Restaurant Week reservations early:</strong> the popular spots fill their slots within days of booking opening.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Layer for indoor heat:</strong> subway platforms are cold but train cars and most buildings run genuinely warm — a coat you can easily carry matters as much as one that keeps you warm outside.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay:</strong> the <a href="/where-to-stay-in-nyc/">where to stay in NYC guide</a> covers neighborhoods, though winter pricing specifically rewards booking the first half of January if flexible.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-nyc">More from NYC</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For the specific things worth doing once you're here, see the <a href="/nyc-winter-bucket-list/">NYC Winter Bucket List</a>. For the holiday-specific version of the season, <a href="/nyc-at-christmas/">NYC at Christmas</a> and <a href="/nyc-christmas-itinerary/">the day-by-day itinerary</a> cover the December window in full.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is winter a good time to visit NYC?</summary><!-- wp:paragraph -->
+<p>It depends what you want. December is festive but crowded and expensive. January and February are colder but genuinely cheaper and quieter, with real events like Winter Jazzfest and Restaurant Week filling the calendar.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the coldest month in NYC?</summary><!-- wp:paragraph -->
+<p>January, with an average high around 40°F and lows near 28°F. February is slightly milder, and December is the mildest of the three winter months.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is January a cheaper time to visit NYC than December?</summary><!-- wp:paragraph -->
+<p>Yes, significantly. The first three weeks of January in particular are among the cheapest hotel dates of the year, right after the holiday price peak and before spring demand builds.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"Is winter a good time to visit NYC?","acceptedAnswer":{"@type":"Answer","text":"It depends what you want. December is festive but crowded and expensive. January and February are colder but genuinely cheaper and quieter, with real events like Winter Jazzfest and Restaurant Week filling the calendar."}},
+    {"@type":"Question","name":"What is the coldest month in NYC?","acceptedAnswer":{"@type":"Answer","text":"January, with an average high around 40F and lows near 28F. February is slightly milder, and December is the mildest of the three winter months."}},
+    {"@type":"Question","name":"Is January a cheaper time to visit NYC than December?","acceptedAnswer":{"@type":"Answer","text":"Yes, significantly. The first three weeks of January in particular are among the cheapest hotel dates of the year, right after the holiday price peak and before spring demand builds."}}
+  ]
+}
+</script>
+<!-- /wp:html -->

@@ -1,0 +1,292 @@
+<!-- wp:image {"id":2291,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/IMG_8901-4-edited-scaled.jpg" alt="Casa Batllo facade on Passeig de Gracia in Barcelona" class="wp-image-2291"/><figcaption class="wp-element-caption">Casa Batlló</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Between Aragó and Consell de Cent, Passeig de Gràcia has a single city block where three architects competed to build the most extraordinary thing imaginable — in tile, stone, and ironwork — within a few years of each other. Antoni Gaudí's Casa Batlló wins that argument. But the Block of Discord is the starting point, La Pedrera is five minutes up the same street, and if you have a full day, the complete Gaudí trail goes further than most first-timers realize.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:rank-math/toc-block {"title":"In this article","headings":[{"key":"ee605202-8372-4f23-9780-e464f8b9ddee","content":"Lili's Picks","level":2,"disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"f72b0ef7-7c31-4d0c-8cc9-16e5281c1692","content":"This is what I'd book","level":3,"disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"041d5372-ad71-4638-a899-d80a5897002c","content":"The Block of Discord: Your Starting Point","level":2,"disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"286f0158-d264-4e65-a5b3-4d8f02d22f22","content":"Casa Batlló: What to Expect Inside","level":2,"disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"24236abd-7a62-44a7-97a4-b390195db24d","content":"La Pedrera (Casa Milà): The Rooftop","level":2,"disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"32e21342-f463-40b2-be94-97ea5e837fe6","content":"The Complete Gaudí Trail","level":2,"disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"c0972ea5-4f50-496e-a7a5-1353404ed95e","content":"Palau Güell","level":3,"disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"ac3b9948-68fd-4000-8b66-191f3c151444","content":"Casa Vicens","level":3,"disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"c6e6c6fa-f513-48b4-bf28-d74541a8f499","content":"Sagrada Família \u0026 Park Güell","level":3,"link":"#sagrada-familia-park-guell","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"6cea9373-03f2-481d-a33c-1257dc1ff474","content":"How to Plan Your Day","level":2,"link":"#planning-your-day","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"442dcc1f-eb04-41de-8e1a-697a7fd564b8","content":"Practical Information","level":2,"link":"#practical-information","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"c7e8783f-31ba-456d-84c0-501779361a8c","content":"Final Thoughts","level":2,"link":"#final-thoughts","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"146a1d3b-6553-448b-b405-ae7c4f827c4f","content":"More from Barcelona","level":2,"link":"#more-from-barcelona","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"e7d13810-5178-434a-8139-d0ee19e13f2b","content":"Frequently Asked Questions","level":2,"link":"#faq","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><h2>In this article</h2><nav><ul><li class=""><a href="#lilis-picks">Lili's Picks</a><ul><li class=""><a href="#this-is-what-id-book">This is what I'd book</a></li></ul></li><li class=""><a href="#the-block-of-discord">The Block of Discord: Your Starting Point</a></li><li class=""><a href="#casa-batllo">Casa Batlló: What to Expect Inside</a></li><li class=""><a href="#la-pedrera">La Pedrera (Casa Milà): The Rooftop</a></li><li class=""><a href="#complete-gaudi-trail">The Complete Gaudí Trail</a><ul><li class=""><a href="#palau-guell">Palau Güell</a></li><li class=""><a href="#casa-vicens">Casa Vicens</a></li><li class=""><a href="#sagrada-familia-park-guell">Sagrada Família &amp; Park Güell</a></li></ul></li><li class=""><a href="#planning-your-day">How to Plan Your Day</a></li><li class=""><a href="#practical-information">Practical Information</a></li><li class=""><a href="#final-thoughts">Final Thoughts</a></li><li class=""><a href="#more-from-barcelona">More from Barcelona</a></li><li class=""><a href="#faq">Frequently Asked Questions</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Yes, Casa Batlló is worth going inside — it's the most theatrical of the Gaudí buildings and genuinely unlike anything else you'll visit in the city. Reserve your ticket once your Barcelona dates are firm, choose the General Visit unless you specifically want an early-entry, night, exhibition, or guided experience, and pair it with La Pedrera the same afternoon. The exterior of the Block of Discord is free and worth 20 minutes on the pavement first.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice"} -->
+<p class="affiliate-notice"><em><strong>Affiliate disclosure:</strong> Some links in this post are affiliate links. If you book through them, I may earn a small commission at no extra cost to you. I only recommend things I would genuinely consider for the same trip. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="this-is-what-id-book">This is what I'd book</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For a full Gaudí day, I'd book the <a href="https://www.viator.com/tours/Barcelona/The-Complete-Gaudi-Tour-with-Casa-Batllo-La-Pedrera-Park-Guell-and-Extended-Sagrada-Familia/d562-15693P56?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=casa-batllo-gaudi-trail" rel="sponsored noopener noreferrer" target="_blank">Complete Gaudí Tour on Viator</a> — Casa Batlló, La Pedrera, Park Güell and Sagrada Família as one coherent architecture day instead of four separate ticket decisions. No upfront payment on eligible bookings, <strong>free cancellation up to 24 hours before</strong> — no money at risk either way.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you'd rather skip the Sagrada Família marathon and stay on Passeig de Gràcia, the <a href="https://www.viator.com/tours/Barcelona/Barcelona-Gaudi-Houses-Tour-with-Admission-to-Casa-Vicens-and-Casa-Mila/d562-243885P9?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=casa-batllo-gaudi-trail" rel="sponsored noopener noreferrer" target="_blank">Gaudí Houses Tour on Viator</a> is the cleaner fit — Casa Vicens, La Pedrera and Casa Batlló in one route, which shows the evolution of Gaudí's style without turning it into a full-day logistics challenge. <strong>Free cancellation up to 24 hours before</strong> on eligible bookings.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="the-block-of-discord">The Block of Discord: Your Starting Point</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Manzana de la Discordia — Block of Discord — is a single city block on Passeig de Gràcia where three of Barcelona's greatest Modernista architects built competing masterpieces within a few years of each other. The name comes from Greek mythology: the golden apple left by the goddess of discord, presented to "the most beautiful." Barcelonians still argue about which building wins.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Casa Lleó Morera</strong> (no. 35) by Lluís Domènech i Montaner is the most restrained of the three — organic floral stonework, elaborate stained glass, and the least-visited of the block. The upper facades are the point; the ground floor is usually occupied by a luxury brand. <strong>Casa Amatller</strong> (no. 41) by Josep Puig i Cadafalch is inspired by Dutch gabled architecture — a stepped triangular roofline in ceramic tile that reads as completely at home on a Barcelona street. The entrance hall is free to enter, and the chocolate-themed café inside is worth a stop. <strong>Casa Batlló</strong> (no. 43) by Antoni Gaudí is the reason most people are on this block — and the one you go inside.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The exterior of all three costs nothing and takes about 20 minutes to appreciate properly. Stand far back enough to see the full facades, then walk slowly past each one. The Block of Discord is one of the most concentrated stretches of architectural ambition in any European city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="casa-batllo">Casa Batlló: What to Expect Inside</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The facade stops people mid-stride. Blue and green ceramic scales, balconies shaped like bone, a roofline that reads as a dragon's back depending on the light — Gaudí converted a plain apartment building between 1904 and 1906 into something that still looks like nothing else built before or since. The inside completes the argument.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The General Visit is built around an audioguide and augmented reality tablet, which help overlay context onto what you're seeing — period furniture, the original Batlló family, what the stained glass looked like when it was installed. The main living floor (the "Beletage") shows Gaudí's obsession with organic form: not a right angle in sight, the ceiling undulating like a wave, light from the central courtyard filtered through a gradient of blue ceramic tiles that shifts from deep navy at the top to pale sky-blue at street level. The effect is being underwater without the water. The rooftop — dragon-scale ceramic terraces, the warrior chimneys, 360-degree views over Eixample — is the final stop. Budget 1–1.5 hours for the full visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The immersive experience here — projections, spatial audio, theatrical lighting — is genuinely impressive rather than gimmicky. If you're going inside one Gaudí building on your Barcelona trip, make it this one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Ticket</th><th>Price (adult)</th><th>What's included</th></tr></thead><tbody><tr><td>General Visit</td><td>From €29</td><td>Audioguide, augmented reality tablet, main interior route and rooftop</td></tr><tr><td>General Visit + Exhibition</td><td>From €39</td><td>General Visit plus the current temporary exhibition</td></tr><tr><td>Morning Visit "Be the First"</td><td>€45</td><td>Early 8:30 AM access with fewer visitors</td></tr><tr><td>Night Visit</td><td>From €25</td><td>Evening visit with nighttime lighting; check whether the rooftop is included for your ticket</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>Children ages 0–12 enter free with an accompanying adult, but they still need to be included in the booking. Dynamic pricing applies, and online advance tickets can be cheaper than buying at the door. The General Visit is the right call for most visitors; upgrade only if you specifically want the exhibition, early access, or an evening atmosphere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2292,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/raimond-klavins-ZRD6h4Svlk4-unsplash-1024x683.jpg" alt="Casa Batllo rooftop with ceramic dragon scales and chimneys in Barcelona" class="wp-image-2292"/><figcaption class="wp-element-caption">The Casa Batlló rooftop — dragon scales in ceramic tile, warrior chimneys, and the Eixample grid stretching in every direction.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="la-pedrera">La Pedrera (Casa Milà): The Rooftop</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Five minutes up Passeig de Gràcia from Casa Batlló, La Pedrera — officially Casa Milà — is the other essential Gaudí building on this street. Built between 1906 and 1912, it's externally more austere: rippling limestone facade, wrought-iron balconies like tangled seaweed, no color. The argument for going inside is the rooftop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The warrior chimneys are the image everyone has seen — twisted, helmeted, grouped like sentinels — but they're more impressive in person than in any photograph. From up here, you have 360-degree views across the Eixample and the Sagrada Família in the middle distance. The afternoon light up there was genuinely beautiful. The apartment floor below, a beautifully reconstructed early 20th-century interior, is worth the extra 20 minutes before you head up.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> from €25 for the Essential visit. <strong>Time needed:</strong> 1.5 hours. Choose an afternoon slot if rooftop light matters to you, and check the current ticket options before you lock in the day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="complete-gaudi-trail">The Complete Gaudí Trail</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Block of Discord covers the Passeig de Gràcia chapter of Gaudí's Barcelona. The full trail reaches further into the city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="palau-guell">Palau Güell</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Gaudí's first major commission, built for his patron Eusebi Güell between 1886 and 1890. It sits one block off Las Ramblas, which means most visitors walk past it without knowing it's there. The rooftop is notable — parabolic arches, mosaic-covered chimneys, a central dome visible from the street. A quieter and markedly less crowded Gaudí experience than either Passeig de Gràcia building. <strong>Price:</strong> usually around €15, but check the current official rate before you go. <strong>Time needed:</strong> about 2 hours. Opening days can vary, so verify the schedule before planning your route around it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="casa-vicens">Casa Vicens</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Gaudí's first significant work (1883–1885), in the Gràcia neighborhood — a 20-minute walk from Passeig de Gràcia or a short metro ride. The facade is Moorish-influenced: geometric tile patterns in green and ochre, palm-leaf ironwork, nothing that looks like any other Gaudí building. Not many first-time visitors make it here, which means the experience is markedly calmer than the main sites. Worth adding if the architecture genuinely interests you. <strong>Price:</strong> generally from about €20, depending on ticket type. <strong>Getting there:</strong> Metro L3 to Fontana, 5-minute walk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="sagrada-familia-park-guell">Sagrada Família &amp; Park Güell</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Both have their own dedicated guides on this blog. Sagrada Família is the anchor of any Barcelona trip — sort it as your first timed-entry decision before anything else on this list. Park Güell works well as a morning before an afternoon on Passeig de Gràcia. Both require advance booking and both reward the time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2294,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/amira-el-fohail-a7AR4MlrJ7w-unsplash-1024x680.jpg" alt="La Pedrera rooftop warrior chimneys in Barcelona" class="wp-image-2294"/><figcaption class="wp-element-caption">La Pedrera's warrior chimneys in afternoon light — one of the best photography spots in Barcelona, and well worth the visit after Casa Batlló.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="planning-your-day">How to Plan Your Day</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you're doing Passeig de Gràcia in a day: <strong>morning for Casa Batlló</strong> — choose the 9:00 AM or 10:00 AM slot for smaller crowds and better light inside. Then walk the Block of Discord exterior and step into Casa Amatller's entrance hall. Lunch in Eixample, then <strong>La Pedrera in the late afternoon</strong>, specifically for the rooftop light. That's a full, satisfying day and leaves the evening for the neighborhood itself, which has some of the best restaurants in the city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you want Palau Güell: do it as a morning opener before Passeig de Gràcia, since it's near Las Ramblas and a natural starting point. Casa Vicens works best as a standalone morning in Gràcia — don't try to combine it with a heavy Passeig de Gràcia day unless you're specifically chasing the complete architectural trail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-information">Practical Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Attraction</th><th>Price</th><th>Time needed</th><th>Note</th></tr></thead><tbody><tr><td>Casa Batlló</td><td>From €29</td><td>1–1.5 hours</td><td>General Visit; children ages 0–12 free with an adult</td></tr><tr><td>La Pedrera</td><td>From €25</td><td>1.5 hours</td><td>Late afternoon for best rooftop light</td></tr><tr><td>Palau Güell</td><td>Around €15</td><td>About 2 hours</td><td>Verify current opening days before planning around it</td></tr><tr><td>Casa Vicens</td><td>From about €20</td><td>1–1.5 hours</td><td>Metro L3 Fontana; quieter than main sites</td></tr><tr><td>Block of Discord exterior</td><td>Free</td><td>20 minutes</td><td>Worth doing before entering Casa Batlló</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p><strong>Getting there:</strong> Metro L2/L3/L4 to Passeig de Gràcia for Casa Batlló and La Pedrera. Metro L3 Fontana for Casa Vicens. Metro L3 Liceu or Drassanes for Palau Güell.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Reserve ahead:</strong> Casa Batlló, La Pedrera and Sagrada Família are the timed-entry pieces I would sort first, especially for spring, summer and holiday dates. Palau Güell and Casa Vicens are usually easier to fit in later, but still check the current opening days and ticket options before building your route around them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="final-thoughts">Final Thoughts</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Block of Discord is the kind of place that works on you slowly. The first time I walked past Casa Batlló I thought I understood it from photographs. Then I stood on the pavement long enough to watch the ceramic facade change color as a cloud moved across the sun, and realized I hadn't understood it at all. Going inside makes that feeling sharper rather than resolving it — Gaudí was solving problems that architecture hadn't thought to ask yet, and the buildings feel like evidence of that a century later. Start with the exterior, spend the time inside, and finish the afternoon on La Pedrera's rooftop with the light going golden over the Eixample grid.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-barcelona">More from Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Gaudí buildings are the headline, but Barcelona rewards the full week. Our <a href="https://milesandflavors.com/best-things-to-do-in-barcelona/" rel="noopener noreferrer">Barcelona bucket list</a> covers everything worth doing in the city — from the Gothic Quarter to Barceloneta — with honest takes on what earns the time and what doesn't.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Planning the day-by-day? The <a href="https://milesandflavors.com/4-days-in-barcelona-itinerary/" rel="noopener noreferrer">4-day Barcelona itinerary</a> places the Gaudí buildings on Day 1 alongside Passeig de Gràcia, with the Gothic Quarter, Barceloneta and Montserrat filling the rest — and Sagrada Família as the first thing you book before anything else.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Already have Sagrada Família sorted? Our <a href="https://milesandflavors.com/sagrada-familia-skip-the-line/" rel="noopener noreferrer">Sagrada Família guide</a> covers every ticket tier, the best time of day for the interior light, and which towers are worth climbing. Heading to Park Güell on the same trip? The <a href="https://milesandflavors.com/park-guell-sagrada-familia-barcelona/" rel="noopener noreferrer">Park Güell guide</a> covers the free zones and paid sections, with tips for avoiding the midday crowds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Keeping costs down? The <a href="https://milesandflavors.com/free-things-to-do-in-barcelona/" rel="noopener noreferrer">Barcelona free things guide</a> covers the Block of Discord exterior, the Gothic Quarter, Barceloneta beach and more — everything Barcelona offers before you spend a euro on tickets.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Casa Batlló worth going inside?</summary><!-- wp:paragraph -->
+<p>Yes — it's the most theatrical of the Gaudí buildings to visit and genuinely unlike anything else in the city. The immersive experience inside, with an audioguide, augmented reality layer, projections and spatial audio, makes the visit feel more like art installation than museum. The exterior alone is worth 20 minutes on the pavement, but the interior is what earns the ticket price. If you're going inside one Gaudí building on your Barcelona trip, make it this one.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What's the difference between Casa Batlló and La Pedrera?</summary><!-- wp:paragraph -->
+<p>Casa Batlló is the more theatrical inside — immersive technology, dramatic spatial effects, the famous blue-tiled interior courtyard. La Pedrera's strongest argument is its rooftop: the warrior chimneys and 360-degree views in afternoon light are extraordinary. Both are worth visiting if you have a full day on Passeig de Gràcia. If you can only do one, Casa Batlló is the more singular experience.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How long should I spend at Casa Batlló?</summary><!-- wp:paragraph -->
+<p>Budget 1–1.5 hours for a thorough visit with the audioguide and augmented reality layer. If you want time to sit with the rooftop terrace and the views, allow closer to 2 hours. The building doesn't reward rushing — the interior effects are designed to be experienced slowly.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Do I need to book Casa Batlló tickets in advance?</summary><!-- wp:paragraph -->
+<p>Yes — especially in spring, summer and holiday periods, the most convenient time slots can disappear first. Compare the official Casa Batlló website with Viator if you want a bundled tour or flexible booking terms. Online advance tickets can be cheaper than buying at the door, depending on date and ticket type. Children ages 0–12 enter free with an accompanying adult, but still need to be included in the booking.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the Block of Discord in Barcelona?</summary><!-- wp:paragraph -->
+<p>The Block of Discord (Manzana de la Discordia) is a city block on Passeig de Gràcia between Aragó and Consell de Cent, where three Catalan Modernista architects built competing buildings around the turn of the 20th century: Casa Lleó Morera (Domènech i Montaner), Casa Amatller (Puig i Cadafalch), and Casa Batlló (Gaudí). The name references the Greek myth of the golden apple of discord — Barcelonians debated which building was the most beautiful. Casa Batlló itself is part of the UNESCO-listed Works of Antoni Gaudí; the wider block is worth seeing because it places Gaudí beside two other major Modernista architects.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Is Casa Batlló worth going inside?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — it's the most theatrical of the Gaudí buildings to visit and genuinely unlike anything else in the city. The immersive experience inside, with an audioguide, augmented reality layer, projections and spatial audio, makes the visit feel more like art installation than museum. The exterior alone is worth 20 minutes on the pavement, but the interior is what earns the ticket price. If you're going inside one Gaudí building on your Barcelona trip, make it this one."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What's the difference between Casa Batlló and La Pedrera?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Casa Batlló is the more theatrical inside — immersive technology, dramatic spatial effects, the famous blue-tiled interior courtyard. La Pedrera's strongest argument is its rooftop: the warrior chimneys and 360-degree views in afternoon light are extraordinary. Both are worth visiting if you have a full day on Passeig de Gràcia. If you can only do one, Casa Batlló is the more singular experience."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long should I spend at Casa Batlló?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Budget 1–1.5 hours for a thorough visit with the audioguide and augmented reality layer. If you want time on the rooftop terrace, allow closer to 2 hours. The building doesn't reward rushing — the interior effects are designed to be experienced slowly."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Do I need to book Casa Batlló tickets in advance?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — especially in spring, summer and holiday periods, the most convenient time slots can disappear first. Compare the official Casa Batlló website with Viator if you want a bundled tour or flexible booking terms. Online advance tickets can be cheaper than buying at the door, depending on date and ticket type. Children ages 0–12 enter free with an accompanying adult, but still need to be included in the booking."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the Block of Discord in Barcelona?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Block of Discord (Manzana de la Discordia) is a city block on Passeig de Gràcia between Aragó and Consell de Cent, where three Catalan Modernista architects built competing buildings: Casa Lleó Morera (Domènech i Montaner), Casa Amatller (Puig i Cadafalch), and Casa Batlló (Gaudí). Casa Batlló itself is part of the UNESCO-listed Works of Antoni Gaudí; the wider block is worth seeing because it places Gaudí beside two other major Modernista architects."
+            }
+        }
+    ]
+}
+</script>
+<!-- /wp:html -->

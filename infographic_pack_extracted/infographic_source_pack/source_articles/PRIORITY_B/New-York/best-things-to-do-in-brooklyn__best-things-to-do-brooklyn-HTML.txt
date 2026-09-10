@@ -1,0 +1,277 @@
+﻿<!-- wp:paragraph -->
+<p>Brooklyn used to be the side trip you squeezed in between Manhattan's main events. It isn't anymore. For a lot of first-time visitors to New York, Brooklyn is the part of the trip that actually stays with them — the skyline view from the waterfront at golden hour, the cobblestoned streets of DUMBO, the food markets, the neighborhoods that still feel like people actually live there rather than places that exist to be photographed. It deserves at least a full half-day, and if you give it a whole day, you won't regret it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"affiliate-notice"} -->
+<p class="affiliate-notice"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I would consider booking myself or believe are genuinely useful for planning this trip. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2213,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/ben-wicks-m1aQUadEVi4-unsplash-706x1024.jpg" alt="Manhattan Bridge framed by DUMBO brick buildings on Washington Street in Brooklyn" class="wp-image-2213"/><figcaption class="wp-element-caption">DUMBO's Washington Street is one of the most precisely composed urban views in New York — the bridge, the Empire State Building, and the cobblestones all in one frame.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-summary">Quick Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Best time to visit</strong></td><td>April–June or September–October for the best weather; Smorgasburg usually runs from spring through fall, but check current dates and locations before planning around it</td></tr><tr><td><strong>How much time</strong></td><td>Half a day minimum; full day to add Williamsburg or the Brooklyn Museum</td></tr><tr><td><strong>Getting there</strong></td><td>Walk across the Brooklyn Bridge from Manhattan, or subway to High St–Brooklyn Bridge (A/C) or York St (F)</td></tr><tr><td><strong>Don't miss</strong></td><td>Brooklyn Bridge Park at golden hour — the Manhattan skyline from this side is the best free view in New York</td></tr><tr><td><strong>Best for</strong></td><td>First-timers, couples, food lovers, anyone who wants New York beyond the obvious</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="contents">Contents</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="#quick-summary">Quick Summary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's picks: the tour and hotel I'd book</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#best-things-to-do">Best things to do in Brooklyn</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently asked questions</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#more-nyc">More New York City guides</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="lilis-picks" class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Lili's picks for Brooklyn</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Brooklyn does two things particularly well: skyline views and food. Here's what I'd make sure to have sorted before showing up.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The tour I'd book</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If it's your first time in Brooklyn and you don't know where to eat, a guided food tour solves that neatly — and this one covers the ground and the food in the same route, so you're not choosing between sightseeing and eating. The DUMBO and Brooklyn Bridge views are built into the route, not treated as an afterthought. Best if you want the food, skyline, and local context handled in one easy afternoon. Before booking, check the current food stops, group size, duration, meeting point, and cancellation terms. <a href="https://www.viator.com/tours/Brooklyn/Local-Flavors-of-Brooklyn-Small-Group-Walking-Tour/d22371-5403LOCAL?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=brooklyn-best-things-to-do" target="_blank" rel="sponsored noopener noreferrer">Local Flavors of Brooklyn Food Tour on Viator →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div data-vi-partner-id="P00300034" data-vi-widget-ref="W-f32459e6-37e9-48a4-94ed-75ad598bc7a4"></div>
+<script async src="https://www.viator.com/orion/partner/widget.js"></script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong>Where I'd stay</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you want the Brooklyn atmosphere from day one — real neighborhood streets, quick L train access to Manhattan, rooftop bars within walking distance — Pod Brooklyn in Williamsburg is the practical pick. Compact rooms, usually better value than comparable Manhattan stays, and you are based on the right side of the river for everything on this list. Best if you want Williamsburg energy without giving up easy Manhattan access. Before booking, compare the exact room size, total price, cancellation terms, and recent guest feedback for your dates. <strong>This is where I'd stay.</strong> <a href="https://www.booking.com/hotel/us/pod-brooklyn.html" target="_blank" rel="nofollow noopener noreferrer">Pod Brooklyn on Booking.com →</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-things-to-do">Best Things to Do in Brooklyn</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="1-brooklyn-bridge-walk">1. Walk the Brooklyn Bridge (from Manhattan)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Start on the Manhattan side and walk east — you'll face DUMBO and the Brooklyn skyline the entire way, which is exactly the right direction for everything that follows. It's free, it takes 20–30 minutes at an easy pace, and it's one of those experiences that actually holds up to its reputation. Go early if you can: by mid-morning the pedestrian walkway fills up enough to feel rushed rather than worth lingering over. Go at 7am and you might have whole stretches of it to yourself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Early morning for thin crowds and good light | <strong>Time needed:</strong> 30–45 minutes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="2-dumbo">2. DUMBO and the Washington Street Photo Spot</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DUMBO (Down Under the Manhattan Bridge Overpass) is the cobblestoned neighborhood you land in at the end of the bridge walk, and it deserves a proper look rather than a quick pass-through. Walk to Washington Street: the view down the block frames the Manhattan Bridge arch between old red-brick warehouse buildings, with the Empire State Building lined up perfectly in the gap in the distance. It's one of the most precisely composed urban views in New York — the kind of thing that looks almost too good to be real. In the afternoon it comes with a short queue of photographers. On a weekday morning, you might get it entirely to yourself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Weekday mornings to get the shot without waiting | <strong>Time needed:</strong> 20–30 minutes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="3-brooklyn-bridge-park">3. Brooklyn Bridge Park</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the payoff for the bridge walk — and it earns it. Brooklyn Bridge Park runs along the waterfront and gives you a straight-on view of the Manhattan skyline that's genuinely better than most of the paid observation decks in the city. The best moment is golden hour, when the buildings across the river start catching the light and you're standing on the grass watching it happen for free. Jane's Carousel sits under the bridge at the park's edge; the piers stretch out over the water; the lawns invite you to slow down. Don't rush through this one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free (Jane's Carousel has a small ride fee) | <strong>Best time:</strong> Sunset | <strong>Time needed:</strong> 1–2 hours</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2214,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/jake-blucker-exFLoeWPiNI-unsplash-1024x683.jpg" alt="Manhattan skyline seen from Brooklyn Bridge Park at golden hour" class="wp-image-2214"/><figcaption class="wp-element-caption">Brooklyn Bridge Park at golden hour — the best free view of the Manhattan skyline anywhere in the city, and one of the best places to slow down.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="4-food-tour">4. Take a Brooklyn Food Walking Tour</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Brooklyn's food reputation is real — but it's spread across a lot of neighborhoods, and knowing where to go without a guide takes more research than most trips have time for. The Brooklyn Bridge &amp; DUMBO food tour solves that: you get the iconic views and the eating in the same route, with a local who can tell the difference between the places worth the line and the ones that are just famous for being famous. Three hours, small group, and you leave knowing exactly where to come back to eat for the rest of the trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Time needed:</strong> About 3 hours | <strong>Best if:</strong> You want Brooklyn Bridge, DUMBO, and food stops in one guided route | <a href="https://www.viator.com/tours/Brooklyn/Local-Flavors-of-Brooklyn-Small-Group-Walking-Tour/d22371-5403LOCAL?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=brooklyn-best-things-to-do" target="_blank" rel="sponsored noopener noreferrer">Compare the Brooklyn food tour on Viator →</a> and check current pricing, inclusions, meeting point, group size, cancellation terms, and recent reviews before choosing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="5-guided-walking-tour">5. Or a Guided Brooklyn Bridge &amp; DUMBO Walking Tour</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you'd rather have the history than the food, this covers the same ground with a guide who can explain what you're actually looking at — why the Brooklyn Bridge was controversial when it was built, what DUMBO looked like before the galleries and tech companies moved in, what you'd have seen standing on this waterfront a hundred years ago. The context changes how you walk through the neighborhood afterward, and that tends to last longer than most souvenirs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Time needed:</strong> About 2 hours | <strong>Best if:</strong> You want the bridge, DUMBO, and skyline context without planning the route yourself | <a href="https://www.viator.com/tours/New-York-City/Brooklyn-Bridge-DUMBO-and-Waterfront-Guided-Tour/d687-122012P21?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=brooklyn-best-things-to-do" target="_blank" rel="sponsored noopener noreferrer">Compare the Brooklyn Bridge and DUMBO walking tour on Viator →</a> and check current pricing, route, meeting point, cancellation terms, and recent reviews before choosing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="6-smorgasburg">6. Smorgasburg (Seasonal)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Smorgasburg runs weekends from spring through fall and is, by most accounts, the largest open-air food market in the US. Dozens of vendors, no cover charge, and it's as much about being there — the crowd, the smell, the improvised lunch on the grass — as it is about any single thing you eat. Go hungry, go earlier than you think you need to, and check the current location and dates before you plan around it. It moves between venues, and the off-season version isn't the same experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free entry (pay per vendor) | <strong>Best time:</strong> Weekend, arrive early | <strong>Time needed:</strong> 1–2 hours</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2215,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/brett-wharton-seeRRL0R1L8-unsplash-1024x683.jpg" alt="Williamsburg waterfront in Brooklyn with the Manhattan skyline across the East River" class="wp-image-2215"/><figcaption class="wp-element-caption">Williamsburg gives you a different angle on the Manhattan skyline and a different energy to the day — worth the L train ride if you have a full afternoon.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="7-williamsburg">7. Williamsburg</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you have a full day, Williamsburg earns the extra hour. The waterfront gives you a completely different angle on the Manhattan skyline — you're looking at it from the north end of Brooklyn rather than the DUMBO approach, and the light hits differently in the afternoon. Beyond the views: Bedford Avenue has some of the best vintage shopping in New York, the rooftop bars are genuinely good, and the whole neighborhood has an energy that's younger and more lived-in than the tourist-facing parts of the bridge corridor. From Manhattan, take the L train to Bedford Avenue — it's the first stop in Brooklyn, about 5 minutes from 14th Street. If you're already in DUMBO, the most straightforward route is the A or C back to Manhattan and then the L across; about 25–30 minutes total.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free to explore | <strong>Best time:</strong> Afternoon into evening | <strong>Time needed:</strong> 2–3 hours</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="8-brooklyn-museum">8. Brooklyn Museum</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Brooklyn Museum gets overlooked because it isn't in Manhattan and doesn't carry the same name recognition as the Met or MoMA. That's exactly what makes it worth visiting. It's one of the largest art museums in the country, with a feminist art collection that's genuinely world-class — the Elizabeth A. Sackler Center is one of the few places in the US where you can see this work given the space and seriousness it deserves — and none of the crowds you'll fight at the Midtown institutions. This one deserves its own visit, not a rushed 30 minutes at the end of a walking day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Best for:</strong> Anyone who wants a serious museum without building the whole day around a Manhattan institution | <strong>Skip if:</strong> You have a packed walking day already — give it its own afternoon and it pays back properly. Check current admission details before you go.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="worth-visiting">Is Brooklyn worth visiting on a first trip to New York?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — even a half-day gives you the Brooklyn Bridge walk, DUMBO, and the best free skyline view of Manhattan you'll find anywhere in the city. It connects naturally with a Lower Manhattan day since the bridge links the two. More practically: Brooklyn shows you a version of New York that feels like people actually live there, which is a useful counterpoint to Midtown.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-much-time-brooklyn">How much time should I spend in Brooklyn?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Half a day covers the Brooklyn Bridge, DUMBO, and Brooklyn Bridge Park comfortably. A full day lets you add Williamsburg, Smorgasburg in season, or the Brooklyn Museum — each of those deserves its own time rather than being squeezed in at the end of an already full morning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="best-way-to-get-to-brooklyn">What's the best way to get to Brooklyn from Manhattan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Walking across the Brooklyn Bridge is the most scenic option and takes 20–30 minutes — it puts you straight into DUMBO, which is where most of this list starts. The subway (A or C to High St–Brooklyn Bridge, or F to York St) is the better option if the weather is bad or you're short on time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Is Brooklyn worth visiting on a first trip to New York?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — even a half-day gives you the Brooklyn Bridge walk, DUMBO, and the best free skyline view of Manhattan you'll find anywhere in the city. It connects naturally with a Lower Manhattan day since the bridge links the two."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How much time should I spend in Brooklyn?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Half a day covers the Brooklyn Bridge, DUMBO, and Brooklyn Bridge Park comfortably. A full day lets you add Williamsburg, Smorgasburg in season, or the Brooklyn Museum."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the best way to get to Brooklyn from Manhattan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Walking across the Brooklyn Bridge is the most scenic option and takes 20 to 30 minutes, putting you straight into DUMBO. The subway (A or C to High St–Brooklyn Bridge, or F to York St) is better in bad weather or when time is short."
+            }
+        }
+    ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-nyc">More New York City Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/25-best-things-to-do-in-nyc/">25 Best Things to Do in NYC</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/5-day-new-york-city-itinerary/">5-Day New York City Itinerary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/where-to-stay-in-nyc/">Where to Stay in NYC</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/nyc-travel-costs/">NYC Travel Costs</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/nyc-hidden-gems/">NYC Hidden Gems</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/free-things-to-do-in-nyc/">Free Things to Do in NYC</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

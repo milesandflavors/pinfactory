@@ -1,0 +1,322 @@
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Marsa Alam doesn't pretend to be a city break. There are no museum queues, no crowded bazaars demanding your afternoon, no long checklist of cultural landmarks to work through. What it has instead is some of the most extraordinary marine wildlife access in the world, a desert wilderness that starts right at the edge of the resort strip, and a pace that makes most other beach destinations feel overscheduled. The best things to do in Marsa Alam are specific, knowable, and almost uniformly excellent if you pick the right ones — and book them the right way. How much you spend on activities varies more than almost any other part of the trip; our <a href="/marsa-alam-travel-costs/">Marsa Alam travel costs guide</a> breaks down what each excursion realistically costs and where the savings are. Here's what's worth your time and money.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're building a full trip plan around these activities, our <a href="/7-days-in-marsa-alam-itinerary/">Marsa Alam itinerary guide</a> puts them in the right order across a 7-day schedule.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1072,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/pascal-van-de-vendel-4cybCXaiB4c-unsplash-1024x683.jpg" alt="Colorful coral reef near Marsa Alam for snorkeling without a dive certification" class="wp-image-1072"/><figcaption class="wp-element-caption"><em>The reef at Marsa Alam. You don't need a dive certification for this.</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-things-to-do-in-marsa-alam-quick-picks">Best Things to Do in Marsa Alam: Quick Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best overall:</strong> Abu Dabbab Bay — wild dugongs and sea turtles in shallow water, no dive certification needed, nothing else like it on the Red Sea</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Best for divers:</strong> Elphinstone Reef — one of the most celebrated dive sites in the world, with wall dives, pelagic fish, and sharks in season</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Best half-day desert trip:</strong> Wadi El Gemal National Park — remote, wild, and completely unlike anything else near the resort strip</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Best evening:</strong> Port Ghalib Marina — waterfront restaurants, a good promenade, the best independent dining option in the area</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Best skip:</strong> Cheap glass-bottom boat rides offered on the beach — fine as a first-day look, not a replacement for an actual snorkeling trip</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>The map below shows where each activity sits along the coast — from Abu Dabbab north of the resort strip to Dolphin House and Wadi El Gemal in the south — so you can see the distances before you plan your week.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=18ohKaBHuyXZf9PmAzH4oTHDImcAlgGw&ehbc=2E312F" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<!-- /wp:html -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"b0651500-33d2-4b6d-a91c-0d02adc7e3bd","content":"Best Things to Do in Marsa Alam: Quick Picks","level":2,"link":"#best-things-to-do-in-marsa-alam-quick-picks","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"61f541cf-f429-4c3d-be15-e2303282c4be","content":"Abu Dabbab Bay — The One That Changes Everything","level":2,"link":"#abu-dabbab-bay-the-one-that-changes-everything","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"c9708f2f-f9af-47c9-b8f1-282771a84e76","content":"Snorkeling and Diving the Outer Reef","level":2,"link":"#snorkeling-and-diving-the-outer-reef","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"8fb0f227-e07e-4320-8fa7-2dcf2ffb2c85","content":"Dolphin House (Sha'ab Samadai)","level":2,"link":"#dolphin-house-shaab-samadai","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ce200124-3541-434d-8c2c-6fad3847edf7","content":"Wadi El Gemal National Park","level":2,"link":"#wadi-el-gemal-national-park","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ced00bf2-fde8-4493-ab55-a45e20257820","content":"Day Trip to Luxor","level":2,"link":"#day-trip-to-luxor","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"9e00d572-0269-474a-a4fa-6b4ed2c28040","content":"Port Ghalib Marina Evening","level":2,"link":"#port-ghalib-marina-evening","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7e6ccf59-1147-49f1-a97c-17d197579922","content":"What I'd Skip","level":2,"link":"#what-id-skip","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"802c60d2-9909-4345-9148-b1de298b6338","content":"How to Book Without Getting Overcharged","level":2,"link":"#how-to-book-without-getting-overcharged","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"bdb93bd0-5fcb-4ae8-905b-84eab4fc5512","content":"Staying Connected During Excursions","level":2,"link":"#staying-connected-during-excursions","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"marsa-alam-activities-faq","content":"Marsa Alam Activities FAQ","level":2,"link":"#marsa-alam-activities-faq","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"what-is-the-best-thing-to-do-in-marsa-alam","content":"What is the best thing to do in Marsa Alam?","level":3,"link":"#what-is-the-best-thing-to-do-in-marsa-alam","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"is-marsa-alam-good-for-non-divers","content":"Is Marsa Alam good for non-divers?","level":3,"link":"#is-marsa-alam-good-for-non-divers","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"should-you-book-marsa-alam-excursions-in-advance","content":"Should you book Marsa Alam excursions in advance?","level":3,"link":"#should-you-book-marsa-alam-excursions-in-advance","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"can-you-do-marsa-alam-activities-with-a-toddler","content":"Can you do Marsa Alam activities with a toddler?","level":3,"link":"#can-you-do-marsa-alam-activities-with-a-toddler","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ed85276c-1c7a-4f44-b70e-6d61de50696c","content":"Final Thoughts on the Best Things to Do in Marsa Alam","level":2,"link":"#final-thoughts-on-the-best-things-to-do-in-marsa-alam","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"div"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><div><div class=""><a href="#best-things-to-do-in-marsa-alam-quick-picks">Best Things to Do in Marsa Alam: Quick Picks</a></div><div class=""><a href="#abu-dabbab-bay-the-one-that-changes-everything">Abu Dabbab Bay — The One That Changes Everything</a></div><div class=""><a href="#snorkeling-and-diving-the-outer-reef">Snorkeling and Diving the Outer Reef</a></div><div class=""><a href="#dolphin-house-shaab-samadai">Dolphin House (Sha'ab Samadai)</a></div><div class=""><a href="#wadi-el-gemal-national-park">Wadi El Gemal National Park</a></div><div class=""><a href="#day-trip-to-luxor">Day Trip to Luxor</a></div><div class=""><a href="#port-ghalib-marina-evening">Port Ghalib Marina Evening</a></div><div class=""><a href="#what-id-skip">What I'd Skip</a></div><div class=""><a href="#how-to-book-without-getting-overcharged">How to Book Without Getting Overcharged</a></div><div class=""><a href="#staying-connected-during-excursions">Staying Connected During Excursions</a></div><div class=""><a href="#marsa-alam-activities-faq">Marsa Alam Activities FAQ</a></div><div class=""><a href="#final-thoughts-on-the-best-things-to-do-in-marsa-alam">Final Thoughts on the Best Things to Do in Marsa Alam</a></div></div></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:table {"className":"before-you-go-box","hasFixedLayout":false} -->
+<figure class="wp-block-table before-you-go-box"><table><thead><tr><th colspan="2">Before You Book Marsa Alam Activities</th></tr></thead><tbody><tr><td><strong>Book first</strong></td><td>Abu Dabbab Bay is the activity I would secure before anything else. If you only book one paid excursion in Marsa Alam, make it this one.</td></tr><tr><td><strong>Best wildlife expectation</strong></td><td>Dugongs, turtles, and dolphins are wild animals, not scheduled entertainment. Choose operators with recent reviews and avoid any tour promising guaranteed encounters.</td></tr><tr><td><strong>Best splurge</strong></td><td>If you dive, spend on a proper Elphinstone or outer-reef trip. If you snorkel, Abu Dabbab plus one boat reef trip is usually enough.</td></tr><tr><td><strong>What to skip</strong></td><td>I would not overfill a Marsa Alam week with excursions. The house reef, beach time, and slow resort rhythm are part of why this destination works.</td></tr><tr><td><strong>Booking approach</strong></td><td>For Abu Dabbab, Dolphin House, and reef trips, compare recent reviews and inclusions before booking. I usually start with <a href="https://www.viator.com/Marsa-Alam/d25556-ttd?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=marsa-alam-activities" target="_blank" rel="sponsored noopener noreferrer">Viator's Marsa Alam activity listings</a>, then check pickup details, equipment, group size, and cancellation terms.</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="abu-dabbab-bay-the-one-that-changes-everything">Abu Dabbab Bay — The One That Changes Everything</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Typical price:</strong> often around $30-60 per person with transport, depending on operator and season | <strong>Best time:</strong> early morning | <strong>Time needed:</strong> Half day | <strong>Book in advance:</strong> Yes, especially in busier weeks</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Abu Dabbab is the reason serious travelers choose Marsa Alam over every other Red Sea destination. It's a protected bay about 19 miles (30 km) north of the main resort cluster, and it's one of the very few places on earth where you have a realistic chance of swimming with wild dugongs and green sea turtles — in shallow, calm, clear water, without a dive certification, sometimes very close to shore.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I want to be honest about what "swim with sea turtles" means here, because it's used as a marketing line everywhere and means very different things in different places. At Abu Dabbab: we floated completely still in waist-deep water while a dugong grazed on the seagrass bed about 30 feet (10 m) away. A sea turtle surfaced about 6 feet (2 m) from us, paused, and went back down. The animals are wild and genuinely indifferent to human presence — which is exactly what makes it extraordinary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is the one activity to book before anything else on your list — the better operators can fill up, conditions are best earlier in the day, and there is no equivalent alternative if you miss it. Book through a vetted operator rather than a beach vendor. <a href="https://www.viator.com/Marsa-Alam/d25556-ttd?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=marsa-alam-activities" target="_blank" rel="sponsored noopener noreferrer">Viator's Marsa Alam listings</a> include Abu Dabbab day trips with real reviews and clear pricing — I'd start there rather than negotiating with vendors who have no accountability for what you actually get.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Family note:</strong> We did this with our two-year-old in a swim vest. He floated with one of us while the other explored. The bay is sheltered, the current is minimal, and the wardens are attentive. It works.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1053,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_5079-1024x683.jpg" alt="Dugong encounter at Abu Dabbab Bay in Marsa Alam" class="wp-image-1053"/><figcaption class="wp-element-caption"><em>The dugong came to us. That's Abu Dabbab.</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="snorkeling-and-diving-the-outer-reef">Snorkeling and Diving the Outer Reef</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Typical price:</strong> often around $40-100 per person depending on trip type, inclusions, and season | <strong>Best time:</strong> Morning departure | <strong>Time needed:</strong> Half day | <strong>Book in advance:</strong> Yes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The house reef at a good Marsa Alam resort is already excellent. The offshore reefs are extraordinary. A boat trip gets you to coral systems that are among the most pristine in the Red Sea — partly because Marsa Alam sees a fraction of the visitors that Hurghada or Sharm el-Sheikh receive, partly because much of the coastline is formally protected.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>For snorkelers:</strong> Shaab Marsa Alam is the closest major reef system to the resort area and excellent from the surface — large formations, clear water, and rich marine life without needing to go deep.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>For certified divers:</strong> Elphinstone Reef is one of the most celebrated dive sites in the Red Sea — a pinnacle reef with wall dives, pelagic fish, and in the right season oceanic whitetip sharks and hammerheads. <a href="https://www.getyourguide.com/s/?q=marsa+alam+diving+and+snorkeling&amp;searchSource=3&amp;src=search_bar" target="_blank" rel="nofollow noopener noreferrer">GetYourGuide has Marsa Alam diving and snorkeling listings</a> with detailed reviews and transparent group sizes. Check specifically whether the trip includes equipment and how many divers per guide — it varies significantly between operators. Booking before arrival can be cheaper than the resort excursion desk, but the bigger advantage is clarity: written inclusions, recent reviews, pickup details, cancellation terms, and group-size information before you commit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="dolphin-house-shaab-samadai">Dolphin House (Sha'ab Samadai)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Typical price:</strong> often around $40-70 per person depending on operator and season | <strong>Best time:</strong> Morning | <strong>Time needed:</strong> Half day | <strong>Book in advance:</strong> Yes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sha'ab Samadai is a protected lagoon about 16 miles (25 km) south of Port Ghalib with a resident pod of spinner dolphins. Entry is restricted to a designated snorkeling zone and the dolphins are genuinely wild. The honest version: it's less reliable than Abu Dabbab. The dolphins aren't always active near the snorkeling area. On a good morning it's genuinely special. On a quieter one, you'll see dolphins from a distance and spend most of the time appreciating the coral instead. Go with open expectations rather than guaranteed encounter promises.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Before booking, read the most recent reviews on <a href="https://www.viator.com/Marsa-Alam/d25556-ttd?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=marsa-alam-dolphin-house" target="_blank" rel="sponsored noopener noreferrer">Viator's Dolphin House trips</a> to see what conditions were like on actual visit days.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1073,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/kristina-loburets-KIlwh5F4eY4-unsplash-768x1024.jpg" alt="Dolphin House reef trip near Marsa Alam with clear Red Sea water" class="wp-image-1073"/><figcaption class="wp-element-caption"><em>Sha'ab Samadai on a morning when the dolphins are active. Worth every minute.</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="wadi-el-gemal-national-park">Wadi El Gemal National Park</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Typical price:</strong> often around $50-90 per person with guide, depending on pickup and inclusions | <strong>Best time:</strong> Start before 8am | <strong>Time needed:</strong> Half day</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A protected national park south of the resort area — desert wadis, ancient mangroves, and landscape that looks genuinely alien. The park also contains an active Bedouin camel market at the nearby village that's completely real and not staged for tourists. This is the most substantial "off the resort" experience near Marsa Alam without driving four hours to Luxor.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What I'd say honestly: this is a landscape trip, not a ticking-off-sights trip. Wide open empty wilderness, almost no other visitors, the smell of the desert in the early morning. If that appeals, you'll love it. If you need a checklist, book Abu Dabbab twice instead.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1056,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/MG_0262-1024x683.jpeg" alt="Desert landscape during a Wadi El Gemal excursion from Marsa Alam" class="wp-image-1056"/><figcaption class="wp-element-caption"><em>The Egyptian desert at sunset during a Wadi El Gemal excursion. This is what the half-day looks like.</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-trip-to-luxor">Day Trip to Luxor</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Typical price:</strong> varies widely by transport, guide, and season; road trips are usually the cheaper option, flight-assisted trips cost more | <strong>Time needed:</strong> Full day</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Luxor is about 145 miles (230 km) away — roughly 3.5 hours by road each way. The Valley of the Kings and Karnak Temple are two of the most impressive ancient sites in the world. One day covers the essentials. It's physically demanding — especially in summer — and the journey is long. If you have any genuine interest in ancient history, don't leave this region without making the effort. If you don't, skip it without guilt and go back to Abu Dabbab.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <a href="/7-days-in-marsa-alam-itinerary/">7-day itinerary guide</a> covers how to fit Luxor into the schedule without disrupting the rest of the week.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="port-ghalib-marina-evening">Port Ghalib Marina Evening</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Typical cost:</strong> taxi and dinner prices vary by resort location and restaurant; agree the taxi price before you leave | <strong>Best time:</strong> From 5pm onward</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Port Ghalib is a purpose-built marina about 9 miles (15 km) from the Coraya Bay resort cluster. Waterfront restaurants, a clean promenade, boats moored along the quay, and a genuinely calm atmosphere. The seafood here is the best independent dining option in the Marsa Alam area. Go for dinner and stay for the walk. It's one of those evenings that doesn't need a plan — just show up and wander.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-id-skip">What I'd Skip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The town of Marsa Alam itself (El Quseir area) gets mentioned in some travel articles as worth visiting. It's a working Egyptian port town — practical and authentic but not a destination. Unless you need a pharmacy or a cash machine, there's no reason to spend holiday time there.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cheap glass-bottom boat rides offered on the beach are fine as a first-day orientation but don't replace a proper snorkeling trip. If you can snorkel at all, the investment in a proper excursion is worth it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-to-book-without-getting-overcharged">How to Book Without Getting Overcharged</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Your resort excursion desk is convenient and often more expensive than booking independently. For anything you know about in advance — Abu Dabbab, the snorkeling trip, Dolphin House — book through <a href="https://www.viator.com/Marsa-Alam/d25556-ttd?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=marsa-alam-activities" target="_blank" rel="sponsored noopener noreferrer">Viator</a> or <a href="https://www.getyourguide.com/s/?q=marsa+alam&amp;searchSource=3&amp;src=search_bar" target="_blank" rel="nofollow noopener noreferrer">GetYourGuide</a> before you arrive. You get better prices, genuine reviews, and confirmation in your inbox before you land.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For last-minute bookings where you need to decide on the day, the resort desk is acceptable. But the best operators for Abu Dabbab specifically fill up — don't leave it to chance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Practical tip on payment:</strong> Most excursion operators in Marsa Alam accept card or cash. If paying cash, use Egyptian pounds withdrawn from an ATM with your <a href="https://wise.com/invite" target="_blank" rel="nofollow noopener noreferrer">Wise card</a> rather than exchanging at the resort — the fee screen is usually clearer than exchanging at the resort. Our <a href="https://milesandflavors.com/best-travel-money-card/">travel money guide</a> has the full card setup we use in Egypt and everywhere else.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="staying-connected-during-excursions">Staying Connected During Excursions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For day trips outside the resort — especially Wadi El Gemal and Abu Dabbab — you'll want data that isn't dependent on resort WiFi. An Egypt eSIM can be useful because you can activate mobile data before or soon after landing; prices and data packages change, so check the current plan before buying. Our <a href="https://milesandflavors.com/esim-for-travel/">eSIM travel guide</a> has the complete setup instructions. With a toddler on day trips, having working maps and WhatsApp independently of WiFi has genuinely mattered for us.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="marsa-alam-activities-faq">Marsa Alam Activities FAQ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-the-best-thing-to-do-in-marsa-alam">What is the best thing to do in Marsa Alam?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Abu Dabbab Bay is the one activity I would book first. It gives you the best chance of a genuinely memorable wildlife experience without needing to dive, and it works even if you are traveling with a child or mixed swimming abilities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-marsa-alam-good-for-non-divers">Is Marsa Alam good for non-divers?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes. Marsa Alam is one of the best Red Sea bases for snorkelers because many experiences work from the surface: Abu Dabbab, house reefs, reef boat trips, and calm bay snorkeling. Divers get more options, but non-divers are not second-class travelers here.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="should-you-book-marsa-alam-excursions-in-advance">Should you book Marsa Alam excursions in advance?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Book Abu Dabbab and popular reef or dolphin trips in advance if your dates are fixed. For simple resort activities or a casual Port Ghalib evening, you can decide later. The point is not to overplan the whole week; it is to protect the few activities that really matter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="can-you-do-marsa-alam-activities-with-a-toddler">Can you do Marsa Alam activities with a toddler?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Some, yes. Abu Dabbab worked for us with a toddler because the bay was sheltered and one adult could stay close while the other snorkeled. Long boat days, hot desert trips, and Luxor day trips are harder with a very young child, so choose selectively.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the best thing to do in Marsa Alam?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Abu Dabbab Bay is the one activity I would book first. It gives you the best chance of a genuinely memorable wildlife experience without needing to dive, and it works even if you are traveling with a child or mixed swimming abilities."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Marsa Alam good for non-divers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Marsa Alam is one of the best Red Sea bases for snorkelers because many experiences work from the surface: Abu Dabbab, house reefs, reef boat trips, and calm bay snorkeling. Divers get more options, but non-divers are not second-class travelers here."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Should you book Marsa Alam excursions in advance?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Book Abu Dabbab and popular reef or dolphin trips in advance if your dates are fixed. For simple resort activities or a casual Port Ghalib evening, you can decide later. The point is not to overplan the whole week; it is to protect the few activities that really matter."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can you do Marsa Alam activities with a toddler?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Some, yes. Abu Dabbab worked for us with a toddler because the bay was sheltered and one adult could stay close while the other snorkeled. Long boat days, hot desert trips, and Luxor day trips are harder with a very young child, so choose selectively."
+            }
+        }
+    ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="final-thoughts-on-the-best-things-to-do-in-marsa-alam">Final Thoughts on the Best Things to Do in Marsa Alam</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Abu Dabbab is the centerpiece and, for me, earned the praise directed at it. Add Dolphin House or Elphinstone depending on your diving experience level. Take one day for the desert. Spend the rest on the beach and in the house reef. That's a complete, excellent week without trying to do everything. Start with Abu Dabbab, choose one reef trip, then leave the rest of the week slow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/7-days-in-marsa-alam-itinerary/">Marsa Alam 7-day itinerary</a> — how to sequence these activities into a full week</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/where-to-stay-in-marsa-alam/">Where to stay in Marsa Alam</a> — which resorts have the best house reef access</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/free-things-to-do-in-marsa-alam/">Free things to do in Marsa Alam</a> — what costs nothing but still delivers</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/marsa-alam-travel-costs/">Marsa Alam travel costs</a> — what to budget for activities including booking tips</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/esim-for-travel/">eSIM for travel</a> — stay connected on excursions without paying roaming rates</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

@@ -1,0 +1,208 @@
+<!-- wp:image {"id":2768,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/amsterdam-december-canal-lights.jpg" alt="Amsterdam canal houses lit up for the holidays in December" class="wp-image-2768"/><figcaption class="wp-element-caption">December in Amsterdam runs from Sinterklaas to a genuinely wild New Year's Eve — with the Christmas markets sitting in between.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>December in Amsterdam isn't one steady month — it's three distinct weeks stacked together. Early December still belongs to Sinterklaas, a Dutch tradition most visitors have never heard of. Mid-December is the version most people picture: markets, lights, mulled wine. The final week builds toward New Year's Eve, which in Amsterdam is louder and more chaotic than almost anywhere else in Europe. Planning around which week you're actually in changes the trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the market-and-lights version of the month in full detail, see <a href="/amsterdam-at-christmas/">Amsterdam at Christmas</a> and <a href="/amsterdam-christmas-itinerary/">the day-by-day itinerary</a>. This page covers the whole month — including the parts before and after the holiday itself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#weather">Weather in December — What to Pack</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#three-weeks">Three Different Weeks in One Month</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#nye">New Year's Eve, the Part First-Timers Underestimate</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#hotels">Hotel Prices Across the Month</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#practical-tips">Practical Tips</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-from-amsterdam">More from Amsterdam</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> December in Amsterdam averages a high near 44°F/7°C with short days — sunset lands around 4:30pm at the month's darkest point. Early December still belongs to Sinterklaas, a Dutch gift-giving tradition that isn't Christmas; mid-December is when the Christmas markets and canal lights are in full swing; the final week builds to a New Year's Eve where locals set off fireworks in the streets from 6pm to 2am. Hotel prices climb steadily through the month and peak hardest around December 31st.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-plan-december">How I'd plan a December trip to Amsterdam</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pick your week on purpose. If markets and lights are the goal, mid-December is the sweet spot — festive but not yet at New Year's pricing. If you want to actually witness the fireworks night, book central and expect noise from mid-afternoon onward on the 31st, not just at midnight. Either way, avoid arriving on December 31st itself if you're not specifically there for the fireworks — trains and trams run reduced or altered schedules that evening.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the market-specific details — the Christmas Village, the Winterparadijs, what's open on the day itself — see <a href="/amsterdam-at-christmas/">Amsterdam at Christmas</a>. For the canal light art trail that runs through the month, see the <a href="/amsterdam-light-festival/">Amsterdam Light Festival guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> the full festive Amsterdam experience — markets, lights, and genuine local New Year's chaos.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> nowhere else combines Christmas markets with a New Year's Eve tradition this loud and this public.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> loud, unregulated street fireworks late December 31st into January 1st would genuinely bother you or your kids — that part is real, not exaggerated.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you book:</strong> confirm your hotel's exact location relative to Museumplein if you want to be close to the main fireworks show, or further away if you'd rather sleep through it.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weather">Weather in December — What to Pack</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>December averages a high around 44°F/7°C with lows near 35°F/2°C, and rain is more common than snow all month. Daylight is short — sunrise around 8:30am and sunset as early as 4:30pm at the month's darkest point around the 21st.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pack a genuinely waterproof coat over a purely warm one, plus a windproof layer for the canal-side wind. With sunset this early, plan outdoor sightseeing for the first half of the day and save markets and light displays, which look better after dark anyway, for the evening.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="three-weeks">Three Different Weeks in One Month</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Early December still belongs to Sinterklaas — a Dutch gift-giving tradition centered on December 5th (pakjesavond), distinct from Christmas and easy for first-timers to mix up. Shop windows and city decorations lean into it before the Christmas aesthetic fully takes over.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mid-December is the postcard version: the Christmas Village at Museumplein, the Winterparadijs at RAI, and canal-house lights in full swing — covered in depth in <a href="/amsterdam-at-christmas/">Amsterdam at Christmas</a>. The final week shifts again as the city builds toward New Year's Eve, with market stalls starting to wind down even as fireworks noise starts creeping in days early.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="nye">New Year's Eve, the Part First-Timers Underestimate</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the one specific thing about December in Amsterdam that genuinely surprises visitors. Between 6pm on the 31st and 2am on January 1st, it's legal for ordinary residents — not just professionals — to set off consumer fireworks in the streets, and they do, in real quantity, all over the city. The municipality runs an official show at Museumplein with a large public countdown, alongside smaller organized displays at Nieuwmarkt and Oosterdok, but plenty of the noise and light comes from ordinary streets and squares, not the official venues.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It's genuinely fun to experience once, but it is loud, smoky, and a little chaotic in a way that catches unprepared visitors off guard — this isn't a polished fireworks display you watch from a distance, it's happening on the sidewalk near you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Best time:</strong> Head out by early evening if you want to walk before it gets too loud | <strong>Tip:</strong> Stick to main squares like Museumplein or Dam Square for the organized version rather than side streets, and keep kids close — the informal fireworks have no real perimeter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hotels">Hotel Prices Across the Month</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Prices climb steadily as December goes on. Early December, during the Sinterklaas period, is the cheapest and quietest stretch of the month. Mid-December, once the markets are in full swing, sits at a moderate, still-reasonable level. The final week, and especially December 30th through January 1st, is the most expensive and hardest-to-book stretch of the entire winter — book that window well ahead if it's part of your trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Pick your week:</strong> early December for quiet and value, mid-month for the classic market experience, late December only if you specifically want the New Year's energy.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book the NYE window early:</strong> hotels near Museumplein and the center fill up and price up fast for December 30th-January 1st.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Plan around the short days:</strong> outdoor sightseeing in the morning, markets and lights after dark.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Check public transit changes for December 31st:</strong> some tram and metro schedules run altered hours around the fireworks period.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay:</strong> the <a href="/where-to-stay-in-amsterdam/">where to stay in Amsterdam guide</a> covers neighborhoods; for December specifically, weigh proximity to Museumplein against how much fireworks noise you actually want.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-amsterdam">More from Amsterdam</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For the market-and-lights version of the month, see <a href="/amsterdam-at-christmas/">Amsterdam at Christmas</a> and <a href="/amsterdam-christmas-itinerary/">the day-by-day itinerary</a>. For the canal light art trail, see the <a href="/amsterdam-light-festival/">Amsterdam Light Festival guide</a>. For the colder, quieter months that follow, see <a href="/amsterdam-in-winter/">Amsterdam in Winter</a> and the <a href="/amsterdam-winter-bucket-list/">Amsterdam Winter Bucket List</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is December a good time to visit Amsterdam?</summary><!-- wp:paragraph -->
+<p>Yes, especially mid-December for the Christmas markets and lights. Just know that early December still runs on the Sinterklaas tradition rather than a Christmas theme, and the final week gets loud and expensive around New Year's Eve.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Amsterdam's New Year's Eve really that loud?</summary><!-- wp:paragraph -->
+<p>Yes. Between 6pm on December 31st and 2am on January 1st, ordinary residents can legally set off consumer fireworks in the streets, and the whole city does so in real quantity, not just at official displays.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is Sinterklaas, and is it the same as Christmas?</summary><!-- wp:paragraph -->
+<p>No. Sinterklaas is a separate Dutch gift-giving tradition centered on December 5th, celebrated before the Christmas season fully takes over the city's decorations and events.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"Is December a good time to visit Amsterdam?","acceptedAnswer":{"@type":"Answer","text":"Yes, especially mid-December for the Christmas markets and lights. Just know that early December still runs on the Sinterklaas tradition rather than a Christmas theme, and the final week gets loud and expensive around New Year's Eve."}},
+    {"@type":"Question","name":"Is Amsterdam's New Year's Eve really that loud?","acceptedAnswer":{"@type":"Answer","text":"Yes. Between 6pm on December 31st and 2am on January 1st, ordinary residents can legally set off consumer fireworks in the streets, and the whole city does so in real quantity, not just at official displays."}},
+    {"@type":"Question","name":"What is Sinterklaas, and is it the same as Christmas?","acceptedAnswer":{"@type":"Answer","text":"No. Sinterklaas is a separate Dutch gift-giving tradition centered on December 5th, celebrated before the Christmas season fully takes over the city's decorations and events."}}
+  ]
+}
+</script>
+<!-- /wp:html -->

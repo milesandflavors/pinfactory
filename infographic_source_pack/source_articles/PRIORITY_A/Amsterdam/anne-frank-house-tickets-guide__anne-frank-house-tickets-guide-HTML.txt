@@ -1,0 +1,287 @@
+﻿<!-- wp:image {"id":2586,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/teresita-biafore-HWhMc9_B8jc-unsplash-scaled.jpg" alt="Amsterdam canal houses near the Anne Frank House, where tickets need to be booked online in advance" class="wp-image-2586"/><figcaption class="wp-element-caption">Anne Frank House tickets release six weeks ahead, every Tuesday at 10:00 AM CEST — and they go fast.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The Anne Frank House is one of the most meaningful stops in Amsterdam, and also one of the easiest to miss entirely if you don't understand how the ticketing actually works. There's no walk-up option and no buying at the door — tickets exist only online, released on a strict weekly schedule, and popular time slots can disappear very fast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This guide covers exactly when tickets release, how far ahead to plan, what a visit actually involves, and what to do if you're already too late for the six-week window.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#when-tickets-release">When Tickets Actually Release</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#prices">Prices and What's Included</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#sold-out">What to Do If Your Date Is Sold Out</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#what-to-expect">What to Expect Inside</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#practical-tips">Practical Tips</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-from-amsterdam">More from Amsterdam</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Anne Frank House tickets are sold online only through the <a href="https://www.annefrank.org/en/museum/tickets/" rel="nofollow noopener noreferrer" target="_blank">official Anne Frank House ticket page</a>. New tickets are released every Tuesday at 10:00 AM CEST for visits six weeks later, and there are no door sales. If a date is sold out, the official guidance is blunt: it is sold out, and there is no waiting list. 2026 prices are €16.50 for adults, €7 for ages 10-17, and €1 for children under 10, including the €1 booking fee.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"46px"} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-plan-around-the-ticket-release">How I'd plan around the ticket release</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The moment I know my Amsterdam dates, I'd put the corresponding Tuesday 10:00 AM CEST release in my calendar and book straight through the official site. There is genuinely no workaround for the official annefrank.org tickets, and commercial tours do not include entry to the House itself, so this is the one Amsterdam booking I would never leave for later.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If my dates don't line up with the six-week window, or the House itself is already sold out, I'd book the <a href="https://www.viator.com/tours/Amsterdam/Anne-Frank-and-Jewish-Quarter-Guided-Walking-Tour-in-Amsterdam/d525-8718P4?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=anne-frank-house-tickets-guide" rel="sponsored noopener noreferrer" target="_blank">Anne Frank and Jewish Quarter guided walking tour on Viator</a> instead. It doesn't get you inside the House itself — nothing outside the official site does — but it covers the story and the surrounding Jewish Quarter with a knowledgeable guide, which is a genuinely good alternative or a good complement either before or after your museum visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What I like about booking that tour through Viator is the planning comfort: I can check the exact meeting point, group size, and cancellation window before committing, on top of an already well-reviewed, established tour.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> to guarantee entry to one of Amsterdam's most meaningful sights, on your actual travel dates.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> knowing the exact Tuesday-10-AM, six-weeks-ahead rule turns a stressful "hope it's not sold out" situation into a simple calendar reminder.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you are booking your trip on short notice — if the official calendar is sold out, you can keep checking it, but I would not count on a last-minute ticket appearing.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you book:</strong> double-check the visit date and time before paying — tickets are non-transferable and non-refundable, so a wrong date can't be fixed afterward.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="when-tickets-release">When Tickets Actually Release</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>New tickets go live every Tuesday at 10:00 AM CEST, and each release covers visit dates six weeks later. So if you want to visit in a specific week, put the Tuesday six weeks before that week in your calendar and be ready before the release opens.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is not a soft guideline — it is the only way to get in. Tickets are sold exclusively through the <a href="https://www.annefrank.org/en/museum/tickets/" rel="nofollow noopener noreferrer" target="_blank">official Anne Frank House ticket page</a>, with no door sales. The I amsterdam City Card is not valid here either, which surprises some first-time visitors used to it covering most museums.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Popular dates can sell out very fast, especially weekends, school holidays, and peak travel months. Being online a few minutes before 10:00 AM, with payment details ready, makes a real difference; this is not the ticket to browse casually over breakfast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="prices">Prices and What's Included</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>2026 pricing: €16.50 for adults (including a €1 booking fee), €7.00 for ages 10-17, and €1.00 for children under 10. Museumkaart and ICOM cardholders still need to book online in advance, but pay a reduced €1.00.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can choose between the standard self-guided visit or an option that includes an introductory program before you go in — worth considering if you want more historical context than the exhibits alone provide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="sold-out">What to Do If Your Date Is Sold Out</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If your date is sold out, treat it as genuinely sold out. The official ticket guidance says there is no waiting list and no door sale; the <a href="https://www.annefrank.org/en/about-us/contact/contactform-1/" rel="nofollow noopener noreferrer" target="_blank">museum FAQ</a> also says you can check again after Tuesday afternoon in the week before your visit in case any additional availability appears. I would still not build the day around getting in at the last minute.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If the House is unavailable, the <a href="https://www.viator.com/tours/Amsterdam/Anne-Frank-and-Jewish-Quarter-Guided-Walking-Tour-in-Amsterdam/d525-8718P4?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=anne-frank-house-tickets-guide" rel="sponsored noopener noreferrer" target="_blank">Anne Frank and Jewish Quarter guided walking tour on Viator</a> is the alternative I would look at. It will not get you inside the House itself, but it can still give the story and surrounding neighborhood real context on short notice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-to-expect">What to Expect Inside</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The official average visit time is about one hour, but I would budget 1.5 to 2 hours in your day once you include arrival, the cloakroom, moving through at your own pace, and a quiet pause afterward. Photography and filming are not permitted anywhere inside, including with smart glasses, to protect the original preserved rooms and artifacts and out of respect for other visitors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can photograph the building's exterior from the street, which is where most visitors take the one photo they associate with the visit — the entrance door and its small plaque.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Mark the exact Tuesday:</strong> count six weeks back from your visit date to know precisely when tickets for it go live.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book only on annefrank.org:</strong> no other site or vendor sells legitimate tickets, and the I amsterdam City Card doesn't cover it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Double-check the date and time before paying:</strong> tickets are non-transferable and non-refundable.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>No photography inside:</strong> plan for a device-free hour or two, and take your exterior photo from the street beforehand.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Missed the window?</strong> Treat sold-out dates as genuinely sold out; book a Jewish Quarter walking tour instead, and save the House itself for a future Amsterdam trip.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-amsterdam">More from Amsterdam</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For the wider trip, the <a href="/amsterdam-bucket-list/">Amsterdam bucket list guide</a> and the <a href="/3-days-in-amsterdam/">3-day Amsterdam itinerary</a> cover how to sequence a first visit. If you're deciding between Amsterdam's two biggest museums for the rest of your day, the <a href="/rijksmuseum-vs-van-gogh-museum/">Rijksmuseum vs Van Gogh Museum guide</a> can help.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How far in advance do Anne Frank House tickets go on sale?</summary><!-- wp:paragraph -->
+<p>Tickets release every Tuesday at 10:00 AM CEST for visits six weeks later. Popular dates can sell out very fast, especially weekends, school holidays, and peak travel months.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Can you buy Anne Frank House tickets at the door?</summary><!-- wp:paragraph -->
+<p>No. Tickets are sold exclusively online through the official site, annefrank.org, with no walk-up or door sales and no legitimate third-party sellers. The I amsterdam City Card is not valid for entry either.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How much do Anne Frank House tickets cost?</summary><!-- wp:paragraph -->
+<p>2026 pricing is €16.50 for adults, €7.00 for ages 10-17, and €1.00 for children under 10, all including a €1 booking fee. Museumkaart and ICOM cardholders still book online in advance, at a reduced €1.00.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What if Anne Frank House tickets are sold out for my dates?</summary><!-- wp:paragraph -->
+<p>If your date is sold out, the official site says there is no waiting list and no door sale. You can keep checking the official calendar in case availability changes, but a guided walking tour covering the Anne Frank story and the Jewish Quarter is the more realistic backup. It does not include entry to the House itself.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How long does a visit to Anne Frank House take?</summary><!-- wp:paragraph -->
+<p>The official average visit time is about one hour, but I would budget 1.5 to 2 hours for the full stop. Photography and filming are not permitted anywhere inside, so take any exterior photos from the street beforehand.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far in advance do Anne Frank House tickets go on sale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tickets release every Tuesday at 10:00 AM CEST for visits six weeks later. Popular dates can sell out very fast, especially weekends, school holidays, and peak travel months."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you buy Anne Frank House tickets at the door?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Tickets are sold exclusively online through the official site, annefrank.org, with no walk-up or door sales and no legitimate third-party sellers. The I amsterdam City Card is not valid for entry either."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do Anne Frank House tickets cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2026 pricing is 16.50 euros for adults, 7.00 euros for ages 10-17, and 1.00 euro for children under 10, all including a 1 euro booking fee. Museumkaart and ICOM cardholders still book online in advance, at a reduced 1.00 euro."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if Anne Frank House tickets are sold out for my dates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your date is sold out, the official site says there is no waiting list and no door sale. You can keep checking the official calendar in case availability changes, but a guided walking tour covering the Anne Frank story and the Jewish Quarter is the more realistic backup. It does not include entry to the House itself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a visit to Anne Frank House take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The official average visit time is about one hour, but I would budget 1.5 to 2 hours for the full stop. Photography and filming are not permitted anywhere inside, so take any exterior photos from the street beforehand."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+

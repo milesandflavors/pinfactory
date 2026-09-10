@@ -1,0 +1,471 @@
+﻿<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:image {"id":2126,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/IMG_1192-1-scaled.jpg" alt="Zakynthos boat tour with turquoise Ionian Sea water" class="wp-image-2126"/><figcaption class="wp-element-caption">Zakynthos rewards everyone who comes — whether you have three days or a full week.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I went to Zakynthos in June, rented a car the day we arrived, and spent every day trying to see as much of the island as possible. I was pregnant at the time — which sounds like an odd detail until I tell you I was still swimming laps in the Ionian Sea, getting sunburned at every beach we visited, and eating my weight in tzatziki. Zakynthos in June was that good.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The island is small enough to feel manageable and varied enough that it never runs out of things to show you. The boat tour alone would have been worth the trip. The Blue Caves would have been worth the trip. The fact that both are here, on the same island, along with turtle beaches and a town with excellent food and zero pretension — that's why people come back.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Short answer:</strong> book the full-day boat tour before anything else, rent a car, stay in Zakynthos Town rather than Laganas, and leave enough time for Gerakas Beach in the morning. Everything else on this list is a bonus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"5af1b4a9-06c2-480e-87d8-f311fbc515f6","content":"#1 The Full-Day Boat Tour — The One Thing That Cannot Be Skipped","level":2,"link":"#1-the-full-day-boat-tour","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"36097b9a-78cf-40c8-ba90-e0fd38c15f23","content":"#2 Navagio Shipwreck Beach — See It From the Water AND From Above","level":2,"link":"#2-navagio-shipwreck-beach","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"1965c260-b1ce-4574-bef0-1c4d4638068a","content":"#3 The Blue Caves — The Bluest Water You Will Ever See","level":2,"link":"#3-the-blue-caves","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"e045ef62-5d99-4dd8-97ca-51dd8a7270f9","content":"#4 Gerakas Beach — The Best Sandy Beach Day on the Island","level":2,"link":"#4-gerakas-beach","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"c0e9a89c-0beb-4e59-af15-8c5540f185a2","content":"#5 More Beaches Worth Your Time","level":2,"link":"#5-more-beaches","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ae943aa9-ea05-4162-9bc5-f207b22ebbfa","content":"Banana Beach","level":3,"link":"#banana-beach","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"d741bbff-0935-4be4-a1f3-1e78060131b7","content":"Kalamaki Beach","level":3,"link":"#kalamaki-beach","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"c40230dd-9f34-4b94-8c7d-882218158ac1","content":"Alykanas","level":3,"link":"#alykanas","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"1eeebe1a-2287-4564-90d6-2822a267e77d","content":"Laganas","level":3,"link":"#laganas","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"5fac46da-9dc5-4db5-9531-197b7a8f1f57","content":"#6 Turtle Island (Marathonisi) — The Nesting Heart of the Marine Park","level":2,"link":"#6-turtle-island","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"871a0205-5b0c-4f3f-b77e-3b38b3988508","content":"#7 Cameo Island — Sunset, Music, and a Wooden Bridge","level":2,"link":"#7-cameo-island","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"dbea9d6c-13a6-4a16-a62b-b634c97c13e6","content":"#8 Zakynthos Town — The Right Base and Worth Exploring","level":2,"link":"#8-zakynthos-town","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"09727cd9-5871-4e6b-b7ac-d7444d0e4994","content":"#9 The Food — Meze, Moussaka, and a Lot of Tzatziki","level":2,"link":"#9-the-food","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"dfec6e89-4c7b-4b62-9960-d22a2689ccbf","content":"Rent a Car — It's Not Optional for Most of This List","level":2,"link":"#rent-a-car","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7678248c-1d96-46ba-ae7a-4b3b9c401ef5","content":"When to Go to Zakynthos","level":2,"link":"#when-to-go","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"bb9c6e73-38fa-4c6b-beff-0dfd7dfd893b","content":"Practical Tips for Zakynthos","level":2,"link":"#practical-tips","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"2f88a6f8-c80f-453a-b791-5fe185657f45","content":"Zakynthos FAQ","level":2,"link":"#zakynthos-faq","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"dbd91928-cd3f-4fee-ba80-0d4fab4d39c1","content":"What is the best thing to do in Zakynthos?","level":3,"link":"#what-is-the-best-thing-to-do-in-zakynthos","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"593f4721-9241-4ac5-9a7d-d8e7126d0199","content":"Do you need a car in Zakynthos?","level":3,"link":"#do-you-need-a-car-in-zakynthos","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"06ce65a9-daeb-4569-887d-9c670e24dee4","content":"Can you visit Navagio Shipwreck Beach?","level":3,"link":"#can-you-visit-navagio-shipwreck-beach","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"5cdf5f02-d068-4a63-9a01-73706fc4120e","content":"How many days do you need in Zakynthos?","level":3,"link":"#how-many-days-do-you-need-in-zakynthos","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"6fe58806-45a8-4173-ac24-28fad52219ff","content":"Where should you stay in Zakynthos?","level":3,"link":"#where-should-you-stay-in-zakynthos","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><ul><li class=""><a href="#1-the-full-day-boat-tour">#1 The Full-Day Boat Tour — The One Thing That Cannot Be Skipped</a></li><li class=""><a href="#2-navagio-shipwreck-beach">#2 Navagio Shipwreck Beach — See It From the Water AND From Above</a></li><li class=""><a href="#3-the-blue-caves">#3 The Blue Caves — The Bluest Water You Will Ever See</a></li><li class=""><a href="#4-gerakas-beach">#4 Gerakas Beach — The Best Sandy Beach Day on the Island</a></li><li class=""><a href="#5-more-beaches">#5 More Beaches Worth Your Time</a><ul><li class=""><a href="#banana-beach">Banana Beach</a></li><li class=""><a href="#kalamaki-beach">Kalamaki Beach</a></li><li class=""><a href="#alykanas">Alykanas</a></li><li class=""><a href="#laganas">Laganas</a></li></ul></li><li class=""><a href="#6-turtle-island">#6 Turtle Island (Marathonisi) — The Nesting Heart of the Marine Park</a></li><li class=""><a href="#7-cameo-island">#7 Cameo Island — Sunset, Music, and a Wooden Bridge</a></li><li class=""><a href="#8-zakynthos-town">#8 Zakynthos Town — The Right Base and Worth Exploring</a></li><li class=""><a href="#9-the-food">#9 The Food — Meze, Moussaka, and a Lot of Tzatziki</a></li><li class=""><a href="#rent-a-car">Rent a Car — It's Not Optional for Most of This List</a></li><li class=""><a href="#when-to-go">When to Go to Zakynthos</a></li><li class=""><a href="#practical-tips">Practical Tips for Zakynthos</a></li><li class=""><a href="#zakynthos-faq">Zakynthos FAQ</a><ul><li class=""><a href="#what-is-the-best-thing-to-do-in-zakynthos">What is the best thing to do in Zakynthos?</a></li><li class=""><a href="#do-you-need-a-car-in-zakynthos">Do you need a car in Zakynthos?</a></li><li class=""><a href="#can-you-visit-navagio-shipwreck-beach">Can you visit Navagio Shipwreck Beach?</a></li><li class=""><a href="#how-many-days-do-you-need-in-zakynthos">How many days do you need in Zakynthos?</a></li><li class=""><a href="#where-should-you-stay-in-zakynthos">Where should you stay in Zakynthos?</a></li></ul></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you go — quick links</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Boat tours</strong> — the best full-day tours can fill up in peak season. Compare <a href="https://www.viator.com/searchResults/all?text=Zakynthos+boat+tour+full+day&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=things-to-do-in-zakynthos" rel="sponsored noopener noreferrer" target="_blank">full-day Zakynthos boat tours on Viator</a> and book before you arrive if your dates are fixed.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Car rental</strong> — almost everything on this list requires one. Compare rates at Zakynthos airport on <a href="https://www.discovercars.com/" rel="nofollow noopener noreferrer" target="_blank">DiscoverCars</a>. Our <a href="/car-rental-in-zakynthos/">Zakynthos car rental guide</a> covers what the roads are actually like.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay</strong> — base yourself in Zakynthos Town, not Laganas. Browse options on <a href="https://www.booking.com/searchresults.html?ss=Zakynthos+Town+Greece" rel="nofollow noopener noreferrer" target="_blank">Booking.com</a>, or read our <a href="/where-to-stay-in-zakynthos/">full guide to where to stay in Zakynthos</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Getting there</strong> — flying into ZTH, or coming by ferry from Athens? See our <a href="/zakynthos-from-athens/">guide to getting to Zakynthos from Athens</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel money</strong> — some boat operators and beach tavernas are cash-only, so bring a small cash buffer and use a low-fee card for euros. My <a href="/best-travel-money-card/">travel money card guide</a> explains the setup I use.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>eSIM</strong> — <a href="https://airalo.pxf.io/3koV4r" rel="sponsored noopener noreferrer" target="_blank">Airalo</a> for a Greece eSIM means you're connected the moment you land, no SIM swap needed.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="1-the-full-day-boat-tour">#1 The Full-Day Boat Tour — The One Thing That Cannot Be Skipped</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":2125,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/IMG_1176-1-scaled.jpg" alt="Navagio Shipwreck Beach cliffs seen from a boat in Zakynthos" class="wp-image-2125"/><figcaption class="wp-element-caption">The Navagio stop on our full-day boat tour — the cliffs close enough to feel the shadow.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you do one thing in Zakynthos, it's the boat tour. Not a half-day trip, not a sunset cruise — the full-day tour that takes you around most of the island, from Navagio in the north to the Mizithres rocks in the southwest. We booked ours before we even landed, and it was the single best day of the trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The itinerary varies slightly between operators, but a typical full-day tour covers: the Navagio coastline or viewpoint area when restrictions allow, the Blue Caves, swimming stops at coves you simply cannot reach by car, and the dramatic limestone stacks at the Mizithres — two enormous rock pillars rising straight out of the sea off the southwest tip of the island. Most tours include lunch on board or at a beach stop, and you're back by late afternoon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What makes it worth the full day rather than a half-day: the Mizithres. Most shorter tours skip them. The Mizithres are the kind of thing you see from the boat and go completely quiet for a minute. They don't appear on many Instagram feeds because they're hard to reach — which is exactly why they're worth going for.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some operators also offer private boat rentals if you want to set your own pace and stops. We looked into it and ultimately went with a group tour — the price difference is significant and the guide's knowledge adds a lot — but if you're a larger group or want full flexibility, a private charter is worth pricing up.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What to know:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Book the full-day tour, not the half-day — the Mizithres alone justify the extra hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Morning departures usually get better light along the north coast and fewer boats at the Blue Caves</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Private boat rental is possible if you want full flexibility — worth pricing for groups of 6+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Book in advance — peak season morning slots fill up fast</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Compare <a href="https://www.viator.com/searchResults/all?text=Zakynthos+boat+tour+full+day&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=things-to-do-in-zakynthos" rel="sponsored noopener noreferrer" target="_blank">full-day Zakynthos boat tours on Viator</a> and look for operators that include the Mizithres in the route.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="2-navagio-shipwreck-beach">#2 Navagio Shipwreck Beach — See It From the Water AND From Above</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":2121,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/enxh-shehi-6OteN4n7ny0-unsplash-edited.jpg" alt="Navagio Shipwreck Beach viewpoint from above in Zakynthos" class="wp-image-2121"/><figcaption class="wp-element-caption">The clifftop view above Navagio — a completely different angle from the boat trip, and worth both.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>You've seen the photo: a rusted shipwreck on white sand, enclosed by 200-meter limestone cliffs, surrounded by water that looks too blue to be real. The photo is accurate. What the photo doesn't prepare you for is how the cliffs feel from the water — the scale of them, the way they block out the sky, the color of the water inside the cove at close range.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Access rules at Navagio change often because of rockfall risk from the cliffs above. In recent seasons, passengers have not been allowed to step onto the beach itself. As of June 2026, current reports say Navagio Beach is closed to direct visitor access until October 31, 2026 because of landslide and rockfall risk. Treat Navagio as a view-from-above or boat-distance experience, and check the latest restrictions before booking a tour. For most people, that is still more than enough. We saw Navagio both ways: from the boat on the tour, and from the clifftop viewpoint by car the next morning. They're completely different experiences and both are worth doing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The clifftop viewpoint is reached by car. It gives you the aerial view — the one in every travel magazine, looking straight down into the cove. Access rules have changed repeatedly in recent years, so check whether the official viewing platform and boat approach are open before you go, and stick to official barriers rather than informal cliff-edge paths.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For more detail on both approaches, see our <a href="/shipwreck-beach-zakynthos/">full guide to visiting Navagio Shipwreck Beach</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="3-the-blue-caves">#3 The Blue Caves — The Bluest Water You Will Ever See</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":2124,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/IMG_1219-1-scaled.jpg" alt="Blue Caves Zakynthos turquoise water seen from a boat" class="wp-image-2124"/><figcaption class="wp-element-caption">The Blue Caves — the water is so clear it looks backlit from below.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The Blue Caves are on the northern tip of the island, accessible only by boat. The caves are sea-level caverns carved into the white limestone cliffs, and the water inside them is a color that doesn't quite exist anywhere else I've been — not Santorini, not the Amalfi Coast, not the Red Sea. The light bounces off the white rock below the surface and turns the water an electric, glowing blue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The clarity is what I wasn't prepared for. You can see the bottom clearly at depths where you usually can't see anything. It's almost unsettling — the water is so transparent it looks almost like there's nothing there, and then you realize you're looking at 10 meters of open sea floor. I've snorkeled in a lot of places. This was something different.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most full-day boat tours stop here, and it's the right way to see them. Small boats from Agios Nikolaos harbor also run shorter Blue Caves trips if that's all you want. Morning visits get better light inside the caves — the blue glow is strongest when the sun is at a lower angle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What to know:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Accessible by boat only — departures from Agios Nikolaos (north) or as part of the full-day tour</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Morning visits get the best light inside the caves</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The water is swimmable in calm conditions — bring a snorkel if your tour permits</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="4-gerakas-beach">#4 Gerakas Beach — The Best Sandy Beach Day on the Island</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":2127,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/IMG_1384-1024x768.jpg" alt="Gerakas Beach Zakynthos with soft sand and turtle nesting markers" class="wp-image-2127"/><figcaption class="wp-element-caption">Gerakas in the morning — soft sand, turtle nest markers, and almost no one else.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Gerakas is the beach you go to when you want a proper beach day — long, soft sand, gentle clear water, and the kind of quiet that feels intentional. It's part of the National Marine Park of Zakynthos: loggerhead sea turtles (Caretta caretta) nest here between May and October, which means protection rules, marked nesting areas, and restricted activity after sunset. Do not expect a full beach-club setup here; follow the posted signs and keep well clear of any marked nests. In practice, this is exactly why the beach still feels as beautiful as it should.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Go in the morning. The light is better, the crowds haven't arrived yet, and if you're lucky with timing you might find the nest markers from a recent overnight laying — small wooden stakes and tape that the conservation teams put out to protect the eggs. We saw the nests but not the turtles; the actual sightings tend to happen at dawn or dusk rather than midday beach-visiting hours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The beach faces east, so morning light is excellent and the afternoon gets some shade from the low hills behind. Take the beach rules seriously — no driving on the beach, no noise after dark, keep well clear of any marked nests. The turtles have been nesting here for generations and the rules exist for a reason.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Full details and the other top Zakynthos beaches in our <a href="/best-beaches-in-zakynthos/">guide to the best beaches in Zakynthos</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="5-more-beaches">#5 More Beaches Worth Your Time</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Gerakas is the best beach day, but Zakynthos has enough variety that you won't run out of different swimming experiences. Here's what else we visited and what each one is actually like:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="banana-beach">Banana Beach</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A long, gently curving beach on the southeast coast with calm, shallow water — the shape that gave it the name. More organized than Gerakas (sunbeds available), very family-friendly, good for a half-day if you want convenience and easy swimming. Not dramatic, but genuinely pleasant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="kalamaki-beach">Kalamaki Beach</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Another National Marine Park beach, similar to Gerakas in terms of protection rules, but slightly more accessible from Laganas and the south. Good sandy beach with clear water. Another nesting site, so protection rules apply — especially around marked nests and night access. We found it quieter than expected for how easy it is to reach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="alykanas">Alykanas</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A small village on the northeast coast with a calm, sheltered bay and a beach that works well for families with young children — the water stays shallow and the beach is organized without being overcrowded. Good taverna options nearby for lunch.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="laganas">Laganas</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The longest beach on the island and the most famous for the wrong reasons. Laganas is the party strip — nightclubs, late-night bars, and the kind of summer-holiday energy that suits some people and actively repels others. The beach itself is long and sandy, the water is fine, but the atmosphere is firmly in the spring-break category. We swam there once. We also got a jellyfish sting there — my husband, not me — so factor that in. Jellyfish are common across Zakynthos, but Laganas's sheltered bay seems to concentrate them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Don't base yourself in Laganas unless you're specifically there for the nightlife. For almost everyone else, it's a day visit at most.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="6-turtle-island">#6 Turtle Island (Marathonisi) — The Nesting Heart of the Marine Park</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marathonisi — universally known as Turtle Island — is a small uninhabited island in Laganas Bay that looks, from the air, exactly like a sea turtle. Short boat trips run there from Laganas harbor. On the island you'll find a beach, some pine shade, and the knowledge that you're standing in one of the most important loggerhead turtle nesting areas in the Mediterranean.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Turtle sightings around the island are possible, especially early in the day, but choose operators that keep distance and do not crowd the turtles. The island itself is part of the National Marine Park, so the usual protection rules apply. It's a pleasant half-hour excursion rather than a full activity — pair it with a swim at Kalamaki or a Laganas lunch and it becomes a full morning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Note: Turtle Island (Marathonisi) and Cameo Island are two separate places — they're often confused. Turtle Island is in Laganas Bay and is about turtles and nature. Cameo Island is a small rocky island near Agios Sostis, connected by a wooden bridge, and is better known for sunset parties and music events.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="7-cameo-island">#7 Cameo Island — Sunset, Music, and a Wooden Bridge</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cameo Island (also called "the Bridge Island" locally) is a small rocky outcrop near the village of Agios Sostis, connected to the mainland by a narrow wooden footbridge. The island is privately operated and has a bar, a pool, and what becomes — especially at sunset — one of the liveliest outdoor party venues on the island.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're there for the atmosphere rather than the beach, it's worth an evening visit. The sunset from the island, with music and cocktails and the bay in front of you, is a good Zakynthos memory. We ate dinner at Agios Sostis on the same evening — the village has solid taverna options and is far quieter than anything near Laganas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="8-zakynthos-town">#8 Zakynthos Town — The Right Base and Worth Exploring</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":2128,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/IMG_1306-1024x768.jpg" alt="Zakynthos Town waterfront in the evening" class="wp-image-2128"/><figcaption class="wp-element-caption">Zakynthos Town in the evening — the right base for exploring the whole island.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Zakynthos Town (also called Zante Town) is the capital of the island and where we based ourselves for the whole trip. It was a deliberate choice: central enough to drive to anywhere in under 40 minutes, atmospheric enough to enjoy in the evenings, and completely different from the resort-strip vibe of Laganas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The town was almost entirely rebuilt after a catastrophic earthquake in 1953, so it has a consistent Venetian-influenced architecture that feels elegant without being museum-like. The waterfront is broad and walkable, lined with restaurants and cafes. The harbor area at dusk — the fishing boats, the lit-up church facades, the evening crowd — is one of those slow, unhurried Mediterranean scenes that's easy to sit in for a long time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Worth doing in town: walk up to the Venetian castle (Bochali hill) for the view over the harbor, visit the Museum of Solomos and Eminent Zakynthians if you want context on the island's history, and spend at least one evening walking the waterfront without any agenda. The town earns its own evening.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>See our <a href="/where-to-stay-in-zakynthos/">guide to where to stay in Zakynthos</a> for neighborhood comparisons and specific hotel recommendations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="9-the-food">#9 The Food — Meze, Moussaka, and a Lot of Tzatziki</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:image {"id":2130,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/IMG_1099-edited.jpg" alt="Greek food in Zakynthos with tzatziki meze and wine" class="wp-image-2130"/><figcaption class="wp-element-caption">The Zakynthos food ritual: tzatziki, meze, wine, and no particular reason to be anywhere else.</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>Zakynthos food is Greek food done well and without pretension. We ate moussaka that tasted exactly as moussaka should taste. We ate souvlaki at beachside snack bars and gyros out of paper wrappers at roadside stops. We ate proper sit-down dinners in Zakynthos Town with wine and meze and no particular interest in finishing quickly. All of it was good.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The tzatziki is worth mentioning specifically. I eat a lot of tzatziki when I'm in Greece, but Zakynthos had some of the best we've found — thick, garlicky, with good olive oil on top. Order it as a starter at every meal and you won't regret it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A few honest notes on eating in Zakynthos:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Price range:</strong> wide. A beach gyros is 4–5 euros. A sit-down dinner for two with wine in Zakynthos Town is 40–60 euros. Both are worth doing.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Best areas for dinner:</strong> Zakynthos Town waterfront and the streets just behind it. Agios Sostis for a quieter evening. Avoid eating on the Laganas strip unless convenience is the only priority.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Local dishes to order:</strong> moussaka, sofrito (a Zakynthos specialty — veal in white wine and garlic sauce), pastitsada, and anything with local olive oil.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Beach eating:</strong> most beaches have a small snack bar or taverna within walking distance. Stock up on water before driving to the more remote ones.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="rent-a-car">Rent a Car — It's Not Optional for Most of This List</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":2134,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/IMG_1115-edited-scaled.jpg" alt="Rental car on a scenic Zakynthos road trip route" class="wp-image-2134"/><figcaption class="wp-element-caption">A rental car changes everything in Zakynthos — most of the best places simply aren't reachable without one.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Public transport on Zakynthos is limited. It connects the major towns, but most of the beaches on this list — Gerakas, Banana Beach, the Navagio clifftop viewpoint, Alykanas, the Blue Caves road — require a car to reach. We packed our beach bags into the boot every morning and drove. It was the right call.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A few honest notes about driving here: the island is small and the main roads are straightforward. There are some narrow village streets and steeper sections in the north, but nothing that an average driver with some experience can't handle. I would not recommend it for someone who has never driven outside a city, but for most travelers it's genuinely manageable. Quad bikes and scooters are also popular alternatives if you're traveling light.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One practical advantage of a car: you can pack a proper beach bag with towels, snorkeling gear, water, and food — which makes the more remote beach days significantly better. We rented at the airport, which is the easiest pickup option.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Full details, costs, and what the roads are actually like in our <a href="/car-rental-in-zakynthos/">Zakynthos car rental guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="when-to-go">When to Go to Zakynthos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We went in June, and I'd recommend it — specifically the first two or three weeks of June, before the school summer holidays begin across Europe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The weather in early June is already fully summer: hot, sunny, almost no rain. The sea is not yet at its warmest (mid-July to August peak), but it was absolutely swimmable — I was swimming daily and I was pregnant, which gives you a reasonable picture of the conditions. The advantage of June over July–August is significant: the beaches are less crowded, boats have more availability, prices are lower, and the island still has that feeling of being somewhere rather than somewhere being consumed by tourism.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>May is a good option if you want even fewer crowds and don't mind slightly cooler water. September is excellent — the sea is at its warmest and the peak crowds have left. July and August are fully operational but significantly busier and more expensive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Avoid Laganas in late July and August if you're not there for the party season. The rest of the island stays manageable year-round.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips for Zakynthos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Jellyfish:</strong> present across the island, most concentrated in the sheltered southern bays (Laganas, Kalamaki). If you get stung, rinse with seawater (not freshwater), remove any tentacles without rubbing, and apply a cold pack. My husband got stung in Laganas — it was unpleasant but not serious. It's worth knowing to expect them.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sun:</strong> the Ionian sun in June is already intense. We got badly sunburned on the first beach day despite sunscreen. Apply before you get in the car, not after you arrive at the beach.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Cash:</strong> useful, especially at beach tavernas and some boat operators. Not essential, but take 50–100 euros in cash.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Water:</strong> bring more than you think. Driving to remote beaches in 30°C heat with a full beach bag requires more water than a city day.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Booking ahead:</strong> the boat tour and car rental. Everything else you can figure out on arrival.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>How many days:</strong> three days gets you the essentials (boat tour, Navagio viewpoint, Gerakas, Zakynthos Town). Four or five days lets you slow down and add the quieter beaches, a Cameo Island evening, and a proper food night in town.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="zakynthos-faq">Zakynthos FAQ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-the-best-thing-to-do-in-zakynthos">What is the best thing to do in Zakynthos?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The full-day boat tour is the best thing to do in Zakynthos if you only choose one activity. It gives you the clearest sense of the island: Blue Caves, dramatic cliffs, hidden swimming stops, and the coastline you cannot fully experience by car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="do-you-need-a-car-in-zakynthos">Do you need a car in Zakynthos?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For most travelers, yes. You can visit Zakynthos without a car if you stay in one resort area and book tours, but the best beaches, viewpoints, villages, and flexible food stops are much easier with a rental car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="can-you-visit-navagio-shipwreck-beach">Can you visit Navagio Shipwreck Beach?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Navagio rules change often because of landslide and rockfall risk. As of June 2026, current reports say the beach is closed to direct visitor access until October 31, 2026. Check current restrictions before booking, and plan for Navagio as a viewpoint or boat-distance stop rather than a guaranteed beach landing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-many-days-do-you-need-in-zakynthos">How many days do you need in Zakynthos?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Three days is enough for the essentials: one full-day boat tour, Gerakas Beach, Zakynthos Town, and a viewpoint or two. Four to five days is better if you want slower beach time, Cameo Island, more food stops, and less driving pressure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="where-should-you-stay-in-zakynthos">Where should you stay in Zakynthos?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Zakynthos Town is the best base for most first-time visitors who want to explore the whole island. Laganas works mainly if nightlife is the priority. Families and beach-focused travelers may prefer calmer resort areas, but a car matters more than the exact base.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"What is the best thing to do in Zakynthos?","acceptedAnswer":{"@type":"Answer","text":"The full-day boat tour is the best thing to do in Zakynthos if you only choose one activity. It gives you the clearest sense of the island: Blue Caves, dramatic cliffs, hidden swimming stops, and the coastline you cannot fully experience by car."}},
+    {"@type":"Question","name":"Do you need a car in Zakynthos?","acceptedAnswer":{"@type":"Answer","text":"For most travelers, yes. You can visit Zakynthos without a car if you stay in one resort area and book tours, but the best beaches, viewpoints, villages, and flexible food stops are much easier with a rental car."}},
+    {"@type":"Question","name":"Can you visit Navagio Shipwreck Beach?","acceptedAnswer":{"@type":"Answer","text":"Navagio rules change often because of landslide and rockfall risk. As of June 2026, current reports say the beach is closed to direct visitor access until October 31, 2026. Check current restrictions before booking, and plan for Navagio as a viewpoint or boat-distance stop rather than a guaranteed beach landing."}},
+    {"@type":"Question","name":"How many days do you need in Zakynthos?","acceptedAnswer":{"@type":"Answer","text":"Three days is enough for the essentials: one full-day boat tour, Gerakas Beach, Zakynthos Town, and a viewpoint or two. Four to five days is better if you want slower beach time, Cameo Island, more food stops, and less driving pressure."}},
+    {"@type":"Question","name":"Where should you stay in Zakynthos?","acceptedAnswer":{"@type":"Answer","text":"Zakynthos Town is the best base for most first-time visitors who want to explore the whole island. Laganas works mainly if nightlife is the priority. Families and beach-focused travelers may prefer calmer resort areas, but a car matters more than the exact base."}}
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>For the full trip picture — costs, where to stay, how to get there and how to get around — see our complete <a href="/zakynthos-road-trip/">Zakynthos travel guide</a> and <a href="/zakynthos-travel-costs/">Zakynthos travel costs breakdown</a>.</p>
+<!-- /wp:paragraph -->

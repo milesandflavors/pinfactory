@@ -1,0 +1,634 @@
+﻿<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Last checked:</strong> May 2026. Amalfi Coast transport, beach access, cathedral ticket rules, and boat conditions can change quickly. Check ferry and bus schedules close to your trip, and treat Furore beach access and Blue Grotto-style cave visits as condition-dependent rather than guaranteed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:image {"id":792,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/Atrani-1024x768.jpg" alt="Atrani village on the Amalfi Coast with colorful buildings near the sea" class="wp-image-792"/><figcaption class="wp-element-caption">Walk Through Atrani</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The Amalfi Coast has a reputation for being expensive — and it is not entirely undeserved. But here is what most travel guides miss: the experiences that make this coastline extraordinary are often free at the point of entry. The hiking trails, viewpoints, medieval villages, sunrises, sunsets, and public beach sections can be done without buying attraction tickets. Transport and food still cost money, but the experiences themselves do not need to.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Still in the early stages of planning? Our <a href="/how-to-plan-a-trip/">complete trip planning guide</a> covers everything from finding cheap flights to Naples to booking the right accommodation and budgeting your trip from start to finish.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"9aad32d8-7060-49b0-9af0-65feeda5992e","content":"Before you go — quick links","level":2,"link":"#before-you-go-quick-links","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"298077e5-deb2-4c54-a3b6-a257e24f1868","content":"Quick Summary","level":2,"link":"#quick-summary","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"10f6336b-28d7-4494-bf94-2f8ca809e4b5","content":"Quick Tips Before You Go","level":2,"link":"#quick-tips-before-you-go","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"3c11c835-45dd-4ab1-9873-1fa5a44c35f9","content":"20 Free Things to Do on the Amalfi Coast","level":2,"link":"#20-free-things-to-do-on-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"71681e65-b6cd-4a60-8e7f-f30dcaebbdb3","content":"1. Hike the Path of the Gods","level":2,"link":"#1-hike-the-path-of-the-gods","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"62256cd0-fbf7-4452-b4cf-6a71d1dfe109","content":"2. Watch Sunrise Over Positano","level":2,"link":"#2-watch-sunrise-over-positano","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"1a336371-60bf-4c6d-8ad0-ad5bdef71209","content":"3. Walk Through Atrani","level":2,"link":"#3-walk-through-atrani","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"a58e85c3-2fee-4fce-9064-ae2f6eaef049","content":"4. Swim at Fornillo Beach, Positano","level":2,"link":"#4-swim-at-fornillo-beach-positano","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"fda56384-c9e9-40d5-aa81-a770fe1cc1d5","content":"5. Find the Belvedere Viewpoint Above Amalfi","level":2,"link":"#5-find-the-belvedere-viewpoint-above-amalfi","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"f8b4135f-e873-4dbd-8546-9f354696668b","content":"6. Walk the Ravello to Atrani Path","level":2,"link":"#6-walk-the-ravello-to-atrani-path","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"df6ee12c-8172-40d9-a516-2e7617f8c463","content":"7. Visit Scala — The Oldest Town on the Coast","level":2,"link":"#7-visit-scala-the-oldest-town-on-the-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"9d20639c-1240-43ad-8b2d-a0ac4c1e8672","content":"8. Ride the SITA Bus Along the Coast Road","level":2,"link":"#8-ride-the-sita-bus-along-the-coast-road","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"77929a69-a865-4f2d-a5c7-9134535d09ca","content":"9. Explore Positano at Night","level":2,"link":"#9-explore-positano-at-night","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ea5fa7ed-c8a1-4e52-beff-4472b95ac3b0","content":"10. Visit Amalfi Cathedral (Main Church — Free)","level":2,"link":"#10-visit-amalfi-cathedral-main-church-free","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"d01ddd20-4bcb-4e29-9709-0dfe9506f3f3","content":"11. Watch Sunset from Praiano","level":2,"link":"#11-watch-sunset-from-praiano","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"0f4c1cc4-63e5-4685-8aad-746e4ae83fa6","content":"12. Swim at Marina di Praia, Praiano","level":2,"link":"#12-swim-at-marina-di-praia-praiano","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"dad261b0-6fb5-49e7-970f-cdaf047a9712","content":"13. Walk Through Ravello Town Center","level":2,"link":"#13-walk-through-ravello-town-center","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7278fa25-4ac5-400f-8c01-3d38b3dcdac9","content":"14. See the Furore Fjord from the Bridge","level":2,"link":"#14-see-the-furore-fjord-from-the-bridge","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"f618fb90-4108-416a-a0ee-68e4afd11526","content":"15. Watch Morning Ferry Traffic from the Waterfront","level":2,"link":"#15-watch-morning-ferry-traffic-from-the-waterfront","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7de9b208-b398-423a-a604-5ce45cfbe54d","content":"16. Explore the Lemon Groves Above Amalfi","level":2,"link":"#16-explore-the-lemon-groves-above-amalfi","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"bc2723cb-04c1-430e-8dd5-946ced5ff568","content":"17. Walk Sorrento's Clifftop at Villa Comunale","level":2,"link":"#17-walk-sorrentos-clifftop-at-villa-comunale","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"98a27abd-a3e0-4ee4-96d2-fb3963393194","content":"18. Find Informal Viewpoints on the Coast Road","level":2,"link":"#18-find-informal-viewpoints-on-the-coast-road","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"98ff92ab-39ea-4217-8f84-f7a7283d4361","content":"19. Try Limoncello Tasting at Local Producers","level":2,"link":"#19-try-limoncello-tasting-at-local-producers","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"948c89f8-a718-47f1-ae9e-04a2f57226b8","content":"20. Watch Any Sunset from Any Elevated Point","level":2,"link":"#20-watch-any-sunset-from-any-elevated-point","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"01524fd7-1948-42e9-a311-673643c944fd","content":"How Much Can You Save?","level":2,"link":"#how-much-can-you-save","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ce610478-dd61-49c9-8938-e06cb930cea8","content":"Is the Amalfi Coast Worth It on a Budget?","level":2,"link":"#is-the-amalfi-coast-worth-it-on-a-budget","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"5a94eafc-7ce6-48c0-990e-d79379c2994a","content":"How to Get the Most From This Free List","level":2,"link":"#how-to-get-the-most-from-this-free-list","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"561ee3b6-8e67-422d-ad65-cf7e2a849a79","content":"Best Time for Free Experiences on the Amalfi Coast","level":2,"link":"#best-time-for-free-experiences-on-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"72d2b6c5-8501-447c-9e11-364dd5c4fd73","content":"Final Thoughts: Free Things to Do on the Amalfi Coast","level":2,"link":"#final-thoughts-free-things-to-do-on-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"4139cf78-d591-4dbc-970c-1681c777b73d","content":"Frequently Asked Questions","level":2,"link":"#frequently-asked-questions","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"8e3cc6f4-662f-498e-b1cc-e529db96d04b","content":"More Amalfi Coast Guides","level":2,"link":"#more-amalfi-coast-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul","excludeHeadings":["h3"]} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><ul><li class=""><a href="#before-you-go-quick-links">Before you go — quick links</a></li><li class=""><a href="#quick-summary">Quick Summary</a></li><li class=""><a href="#quick-tips-before-you-go">Quick Tips Before You Go</a></li><li class=""><a href="#20-free-things-to-do-on-the-amalfi-coast">20 Free Things to Do on the Amalfi Coast</a></li><li class=""><a href="#1-hike-the-path-of-the-gods">1. Hike the Path of the Gods</a></li><li class=""><a href="#2-watch-sunrise-over-positano">2. Watch Sunrise Over Positano</a></li><li class=""><a href="#3-walk-through-atrani">3. Walk Through Atrani</a></li><li class=""><a href="#4-swim-at-fornillo-beach-positano">4. Swim at Fornillo Beach, Positano</a></li><li class=""><a href="#5-find-the-belvedere-viewpoint-above-amalfi">5. Find the Belvedere Viewpoint Above Amalfi</a></li><li class=""><a href="#6-walk-the-ravello-to-atrani-path">6. Walk the Ravello to Atrani Path</a></li><li class=""><a href="#7-visit-scala-the-oldest-town-on-the-coast">7. Visit Scala — The Oldest Town on the Coast</a></li><li class=""><a href="#8-ride-the-sita-bus-along-the-coast-road">8. Ride the SITA Bus Along the Coast Road</a></li><li class=""><a href="#9-explore-positano-at-night">9. Explore Positano at Night</a></li><li class=""><a href="#10-visit-amalfi-cathedral-main-church-free">10. Visit Amalfi Cathedral (Main Church — Free)</a></li><li class=""><a href="#11-watch-sunset-from-praiano">11. Watch Sunset from Praiano</a></li><li class=""><a href="#12-swim-at-marina-di-praia-praiano">12. Swim at Marina di Praia, Praiano</a></li><li class=""><a href="#13-walk-through-ravello-town-center">13. Walk Through Ravello Town Center</a></li><li class=""><a href="#14-see-the-furore-fjord-from-the-bridge">14. See the Furore Fjord from the Bridge</a></li><li class=""><a href="#15-watch-morning-ferry-traffic-from-the-waterfront">15. Watch Morning Ferry Traffic from the Waterfront</a></li><li class=""><a href="#16-explore-the-lemon-groves-above-amalfi">16. Explore the Lemon Groves Above Amalfi</a></li><li class=""><a href="#17-walk-sorrentos-clifftop-at-villa-comunale">17. Walk Sorrento's Clifftop at Villa Comunale</a></li><li class=""><a href="#18-find-informal-viewpoints-on-the-coast-road">18. Find Informal Viewpoints on the Coast Road</a></li><li class=""><a href="#19-try-limoncello-tasting-at-local-producers">19. Try Limoncello Tasting at Local Producers</a></li><li class=""><a href="#20-watch-any-sunset-from-any-elevated-point">20. Watch Any Sunset from Any Elevated Point</a></li><li class=""><a href="#how-much-can-you-save">How Much Can You Save?</a></li><li class=""><a href="#is-the-amalfi-coast-worth-it-on-a-budget">Is the Amalfi Coast Worth It on a Budget?</a></li><li class=""><a href="#how-to-get-the-most-from-this-free-list">How to Get the Most From This Free List</a></li><li class=""><a href="#best-time-for-free-experiences-on-the-amalfi-coast">Best Time for Free Experiences on the Amalfi Coast</a></li><li class=""><a href="#final-thoughts-free-things-to-do-on-the-amalfi-coast">Final Thoughts: Free Things to Do on the Amalfi Coast</a></li><li class=""><a href="#frequently-asked-questions">Frequently Asked Questions</a></li><li class=""><a href="#more-amalfi-coast-guides">More Amalfi Coast Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="before-you-go-quick-links">Before you go — quick links</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Flights — <a href="https://flights.google.com" rel="nofollow noopener noreferrer" target="_blank">Google Flights</a> or <a href="https://www.skyscanner.com" rel="nofollow noopener noreferrer" target="_blank">Skyscanner</a> — fly into Naples (NAP)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Hotels — <a href="https://www.expedia.com/Hotel-Search?destination=Amalfi+Coast%2C+Italy" rel="nofollow noopener noreferrer" target="_blank">Search Amalfi Coast hotels on Expedia</a> or <a href="https://www.booking.com/searchresults.html?ss=Amalfi+Coast" rel="nofollow noopener noreferrer" target="_blank">Booking.com</a> — book early; Praiano and Amalfi town offer the best value</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Boat tours — <a href="https://www.viator.com/Salerno-tours/Day-Cruises/d4736-g3-c7?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=free-things-amalfi" rel="sponsored noopener noreferrer" target="_blank">Reserve your Amalfi Coast boat tour on Viator</a> — the one paid experience worth adding to a free-focused trip</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>eSIM - <a href="https://www.airalo.com/italy-esim" target="_blank" rel="nofollow noopener noreferrer">Airalo Italy plan</a> - compare current Italy data plans before you travel</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Insurance — <a href="https://www.worldnomads.com/travel-insurance/" rel="nofollow noopener noreferrer" target="_blank">World Nomads</a> — compare the policy wording for hiking, cancellation, and medical cover before you buy</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-summary">Quick Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Best free experience</strong></td><td>Path of the Gods hike</td></tr><tr><td><strong>Best free viewpoint</strong></td><td>Belvedere above Amalfi town</td></tr><tr><td><strong>Best free beach</strong></td><td>Fornillo (Positano) or Atrani</td></tr><tr><td><strong>Best free town</strong></td><td>Atrani or Scala</td></tr><tr><td><strong>Best time for free activities</strong></td><td>Early morning — before tour groups arrive</td></tr><tr><td><strong>Sample low-cost day</strong></td><td>Free experiences + public transport and simple food</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>The map below groups the route into color-coded layers by area - Positano, the Path of the Gods and Praiano, Amalfi and Atrani, Ravello and Scala, and Furore and Sorrento. Use it to plan which experiences you can combine on the same day without backtracking across the coast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1Tb12TbYHPmV8om36PrIwSQCQXaLsNyc&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-tips-before-you-go">Quick Tips Before You Go</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For accommodation that will not break the budget on the Amalfi Coast, compare Praiano, Amalfi town, and nearby Sorrento before defaulting to Positano. They can offer better value, especially outside peak summer, while still keeping you close to the coast. Compare on <a href="https://www.booking.com/searchresults.html?ss=Amalfi+Coast" target="_blank" rel="nofollow noopener noreferrer">Booking.com</a> and <a href="https://www.expedia.com/Hotel-Search?destination=Amalfi%20Coast" target="_blank" rel="nofollow noopener noreferrer">Expedia</a> before you book.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The one paid experience worth budgeting for regardless: the boat tour. From the water, the coast reveals itself completely — grottos, hidden beaches, sea caves you can't reach any other way. <a href="https://www.viator.com/Salerno-tours/Day-Cruises/d4736-g3-c7?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=free-things-amalfi" rel="sponsored noopener noreferrer" target="_blank">See Amalfi Coast boat tour options on Viator.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="20-free-things-to-do-on-the-amalfi-coast">20 Free Things to Do on the Amalfi Coast</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="1-hike-the-path-of-the-gods">1. Hike the Path of the Gods</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Path of the Gods is the best free experience on the entire Amalfi Coast — a roughly 7.8-kilometer hiking trail on the classic Bomerano/Agerola-to-Nocelle route, with clifftop views above Positano that no photograph does justice to. The trail itself is free. Transport to the trailhead is the part to plan carefully: check the current SITA timetable before you go and avoid building the hike around a tight connection.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free trail, transport extra | <strong>Time needed:</strong> 3-4 hours | <strong>Best time:</strong> 7am start in summer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Bring 2 liters of water, proper shoes, and start early — the exposed sections get noticeably uncomfortable by 10am in summer. If you want local stories and context, a guided hike transforms the experience. <a href="https://www.viator.com/Naples-attractions/Path-of-the-Gods-Sentiero-Degli-Dei/d508-a25933?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=free-things-amalfi" rel="sponsored noopener noreferrer" target="_blank">See guided Path of the Gods options on Viator.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":791,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/Path_of_thegods-1024x683.jpg" alt="Path of the Gods hiking trail with Amalfi Coast cliffs and sea views" class="wp-image-791"/><figcaption class="wp-element-caption">The Path of the Gods — start at 7am in summer and you'll have the best sections almost to yourself.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="2-watch-sunrise-over-positano">2. Watch Sunrise Over Positano</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The sunrise over Positano — seen from the elevated terraces above the town before the day-trippers arrive — is one of the most beautiful sights in Europe and costs nothing. The light comes in from the east and gradually illuminates the pastel buildings from top to bottom while the sea turns from grey to silver to gold. You need to stay overnight in Positano to make this possible — but it's worth the accommodation premium just for this one experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Summer mornings for the earliest light; check sunrise time for your exact dates</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Walk up from the main town to the SP163 road level for the widest view of the town and bay below. Bring a light layer — it's cool at that hour even in summer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="3-walk-through-atrani">3. Walk Through Atrani</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Atrani is directly next to Amalfi town — 10 minutes on foot — and almost nobody visits it. One of the smallest municipalities in Italy, it has a genuine main square, a medieval church, a quiet beach, and an entirely local atmosphere that's become rare anywhere on the main coast. The prices at Atrani's restaurants and bars are set for residents rather than tourists — the food is equally good and the experience is more authentic. Most visitors discover it by accident on the way to Amalfi; it's worth finding deliberately, ideally early in the trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Late afternoon when day-trippers have moved on</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Have lunch here instead of Amalfi or Positano — same quality, noticeably lower prices.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="4-swim-at-fornillo-beach-positano">4. Swim at Fornillo Beach, Positano</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Fornillo is Positano's less famous second beach — a 10-minute walk around the headland from the main Spiaggia Grande. Significantly quieter, more relaxed, more local in atmosphere, and with a small free section where you can set up a towel without paying beach club prices. The water is the same extraordinary blue as everywhere else on the coast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free public section / beach club pricing varies by season | <strong>Best time:</strong> Mornings or late afternoons</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>With kids:</strong> The water at Fornillo is calmer than Spiaggia Grande — better for young children and easier for swimming without boat wake.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> The path between Spiaggia Grande and Fornillo is beautiful — walk slowly and stop at the viewpoints on the way.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="5-find-the-belvedere-viewpoint-above-amalfi">5. Find the Belvedere Viewpoint Above Amalfi</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Almost nobody knows about the Belvedere Cimitero Monumentale above Amalfi town — a viewpoint reached by climbing the stairs on the left side of the cathedral for about 10 minutes. From here you see the entire town from above: the cathedral dome, the harbor, the beach, the valley, and the coast stretching in both directions. One of the finest free viewpoints on the Amalfi Coast, and entirely off the tourist radar.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Late afternoon for warm light on the town below | <strong>Time needed:</strong> 30 minutes up and back</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Wear comfortable shoes — the stairs are steep and uneven. Allow 15 minutes of climbing and take your time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="6-walk-the-ravello-to-atrani-path">6. Walk the Ravello to Atrani Path</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The ancient stairway path between Ravello and Atrani is one of the most beautiful short hikes on the Amalfi Coast — a 45-minute descent through terraced lemon groves, olive orchards, and medieval stairways that have connected these two towns for centuries. The views of the valley and the sea below are extraordinary throughout. Take the bus back up to Ravello or continue to Amalfi town on foot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Difficulty:</strong> Easy (mostly descent on ancient stairs) | <strong>Time needed:</strong> 45 minutes one way</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Go downhill from Ravello to Atrani — the uphill direction is significantly more demanding and much less enjoyable in summer heat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="7-visit-scala-the-oldest-town-on-the-coast">7. Visit Scala — The Oldest Town on the Coast</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Scala is the oldest town on the Amalfi Coast and almost no tourists go there. Sitting directly across the valley from Ravello, it offers extraordinary views of Ravello and the coast below, a medieval cathedral, and a completely authentic small-town atmosphere — no tourist shops, prices set for locals, and a genuine sense of how the coast lived before it became famous. Connected to Ravello by a beautiful 30-minute walking path.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Afternoon for the light on the valley</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Combine with Ravello — walk between the two towns on the valley path for one of the most beautiful and least-visited experiences on the coast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="8-ride-the-sita-bus-along-the-coast-road">8. Ride the SITA Bus Along the Coast Road</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The SS163 Amalfitana — the coastal road — is one of the most scenic roads in the world, and you do not need a car or a private tour to experience the views. The SITA bus is a low-cost transport option along the coast, with fares and routes changing by season. It is not technically free, but it is one of the cheapest ways to see the road if you are already moving between towns.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Low-cost public bus, fare varies by route and season | <strong>Best time:</strong> Early morning or late afternoon for the best light</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Sit on the right side of the bus heading east (toward Amalfi) for the sea-facing views. The left side has the mountain views — both are extraordinary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For more on getting around the Amalfi Coast on a budget — ferries vs. buses vs. taxis with real price comparisons — our <a href="/amalfi-coast-budget-guide/">Amalfi Coast budget guide</a> covers everything in detail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="9-explore-positano-at-night">9. Explore Positano at Night</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After 6pm, when the day-trippers have left, Positano transforms completely. The streets quiet down, the restaurants begin filling with candlelight, the illuminated church dome reflects in the windows, and the whole town settles into a beautiful evening rhythm that you can only experience by staying overnight. Walking through Positano at night is entirely free and one of the finest experiences the town offers — arguably better than the daytime version.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> 7pm onward in summer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Walk up to the higher levels of the town for views down over the illuminated streets and the dark sea below. This is the Positano that doesn't appear in the daytime photographs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="10-visit-amalfi-cathedral-main-church-free">10. Visit Amalfi Cathedral (Main Church — Free)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Amalfi Cathedral is one of the easiest free cultural stops in town: the staircase, facade, piazza view, and main church are the parts most visitors come for. The Chiostro del Paradiso, museum, and sacred-art areas may require a separate ticket, so treat the cloister as an optional paid add-on rather than part of the free visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Main church usually free / cloister and museum areas ticketed | <strong>Best time:</strong> Early morning before tour buses arrive | <strong>Time needed:</strong> 20-30 minutes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Walk up the staircase slowly and look back — the view of the piazza from the top of the cathedral steps is one of the finest views in Amalfi town.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":681,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/Amalfi-cathedral-1024x684.jpg" alt="Amalfi Cathedral and Piazza del Duomo with historic buildings, fountain, and visitors in the town of Amalfi on Italy’s Amalfi Coast." class="wp-image-681"/><figcaption class="wp-element-caption">The stunning Amalfi Cathedral rising above Piazza del Duomo, one of the most iconic sights on the Amalfi Coast.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="11-watch-sunset-from-praiano">11. Watch Sunset from Praiano</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Praiano faces west — directly toward Positano, Capri, and the setting sun — making it one of the finest sunset viewpoints on the entire coast. From the Church of San Gennaro terrace or any of the elevated roads through the town, the sun sets over the sea with Positano and the Capri silhouette visible in the distance. Consistently extraordinary and entirely free — and one of those sunsets that rewards staying until the light is completely gone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> 30 minutes before sunset | <strong>Time needed:</strong> 1 hour</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Combine with a swim at Marina di Praia before sunset, then walk back up for the light show. The combination makes for a perfect free afternoon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="12-swim-at-marina-di-praia-praiano">12. Swim at Marina di Praia, Praiano</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marina di Praia is a hidden beach in a cove below Praiano — one of the most beautiful swimming spots on the coast and significantly less crowded than the famous Positano beaches. A small restaurant and bar sits right at the water's edge. The path down from the road is steep but short, and there's a small free section of beach where you can swim without paying.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free public section / beach club pricing varies by season | <strong>Best time:</strong> Morning before it fills up</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Get there early — the free section is small and fills up quickly in summer. The water here is remarkably clear even in peak season.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="13-walk-through-ravello-town-center">13. Walk Through Ravello Town Center</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ravello's main piazza and the streets around it are completely free to explore — and extraordinary. Walking through the main square, past the cathedral, and out to the various belvedere viewpoints costs nothing and gives you an experience equal to any guided tour. Find the small viewpoint at the far end of the main street (Via Roma) for a view straight down to the coast 350 meters below — one of the most dramatic free viewpoints in the region.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Morning or late afternoon | <strong>Time needed:</strong> 1–2 hours</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="14-see-the-furore-fjord-from-the-bridge">14. See the Furore Fjord from the Bridge</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Furore Fjord — a dramatic narrow cleft in the cliffs where a river meets the sea — can be seen for free from the bridge above it on the coast road. The viewpoint is the reliable free experience here: look down at the tiny beach, arched bridge, and narrow strip of sea below. Beach access can change because of closures, safety work, and local restrictions, so do not plan this as a guaranteed swim stop unless you confirm access close to your visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free viewpoint, transport extra | <strong>Best time:</strong> Early morning for the cleanest light</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Treat the bridge viewpoint as the main plan. If the staircase or beach access is open when you visit, consider it a bonus rather than the reason to go.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="15-watch-morning-ferry-traffic-from-the-waterfront">15. Watch Morning Ferry Traffic from the Waterfront</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of the quieter pleasures of the Amalfi Coast: sitting at the waterfront in the morning and watching the ferry traffic build. The Positano ferry dock, the harbor at Amalfi, and the waterfront at Sorrento all offer extraordinary free entertainment — the boats arriving from Naples, the small fishing vessels heading out, the hydrofoils skimming the surface. The waterfront café near the Positano ferry dock has the best coffee in the lower town and the best morning view.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> 8–10am when ferry traffic peaks | <strong>Time needed:</strong> As long as you like</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="16-explore-the-lemon-groves-above-amalfi">16. Explore the Lemon Groves Above Amalfi</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The terraced lemon groves that cover the hillsides above the coast towns are one of the defining visual elements of the region — and they're largely free to walk through. The ancient paths between the terraces connect the coast road to the hilltop towns and pass through fragrant groves of the famous Sfusato Amalfitano lemons. Ask at any hotel for directions to the nearest lemon grove walking path — most staff will happily point you toward routes that aren't in any guidebook. The path from Atrani toward Ravello passes through some of the finest groves on the coast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Spring when the trees are flowering (the fragrance is extraordinary)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="17-walk-sorrentos-clifftop-at-villa-comunale">17. Walk Sorrento's Clifftop at Villa Comunale</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sorrento sits on a cliff above the Bay of Naples and the clifftop walk along Villa Comunale park offers extraordinary free views of the bay, Mount Vesuvius, and the islands. The park itself is free, the views of Vesuvius at sunset are extraordinary, and the walk along the cliff edge in the morning gives you one of the finest free panoramas in the entire region — across the bay to Naples and beyond.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Morning for clear visibility, sunset for the reflections on the bay</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="18-find-informal-viewpoints-on-the-coast-road">18. Find Informal Viewpoints on the Coast Road</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Amalfi Coast road has dozens of informal viewpoints — small lay-bys, terraces above the road, ancient lookout points — that buses and cars stop at constantly. None of them cost anything and many offer views equal to the famous paid viewpoints. The stretch of coast road between Positano and Praiano has particularly good informal viewpoints — look for small concrete barriers where people have clearly been stopping for photographs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Golden hour in either direction</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="19-try-limoncello-tasting-at-local-producers">19. Try Limoncello Tasting at Local Producers</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Some small limoncello producers along the Amalfi Coast offer tastings, especially in Amalfi town and along the coast road, but do not assume every shop will. Walk into places that produce their own limoncello, ask politely if tasting is possible before buying, and treat it as a small local stop rather than a guaranteed free activity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Usually free if a tasting is offered | <strong>Best time:</strong> Earlier in the day, before shops get busy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Buy directly from the producer — both quality and price are meaningfully better than the tourist shops on the main streets.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="20-watch-any-sunset-from-any-elevated-point">20. Watch Any Sunset from Any Elevated Point</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Amalfi Coast at sunset is one of the great free shows in the world. From almost any elevated point along the coast — the terraces above Positano, the church steps in Praiano, the Ravello viewpoints, the Sorrento clifftop — the light on the sea and the towns in the last hour before dark is extraordinary. No ticket required. Just show up 30–40 minutes early and stay until the light is completely gone. The west-facing towns (Positano, Praiano) have the most dramatic sunsets as the sun sinks over the open sea.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> 30–60 minutes before sunset | <strong>Time needed:</strong> 1 hour</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1872,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/reiseuhu-Qw-K23N1V4s-unsplash-edited-scaled.jpg" alt="Sunset view over Positano with colorful cliffside buildings, beach, and sea on Italy’s Amalfi Coast." class="wp-image-1872"/><figcaption class="wp-element-caption">Golden sunset light over Positano, one of the most iconic and romantic views on the Amalfi Coast.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-much-can-you-save">How Much Can You Save?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A day built around free experiences can replace several paid activities without making the trip feel thin. The Path of the Gods gives you the kind of coastal views many travelers pay for on guided tours, public beach sections can be just as satisfying as a beach club if you are happy with a towel spot, and informal viewpoints often deliver the same emotional payoff as ticketed terraces.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="sample-free-day-total-cost-per-person">Sample free day — total cost per person</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>SITA bus to Path of the Gods trailhead: local fare varies</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Path of the Gods hike: free</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Lunch at Atrani: simple lunch or takeaway, price varies</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Swim at Atrani beach: free</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Sunset from Praiano church terrace: free</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Day total:</strong> Free experiences, public transport, and a simple lunch can keep the day low-cost. Add one paid experience, such as a boat tour or a villa garden, only if it adds something you cannot get from the free viewpoints and beaches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the full breakdown of all Amalfi Coast costs — accommodation, food, transport, and paid attractions — our <a href="/amalfi-coast-budget-guide/">Amalfi Coast budget guide</a> covers everything with real numbers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="is-the-amalfi-coast-worth-it-on-a-budget">Is the Amalfi Coast Worth It on a Budget?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — and more so than most people expect. The Amalfi Coast's reputation for being expensive is real, but it's driven almost entirely by accommodation and restaurants in the most famous towns. The actual experiences that make this coastline extraordinary — the hiking, the sunsets, the medieval villages, the swimming in clear water — cost almost nothing. Build your days around the free experiences on this list, treat the paid highlights as occasional additions, and you'll find that the Amalfi Coast on a budget is still the Amalfi Coast at its finest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>It is worth it if:</strong> you are willing to base yourself in Praiano or Amalfi town rather than Positano, use the bus and ferry rather than taxis, eat in Atrani rather than on the Positano waterfront, and visit in shoulder season when accommodation prices are usually less punishing than peak summer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-to-get-the-most-from-this-free-list">How to Get the Most From This Free List</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Put Atrani on Day 1.</strong> Most visitors stumble across it late in the trip and wish they'd found it earlier. Knowing about it means every lunch and dinner decision gets easier from the start.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Schedule the Positano sunrise early in the stay.</strong> It's the experience most likely to be pushed back and ultimately missed. Put it on Day 1 or Day 2 — not as an afterthought on the last morning.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Do the Ravello to Atrani path midweek.</strong> One of the best free experiences on the entire coast — and consistently uncrowded compared to the more famous viewpoints. Build it into a day that combines Ravello, the path, and lunch in Atrani.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Reserve at least one evening for walking Positano after dark.</strong> The town after the day-trippers leave is a completely different — and better — version of itself. It costs nothing and is one of the finest free experiences on the coast.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-time-for-free-experiences-on-the-amalfi-coast">Best Time for Free Experiences on the Amalfi Coast</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Early morning</strong> is universally the best time for free experiences — the Path of the Gods before 9am, the Positano sunrise, the Amalfi Cathedral before tour buses, the informal viewpoints before the coastal traffic builds. The free experiences reward early risers more than any paid alternative.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>September is often the best single month: warm sea, thinner crowds, and usually better accommodation value than August peak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the complete picture of when to visit and what everything costs across seasons, our <a href="/how-to-plan-a-trip/">complete trip planning guide</a> covers seasonal pricing, flight booking strategy, and how to time any trip for best value.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="final-thoughts-free-things-to-do-on-the-amalfi-coast">Final Thoughts: Free Things to Do on the Amalfi Coast</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Amalfi Coast does not have to be built entirely around paid experiences. The best value here comes from hiking, sunsets, medieval villages, public beach sections, and viewpoints, then adding one or two paid highlights only when they add something meaningfully new. That keeps the trip honest, beautiful, and much easier to budget.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The things most visitors describe as the best memories of this trip are almost entirely the ones that cost nothing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="frequently-asked-questions">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-the-best-free-thing-to-do-on-the-amalfi-coast">What is the best free thing to do on the Amalfi Coast?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Path of the Gods hike — the classic Bomerano/Agerola-to-Nocelle route is roughly 7.8 kilometers and gives you clifftop views above Positano that rival anything the coast's paid experiences offer. The trail is free, transport is extra, and the hike usually takes 3-4 hours. Start at 7am in summer to beat both the heat and the crowds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="are-there-free-beaches-on-the-amalfi-coast">Are there free beaches on the Amalfi Coast?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — several. Fornillo Beach in Positano has a small free public section. Atrani has a free beach right in the town center. Marina di Praia in Praiano has a small free section. Maiori and Minori at the eastern end of the coast have the largest free sandy beaches on the entire coastline — wide, accessible, and significantly less crowded than the famous western beaches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-it-possible-to-enjoy-the-amalfi-coast-on-a-tight-budget">Is it possible to enjoy the Amalfi Coast on a tight budget?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — if you build the day around free viewpoints, public beach sections, town walks, and hiking instead of paid beach clubs and private transfers. The key decisions are: base yourself in Praiano or Amalfi town rather than Positano when value matters, use public transport rather than taxis, eat away from the most obvious waterfront tables, and visit in shoulder season when accommodation prices usually drop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-the-best-free-viewpoint-on-the-amalfi-coast">What is the best free viewpoint on the Amalfi Coast?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Belvedere Cimitero Monumentale above Amalfi town — reached by climbing the stairs on the left side of the cathedral for 10 minutes. Almost nobody goes there, it's completely free, and it offers one of the most dramatic overhead views of the coast available anywhere. The small viewpoint at the end of Via Roma in Ravello (free, no entry required) is a close second — straight down to the sea 350 meters below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-the-best-month-to-visit-the-amalfi-coast-for-free-activities">What is the best month to visit the Amalfi Coast for free activities?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>September is often the best month - the hiking trails are quieter, the beaches have space, and the sea is usually still warm from summer. May and early June are close behind. Avoid July and August for the free hiking and beaches specifically - the Path of the Gods and the small free beaches get very crowded during peak season.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context":  "https://schema.org",
+    "@type":  "FAQPage",
+    "mainEntity":  [
+                       {
+                           "@type":  "Question",
+                           "name":  "What is the best free thing to do on the Amalfi Coast?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "The Path of the Gods hike — the classic Bomerano/Agerola-to-Nocelle route is roughly 7.8 kilometers and gives you clifftop views above Positano that rival anything the coast\u0027s paid experiences offer. The trail is free, transport is extra, and the hike usually takes 3-4 hours. Start at 7am in summer to beat both the heat and the crowds."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "Are there free beaches on the Amalfi Coast?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "Yes — several. Fornillo Beach in Positano has a small free public section. Atrani has a free beach right in the town center. Marina di Praia in Praiano has a small free section. Maiori and Minori at the eastern end of the coast have the largest free sandy beaches on the entire coastline — wide, accessible, and significantly less crowded than the famous western beaches."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "Is it possible to enjoy the Amalfi Coast on a tight budget?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "Yes — if you build the day around free viewpoints, public beach sections, town walks, and hiking instead of paid beach clubs and private transfers. The key decisions are: base yourself in Praiano or Amalfi town rather than Positano when value matters, use public transport rather than taxis, eat away from the most obvious waterfront tables, and visit in shoulder season when accommodation prices usually drop."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "What is the best free viewpoint on the Amalfi Coast?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "The Belvedere Cimitero Monumentale above Amalfi town — reached by climbing the stairs on the left side of the cathedral for 10 minutes. Almost nobody goes there, it\u0027s completely free, and it offers one of the most dramatic overhead views of the coast available anywhere. The small viewpoint at the end of Via Roma in Ravello (free, no entry required) is a close second — straight down to the sea 350 meters below."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "What is the best month to visit the Amalfi Coast for free activities?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+<p>September is often the best month - the hiking trails are quieter, the beaches have space, and the sea is usually still warm from summer. May and early June are close behind. Avoid July and August for the free hiking and beaches specifically - the Path of the Gods and the small free beaches get very crowded during peak season.</p>
+                                              }
+                       }
+                   ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-amalfi-coast-guides">More Amalfi Coast Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Want the full picture of what to do on the coast — free and paid? Our <a href="/amalfi-coast-bucketlist/">Amalfi Coast bucket list</a> covers the 25 best experiences with honest assessments of each.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Planning your days? Our <a href="/5-days-on-the-amalfi-coast-itinerary/">5-day Amalfi Coast itinerary</a> covers the best day-by-day plan combining free and paid experiences.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Still deciding where to stay? Our <a href="/where-to-stay-on-the-amalfi-coast/">Amalfi Coast accommodation guide</a> covers every town with honest pros, cons, and price ranges.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Budgeting for the whole trip? Our <a href="/amalfi-coast-budget-guide/">Amalfi Coast budget guide</a> breaks down exactly what everything costs with real numbers.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Still in the planning stages? Our <a href="/how-to-plan-a-trip/">complete trip planning guide</a> covers flights, accommodation, travel cards, and every logistical step of planning a trip to Italy.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

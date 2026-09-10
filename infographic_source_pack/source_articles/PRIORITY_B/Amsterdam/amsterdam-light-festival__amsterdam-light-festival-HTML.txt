@@ -1,0 +1,224 @@
+<!-- wp:image {"id":2700,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/amsterdam-light-festival-canal-cruise.jpg" alt="A canal cruise boat lit up at night passing historic Amsterdam houses during the Light Festival" class="wp-image-2700"/><figcaption class="wp-element-caption">The Amsterdam Light Festival turns the canals into an open-air art gallery every winter.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Every winter, Amsterdam's canals turn into an open-air art gallery for the Amsterdam Light Festival — illuminated installations from artists around the world, strung along the water where you'd normally just see canal houses and bridges. The 2026-27 edition runs November 26, 2026 through January 17, 2027, which means it overlaps almost the entire Christmas and New Year's season.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This guide covers the route, how to see it on foot versus by boat, and when to go.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#water-colors-route">The Water Colors Route</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#walking-vs-boat">Walking It vs. Seeing It by Boat</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#when-to-go">When to Go</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-stay">Where to Stay</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides">More Amsterdam Guides</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> The Amsterdam Light Festival's 2026-27 edition runs November 26, 2026 through January 17, 2027. The signature Water Colors route follows the canals for about 4-5 kilometers, roughly a two-hour walk, past illuminated art installations you won't see any other time of year. Walking is free; an evening canal cruise turns the same route into a sit-down experience with drinks included, at a real cost. Either way, go after dark — the installations are lost in daylight.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>This is what I'd book:</strong> the <a href="https://www.viator.com/tours/Amsterdam/Premium-Cruise-All-drinks-included-Amsterdam-Light-Festival-75-Min/d525-56080P5?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amsterdam-light-festival" target="_blank" rel="sponsored noopener noreferrer">Amsterdam Light Festival Canal Cruise on Viator</a>. Seeing the installations from the water, at the level they were designed to be seen from, with a drink in hand instead of standing on a cold bridge, is worth the cost at least once.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> the full route covered in one sitting, with unlimited drinks, rather than a long, cold walk.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> 75 minutes covers the festival route efficiently, and the water-level view of the installations is genuinely different from seeing them off a bridge. When checked on August 20, 2026, the listing held a 4.4 rating from around 700 reviews.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you'd rather walk the free public route yourself and stop wherever you want, for as long as you want.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before booking:</strong> confirm the current festival dates for your trip and the boarding point.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel smarter</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>The <a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer"><strong>Wise card</strong></a> shows the exchange rate and fee before you spend — check current availability for your home country.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Set up a <a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer"><strong>Telekonek eSIM</strong></a> before you land so maps work from arrival. Code <strong>MILESANDFLAVORS5</strong> gives 5% off.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="water-colors-route">The Water Colors Route</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The festival's signature route, Water Colors, follows the canals for roughly 4 to 5 kilometers — about two hours on foot at a comfortable pace, more if you stop to look at each installation. Artists from around the world contribute illuminated works spread along the route, so no two years look quite the same, even if the general path stays consistent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The route runs through the historic canal belt, which means you're getting the festival's art on top of Amsterdam's own canal-house scenery — genuinely one of the better free things to do in the city during the season, if you don't mind the cold and the walking distance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="walking-vs-boat">Walking It vs. Seeing It by Boat</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Walking the route is free and lets you set your own pace — stop as long as you want at any installation, backtrack if you missed something, and take breaks in a warm café along the way. The trade-off is the cold; two hours outside in December Amsterdam is a real commitment, and some installations are best seen from the water anyway, which a walking route can't fully deliver.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A canal cruise covers the same route sitting down, out of the wind, usually with drinks included in the ticket price. It's the more comfortable option and arguably the more complete one, since several installations are designed to be viewed from the water. The downside is cost and a fixed schedule rather than wandering at will.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My honest take: if you're only doing this once, the cruise is worth it. If you're staying long enough to do it twice, walk it once and cruise it once — the two views are different enough to justify both.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="when-to-go">When to Go</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Go after dark — the installations are essentially invisible in daylight, so timing this for a normal daytime sightseeing slot wastes the whole point. Weeknights tend to be calmer than weekends, and since the festival runs nearly two months, there's no need to force it into your first or last night if a quieter evening fits your schedule better mid-trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="where-to-stay">Where to Stay</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Basing yourself in or near the historic canal belt or the Jordaan puts you right on or near the Water Colors route, so you can step out for the evening without a long tram ride each way. See my <a href="/where-to-stay-in-amsterdam/">where to stay in Amsterdam guide</a> for a full neighborhood breakdown.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>When is the Amsterdam Light Festival 2026?</summary><!-- wp:paragraph -->
+<p>The 2026-27 edition runs November 26, 2026 through January 17, 2027, covering the Christmas and New Year's season.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is the Amsterdam Light Festival free?</summary><!-- wp:paragraph -->
+<p>Walking the Water Colors route yourself is free. Canal cruises that follow the same route are ticketed and cost extra, though they include a different, water-level view of the installations.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How long does it take to walk the Amsterdam Light Festival route?</summary><!-- wp:paragraph -->
+<p>The Water Colors route runs roughly 4 to 5 kilometers, about two hours on foot at a comfortable pace, longer if you stop at each installation.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the Amsterdam Light Festival 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 2026-27 edition runs November 26, 2026 through January 17, 2027, covering the Christmas and New Year's season."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Amsterdam Light Festival free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Walking the Water Colors route yourself is free. Canal cruises that follow the same route are ticketed and cost extra, though they include a different, water-level view of the installations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to walk the Amsterdam Light Festival route?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Water Colors route runs roughly 4 to 5 kilometers, about two hours on foot at a comfortable pace, longer if you stop at each installation."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="more-guides">More Amsterdam Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/amsterdam-at-christmas/">Amsterdam at Christmas: Ice Villages, Markets, and Canal Lights</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/amsterdam-christmas-itinerary/">The Perfect Amsterdam Christmas Itinerary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/best-canal-cruises-in-amsterdam/">The Best Canal Cruises in Amsterdam</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/where-to-stay-in-amsterdam/">Where to Stay in Amsterdam: Best Areas + Hotels</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>The Light Festival is one of the few things that makes an Amsterdam canal walk feel genuinely different from any other time of year — walk it if the cold doesn't bother you, cruise it if it does, and go after dark either way.</p>
+<!-- /wp:paragraph -->

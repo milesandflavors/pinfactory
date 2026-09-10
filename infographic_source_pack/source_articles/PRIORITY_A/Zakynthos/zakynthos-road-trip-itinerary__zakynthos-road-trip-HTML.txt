@@ -1,0 +1,654 @@
+﻿<!-- wp:paragraph {"className":"affiliate-disclosure"} -->
+<p class="affiliate-disclosure"><em>This post contains affiliate links. If you book or buy something through them, I may earn a small commission — at no extra cost to you. I only recommend things we actually use and genuinely believe in.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1292,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/IMG_1408-1024x768.jpg" alt="Zakynthos road trip coastal drive with turquoise Ionian Sea views" class="wp-image-1292"/><figcaption class="wp-element-caption">Four days, one small car, and an island that rewards the people willing to drive to it.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Zakynthos is small enough to feel manageable and varied enough to reward four full days of exploration. The island has dramatic cliffs, remote beaches, sea turtle nesting sites, and the most photographed shipwreck in Greece — and the only way to reach most of it is with a rental car and a willingness to follow a dirt road past the point where it looks like a good idea.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We spent four days here with a rental car, staying in Zakynthos Town and working outward each day in a different direction. This is that trip: what we did, what we'd change, and how to plan the same four days without figuring it out as you go.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary><!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="#the-quick-version">The Quick Version</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#what-youll-find-in-this-guide">What You'll Find in This Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#before-you-go-quick-tips">Before You Go: Quick Tips</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#the-island-at-a-glance">The Island at a Glance</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#road-trip-route-overview">Zakynthos Road Trip Itinerary Route Overview</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#day-1-arrive-pick-up-the-car-get-to-know-the-town">Day 1: Arrive, Pick Up the Car, Get to Know the Town</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#day-2-the-south-vassilikos-peninsula-and-the-turtle-beaches">Day 2: The South — Vassilikos Peninsula and the Turtle Beaches</a><ul><li><a href="#morning-gerakas-beach">Morning: Gerakas Beach</a></li><li><a href="#afternoon-kalamaki">Afternoon: Kalamaki</a></li><li><a href="#back-to-town">Back to Town</a></li></ul></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#day-3-the-north-navagio-blue-caves-and-sulfur-springs">Day 3: The North — Navagio, Blue Caves, and Sulfur Springs</a><ul><li><a href="#morning-stop-xigia-sulfur-beach">Morning stop: Xigia (Sulfur Beach)</a></li><li><a href="#late-morning-blue-caves">Late morning: Blue Caves</a></li><li><a href="#midday-navagio-shipwreck-beach-by-boat">Midday: Navagio (Shipwreck Beach) by boat</a></li><li><a href="#afternoon-alikes">Afternoon: Alikes</a></li><li><a href="#back-to-town-1">Back to Town</a></li></ul></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#day-4-the-west-xagia-and-departure">Day 4: Laganas and Departure</a><ul><li><a href="#morning-and-lunch-laganas">Morning and lunch: Laganas</a></li><li><a href="#return-the-car-at-zth">Return the car at ZTH</a></li></ul></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#could-you-do-it-in-3-days">Could You Do It in 3 Days?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#is-zakynthos-worth-it">Is Zakynthos Worth It?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#what-wed-do-differently">What We'd Do Differently</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#best-time-to-go">Best Time to Go</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#practical-info">Practical Info</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#the-full-zakynthos-beach-guide">The Full Zakynthos Beach Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#the-bottom-line-on-a-zakynthos-road-trip">The Bottom Line on a Zakynthos Road Trip</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","right":"26px","bottom":"24px","left":"26px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:26px;padding-bottom:24px;padding-left:26px">
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">This is what I'd book</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Navagio &amp; Blue Caves boat tour.</strong> Book this before you arrive — it isn't something you sort out on the day. <a href="https://www.viator.com/tours/Zakynthos/Navagio-Shipwreck-Beach-Blue-Caves-and-top-view-full-day-tour/d23524-116901P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=zakynthos-road-trip" target="_blank" rel="sponsored noopener noreferrer">Small-group Navagio &amp; Blue Caves tour →</a> <strong>Best if you want:</strong> the classic shipwreck-and-caves experience without gambling on a same-day slot. <strong>Why it works:</strong> free cancellation and no upfront payment let you lock in a morning small-group departure — the ones that go first — without losing flexibility if your dates shift. <strong>Not ideal if:</strong> you're expecting to actually land on Navagio beach — access has been closed since 2023 due to rockfall risk, so this is a boat-distance and viewpoint experience now, not a beach landing. <strong>Before booking:</strong> confirm whether your date's departure covers both the Blue Caves and the Navagio approach, and check the current access rules.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Car rental</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We compared through <a href="https://discovercars.tpm.lv/brQhuxNE" target="_blank" rel="sponsored noopener noreferrer">Discover Cars →</a> — easy pickup at ZTH, no surprises. <strong>Best if you want:</strong> the real total price including insurance compared across multiple companies at once, rather than whatever the airport desk quotes you. <strong>Why it works:</strong> we paid around €120 ($130) for 4 days this way — the airport desk quoted noticeably more for the same car. <strong>Not ideal if:</strong> you're set on a specific rental brand rather than the best available price. <strong>Before booking:</strong> choose an automatic if narrow town streets and dirt roads make you nervous, and book online rather than waiting for the counter — automatics sell out first in peak season.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">This is where I'd stay</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://expedia.tpm.lv/KpQjjvov" target="_blank" rel="sponsored noopener noreferrer">Palatino Hotel</a> in Zakynthos Town — spacious rooms, good breakfast included, quiet location away from the tourist strip. We'd book it again. <strong>Best if you want:</strong> a central, quiet base that puts every stop on this itinerary within 15–35 minutes by car. <strong>Why it works:</strong> breakfast is included every morning, and the location stays calm even though the town center is close by. <strong>Not ideal if:</strong> you want to walk straight out onto a beach — this is a town base, not a beachfront one. <strong>Before booking:</strong> compare room type, breakfast inclusion, and cancellation terms for your exact dates.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","right":"26px","bottom":"24px","left":"26px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:26px;padding-bottom:24px;padding-left:26px">
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="the-quick-version">The Quick Version</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Duration:</strong> 4 days (3 nights minimum)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Base:</strong> Zakynthos Town — central, authentic, best base if you have a car</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Car required:</strong> Yes. Almost everywhere worth going needs one. <a href="https://milesandflavors.com/car-rental-in-zakynthos/">Full car rental guide here.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Total driving:</strong> Around 100–120 miles over 4 days</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Best time:</strong> May–June or September–October. July–August is doable but hot and crowded.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Don't miss:</strong> Gerakas, Xigia sulfur beach, Navagio by boat, Zakynthos Town in the evening</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Skip if you hate:</strong> Dirt roads, driving in narrow streets, planning ahead for boat tours</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-youll-find-in-this-guide">What You'll Find in This Guide</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Full 4-day road trip itinerary with driving times and distances</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>What each day looks like on the ground</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The beaches, in order of when to visit them</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Where we stayed and what we'd book again</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>What we'd do differently</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Practical info: car rental, costs, timing, flights</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="before-you-go-quick-tips">Before You Go: Quick Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Book your rental car before you arrive.</strong> Online prices are considerably better than airport desk rates. Automatics fill up fast in peak season. We used DiscoverCars — easy pickup at ZTH, no surprises. <a href="https://discovercars.tpm.lv/brQhuxNE" target="_blank" rel="sponsored noopener noreferrer">Check current rates here.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book Navagio in advance.</strong> Morning slots with small group operators sell out. Do this at the same time as your car.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Stay in Zakynthos Town.</strong> Central, quiet, and 15–35 minutes from everything worth seeing.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Gerakas closes at night</strong> during turtle nesting season (May–October). Go in the morning.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Bring cash.</strong> Smaller beaches and tavernas don't always take cards.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Free cancellation on everything</strong> — hotels and cars. Prices on this island move closer to the date.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="the-island-at-a-glance">The Island at a Glance</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Zakynthos (also called Zante) is a Greek island in the Ionian Sea, about a 1-hour flight from Athens or a 7–8 hour flight from New York with a connection. It's roughly 25 miles long and 12 miles wide — small enough that you can reach any point from the center in under an hour, large enough that the different areas feel genuinely distinct.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The island has four very different personalities. The south is resort-heavy — Laganas is the party strip, Tsilivi is the family zone. The east coast around Zakynthos Town is where the actual Greek town is. The southeast (Vassilikos peninsula) is quiet and protected — sea turtles nest on Gerakas beach. The north and west are dramatic: sheer limestone cliffs, the Blue Caves, and Navagio — the shipwreck beach that half the world has seen in a photo but surprisingly few have actually visited.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A rental car connects all of it. Without one, you stay in your corner of the island and see the rest in photos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="road-trip-route-overview">Zakynthos Road Trip Itinerary Route Overview</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We used Zakynthos Town as a fixed base and drove out in a different direction each day. The advantage of this approach: you're never more than 45 minutes from home, evenings in town are easy, and you don't spend your days moving between hotels.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Day</th><th>Route</th><th>Key stops</th><th>Total driving</th></tr></thead><tbody><tr><td>Day 1</td><td>Airport → Zakynthos Town</td><td>Town walk, Venetian Castle, waterfront dinner</td><td>~6 miles (10 km)</td></tr><tr><td>Day 2</td><td>Town → Vassilikos Peninsula → back</td><td>Gerakas, Kalamaki</td><td>~40 miles (65 km)</td></tr><tr><td>Day 3</td><td>Town → North → back</td><td>Xigia, Agios Nikolaos, Blue Caves, Navagio boat, Alikes</td><td>~50 miles (80 km)</td></tr><tr><td>Day 4</td><td>Town → West → Airport</td><td>Laganas (swim + lunch), ZTH</td><td>~30 miles (48 km)</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p><strong>Key distances from Zakynthos Town:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>ZTH Airport → Zakynthos Town: 4 miles (6 km) — about 15 min</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Zakynthos Town → Gerakas: 18 miles (30 km) — about 35 min</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Zakynthos Town → Agios Nikolaos (north): 19 miles (30 km) — about 40 min</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Zakynthos Town → Xigia: 14 miles (22 km) — about 30 min</li>
+<!-- /wp:list-item -->
+
+
+<!-- wp:list-item -->
+<li>Zakynthos Town → Laganas: 6 miles (10 km) — about 15 min</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-1-arrive-pick-up-the-car-get-to-know-the-town">Day 1: Arrive, Pick Up the Car, Get to Know the Town</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1285,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/IMG_1306-1024x768.jpg" alt="Zakynthos Town waterfront in the evening on a 4 day road trip" class="wp-image-1285"/><figcaption class="wp-element-caption">Zakynthos Town on the first evening — the right place to start and end each day.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Zakynthos International Airport (ZTH) is small and efficient. Pick up the car at the airport — this is the most convenient and usually the cheapest option. The drive into Zakynthos Town takes about 15 minutes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Check in, leave the bags, and spend the afternoon walking the town. Zakynthos Town was heavily damaged in the 1953 earthquake and rebuilt — it looks different from most Greek island towns, wider streets in the center, a more Italian influence from the Venetian period. The waterfront promenade is long and lined with boats rather than beach bars.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Two things worth your first afternoon:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The Venetian Castle (Bochali):</strong> A short drive or a steep walk up to the old castle above the town. The views over the harbor and across to the mainland are wide and clear. Late afternoon light is best. It's free to enter and rarely crowded.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The town waterfront at sunset:</strong> Walk the harbor road toward the church of Agios Dionysios — the patron saint of the island — watch the boats, find somewhere for dinner. The waterfront restaurants range from tourist-facing to genuinely good local food — walk a few minutes beyond the main cluster and the quality improves and the prices drop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tonight's goal:</strong> Get your bearings, eat well, and sleep early. Day 2 starts with Gerakas in the morning, and arriving before the heat builds is worth it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Where to stay:</strong> We stayed at Palatino Hotel — spacious rooms, good breakfast included, quiet location away from the tourist strip. We'd book it again. <a href="https://expedia.tpm.lv/KpQjjvov" target="_blank" rel="sponsored noopener noreferrer">Check current availability here.</a> For a full breakdown of where to stay in Zakynthos and which area suits which type of traveler, our <a href="https://milesandflavors.com/where-to-stay-in-zakynthos/">accommodation guide covers it in detail.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-2-the-south-vassilikos-peninsula-and-the-turtle-beaches">Day 2: The South — Vassilikos Peninsula and the Turtle Beaches</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1303,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/IMG_1384-2-1024x768.jpg" alt="Gerakas Beach Zakynthos in the morning with turtle nesting area" class="wp-image-1303"/><figcaption class="wp-element-caption">Gerakas early in the morning — before the day warms up and before anyone else arrives.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Today is about the southeast corner of the island. Drive the Vassilikos peninsula down to Gerakas in the morning, then work your way back north via Kalamaki in the afternoon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-gerakas-beach">Morning: Gerakas Beach</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Leave Zakynthos Town by 9am. The drive south takes about 35 minutes and ends at one of the best beaches on the island — wide, pale sand, clear calm water, and the kind of undisturbed natural setting that takes a protected designation to maintain. Gerakas is part of the Zakynthos National Marine Park and is one of the most important loggerhead sea turtle nesting sites in Europe. No sunbeds, no bar, no facilities. Bring everything you need from town.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Arriving before 10am means you beat both the heat and the arriving crowd. The beach gets busy mid-morning in peak season but remains manageable because the drive filters out anyone not willing to make the effort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Local tip:</strong> In late summer during hatching season, baby turtles emerge from the nests and make their way to the sea. Guides present on the beach will point you toward the right spot to watch from a respectful distance. It's one of those experiences that doesn't translate well into photos but stays with you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Plan for two to three hours here. Swim, walk the length of the beach, and leave before noon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon-kalamaki">Afternoon: Kalamaki</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kalamaki is 25 minutes back north toward Laganas — a calm, sheltered beach with fine golden sand and a handful of tavernas nearby. It's also a turtle nesting site, with the same night restrictions during nesting season, but the daytime experience is relaxed and uncrowded compared to Laganas 2 km further along.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A good place for a late afternoon swim and an early dinner before driving back to town. The beach is quieter at the Laganas end than in the center — walk toward Laganas if you want even fewer people, which sounds counterintuitive but is accurate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Optional addition:</strong> If you have time and energy after Kalamaki, Laganas beach is 10 minutes further. It's the island's longest beach — 9 km of golden sand — and worth seeing once, even if the resort strip behind it isn't really the point of this trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="back-to-town">Back to Town</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You'll be back in Zakynthos Town by early evening. Dinner on the waterfront, early night — Day 3 is the longest driving day and starts with a boat trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-3-the-north-navagio-blue-caves-and-sulfur-springs">Day 3: The North — Navagio, Blue Caves, and Sulfur Springs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1280,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/IMG_1176-1024x768.jpg" alt="Navagio Shipwreck Beach Zakynthos seen from a boat" class="wp-image-1280"/><figcaption class="wp-element-caption">Navagio from the boat — the cliffs, the wreck, and a color of water that doesn't feel real.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>This is the day you drive north. It's the longest day in terms of driving, but the route rewards every kilometer of it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-stop-xigia-sulfur-beach">Morning stop: Xigia (Sulfur Beach)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>On the way north, about 14 miles from Zakynthos Town, stop at Xigia. Natural sulfur springs bubble up from underwater caves into the sea, creating pockets of warm, milky-white water mixed with the surrounding turquoise. The smell is noticeable — it's sulfur, there's no softening that — but the experience is genuinely fascinating. Nothing else on the island is like it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Allow 45 minutes here. Swim, take it in, and continue north. Don't make it the last stop of the day — it's an experience rather than a beautiful beach, and it doesn't need more time than that.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="late-morning-blue-caves">Late morning: Blue Caves</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1302,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/IMG_1228-1024x768.jpg" alt="Blue Caves Zakynthos turquoise water from a boat tour" class="wp-image-1302"/><figcaption class="wp-element-caption">The Blue Caves in the morning light — go before 11am for the best color.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Continue north to Agios Nikolaos harbor — the departure point for Blue Caves and Navagio boat trips. The harbor is small and organized: several operators run boats from here, and the trips are short. The Blue Caves are 10 minutes out, and many operators combine them with a Navagio coastline/viewpoint approach when restrictions allow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The caves themselves are sea-carved tunnels in the limestone cliffs just south of Cape Skinari. The light filtering through the openings turns the water inside an almost electric shade of blue-green — photographs don't quite capture it, and standing in a small wooden boat inside a cave with water that color is one of those moments that earns a place on the list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can swim here, and it's worth doing. The water inside the caves is extraordinarily clear — you can see straight down to the bottom, deep blue all the way. Jumping in from the boat is one of the highlights of the entire trip, and not something you'd expect going in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While you're in the area, look out for the old stone windmills near the Blue Caves — they're scattered along the clifftop road and easy to walk past without noticing. Small, weathered, genuinely charming. Worth a quick stop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Best light is 9–11am. Aim to be at the harbor and on a boat before 10am for the best color inside the caves.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="midday-navagio-shipwreck-beach-by-boat">Midday: Navagio (Shipwreck Beach) by boat</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Many operators combine the Blue Caves with a Navagio coastline/viewpoint approach in a single trip from Agios Nikolaos. Navagio is the most photographed beach in Greece: a rusted 1980 shipwreck on impossibly white sand, enclosed by sheer 200-meter limestone cliffs, surrounded by water so turquoise it looks altered. As of June 2026, current reports say direct visitor access to the beach is closed until October 31, 2026 because of landslide and rockfall risk, so treat it as a view-from-above or boat-distance stop rather than a guaranteed beach landing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Since 2023, boats are no longer permitted to land on the beach due to rockfall risk from the cliffs above. The boats approach the cove, you see the wreck and the cliffs at close range from the water, and then you move on. For most people, that's still a remarkable experience — the scale of the cliffs only becomes clear when you're in the water below them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The clifftop viewpoint above Navagio is also worth a stop on the drive back south. It gives a full bird's-eye perspective over the cove — the wreck visible below, the boats in the water, the cliff edges dramatic from above.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Book your Navagio boat trip before you arrive — this isn't something you sort out on the day. The morning small-group slots go first, and those are the ones worth having. <a href="https://www.viator.com/tours/Zakynthos/Navagio-Shipwreck-Beach-Blue-Caves-and-top-view-full-day-tour/d23524-116901P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=zakynthos-road-trip" target="_blank" rel="sponsored noopener noreferrer">this small-group Navagio &amp; Blue Caves tour</a> and look specifically for morning departures with small group options.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon-alikes">Afternoon: Alikes</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After the boat trip, drive the short distance south to Alikes — a calm, quiet beach town on the north coast with a long uncrowded beach and a genuinely local feel that most of the island's resort areas have long since traded away. Good for a slow lunch, a swim in calm water, and a very different pace from the morning's boat trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alikes is one of the island's underrated areas — far from the resort infrastructure of the south, and all the better for it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="back-to-town-1">Back to Town</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The drive back to Zakynthos Town from the north takes about 45 minutes on the main road. Stop at the Navagio clifftop viewpoint on the way if current access rules allow it — follow official signs, barriers, and viewing areas only. Back in town by early evening, dinner, and an early night before the last day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-4-the-west-xagia-and-departure">Day 4: Laganas and Departure</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1288,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/IMG_1396-1024x768.jpg" alt="Laganas Beach Zakynthos on the final morning of a road trip" class="wp-image-1288"/><figcaption class="wp-element-caption">Laganas on the last morning — the island's longest beach, and the right place to close out the trip.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Departure day doesn't have to mean sitting at the airport by 10am. Laganas is 15 minutes from ZTH and makes for a surprisingly good final morning — a long swim on the island's longest beach, lunch somewhere in the strip, and then a short drive to the airport.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-and-lunch-laganas">Morning and lunch: Laganas</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Laganas beach is 9 km of golden sand and by Day 4 you've earned the right to just lie on it for a few hours without an agenda. The water is clean, the beach is wide, and the full resort infrastructure — sunbeds, restaurants, bars — means you don't have to plan anything. We had lunch there before our flight. The strip was packed, which felt like exactly the right contrast to the quiet beaches the rest of the trip had been built around.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you want something slightly calmer, the Kalamaki end of the beach is a 10-minute walk and noticeably quieter. Same beach, fewer people.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="return-the-car-at-zth">Return the car at ZTH</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Drop-off at Zakynthos Airport is straightforward — the rental car lot is directly at arrivals. Budget 15–20 minutes for the return process. If you booked through DiscoverCars, the return is handled the same way as pickup: quick, documented, no surprises.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="could-you-do-it-in-3-days">Could You Do It in 3 Days?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — with some compression. The adjustments we'd make:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Cut Kalamaki from Day 2</strong> and drive straight back from Gerakas. Gerakas is the priority; Kalamaki is a worthwhile add-on but not essential.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Combine Xigia with the north day</strong> (already in the plan) — no change needed there.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Skip Kalamaki on Day 4</strong> and go straight to Laganas for the morning swim and lunch before the airport — it's the most time-efficient final stop.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>With 3 days, you'll see Navagio, Gerakas, Blue Caves, and Xigia — the four best experiences on the island. You'll miss some of the slower afternoon time, but the core of the trip stays intact.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="is-zakynthos-worth-it">Is Zakynthos Worth It?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — specifically with a car and specifically if you're willing to go where the roads aren't perfect. The island has a split personality: the resort south is generic Greek beach holiday infrastructure, indistinguishable from a dozen other destinations. The rest of the island — the natural beaches, the north coast, the Vassilikos peninsula — is genuinely spectacular.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The travelers who come away disappointed from Zakynthos are almost always the ones who stayed in Laganas and never drove anywhere. The travelers who come away wanting to return are the ones who did.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-wed-do-differently">What We'd Do Differently</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1307,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/IMG_1404-edited-scaled.jpg" alt="Greek food in Zakynthos during a 4 day road trip" class="wp-image-1307"/><figcaption class="wp-element-caption">Food in Zakynthos — the part of the trip we'd never change.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Book the Navagio/Blue Caves boat trip before arriving.</strong> We sorted it out on Day 2 for Day 3 and it worked, but morning small-group slots fill up. Book it when you book the car, and check whether the tour is currently a beach landing, offshore viewing, or viewpoint-based experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Arrive earlier at Gerakas.</strong> We got there around 10am and it was fine. Earlier would have been better — the morning light, the turtle guides, and the cool temperature before the midday heat all make a strong case for 8:30am.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Spend more time in Zakynthos Town in the evenings.</strong> We had good dinners on the waterfront, but the town is worth slower, longer evenings than we gave it. Walk further from the main promenade. The restaurants one street back are better and cheaper.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>One thing we'd never change:</strong> staying in Zakynthos Town. The Palatino Hotel specifically. Breakfast every morning, quiet evenings, and the whole island accessible by car from a base with actual character. We'd book the same trip again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-time-to-go">Best Time to Go</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>May–June:</strong> Our pick. Warm enough for swimming (around 77°F / 25°C), uncrowded, prices reasonable. Turtle nesting season begins — Gerakas morning visits are especially worth it. Boat tours operating but not yet overwhelmed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>September–October:</strong> Strong second choice. Water is still warm from the summer, crowds have thinned, shoulder season pricing. Turtle hatching season in September — best time to see baby turtles at Gerakas and Kalamaki.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>July–August:</strong> Hot (up to 95°F / 35°C), crowded at popular beaches, prices peak. The island is still beautiful and fully operational — just go earlier in the day everywhere, and book everything in advance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>November–April:</strong> Most tourist infrastructure closes. Not recommended for a beach-focused trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-info">Practical Info</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Getting there:</strong> Fly into Zakynthos International Airport (ZTH). From the US, you'll connect through Athens or a European hub. Athens to Zakynthos is a 1-hour hop. Our guide to <a href="https://milesandflavors.com/how-to-find-cheap-flights/">finding cheap flights</a> covers the best approach for transatlantic connections — stopovers in Europe can work well here.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Car rental:</strong> Book before you arrive. Automatics are better for this island — narrow town streets and dirt roads make manual transmission more stressful than it needs to be. We picked up at ZTH and paid around €120 ($130) for 4 days through DiscoverCars. The airport desk quoted us significantly more for the same car. <a href="https://discovercars.tpm.lv/brQhuxNE" target="_blank" rel="sponsored noopener noreferrer">Compare rates here.</a> Full details — what we rented, road conditions, what to expect — in our <a href="https://milesandflavors.com/car-rental-in-zakynthos/">Zakynthos car rental guide.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Where to stay:</strong> Zakynthos Town is the right base for this itinerary. It's central, it has character, and every destination on this route is reachable within 45 minutes. We stayed at Palatino Hotel and would book it again. Full area breakdown — who should stay where and why — in our <a href="https://milesandflavors.com/where-to-stay-in-zakynthos/">Zakynthos accommodation guide.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Money:</strong> Greece uses euros. Credit cards are accepted at hotels and most restaurants, but smaller beach tavernas and parking areas are cash-only. We use <a href="https://milesandflavors.com/best-travel-money-card/">Wise</a> for European travel — no conversion fees, works everywhere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Connectivity:</strong> We travel with an eSIM — no roaming fees, set up before the flight. Our <a href="https://milesandflavors.com/esim-for-travel/">eSIM guide</a> covers the best options and how to get it running before you land.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Driving rules:</strong> Drive on the right. US travelers need an International Driving Permit (IDP) alongside their US license — get it through AAA before you leave. Zakynthos has no toll roads. Gas stations are plentiful in the south and around Zakynthos Town; fill up before heading north.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel insurance:</strong> For a trip involving rental cars, boat excursions, and remote beaches, standard travel insurance is non-negotiable. Make sure your policy covers rental vehicle incidents and medical evacuation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Costs:</strong> A mid-range version of this 4-day trip runs around $550–650 per person excluding transatlantic flights — car, hotel, food, and the Navagio boat tour combined. For a full cost breakdown with real numbers, our <a href="https://milesandflavors.com/zakynthos-travel-costs/">Zakynthos travel costs guide</a> covers everything line by line.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Beach access note:</strong> Gerakas and Kalamaki are closed at night during turtle nesting season (May–October). As of June 2026, current reports say direct access to Navagio Beach is closed until October 31, 2026 because of landslide and rockfall risk — verify the latest rules before booking your boat tour.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="the-full-zakynthos-beach-guide">The Full Zakynthos Beach Guide</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This itinerary visits eight beaches over four days, but if you want the full breakdown — what each beach delivers, who it's best for, and which ones to prioritize if your time is short — we ranked all of them in our <a href="https://milesandflavors.com/best-beaches-in-zakynthos/">Zakynthos beach guide.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="the-bottom-line-on-a-zakynthos-road-trip">The Bottom Line on a Zakynthos Road Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A Zakynthos road trip done well is four days of genuine variety: a real Greek town, sea turtle nesting beaches, a sulfur spring, one of the most dramatic sea caves in Europe, a 200-meter cliff framing a famous shipwreck, and at least one remote beach with turquoise water and almost no one on it. The car connects all of it — without one, you see maybe two of those things.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The island is small enough that nothing feels far, and varied enough that no two days look the same. Rent the car, stay in Zakynthos Town, book the Navagio/Blue Caves tour before you leave home, and give Gerakas the early morning it deserves.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Not ready to book yet? Save this guide for later — or read next:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/car-rental-in-zakynthos/">Car Rental in Zakynthos: Costs, What We Rented, and What to Expect</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/where-to-stay-in-zakynthos/">Where to Stay in Zakynthos: Best Areas Honestly Ranked</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/best-beaches-in-zakynthos/">Best Beaches in Zakynthos: Ranked by Someone Who Drove to All of Them</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/how-to-book-hotels-like-a-pro/">How to Book Hotels Like a Pro — the free cancellation strategy that saves money</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/how-to-plan-a-trip/">How to Plan a Trip — the full checklist before you book anything</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

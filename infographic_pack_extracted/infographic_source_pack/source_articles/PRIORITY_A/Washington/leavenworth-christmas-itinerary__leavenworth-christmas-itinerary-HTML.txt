@@ -1,0 +1,419 @@
+<!-- wp:image {"id":2665,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/leavenworth-itinerary-night-street-lights.jpg" alt="Bavarian-style storefronts decorated with Christmas lights on a quiet street at night" class="wp-image-2665" width="1080" height="1439"/><figcaption class="wp-element-caption">The atmosphere this itinerary is built around: Bavarian-style storefronts glowing after dark.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Once you've decided Leavenworth is worth the trip, the next question is what to actually do with your time there. This is the practical follow-up: a day-by-day itinerary for 2 to 3 days in Leavenworth's Christmastown season, built around the things that are genuinely worth showing up for — Front Street after dark, the Nutcracker Museum, the Gazebo and Festhalle program, a tubing or sledding run, and one slower morning before the drive home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you haven't already, start with <a href="/leavenworth-christmas-worth-it/">Is Leavenworth Worth It at Christmas?</a> for the honest breakdown of costs, crowds, weather, and who this trip actually suits. This guide assumes you've made that call and just want the itinerary: what to do on Day 1, Day 2, and an optional Day 3, in an order that actually works.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#quick-answer">Quick Answer</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#planning-basics">Before You Go: Planning Basics</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#day-1">Day 1: Arrival and First Night Downtown</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#day-2">Day 2: The Full Bavarian Day</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#day-3">Day 3: Slow Morning and Departure</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-eat">Where to Eat: Glühwein and German Food</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-stay">Where to Stay</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#practical-tips">Practical Tips for This Itinerary</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides">More Washington and Leavenworth Guides</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Two nights gives you three calendar days and is the comfortable version of this Leavenworth Christmas itinerary. With only one night, use Day 1 and Day 2, then leave after dinner. Day 1 is arrival and a first walk through the lights after dark. Day 2 combines Front Street shops, the Nutcracker Museum, the Gazebo and Festhalle program, and either tubing or sledding depending on snow. An optional Day 3 is for a river walk, a tour, or a slower breakfast before the drive back over Stevens Pass.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This itinerary is built around the <a href="https://leavenworth.org/christmastown" target="_blank" rel="noopener noreferrer">official 2026 Christmastown format</a>: the lights run daily from 6 AM to 11 PM, Thanksgiving through the end of February, rather than around a single ticketed lighting night. That means you don't have to hit an exact date to see the full display — you just need to time your days around when downtown is calmest versus busiest.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks for This Itinerary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>What I'd slot into a Day 3 slow morning, plus where I'd stay and how I'd set myself up before crossing Stevens Pass.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The daytime activity I'd book if I had a Day 3 and was not driving afterward:</strong> <a href="https://www.viator.com/tours/Leavenworth/Leavenworth-Sip-and-Stroll-A-Historical-Wine-Tour/d50809-411640P3?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=leavenworth-christmas-itinerary" target="_blank" rel="sponsored noopener noreferrer">Leavenworth Sip & Stroll: A Historical Wine Tour on Viator</a>. At the time of this update, the listing runs about 2 hours, keeps groups small, and stops at three local tasting rooms while walking you through Leavenworth's history along the way.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a calmer, adults-focused Day 3 activity and you are staying another night, using a non-drinking driver, or leaving the car parked afterward.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why I like using Viator here:</strong> the listing shows group size, current duration, and free cancellation up to 24 hours before the start, so you can book ahead and still back out if Stevens Pass conditions turn bad. Terms and pricing can change by date, so confirm the exact cutoff at checkout.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you're driving home the same afternoon and don't want alcohol in the mix, or you're traveling with young kids who won't get much out of three tasting-room stops.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before booking:</strong> check the current start time against your checkout time at your hotel, and read the latest reviews for the specific tasting rooms included that season.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Where I'd stay for this itinerary:</strong> <a href="https://expedia.tpm.lv/dM21VBy5" target="_blank" rel="sponsored noopener noreferrer">Obertal Inn on Expedia</a>. It sits on Commercial Street, steps from Front Street Park, so the arrival-night lights walk and Day 2's downtown loop start on foot instead of with a parking search. At the time of this update, Expedia rated it 9.4/10 across more than 1,000 verified reviews. For the fuller breakdown of alternatives and what December rates actually look like, see the lodging section of <a href="/leavenworth-christmas-worth-it/">Is Leavenworth Worth It at Christmas?</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel smarter</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer"><strong>Wise card</strong></a> — useful if you're crossing from Canada or arriving internationally through Seattle and want to pay in U.S. dollars without carrying cash for every small purchase. Check Wise's current availability, fees, and card terms for your home country before signing up.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer"><strong>Telekonek eSIM</strong></a> — useful for checking Stevens Pass conditions, Christmastown schedule updates, and parking availability without hunting for Wi-Fi partway up the mountain. Check device compatibility and current plan coverage first. Use code <strong>MILESANDFLAVORS5</strong> for 5% off.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="planning-basics">Before You Go: Planning Basics</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A few basics this itinerary assumes. Leavenworth sits roughly 115 to 120 miles from central Seattle, and the US-2 drive over Stevens Pass normally takes about 2.5 to 3 hours in good conditions — longer in winter weather, holiday traffic, or if chain requirements are in effect. Check the <a href="https://wsdot.com/travel/real-time/mountainpasses/stevens" target="_blank" rel="noopener noreferrer">WSDOT Stevens Pass report</a> before you leave, both ways. Amtrak's Empire Builder also serves Icicle Station once daily in each direction if you'd rather skip the drive; check the current timetable and station transfer before booking around it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For 2026, Christmastown festivities run November 27 through December 24, with the light display itself continuing daily through the end of February. Weekends between Thanksgiving and Christmas Eve are busiest; if your dates are flexible, this itinerary works best shifted toward Sunday-through-Wednesday rather than Friday-to-Saturday. Also confirm current downtown parking rules via the <a href="https://cityofleavenworth.com/your-city-hall/parking-information/parking-rates-calendar/" target="_blank" rel="noopener noreferrer">official parking calendar</a> — the city has used temporary parking and turn restrictions on recent December weekends, so don't rely on a previous season's arrangement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-1">Day 1: Arrival and First Night Downtown</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Plan to arrive by mid-afternoon if you're driving from Seattle, which gives you daylight for the pass and still lands you in town before the lights come on. Check into your hotel first, then use the remaining daylight for a first orientation lap of Front Street — get a rough sense of where the shops, Festhalle, and Gazebo sit relative to each other, so you're not figuring it out in the dark and cold on Day 2. It's also a good window for an early dinner before the evening crowd fills the restaurants closest to the Gazebo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Come back out after dark. This is the version of Leavenworth people actually book the trip for: more than half a million lights across the downtown facades, rooflines, and storefronts, with the mountains visible behind them on a clear night. Walk the full length of Front Street once without a plan, then loop back toward the Gazebo. The official 2026 program includes live music, carolers, and seasonal performances on selected dates, so check the <a href="https://leavenworth.org/calendar/category/christmas-events/" target="_blank" rel="noopener noreferrer">Christmas events calendar</a> rather than assuming a performance will be running every evening.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If it's cold enough that you need a break, the Festhalle is the obvious warm-up stop, with a gingerbread display, Christmastown merchandise, and, depending on your dates, kids' crafts and photos with Santa. Save the Nutcracker Museum, shops, and a proper look around Front Street Park for Day 2 — cramming everything into arrival night just means rushing past half of it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-2">Day 2: The Full Bavarian Day</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the anchor day, and it works best split into a downtown morning and afternoon followed by an active hour or two before dinner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Morning: Front Street shops and the Nutcracker Museum</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Start downtown once the shops open. Front Street is the commercial heart of the Bavarian-style village — a walkable stretch of specialty stores, galleries, and wine-tasting rooms with handcrafted nutcrackers, carved cuckoo clocks, German-style ornaments, and locally made fudge. Budget a couple of unhurried hours rather than treating it as a quick errand.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2667,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/leavenworth-itinerary-nutcracker-display.jpg" alt="Rows of red, gold, blue, and white nutcracker ornaments beneath hanging Christmas decorations" class="wp-image-2667" width="1080" height="1623"/><figcaption class="wp-element-caption">Nutcracker ornaments at a holiday display, a fitting preview of Leavenworth's specialty shops and museum collection.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Work in the <a href="https://nutcrackermuseum.com/visit.html" target="_blank" rel="noopener noreferrer">Leavenworth Nutcracker Museum</a> at 735 Front Street. Its current visitor page lists daily hours of 11 AM to 5 PM with last entry at 4:30 PM, though holiday hours can shift, so check before you go. Admission currently runs $5 for adults, $3.50 for seniors, and $2 for youth ages 6 to 16, with children 5 and under free — a good, low-key mid-morning stop of roughly 30 to 45 minutes between shops.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Afternoon: Front Street Park and the Festhalle</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Spend the early afternoon between Front Street Park and the Festhalle. The Gazebo hosts free music, carolers, and Christmas characters on selected dates, while the Festhalle provides an indoor break with crafts, Santa photos, the gingerbread display, merchandise, and snacks. For 2026, the official Festhalle hours are noon to 4 PM Sunday through Thursday and noon to 6 PM Friday and Saturday, but check the schedule for your exact date before building the afternoon around a performance or Santa appearance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2666,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/leavenworth-itinerary-gluhwein-market-stall.jpg" alt="Copper mulled-wine kettles at a wooden Christmas market stand trimmed with garland and lights" class="wp-image-2666" width="1080" height="796"/><figcaption class="wp-element-caption">A festive mulled-wine stand. Food and drink offerings in Leavenworth vary by date and event.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Late afternoon: tubing or sledding</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Build in an active block before dinner. If you want a run down an actual tubing hill, check the <a href="https://skileavenworth.com/activities/lt-michael-adams-tubing-park" target="_blank" rel="noopener noreferrer">Leavenworth Winter Sports Club tubing page</a> before you build it into the day. Tickets currently cover six runs and are sold at the Ski Hill ticket booth without advance reservations. Every rider uses a separate tube; younger children must be able to ride independently and follow instructions. Operating dates, prices, and snow conditions vary, so confirm before you count on it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When there's enough snow on the ground, Front Street Park also has a free sledding hill right downtown — bring your own sled and check conditions first, since this depends entirely on natural snowfall rather than a maintained run. Either option is a good way to burn off a long morning of shopping before you settle in for dinner and a second, quieter pass through the lights after dark.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-3">Day 3: Slow Morning and Departure</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you've only got two nights, skip straight to packing up and checking the pass report. If you have a third day, use it for something you didn't have energy for on Day 2 rather than more of the same walk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A short scenic walk is the easiest option — the Wenatchee River runs right along the edge of downtown, and even 20 to 30 minutes along it gives you a quieter view of the Cascades than anything on Front Street. Dress for real winter conditions; trails can be icy or snow-covered, and this isn't a groomed downtown sidewalk. If you are staying another night or have a non-drinking driver, this is where the <a href="https://www.viator.com/tours/Leavenworth/Leavenworth-Sip-and-Stroll-A-Historical-Wine-Tour/d50809-411640P3?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=leavenworth-christmas-itinerary" target="_blank" rel="sponsored noopener noreferrer">Sip & Stroll wine tour</a> fits — about 2 hours across three tasting rooms with some Leavenworth history built in. Do not pair it with driving over Stevens Pass afterward.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Whichever you choose, leave a real buffer before departure. Checking out, loading the car, and grabbing a final coffee always takes longer than planned, and you don't want your first look at the Stevens Pass conditions to happen while you're already late.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="where-to-eat">Where to Eat: Glühwein and German Food</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For a quick, no-reservation meal, <a href="https://leavenworth.org/business/munchen-haus/" target="_blank" rel="noopener noreferrer">München Haus</a> is the straightforward choice for sausages, pretzels, and counter service. For a traditional sit-down Bavarian dinner, <a href="https://leavenworth.org/business/andreas-keller/" target="_blank" rel="noopener noreferrer">Andreas Keller</a> is the stronger fit, but it uses a same-day walk-in waitlist rather than regular advance reservations. On a December weekend, aim outside the 6 to 8 PM peak or join the waitlist before you are hungry.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Glühwein — hot spiced wine — is sold at some scheduled Christmastown concerts and seasonal venues, but do not assume there will be a fixed outdoor stall every day. Check the official event listing for your dates, then use the downtown cafés, tasting rooms, or Festhalle as your reliable warm-up options. If glühwein is important to you, treat it as a date-specific bonus rather than an itinerary anchor.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="where-to-stay">Where to Stay</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For this itinerary specifically, distance from Front Street matters more than almost anything else. Every day here involves multiple trips in and out of downtown — arrival night, Day 2's shops and Christmastown program, the tubing or sledding hill, and a Day 3 walk or wine tour. A walkable, central location turns those into short walks instead of repeated short drives and repeated parking searches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My pick for this itinerary is the <a href="https://expedia.tpm.lv/dM21VBy5" target="_blank" rel="sponsored noopener noreferrer">Obertal Inn on Expedia</a> — on Commercial Street and steps from Front Street Park. At the time of this update, Expedia rated it 9.4/10 across more than 1,000 verified reviews. For alternatives, current rates, and how to compare total price against taxes and cancellation terms, see the lodging section of <a href="/leavenworth-christmas-worth-it/">Is Leavenworth Worth It at Christmas?</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips for This Itinerary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Build slack into Day 2:</strong> shops, the museum, the market, and an active hour is a full day even without weather or crowd delays. Don't also try to add a long hike.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Check Stevens Pass before both drives, not just the way in:</strong> conditions on your departure day can be different from your arrival day. Recheck the <a href="https://wsdot.com/travel/real-time/mountainpasses/stevens" target="_blank" rel="noopener noreferrer">WSDOT report</a> the morning you leave.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Confirm tubing and museum hours for your exact dates:</strong> both operate on seasonal schedules that can change; don't build Day 2 around either without checking first.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Layer for outdoor time you didn't plan for:</strong> downtown browsing and the lights walk both happen outdoors, and December evenings commonly drop into the 20s°F. Insulated, water-resistant footwear matters more than a heavier coat.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Download key details before crossing the pass:</strong> your hotel address, parking plan, and an offline map, in case mobile data gets unreliable on Stevens Pass.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Shift toward midweek if your dates are flexible:</strong> this exact itinerary runs noticeably smoother Sunday through Wednesday than it does on a December Saturday.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How many days do you need for a Leavenworth Christmas trip?</summary><!-- wp:paragraph -->
+<p>Three calendar days and two nights cover arrival, one full downtown day, and a departure morning comfortably. A one-night, two-day version is possible, but you will need to leave after Day 2 and skip the slower final morning.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is there still a separate Christmas Lighting Festival in Leavenworth?</summary><!-- wp:paragraph -->
+<p>Not as a single ticketed lighting-ceremony weekend. The current Christmastown format runs the full light display daily from 6 AM to 11 PM, Thanksgiving through the end of February, rather than lighting the town on one or two specific nights. That means this itinerary doesn't depend on hitting an exact date to see the full display — check the official schedule for performances and Festhalle hours on your dates.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Do I need to book the Nutcracker Museum or tubing in advance?</summary><!-- wp:paragraph -->
+<p>The Nutcracker Museum is a short walk-in visit, but check its current hours before you go. The Leavenworth Winter Sports Club currently sells tubing tickets only at the Ski Hill ticket booth and does not take advance reservations. Because operating dates depend on snow conditions, confirm the hill is open before you build your afternoon around it.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What's the best day-by-day order for a first Leavenworth Christmas visit?</summary><!-- wp:paragraph -->
+<p>Arrive and get an orientation lap of Front Street on Day 1, then return after dark for the lights. Spend Day 2 on shops and the Nutcracker Museum in the morning, the Gazebo and Festhalle program in the afternoon, and tubing or sledding before dinner. Use Day 3 for a scenic walk, or choose a wine tour only if you will not be driving afterward.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Can you do Leavenworth Christmas as a day trip instead of overnight?</summary><!-- wp:paragraph -->
+<p>Yes, though you'll need to compress this itinerary significantly. A day trip realistically fits the lights walk, Front Street shops, and either the Nutcracker Museum or the Gazebo and Festhalle program, but not comfortably all of it plus tubing. If seeing the lights after dark matters to you, plan your return drive for after dinner rather than late afternoon.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What should I pack for a Leavenworth Christmas itinerary?</summary><!-- wp:paragraph -->
+<p>Insulated, water-resistant footwear, warm layers, and gloves. December days commonly hover near freezing and nights often fall into the 20s°F, and much of this itinerary — the lights walk, downtown browsing, tubing, or sledding — happens outdoors. Streets and sidewalks can be wet, snowy, or icy by evening.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Where should I stay for this itinerary?</summary><!-- wp:paragraph -->
+<p>Prioritize walking distance to Front Street over price alone. This itinerary involves multiple trips into downtown, and a central location removes repeated parking searches. The <a href="https://expedia.tpm.lv/dM21VBy5" target="_blank" rel="sponsored noopener noreferrer">Obertal Inn</a> is on Commercial Street, steps from Front Street Park, and was rated 9.4/10 on Expedia at the time of this update. See the lodging section of <a href="/leavenworth-christmas-worth-it/">Is Leavenworth Worth It at Christmas?</a> for alternatives and advice on comparing total price.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many days do you need for a Leavenworth Christmas trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three calendar days and two nights cover arrival, one full downtown day, and a departure morning comfortably. A one-night, two-day version is possible, but you will need to leave after Day 2 and skip the slower final morning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there still a separate Christmas Lighting Festival in Leavenworth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not as a single ticketed lighting-ceremony weekend. The current Christmastown format runs the full light display daily from 6 AM to 11 PM, Thanksgiving through the end of February, rather than lighting the town on one or two specific nights. That means this itinerary doesn't depend on hitting an exact date to see the full display — check the official schedule for performances and Festhalle hours on your dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to book the Nutcracker Museum or tubing in advance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Nutcracker Museum is a short walk-in visit, but check its current hours before you go. The Leavenworth Winter Sports Club currently sells tubing tickets only at the Ski Hill ticket booth and does not take advance reservations. Because operating dates depend on snow conditions, confirm the hill is open before you build your afternoon around it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best day-by-day order for a first Leavenworth Christmas visit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arrive and get an orientation lap of Front Street on Day 1, then return after dark for the lights. Spend Day 2 on shops and the Nutcracker Museum in the morning, the Gazebo and Festhalle program in the afternoon, and tubing or sledding before dinner. Use Day 3 for a scenic walk, or choose a wine tour only if you will not be driving afterward."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you do Leavenworth Christmas as a day trip instead of overnight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, though you'll need to compress this itinerary significantly. A day trip realistically fits the lights walk, Front Street shops, and either the Nutcracker Museum or the Gazebo and Festhalle program, but not comfortably all of it plus tubing. If seeing the lights after dark matters to you, plan your return drive for after dinner rather than late afternoon."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I pack for a Leavenworth Christmas itinerary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insulated, water-resistant footwear, warm layers, and gloves. December days commonly hover near freezing and nights often fall into the 20s°F, and much of this itinerary — the lights walk, downtown browsing, tubing, or sledding — happens outdoors. Streets and sidewalks can be wet, snowy, or icy by evening."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I stay for this itinerary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prioritize walking distance to Front Street over price alone. This itinerary involves multiple trips into downtown, and a central location removes repeated parking searches. The Obertal Inn is on Commercial Street, steps from Front Street Park, and was rated 9.4/10 on Expedia at the time of this update. See the lodging section of Is Leavenworth Worth It at Christmas? for alternatives and advice on comparing total price."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Washington and Leavenworth Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Filling out the rest of your Leavenworth trip:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/leavenworth-christmas-worth-it/">Is Leavenworth Worth It at Christmas? An Honest 2026 Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/how-to-book-hotels-like-a-pro/">How to Book Hotels Like a Pro</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/how-to-plan-a-trip/">How to Plan a Trip, Step by Step</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Two days gets you the lights, the shops, and the museum. Three gets you all of that plus a slower morning you'll actually remember. Either way, check the pass, book your lodging early, and build the rest of the day around whichever version of Leavenworth you have time for.</p>
+<!-- /wp:paragraph -->
+

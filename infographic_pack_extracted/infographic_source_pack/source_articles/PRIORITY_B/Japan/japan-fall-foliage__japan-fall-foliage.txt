@@ -1,0 +1,339 @@
+<!-- wp:image {"id":1749,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/daniel-beauchamp-PZMARGiSSoI-unsplash-1024x683.jpg" alt="Kyoto temple garden with red maple leaves during Japan autumn foliage season" class="wp-image-1749"/><figcaption class="wp-element-caption">Kyoto in late November — the combination of maple foliage and temple architecture is what most visitors come to Japan's autumn for.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Japan's autumn foliage — called koyo — is as significant to Japanese culture as cherry blossom season, and for many visitors, more visually striking. The combination of crimson Japanese maples, golden ginkgo trees, and the layered temple architecture of Kyoto and Nikko in late November is one of the genuinely outstanding seasonal travel experiences available anywhere. The challenge is the same as cherry blossoms: the peak window is short, the timing shifts by weeks depending on the year, and some of the best spots are very crowded at peak. This guide covers what you actually need to know to plan it well.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"affiliate-disclosure"} -->
+<p><em>This post contains affiliate links. If you book or buy something through them, I may earn a small commission — at no extra cost to you. I only link to tools and booking options that fit the planning decision in this guide.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group" id="quick-answer" style="background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px;border-left:4px solid #C4845A"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> for a first Japan autumn foliage trip, aim for <strong>late November</strong> if Kyoto and Tokyo are the priority. Go earlier if you want mountains: Hokkaido starts in September, Nikko is usually best in mid to late October, and central Japan builds through November. If your dates are flexible, Kyoto in the second half of November is the classic choice.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p><em>Autumn color timing shifts every year with temperature and elevation. Use this guide for planning windows, then cross-check the latest forecast before finalizing dates. Useful official resources include <a href="https://www.japan.travel/en/guide/autumn-guide/" rel="nofollow noopener noreferrer" target="_blank">JNTO's autumn guide</a>, <a href="https://www.japan.travel/en/see-and-do/autumn-leaves-forecast-2025/" rel="nofollow noopener noreferrer" target="_blank">JNTO's autumn leaves forecast page</a>, and <a href="https://www.japan.travel/en/things-to-do/nature/autumn-leaves/" rel="nofollow noopener noreferrer" target="_blank">JNTO's autumn leaves destination list</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The map below shows how Japan's autumn foliage season moves from north to south and from mountain areas down into the cities. Use it to compare early Hokkaido color, mid-October mountain destinations, and the classic late-November Kyoto and Tokyo foliage window.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1qsduU5tlwWeKUAbg53YuUvX6vkATFKE&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you go — quick links</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Autumn foliage tours</strong> — <a href="https://www.viator.com/Japan/d16-ttd?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=japan-fall-foliage" target="_blank" rel="sponsored noopener noreferrer">Browse Japan koyo tours on Viator →</a> — useful for comparing Kyoto temple visits, Nikko day trips, and seasonal garden experiences before peak dates fill</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay</strong> — <a href="https://www.expedia.com/Hotel-Search?destination=Kyoto+Japan" target="_blank" rel="nofollow noopener noreferrer">Expedia →</a> or <a href="https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan" target="_blank" rel="nofollow noopener noreferrer">Booking.com →</a> — compare Kyoto hotels and ryokans early if you are targeting late November foliage</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel card</strong> — <a href="https://wise.com/" target="_blank" rel="nofollow noopener noreferrer">Wise →</a> — useful for yen withdrawals and avoiding poor exchange-rate markups; check current ATM and fee limits before relying on it</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>eSIM</strong> — <a href="https://www.airalo.com/japan-esim" target="_blank" rel="nofollow noopener noreferrer">Airalo Japan eSIM →</a> — set it up before you fly and activate it according to the provider instructions when you land</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel insurance</strong> — <a href="https://www.worldnomads.com/travel-insurance/" target="_blank" rel="nofollow noopener noreferrer">World Nomads →</a> — compare medical, delay, cancellation, and activity wording before choosing a policy</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"aaa7f73e-5609-4399-8c4a-fcf348f324ca","content":"How Japan's Autumn Foliage Season Works","level":2,"link":"#how-koyo-works","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"30dc89c5-fb98-4632-a926-265f970ae3aa","content":"Japan Fall Foliage Timing by Region","level":2,"link":"#timing-by-region","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"0878f569-7bf0-4c6b-837d-3b9c93d4e5e9","content":"Best Autumn Foliage Spots in Japan","level":2,"link":"#best-spots","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"686d9c2f-0830-4772-8869-8690fd53390a","content":"Practical Tips for Japan's Autumn Foliage Season","level":2,"link":"#practical-tips","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"6300066b-3fda-4c47-98b6-71beb2ef386a","content":"Frequently Asked Questions","level":2,"link":"#faq","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"5aca5474-efa1-4449-a869-db140bcc2454","content":"More Japan Travel Guides","level":2,"link":"#more-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul","excludeHeadings":["h3"]} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><ul><li class=""><a href="#how-koyo-works">How Japan's Autumn Foliage Season Works</a></li><li class=""><a href="#timing-by-region">Japan Fall Foliage Timing by Region</a></li><li class=""><a href="#best-spots">Best Autumn Foliage Spots in Japan</a></li><li class=""><a href="#practical-tips">Practical Tips for Japan's Autumn Foliage Season</a></li><li class=""><a href="#faq">Frequently Asked Questions</a></li><li class=""><a href="#more-guides">More Japan Travel Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-koyo-works">How Japan's Autumn Foliage Season Works</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Koyo — the Japanese word for autumn leaf viewing — works on a similar logic to cherry blossom season but in reverse: instead of a wave moving north, fall colors start in the north and move south as temperatures drop. Hokkaido begins turning in mid-September. By late November the color reaches Kyoto and Tokyo, and some areas hold color into December.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The main trees responsible for Japan's autumn palette are the momiji (Japanese maple), which turns deep crimson and orange-red, and the ginkgo, which turns a vivid yellow-gold. Temple and shrine gardens throughout Japan — particularly in Kyoto and Nikko — were designed with this seasonal display in mind, so the combination of architecture and foliage is not accidental. It was planned for exactly this effect centuries ago.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Peak foliage at any given location lasts about 1–2 weeks, with the best color in the 3–5 days around the midpoint. Unlike cherry blossoms, rain doesn't end the season abruptly — leaves fall gradually rather than all at once. But cold snaps can accelerate the color change, and warmer autumns push the peak later.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're deciding between autumn and spring, the <a href="/best-time-to-visit-japan">Japan seasonal guide</a> covers the full comparison month by month.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="timing-by-region">Japan Fall Foliage Timing by Region</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>These are typical peak windows based on historical patterns. Any given year varies by 1–2 weeks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="hokkaido-mid-september-to-mid-october">Hokkaido — Mid-September to Mid-October</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Japan's northernmost main island is the first to show autumn color and the most dramatic for mountain foliage. The Daisetsuzan mountain range — Japan's largest national park — typically begins turning in mid-September, with lower elevations and the lake districts around Sounkyo Gorge peaking in late September to early October. Hokkaido in autumn has far fewer international tourists than in winter ski season or summer lavender season, making it one of the more underrated timing windows for visiting the island.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="nikko-tochigi-mid-to-late-october">Nikko (Tochigi) — Mid to Late October</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nikko, about two hours north of Tokyo by train, is one of Japan's most celebrated autumn foliage destinations — and one of the more manageable ones in terms of crowds. The cedar-lined avenue leading to the Toshogu Shrine, surrounded by hillside forest turning crimson and gold, is as impressive in October as the shrine complex itself. Nikko typically peaks about 3–4 weeks before Tokyo and Kyoto, making it a useful addition to an itinerary that arrives in Japan in mid-October.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1752,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/pratik-bisht-qrKpr0FwSwc-unsplash-1024x683.jpg" alt="Autumn foliage in Nikko with colorful trees and mountain scenery in Japan" class="wp-image-1752"/><figcaption class="wp-element-caption">Nikko typically peaks in mid-October — earlier than Kyoto and Tokyo, and with significantly smaller crowds.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="kyoto-late-november">Kyoto — Late November</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kyoto is the destination most people associate with Japan's autumn colors, and the reputation is warranted. The combination of temple gardens, stone paths, moss-covered grounds, and hillside forests turning crimson creates scenes that are difficult to find elsewhere. Kyoto often peaks in late November, with some warm autumns pushing the best color into early December.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The key detail for Kyoto: crowds during peak koyo are comparable to cherry blossom season. The most popular temples — Tofuku-ji, Eikan-do, Kiyomizu-dera — are genuinely packed from mid-morning. The mitigation strategy is the same as spring: arrive at opening time or as close to it as possible, ideally before 9am. Tofuku-ji, which has the most famous maple garden in Kyoto, allows entry from 9am and is worth being there exactly at that time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <a href="/best-things-to-do-in-kyoto">Kyoto guide</a> covers which temples to prioritize and how to structure the day to avoid the worst of the crowds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="tokyo-late-november-to-early-december">Tokyo — Late November to Early December</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Tokyo's autumn foliage peaks around the same time as Kyoto — late November — but because the city is so large, the experience is more diffuse. Shinjuku Gyoen has excellent maple color and remains one of the best all-around garden parks in Tokyo in any season. Rikugien Garden is known for its illuminated maples in the evening during peak koyo. Ginkgo-lined avenues — particularly in Meiji Jingu Gaien — turn a vivid yellow-gold in November and are free to walk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tokyo in late November is noticeably less crowded than Kyoto at the same time — there's no single bottleneck equivalent to Tofuku-ji or Eikan-do. The foliage is excellent but spread across the city rather than concentrated in one neighborhood.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-spots">Best Autumn Foliage Spots in Japan</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="tofuku-ji-kyoto">Tofuku-ji, Kyoto</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The most famous koyo spot in Kyoto, and the one with the most photographed view: looking down from the Tsuten Bridge at a carpet of red and orange maples below. The garden at Tofuku-ji opens at 9am during the autumn season — be there at opening. Lines build fast and by 11am the bridge becomes shoulder-to-shoulder. Entry is around ¥600.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="eikan-do-zenrin-ji-kyoto">Eikan-do (Zenrin-ji), Kyoto</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of Kyoto's most beloved autumn temples, with maple trees covering the hillside behind the complex and a pond garden that reflects the foliage. Evening illuminations are offered during peak season — the garden is lit after dark and the reflection in the pond is exceptional. Tickets are separate from daytime entry and sell out; book ahead.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="arashiyama-kyoto">Arashiyama, Kyoto</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The forested hills surrounding the bamboo grove and Tenryu-ji temple turn brilliant in November. The Togetsu-kyo Bridge with autumn-colored mountains behind it is one of the most recognizable images of Japan in autumn. Arashiyama is best visited in the early morning — the bamboo grove and main paths get very crowded by late morning. The hillside forest at Jojakko-ji temple is quieter and has exceptional color.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1753,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/nicolas-caetano-kjsSHDpQfBo-unsplash-1024x683.jpg" alt="Arashiyama Kyoto hills covered in autumn foliage during late November" class="wp-image-1753"/><figcaption class="wp-element-caption">Arashiyama in autumn — the forested hills surrounding the bamboo grove turn before the city center trees do.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="sounkyo-gorge-hokkaido">Sounkyo Gorge, Hokkaido</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A dramatic gorge in central Hokkaido with basalt columns and waterfalls surrounded by autumn forest. The peak here falls in late September to early October — the earliest major koyo destination in Japan and a genuinely different landscape from the temple gardens of Kyoto. Accessible by bus from Asahikawa.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="korankei-aichi-prefecture">Korankei, Aichi Prefecture</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A gorge in Aichi Prefecture with around 4,000 maple trees — one of Japan's most concentrated koyo sites outside of Kyoto. It's less known internationally than the Kyoto spots, which means it draws primarily domestic visitors. Korankei often peaks slightly earlier than Kyoto, making it a good option if your itinerary includes central Japan in mid to late November.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips for Japan's Autumn Foliage Season</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Arrive early at the major Kyoto temples.</strong> This is the single most impactful thing you can do. Tofuku-ji and Eikan-do at 9am are manageable. At noon they are not. If Kyoto koyo is a priority, structure your days so that the famous foliage temples are the first stop of the morning, every morning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Book Kyoto accommodation very early.</strong> Late November in Kyoto books like cherry blossom season — the mid-range ryokans and well-located hotels fill 3–4 months ahead. Book with free cancellation now and you can adjust if the timing shifts: <a href="https://www.expedia.com/Hotel-Search?destination=Kyoto+Japan" rel="nofollow noopener noreferrer" target="_blank">Expedia →</a> or <a href="https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan" rel="nofollow noopener noreferrer" target="_blank">Booking.com →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Consider Nikko as an opener.</strong> If you're arriving in Japan in mid-October, starting in Nikko — when its foliage peaks and Kyoto is still green — is a sensible way to structure the trip. Then move south as the season follows. By the time you reach Kyoto in late November, the color will be at its best.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Factor in October as shoulder season.</strong> October in most of Japan (outside of Hokkaido's peak) is excellent travel weather with noticeably thinner crowds than late November. The foliage isn't at its peak in central Japan until November, but it's a comfortable, well-priced month with good weather and Nikko fully in color.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Get a data connection before you land.</strong> Checking real-time koyo forecasts, navigating between temples, and finding opening times requires a working connection. An eSIM such as Airalo can be useful because you can install it before you fly and activate it according to the provider instructions when you arrive. <a href="https://www.airalo.com/japan-esim" rel="nofollow noopener noreferrer" target="_blank">Get an Airalo Japan eSIM →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the full cost picture — what a Japan trip in autumn actually costs compared to other seasons — see the <a href="/japan-travel-costs">Japan travel costs guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="when-does-fall-foliage-peak-in-japan">When does fall foliage peak in Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Fall foliage peaks at different times depending on the region. Hokkaido begins in mid-September; Nikko peaks in mid-October; Tokyo and Kyoto typically peak in late November. The foliage front moves from north to south and from high elevations to low, giving Japan a viewing window of about two and a half months nationally.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-japans-autumn-foliage-better-than-spring-cherry-blossoms">Is Japan's autumn foliage better than spring cherry blossoms?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>It depends on what you prioritize. Cherry blossoms have a shorter, more intense window and a more iconic visual. Autumn foliage lasts longer per location (about 1–2 weeks of good color vs. 7–10 days for sakura), tends to have slightly fewer international crowds, and many people find the color range — crimson, orange, gold — more visually varied. Both are worth experiencing; most people who've done both find it difficult to pick a winner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-koyo">What is koyo?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Koyo (紅葉) is the Japanese term for autumn leaf viewing — the cultural practice of going to parks, temple gardens, and natural areas to appreciate the changing leaves. Like hanami in spring, it's taken seriously as a seasonal tradition, with forecasts published, illumination events organized, and special menus and sweets appearing at restaurants throughout the season.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-crowded-is-japans-fall-foliage-season">How crowded is Japan's fall foliage season?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Late November in Kyoto can be as crowded as cherry blossom season at the most popular spots — Tofuku-ji, Eikan-do, and Arashiyama in particular. The practical solution is timing: arrive at major sites at or shortly after opening, ideally before 9am. October is significantly less crowded than November, and Hokkaido in September sees a fraction of the visitors that Kyoto draws in late November.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="can-i-see-both-cherry-blossoms-and-fall-foliage-in-one-japan-trip">Can I see both cherry blossoms and fall foliage in one Japan trip?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Not on a single trip timed for both peaks, as they're separated by about seven months. However, some locations — particularly in northern Japan — have very early foliage (late September) and late cherry blossoms (late April to early May), making it possible to visit one area for blossoms and another for foliage on a longer itinerary. For a standard 10–14 day trip, you'll need to choose your season.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Japan Travel Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Deciding when to go? → <a href="/best-time-to-visit-japan">Best Time to Visit Japan: Month-by-Month Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Prefer spring? → <a href="/japan-cherry-blossom-season">Japan Cherry Blossom Season: Timing, Best Spots, and What to Expect</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Planning the full trip? → <a href="/japan-10-day-itinerary/">10 Days in Japan Itinerary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Deciding what to do in Kyoto? → <a href="/best-things-to-do-in-kyoto">Best Things to Do in Kyoto</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Planning Osaka days? → <a href="/best-things-to-do-in-osaka">Best Things to Do in Osaka</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Figuring out the budget? → <a href="/japan-travel-costs">Japan Travel Costs: What a Real Trip Actually Costs</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does fall foliage peak in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fall foliage peaks at different times by region. Hokkaido can begin in September, Nikko is usually best in mid to late October, and Tokyo and Kyoto typically peak from late November into early December depending on the year."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Japan's autumn foliage better than spring cherry blossoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Neither is objectively better. Cherry blossoms are more iconic and shorter-lived, while autumn foliage lasts longer at each location and offers a wider range of colors, especially in Kyoto, Nikko, and mountain areas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is koyo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Koyo is the Japanese term for autumn leaf viewing, especially the seasonal tradition of visiting parks, temple gardens, mountains, and scenic areas to enjoy red maple and golden ginkgo leaves."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How crowded is Japan's fall foliage season?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kyoto in late November can be as crowded as cherry blossom season at famous temples such as Tofuku-ji, Eikan-do, and Arashiyama. Arriving at opening time and using less famous gardens makes the season much easier to enjoy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I see both cherry blossoms and fall foliage in one Japan trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard trip cannot realistically hit both cherry blossom peak and autumn foliage peak because they are months apart. For a normal 10 to 14 day itinerary, choose spring for sakura or autumn for koyo."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->

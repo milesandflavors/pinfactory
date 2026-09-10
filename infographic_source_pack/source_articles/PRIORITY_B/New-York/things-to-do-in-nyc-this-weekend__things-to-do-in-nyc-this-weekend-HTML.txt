@@ -1,0 +1,332 @@
+﻿<!-- wp:paragraph -->
+<p>You don't need two weeks in New York City to feel it. Two days — the right two days, in the right order — and the city gets under your skin in a way that doesn't wash off. The best version of an NYC weekend always looks something like this: Central Park on Saturday morning when it's still quiet, the Brooklyn Bridge on Sunday before the crowds arrive, and at least one moment where you look up at the skyline and think: <em>yes, this is actually real.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This guide is for 48 hours in New York City done without waste. No zigzagging across the island. No FOMO-driven exhaustion. Just the best of Manhattan on Day 1, the best of Brooklyn on Day 2, and a free Statue of Liberty view to close it out — which, yes, is a real thing and costs exactly nothing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Day 1 in Manhattan — Central Park in the morning, the High Line in the afternoon, Empire State Building at sunset, West Village for dinner. Day 2 in Brooklyn — walk the bridge before the heat hits, spend the afternoon in DUMBO and Brooklyn Bridge Park, then catch the Staten Island Ferry for the best free skyline view in the city on your way home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2260,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/getty-images-mlQirV1yGxI-unsplash-1024x680.jpg" alt="Brooklyn Bridge Park at golden hour with the Manhattan skyline across the East River" class="wp-image-2260"/><figcaption class="wp-element-caption">Brooklyn Bridge Park at golden hour — the best free skyline view in New York City, and most first-timers only discover it on their last day.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">NYC Weekend Quick Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Best for</strong></td><td>First-timers with 2 days in New York City</td></tr><tr><td><strong>Day 1 highlights</strong></td><td>Central Park → High Line → Chelsea Market → Empire State Building at sunset</td></tr><tr><td><strong>Day 2 highlights</strong></td><td>Brooklyn Bridge walk → DUMBO → Brooklyn Bridge Park → Staten Island Ferry</td></tr><tr><td><strong>Best free experience</strong></td><td>Staten Island Ferry (free Statue of Liberty view; check the current schedule)</td></tr><tr><td><strong>Best free skyline view</strong></td><td>Brooklyn Bridge Park — better than most paid observation decks</td></tr><tr><td><strong>Brooklyn Bridge timing</strong></td><td>Before 10 AM on Sunday — after that it's a wall of people in both directions</td></tr><tr><td><strong>Best base</strong></td><td>Midtown Manhattan — easy access to the Day 1 route</td></tr><tr><td><strong>Best dinner neighborhood</strong></td><td>West Village (Saturday), Williamsburg (Sunday brunch)</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {"className":"affiliate-notice"} -->
+<p class="affiliate-notice"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The ticket I'd book</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The tour I would shortlist is the <a href="https://www.viator.com/tours/New-York-City/Central-Park-Walking-Tour/d687-134104P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=nyc-weekend" target="_blank" rel="sponsored noopener noreferrer">Central Park Guided Walking Tour</a> for Saturday morning. <strong>Best if you want:</strong> Central Park to feel like a real place instead of a pretty green shortcut through Manhattan. <strong>Why it works:</strong> the route gives you Strawberry Fields, Bethesda Fountain, Bow Bridge, and enough context to enjoy the rest of the park on your own afterwards. <strong>Why I like using Viator here:</strong> it gives you a calmer middle ground between planning ahead and staying flexible. When Reserve Now & Pay Later or free cancellation is available, you can secure the slot, check the terms before committing, and avoid searching for availability once you are already in New York. <strong>Not ideal if:</strong> you prefer wandering without commentary or your Saturday morning is already packed. <strong>Before booking:</strong> check current pricing, group size, departure point, duration, inclusions, Reserve Now & Pay Later availability, and the exact cancellation window for your date.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">This is where I'd stay</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The hotel I would shortlist is <a href="https://www.booking.com/hotel/us/courtyard-new-york-manhattan-midtown-west.html" target="_blank" rel="sponsored nofollow noopener noreferrer">Courtyard New York Manhattan/Midtown West</a>. <strong>Best if you want:</strong> a practical Midtown West base that keeps Day 1 easy without sleeping directly in Times Square. <strong>Why it works:</strong> Penn Station is close, the High Line is manageable, and Brooklyn is simple by subway on Day 2. <strong>Not ideal if:</strong> you want a romantic neighborhood feel or plan to spend most evenings downtown. <strong>Before booking:</strong> compare the total price, room type, breakfast terms, cancellation policy, extra fees, and recent guest comments for your exact dates.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Contents</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="#central-park-morning">Day 1 morning: Central Park</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#high-line-chelsea">Day 1 afternoon: High Line and Chelsea Market</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#empire-state-evening">Day 1 evening: Empire State Building at sunset</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#brooklyn-bridge-walk">Day 2 morning: Brooklyn Bridge walk</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#dumbo-brooklyn-bridge-park">Day 2 afternoon: DUMBO and Brooklyn Bridge Park</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#staten-island-ferry">Day 2 evening: Staten Island Ferry</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#faq">FAQ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"border":{"left":{"color":"#C4845A","width":"4px"}},"spacing":{"padding":{"top":"24px","right":"24px","bottom":"24px","left":"24px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:24px;padding-bottom:24px;padding-left:24px"><!-- wp:paragraph {"style":{"typography":{"fontWeight":"600"}}} -->
+<p style="font-weight:600">Before you plan your NYC weekend</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Brooklyn Bridge before 10 AM.</strong> After that, you're pushing through people in both directions. Sunday morning is the window.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Central Park early.</strong> Before 9 AM, it belongs to locals. After 10 AM, tour groups arrive. The early version is a completely different park.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book the Empire State Building in advance.</strong> The spontaneous queue at the bottom can be over an hour. Pre-booked tickets skip most of it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>The Staten Island Ferry is free.</strong> No ticket, no catch. It runs frequently from Whitehall Terminal, but check the current schedule before you go. It passes the Statue of Liberty at close range on the way over.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Subway or walk.</strong> From this Midtown West plan, Central Park and the High Line are easy by subway, walking, or a short ride. You don't need a taxi for most of Day 1.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="central-park-morning">Day 1 morning: Central Park</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Start your NYC weekend in Central Park, and start it early. The park is 843 acres in the middle of Manhattan — big enough to walk for an hour without seeing the same path twice. Before 9 AM, it belongs almost entirely to locals: joggers on the main loop, dog walkers in the Ramble, the occasional chess player already setting up near the Bethesda Fountain. The version of Central Park that exists before the tour groups arrive is the version worth showing up for.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The route that works best for a first timer: enter at 72nd Street on the west side, walk through to <strong>Strawberry Fields</strong> (the John Lennon memorial — the mosaic floor always has flowers on it, in every season), then head east to <strong>Bethesda Fountain</strong>. This is the center of the park and the most cinematic spot: the fountain at the base of a grand terrace, the Lake stretching south, the city barely visible through the trees above it. Walk west from here to <strong>Bow Bridge</strong> — cast iron, arched, with the Manhattan skyline visible through the canopy on the far side of the water. It's the most photographed spot in the park for a reason.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you want someone to tell you what you're looking at — the history behind the design, the stories embedded in the landscape, the hidden corners most people walk straight past — a guided walking tour of Central Park is the right call for a first visit. Two hours, small group, covers the main landmarks with enough context that the rest of the park makes sense on your own afterwards. I'd book it for Saturday morning before anything else.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="high-line-chelsea">Day 1 afternoon: High Line and Chelsea Market</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After Central Park, take the subway or walk down to the west side of Manhattan. The <strong>High Line</strong> is an elevated railway converted into a 1.45-mile linear park, running from 34th Street south through Chelsea and into the Meatpacking District. It sounds like it shouldn't work — a park built on decommissioned train tracks 30 feet above the street — but it works completely. The city looks different from up here. You're above the traffic, level with the windows of Chelsea apartments, with views of the Hudson opening to the west. In good weather it's one of the most pleasant walks in Manhattan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Walk it south from 34th Street and you end at the Meatpacking District. On the way, the Hudson Yards end has the Edge observation deck if you want a third skyline view (though the Empire State Building is the call for tonight). <strong>Chelsea Market</strong> sits just off the south end of the High Line inside the old Nabisco factory building — a covered food hall that runs the full block between 9th and 10th Avenues. Good for a late lunch. Very good for coffee. Worth walking through even if you're not hungry, just for the industrial space and the sheer variety of what people are eating around you: Japanese ramen, lobster rolls, Argentine empanadas, artisanal cheese. Very New York.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <strong>Meatpacking District</strong> around the south end of the High Line is worth 30 minutes of wandering before you head back toward Midtown for the evening. The cobblestone streets and the mix of boutiques, restaurants and old packing houses make it feel more European than most of Manhattan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="empire-state-evening">Day 1 evening: Empire State Building at sunset</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Empire State Building at sunset is one of those experiences that sounds like a tourist obligation and turns out to be the moment of the trip. The elevator opens on the 86th floor, you walk out onto the open-air observation deck, and the whole of Manhattan is laid out below you turning gold. The East River to the left, the Hudson to the right, Central Park a dark rectangle at the top of the island, the grid of streets disappearing into the horizon in every direction. It's the view that made people think New York was the center of the world. From up here, it's difficult to argue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Choose the sunset time slot if your budget allows — the golden hour transformation of the skyline is what earns the ticket price. Buying online in advance reduces ticket-line stress, though you should still expect security and elevator queues at busy times. The 86th floor open-air deck is the classic. The 102nd floor adds height but removes the open-air experience — for a first visit, 86 is the one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dinner: <strong>West Village</strong>, 20 minutes on foot or one subway stop south of Midtown. The neighborhood is what people picture when they imagine New York at its most liveable — brownstone streets, small restaurants with handwritten menus, wine bars with candles on every table. Pick anything that has a full room and a line at the door. Both are good signs. Saturday night in the West Village earns its reputation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2261,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/tobias-reich-UBFXIYzH6Dk-unsplash-683x1024.jpg" alt="Brooklyn Bridge pedestrian walkway in New York City on a quiet morning" class="wp-image-2261"/><figcaption class="wp-element-caption">The Brooklyn Bridge before 9 AM on a Sunday. After 10 AM, this walkway is a crowd in both directions. Morning timing is everything.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="brooklyn-bridge-walk">Day 2 morning: Brooklyn Bridge walk</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sunday morning: get up earlier than you want to and go to Brooklyn. The <strong>Brooklyn Bridge walk</strong> takes 30 to 40 minutes crossing on foot, and the version worth doing is the one before the heat arrives and before the crowds build — which means before 10 AM. Start from the Manhattan side at City Hall Park, walk up the ramp onto the wooden pedestrian path, and the bridge becomes your vantage point over the East River. Lower Manhattan behind you, DUMBO ahead, the whole skyline reflected in the water below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The pedestrian walkway runs down the center of the bridge, elevated above the traffic lanes on both sides. The Gothic stone towers frame the view ahead and behind. At this hour, it's almost quiet: a few cyclists, some other early walkers, the sound of the river below. It's one of those New York moments where the city rewards you specifically for making the effort — completely free, completely iconic, and completely different depending on whether you show up at 8 AM or noon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cross to the Brooklyn side and you have two options: walk back across (same view, opposite direction, equally good) or continue into DUMBO. Continue into DUMBO.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="dumbo-brooklyn-bridge-park">Day 2 afternoon: DUMBO and Brooklyn Bridge Park</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DUMBO — Down Under the Manhattan Bridge Overpass — is the Brooklyn neighborhood immediately after the bridge. The streets are cobblestone, the buildings are red brick, and the view at the end of Washington Street is one of the most composed urban photographs in New York: the Manhattan Bridge spans the gap between the buildings with the Empire State Building visible in the frame behind it. It's the image that covers half the NYC travel content on the internet. It earns its reputation every single time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>From DUMBO, walk south along the waterfront into <strong>Brooklyn Bridge Park</strong>. The park runs along the East River for over a mile with unobstructed views of Lower Manhattan and the Brooklyn Bridge above you. This is the best free skyline view in New York City — better than most paid observation decks for the ground-level drama of the skyline across the water. At golden hour on a Sunday afternoon, the light on the glass towers is the kind of thing that makes people quietly rebook their flights to stay longer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Jane's Carousel</strong> sits at the edge of the park in a glass pavilion — a beautifully restored antique merry-go-round with the Manhattan skyline as its backdrop. Ride it for the absurdity and the photo. It is a small paid add-on, so check the current fare if you want the skyline-photo moment. There's also a small beach area at Pebble Beach further south in the park, and a food hall at Time Out Market if you need lunch before the ferry.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="staten-island-ferry">Day 2 evening: Staten Island Ferry</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>End your NYC weekend at the <strong>Staten Island Ferry terminal</strong> at Whitehall Street in Lower Manhattan. The ferry runs frequently, takes about 25 minutes each way, and passes the Statue of Liberty close enough on your right that you don't need binoculars. The whole thing is completely free. You board, you cross, you turn around and come back. And on the way over, the Statue of Liberty is right there — closer than most people expect, larger than most people imagine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is the thing most first-time visitors to New York City either don't know about or don't believe when someone tells them. A free public ferry. Runs day and night. Passes the Statue of Liberty at close range. No catch. Take the departure that lines up with the last hour of light and the harbor turns gold — the city skyline growing behind you as you pull away from Manhattan, the statue ahead of you as you approach Staten Island. It's the ending your New York weekend deserves, and it costs nothing to get there.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">FAQ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is 2 days enough for New York City as a first-timer?</summary><!-- wp:paragraph -->
+<p>Two days is enough to feel New York City and see its best parts without rushing. You won't see everything — nobody does in a weekend — but Central Park, the High Line, the Brooklyn Bridge, the Empire State Building, and the Staten Island Ferry cover the experiences that define a first visit. A week lets you go deeper, but a weekend done right leaves you wanting more, which is the right outcome.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the best free thing to do in NYC this weekend?</summary><!-- wp:paragraph -->
+<p>The Staten Island Ferry is the best free single experience in New York City — it passes the Statue of Liberty at close range and gives you sweeping harbor views, with frequent departures from Lower Manhattan. The Brooklyn Bridge walk and Brooklyn Bridge Park skyline view are close behind. The High Line is also free. Between these three, you have a full day of world-class experiences without spending anything on admission.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Should I buy a New York City tourist pass for a weekend?</summary><!-- wp:paragraph -->
+<p>For two days, probably not. Tourist passes like the New York Pass or Go City make sense when you're visiting 5 or more paid attractions in a short window. On a weekend, most of your best experiences are free (Brooklyn Bridge, High Line, Staten Island Ferry, Brooklyn Bridge Park) and the paid ones (Empire State Building, Central Park guided tour) are often better bought individually unless the pass math clearly works for your exact plan. Run the math against what you're actually planning to visit before committing to a pass.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>When is the best time to walk the Brooklyn Bridge?</summary><!-- wp:paragraph -->
+<p>Before 10 AM on a weekend morning, ideally Sunday. After 10 AM, the pedestrian path becomes crowded in both directions with tour groups and visitors — manageable but not pleasant. Before 10 AM, especially before 9 AM, you can walk at your own pace with room to stop and take photos from the towers. Sunrise is the most dramatic timing but requires very early commitment. 8 to 9 AM is the practical sweet spot.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Times Square worth visiting during a NYC weekend?</summary><!-- wp:paragraph -->
+<p>Times Square is worth seeing once, briefly. Walk through it — it takes about 20 minutes to get the full effect — and then move on. The neon and scale are genuinely impressive, especially at night, but the area itself is expensive and crowded at all hours. It's not a place to linger or plan a meal. See it, tick it, and spend the rest of your evening somewhere with more of what New York City actually is: the West Village, DUMBO, or the High Line area.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is 2 days enough for New York City as a first-timer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two days is enough to feel New York City and see its best parts without rushing. You will not see everything, but Central Park, the High Line, the Brooklyn Bridge, the Empire State Building, and the Staten Island Ferry cover the experiences that define a first visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best free thing to do in NYC this weekend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Staten Island Ferry is one of the best free experiences in New York City because it passes the Statue of Liberty and gives you sweeping harbor views. The Brooklyn Bridge walk, Brooklyn Bridge Park skyline view, and the High Line are also free."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I buy a New York City tourist pass for a weekend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For two days, probably not. Tourist passes can make sense when you are visiting several paid attractions in a short window, but many of the best weekend experiences in this itinerary are free. Run the math against the exact attractions you plan to visit before buying a pass."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the best time to walk the Brooklyn Bridge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before 10 AM on a weekend morning, ideally Sunday. Before 9 AM is even better if you want more room to stop and take photos from the bridge towers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Times Square worth visiting during a NYC weekend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Times Square is worth seeing once, briefly. Walk through it for the neon and scale, then spend the rest of your evening in a neighborhood with more character, such as the West Village, DUMBO, or the High Line area."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">More New York City guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/25-best-things-to-do-in-nyc/">25 Best Things to Do in NYC for First-Timers</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/5-day-new-york-city-itinerary/">5-Day New York City Itinerary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/best-things-to-do-in-brooklyn/">Best Things to Do in Brooklyn</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/empire-state-building-vs-top-of-the-rock/">Empire State Building vs Top of the Rock</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-hidden-gems/">NYC Hidden Gems</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/where-to-stay-in-nyc/">Where to Stay in New York City</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-travel-costs/">NYC Travel Costs: The Honest Budget Guide</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+

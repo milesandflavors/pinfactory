@@ -1,0 +1,496 @@
+<!-- wp:image {"id":1563,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/javier-m-2Hs8zbwOLDA-unsplash-1024x683.jpg" alt="Amsterdam canal in golden hour with reflections of historic 17th-century houses" class="wp-image-1563"/><figcaption class="wp-element-caption">Amsterdam's canals in golden hour — this is the image that makes people book flights.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam looks manageable on a map — then turns out to have an almost unlimited number of worthwhile things in it. This list cuts through it: 25 things actually worth your time, ranked and organized so you know what to prioritize.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#classics">The classics — things you do on a first trip</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#local-experiences">Local experiences — what goes beyond the guidebook</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#beyond-center">Beyond the center — worth the trip</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-stay">Where to stay while ticking off the list</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently asked questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides">More Amsterdam guides</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> The essential Amsterdam trio is a canal cruise, the Anne Frank House (booked weeks ahead), and a walk through the Jordaan — those three cover the city's history, geography, and everyday character. Add the Rijksmuseum or Van Gogh Museum if you have museum stamina, and use this list to fill the rest around whichever neighborhood you're based in.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"46px"} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-tackle-this-list">How I'd tackle this list</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If I only booked three things before landing, it would be these — everything else on this list you can just walk into.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.viator.com/tours/Amsterdam/Amsterdam-Canal-Cruise/d525-75227P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amsterdam-bucket-list-lilis-picks" target="_blank" rel="sponsored noopener noreferrer">This canal cruise</a> is the one I'd lock in first — good slots go fast, and it's the best orientation to the whole city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <a href="https://www.viator.com/tours/Amsterdam/Van-Gogh-Museum-Entry-Fast-Track-Access/d525-5556932P4?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amsterdam-bucket-list-lilis-picks" target="_blank" rel="sponsored noopener noreferrer">Van Gogh Museum</a> sells out almost as reliably as the Anne Frank House in peak season, so I'd book that early too.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For where to actually sleep while you work through this list, my full <a href="/where-to-stay-in-amsterdam/">Where to Stay in Amsterdam</a> guide breaks down which neighborhood matches which items.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a ranked, first-timer-proof list of what's actually worth your time in Amsterdam, not just a generic 100-item dump.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> the canal cruise and museum tickets both have free cancellation, so locking them in early doesn't box you into anything if your dates shift.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you only have a day or two — pick the classics section and skip straight to item 25.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you go:</strong> sort money and connectivity too — my guides to <a href="/best-travel-money-card/">travel money cards</a>, <a href="/esim-for-travel/">eSIMs for travel</a>, and <a href="/how-to-plan-a-trip/">planning a trip</a> cover the setup.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you go — quick links</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Canal cruise</strong> — <a href="https://www.viator.com/tours/Amsterdam/Amsterdam-Canal-Cruise/d525-75227P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amsterdam-bucket-list-quick-links" target="_blank" rel="sponsored noopener noreferrer">Book on Viator →</a> — A canal cruise is the single best first activity in Amsterdam. Good slots go fast in peak season — book before you finalize anything else.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay</strong> — every item on this list is grouped by neighborhood further down; see <a href="#where-to-stay">Where to Stay</a> or the full <a href="/where-to-stay-in-amsterdam/">Where to Stay in Amsterdam</a> guide.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel card</strong> — <a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer">Wise →</a> — Museum tickets, market stroopwafels, tram rides — pay everything in euros without fees.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>eSIM</strong> — <a href="https://airalo.tpm.lv/TYjQRZua" target="_blank" rel="sponsored noopener noreferrer">Airalo Netherlands eSIM →</a> — Navigation between 25 bucket list items requires reliable data.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel insurance</strong> — <a href="https://ektatraveling.tpm.lv/fqijSuju" target="_blank" rel="sponsored noopener noreferrer">EKTA →</a> — Worth having before you tick anything off this list.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="classics">The classics — things you do on a first trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="1-take-a-canal-cruise">1. Take a canal cruise</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The canal ring is a UNESCO World Heritage Site and Amsterdam's defining feature. A covered 1-hour boat tour through the Prinsengracht and Keizersgracht shows you the 17th-century merchant houses, the houseboats, the narrow bridges, and the waterway system that built one of history's great trading empires.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Do this on day one or day two — it orients everything else you'll see in the city. Full breakdown: <a href="/best-canal-cruises-in-amsterdam/">Best Canal Cruises in Amsterdam</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Evening cruises with fairy lights on the water are the most atmospheric. Morning cruises have the best light for photos. Both are worth considering. <a href="https://www.viator.com/tours/Amsterdam/Amsterdam-Canal-Cruise/d525-75227P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amsterdam-bucket-list" rel="sponsored noopener noreferrer" target="_blank">Book on Viator →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="2-visit-the-rijksmuseum">2. Visit the Rijksmuseum</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1552,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/frans-ruiter-ktIeizXobW8-unsplash-1-1024x683.jpg" alt="Rembrandt's Night Watch painting displayed in a large gallery at the Rijksmuseum in Amsterdam" class="wp-image-1552"/><figcaption class="wp-element-caption">Rembrandt's Night Watch is bigger and darker than any reproduction prepares you for.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The Netherlands' national museum houses Rembrandt's Night Watch, Vermeer's The Milkmaid, and Delft Blue ceramics alongside 8,000 other objects in 80 galleries. Book tickets in advance. Have a plan for what you want to see — trying to do the whole museum is a recipe for exhaustion. The Night Watch room alone is worth the entrance fee.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="3-book-the-anne-frank-house">3. Book the Anne Frank House</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1565,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/olivier-amyot-xlArdT1AdEk-unsplash-1024x683.jpg" alt="Anne Frank House exterior on the Prinsengracht canal in Amsterdam with a morning queue" class="wp-image-1565"/><figcaption class="wp-element-caption">The Anne Frank House is the most important stop in Amsterdam — book weeks in advance.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The most emotionally significant visit in Amsterdam. The hidden annex where Anne Frank and her family hid for 25 months is small, dark, and completely arresting. Timed-entry tickets sell out weeks in advance — this is the one thing you cannot leave to chance. <a href="https://www.annefrank.org/en/museum/tickets/" target="_blank" rel="noopener noreferrer">Book directly on the official Anne Frank House website →</a> (tickets are only available there — no third-party platforms). See it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="4-walk-the-jordaan">4. Walk the Jordaan</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam's most beautiful residential neighborhood: 17th-century streets, independent cafes, gallery-turned-canal-houses, flower market stalls, and the best neighborhood atmosphere in the city. Walk from the Noordermarkt (Saturday market) south along the Prinsengracht at whatever pace feels right. Best before 11 AM or after 4 PM when the light is good and the tourist density is manageable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="5-eat-a-fresh-stroopwafel">5. Eat a fresh stroopwafel</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1567,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/kay-si-ying-HEr43dMW0Jw-unsplash-edited-scaled.jpg" alt="Fresh stroopwafel being made on a hot waffle iron at an Amsterdam market stall" class="wp-image-1567"/><figcaption class="wp-element-caption">Fresh from the iron, not from the airport — this is how stroopwafels are supposed to taste.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The packaged versions at Schiphol are fine. The fresh version — two thin waffle layers sandwiching warm caramel syrup, made to order at a market stall — is a genuinely different food. Albert Cuyp Markt and the Noordermarkt both have vendors making them fresh. Buy one, eat it immediately while it's still warm, buy another one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="6-try-raw-herring-haring">6. Try raw herring (haring)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The classic Dutch street food: a raw herring fillet eaten whole, held by the tail, sometimes with pickled onions and gherkins. The stands around the fish market and at Albert Cuyp have the freshest. Dutch haring season runs June to July (nieuwe haring), but cured herring is available year-round. If you're going to try one Dutch food that isn't stroopwafel, this is it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="7-cycle-through-the-city">7. Cycle through the city</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam has 800,000 residents and 900,000 bicycles. Cycling is how the city actually moves. Renting a bike for a day and joining the flow on the cycle lanes is one of the most authentically Amsterdam experiences available. Recommendation: stick to the quieter streets and cycle paths outside the immediate Centraal Station area until you've got a feel for the traffic dynamics. Several operators rent quality bikes with GPS near Leidseplein and in the Jordaan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="8-spend-a-morning-at-the-vondelpark">8. Spend a morning at the Vondelpark</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1568,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/hung-tran-qqAnlW6b2pU-unsplash-1-1-1024x683.jpg" alt="Blauwe Theehuis pavilion terrace in Vondelpark, Amsterdam, with people relaxing outside" class="wp-image-1568"/><figcaption class="wp-element-caption">Vondelpark's Blauwe Theehuis has been a city institution since 1937 — coffee and a bench beats any tourist cafe.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam's central park covers 47 hectares and on a good May morning feels like a city-within-a-city: coffee at the Blauwe Theehuis (the round 1930s pavilion), families on bikes, dogs running, the smell of cut grass. The playground in the middle is genuinely good for toddlers. Come without a specific plan and stay as long as it feels right. Traveling with young children? <a href="/amsterdam-with-a-toddler/">Amsterdam with a Toddler</a> covers exactly how to make this work.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="9-browse-albert-cuyp-markt">9. Browse Albert Cuyp Markt</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The largest market in Amsterdam and one of the most authentic — this is where De Pijp residents actually shop, not a tourist market with staged Dutch aesthetic. Aged Gouda, fresh fish, Indonesian street food, Dutch stroopwafels, fabric, flowers, cheap household goods. Open Monday to Saturday, busiest mid-morning. Go hungry.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="10-visit-the-van-gogh-museum">10. Visit the Van Gogh Museum</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Next door to the Rijksmuseum, the Van Gogh Museum holds the world's largest collection of Van Gogh works: 200 paintings and 500 drawings including Sunflowers, The Bedroom, and the Almond Blossom. Book tickets well in advance — this museum sells out as reliably as the Anne Frank House in peak season. The chronological layout tells Van Gogh's story effectively even if you're not deeply familiar with his work. <a href="https://www.viator.com/tours/Amsterdam/Van-Gogh-Museum-Entry-Fast-Track-Access/d525-5556932P4?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amsterdam-bucket-list" rel="sponsored noopener noreferrer" target="_blank">Check Van Gogh Museum tickets on Viator →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="local-experiences">Local experiences — what goes beyond the guidebook</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="11-find-a-hofje">11. Find a hofje</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam has dozens of hofjes: hidden courtyards built by wealthy 17th-century merchants as almshouses for the poor. They're tucked behind ordinary-looking doors in the Jordaan and center, completely invisible from the street, and still used as residential spaces today. The Begijnhof (near the Spui) is the most visited; the Jordaan hofjes (Karthuizerhof, Claes Claeszhofje) are more private and more rewarding. Ring the bell respectfully, don't linger too long, and don't photograph residents.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="12-walk-the-nine-streets-de-negen-straatjes">12. Walk the Nine Streets (De Negen Straatjes)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nine small connecting streets between the main canal ring, packed with independent boutiques, vintage shops, cheese shops, and cafes. The best shopping in Amsterdam is here, not on the main commercial strip. Allow 90 minutes to browse without any specific agenda.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="13-take-the-free-ij-ferry-to-amsterdam-noord">13. Take the free IJ ferry to Amsterdam Noord</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Behind Centraal Station, free public ferries cross the IJ waterway to Amsterdam Noord. The crossing takes 5 minutes and is free — it's part of the public transport network. NDSM Wharf is the destination: an old shipyard converted into an arts hub, with street art murals, food trucks, and an atmosphere completely unlike the tourist center. Worth an afternoon. Eye Film Museum is also accessible by ferry, with striking architecture and a rotating program of independent film.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="14-visit-ndsm-wharf">14. Visit NDSM Wharf</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam's post-industrial creative district occupies a former shipyard in Noord. Street art at a scale that fills building-sized walls, underground music venues, weekend flea markets, and a general feeling of a city that hasn't been cleaned up for tourism. The food trucks are good. The flea market (IJ-Hallen, held monthly) is the largest in the Netherlands when running. Worth the ferry and the walk from the dock.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="15-drink-jenever-in-a-brown-cafe">15. Drink jenever in a brown cafe</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Jenever is the Dutch gin precursor — sweeter, more complex, traditionally drunk from a tulip glass filled to the brim and sipped without lifting the glass first. Brown cafes (bruine kroegen) are the traditional Dutch pub format: dark wood, sand on the floor, regulars who've been coming since 1980. Hoppe on the Spui is the classic tourist-adjacent version. In the Jordaan, look for the cafes with no English menu in the window.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="16-explore-the-heineken-experience">16. Explore the Heineken Experience</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1569,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/rikin-katyal-1DBoqltTTO8-unsplash-1024x768.jpg" alt="Heineken Experience brewery building exterior with signage on Stadhouderskade in Amsterdam" class="wp-image-1569"/><figcaption class="wp-element-caption">The Heineken Experience is more interactive than expected — definitely worth it for beer people.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The original Heineken brewery on Stadhouderskade is now a self-guided interactive tour through the brewing process, brand history, and Amsterdam's relationship with beer. More entertaining than expected — there are a couple of genuinely clever interactive installations — and ends with two beers included in the ticket price. Good for a 90-minute afternoon activity. Book online to avoid queuing. Not suitable for toddlers (adults-focused content and steep stairs).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="17-shop-the-waterlooplein-flea-market">17. Shop the Waterlooplein flea market</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam's oldest outdoor market and the original Jewish market quarter. Vintage clothing, second-hand books, bikes of questionable provenance, antiques, and the kind of stalls that require actual looking rather than glancing. Open Monday to Saturday. More chaotic than Albert Cuyp, more interesting if you like the hunt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="18-see-the-flower-market-bloemenmarkt">18. See the flower market (Bloemenmarkt)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The floating flower market on the Singel is the world's only floating flower market — the stalls are built on barges. The tulip bulbs, dried flowers, and plant varieties on offer are the real draw; the souvenir section is less interesting. Worth 20 minutes. Don't try to pack the tulip bulbs in your carry-on — customs regulations in the US mean they need USDA certification, and most market sellers can provide this if you ask specifically.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="19-walk-across-as-many-bridges-as-possible">19. Walk across as many bridges as possible</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam has 1,700 bridges — more than Venice. The view looking down a canal from a bridge, with another bridge visible in the distance and then another behind that, is one of the city's defining visuals and completely free.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Magere Brug (Skinny Bridge) on the Amstel is the most photographed. The bridges in the Jordaan are the most intimate. Plan nothing and cross every one you pass.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="20-visit-a-dutch-cheese-shop">20. Visit a Dutch cheese shop</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Not a tourist cheese shop on Damrak that gives you free samples and sells Gouda wrapped in Dutch flag paper. An actual Dutch cheese shop: Henri Willig in the Jordaan area stocks aged Gouda, young Gouda, herb varieties, and the prized extra-old (extra belegen) that has a crystalline texture and nothing in common with the mild yellow slices that get called Gouda at home. Buy a wedge and eat it on a canal bench.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="beyond-center">Beyond the center — worth the trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="21-day-trip-to-zaanse-schans">21. Day trip to Zaanse Schans</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Working windmills, wooden green farmhouses, artisan clog-making and cheese production — 20 minutes by train. The most visually Dutch experience accessible from Amsterdam, and worth half a day. Full breakdown: <a href="/best-day-trips-from-amsterdam/">Best Day Trips from Amsterdam</a>. <a href="https://www.viator.com/tours/Amsterdam/Day-Trip-to-Zaanse-Schans-Edam-Volendam-and-Marken-from-Amsterdam/d525-61268P6?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amsterdam-bucket-list" rel="sponsored noopener noreferrer" target="_blank">Book a tour →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="22-tulip-fields-or-keukenhof-april-may">22. Tulip fields or Keukenhof (April-May)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The tulip fields surrounding Amsterdam are one of the most spectacular agricultural landscapes in Europe during peak bloom (mid-April to early May). Keukenhof is the curated garden version: 7 million bulbs, 32 hectares, open only during the tulip season. Late May visitors may catch the tail of the season. Worth checking bloom status before committing a day to it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="23-giethoorn-the-car-free-village">23. Giethoorn — the car-free village</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>90 minutes from Amsterdam, accessible primarily by organized tour. No roads, only canals and paths; rent a boat and drift through thatched-roof farmhouses at walking pace. Genuinely unlike anywhere else in the Netherlands. Full details: <a href="/best-day-trips-from-amsterdam/">Best Day Trips from Amsterdam</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="24-half-day-in-haarlem">24. Half-day in Haarlem</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>20 minutes by direct train. Smaller, quieter, architecturally identical to Amsterdam but without the tourist density. The Grote Markt with its medieval town hall and church, the canal streets, a good Dutch lunch. Perfect for a travel day or when Amsterdam itself needs a break. Full details: <a href="/best-day-trips-from-amsterdam/">Best Day Trips from Amsterdam</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="25-watch-the-sunset-from-a-canal-bridge">25. Watch the sunset from a canal bridge</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In late May, sunset in Amsterdam is around 9:30 PM. The long northern evening light turns the canal water amber and the gabled houses gold for about 45 minutes before dark. Find a bridge over the Prinsengracht or the Keizersgracht, stand there without an agenda, and watch the city do its most beautiful thing of the day. No booking required. No entrance fee. This is the one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="where-to-stay">Where to stay while ticking off the list</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Jordaan puts you walking distance from items 1, 4, 5, 11, 12, 15, 18, 20, and 25 on this list. Museum Quarter handles 2, 8, 10, 16. De Pijp gets you 9. Plan your base around which cluster matters most to you. Full guide: <a href="/where-to-stay-in-amsterdam/">Where to Stay in Amsterdam</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For specific hotel picks by neighborhood, see the full <a href="/where-to-stay-in-amsterdam/">Where to Stay in Amsterdam</a> guide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently asked questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is Amsterdam most known for?</summary><!-- wp:paragraph -->
+<p>Amsterdam is most known for its 17th-century canal ring (a UNESCO World Heritage Site), the Rijksmuseum and its collection of Dutch Golden Age art, the Anne Frank House, and its cycling culture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The city is also famous for the Heineken brewery, tulip markets, Dutch cheese, and the distinctive narrow merchant houses that line the canals. As a travel destination, it's one of Europe's most compact and walkable major cities.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What should I not miss in Amsterdam?</summary><!-- wp:paragraph -->
+<p>Do not miss a canal cruise, the Anne Frank House (book weeks in advance), and a walk through the Jordaan neighborhood. These three experiences together give you the essential Amsterdam — the city's geography, its history, and its everyday residential character. The Rijksmuseum is the fourth essential if you have museum stamina. Everything else on this list is excellent but optional depending on your interests.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How many days do you need in Amsterdam?</summary><!-- wp:paragraph -->
+<p>Three days in Amsterdam covers the essential experience: canal cruise, Rijksmuseum or Van Gogh Museum, Anne Frank House, Jordaan walks, Albert Cuyp Markt, and one evening in a brown cafe. Four or five days lets you add a day trip to Zaanse Schans or Giethoorn and explore De Pijp and Amsterdam Noord properly. A week is enough to cover most of this list without feeling rushed.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Amsterdam good for families?</summary><!-- wp:paragraph -->
+<p>Amsterdam is good for families with toddlers and young children — canal cruises work well with covered boats, Vondelpark has excellent playgrounds, and ARTIS Zoo is one of the best in Europe. The main challenges are cobblestone streets (difficult for strollers) and the Anne Frank House (emotionally heavy, small rooms, no strollers). Full guide: <a href="/amsterdam-with-a-toddler/">Amsterdam with a Toddler</a>.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Amsterdam most known for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amsterdam is most known for its 17th-century canal ring (a UNESCO World Heritage Site), the Rijksmuseum and its collection of Dutch Golden Age art, the Anne Frank House, and its cycling culture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I not miss in Amsterdam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not miss a canal cruise, the Anne Frank House (book weeks in advance), and a walk through the Jordaan neighborhood. The Rijksmuseum is the fourth essential if you have museum stamina."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many days do you need in Amsterdam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three days covers the essential experience: canal cruise, a major museum, the Anne Frank House, Jordaan walks, and Albert Cuyp Markt. Four or five days lets you add a day trip to Zaanse Schans or Giethoorn. A week is enough to cover most of this list without feeling rushed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Amsterdam good for families?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — canal cruises work well with covered boats, Vondelpark has excellent playgrounds, and ARTIS Zoo is one of the best in Europe. The main challenges are cobblestone streets for strollers and the Anne Frank House, which is emotionally heavy with small rooms and no stroller access."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Amsterdam guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Ready to plan the trip?</strong> → <a href="/3-days-in-amsterdam/">3 Days in Amsterdam: The Honest First-Timer's Itinerary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Want the canal cruise details?</strong> → <a href="/best-canal-cruises-in-amsterdam/">Best Canal Cruises in Amsterdam: Which One Is Actually Worth It</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Traveling with a toddler?</strong> → <a href="/amsterdam-with-a-toddler/">Amsterdam with a Toddler: What Actually Works</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not sure where to stay?</strong> → <a href="/where-to-stay-in-amsterdam/">Where to Stay in Amsterdam: Best Neighborhoods Honestly Ranked</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Figuring out the budget?</strong> → <a href="/amsterdam-travel-costs/">Amsterdam Travel Costs: What We Actually Spent</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Want a day outside the city?</strong> → <a href="/best-day-trips-from-amsterdam/">Best Day Trips from Amsterdam (Worth It vs. Skip)</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

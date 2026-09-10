@@ -1,0 +1,455 @@
+﻿<!-- wp:image {"id":1951,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="/wp-content/uploads/2026/06/IMG_8062-edited.jpg" alt="Tourist crowds outside Milan's Duomo cathedral on an overcast day before a Dolomites road trip" class="wp-image-1951"/><figcaption class="wp-element-caption">Milan rewards the traveler who slows down enough to actually look at it — crowds at the Duomo included.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Most people treat Milan as a passport stamp — land at Malpensa, collect your rental car, and head straight for the mountains. We almost did the same thing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We're glad we didn't. We gave ourselves 24 hours in Milan before driving up to the Dolomites, and it turned out to be one of the better decisions of the trip. Not because Milan is underrated (it isn't — the crowds at the Duomo are very real), but because it's a genuinely different kind of beautiful than what you'll find in the mountains, and the contrast makes both places feel more vivid.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is the exact itinerary we followed: where we stayed, what we ate, what we skipped, and how we got ourselves back to Malpensa the next morning without losing an hour to logistics.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#quick-snapshot">Quick Snapshot</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-stay-milan">Where to Stay for a 24-Hour Layover</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#morning-duomo">Morning: The Duomo Without the Wait</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#brera">Why Brera Is Worth More Than an Hour</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#lunch">Where to Eat a Proper Milanese Lunch</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#aperitivo">The Aperitivo Ritual (Don't Skip This)</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#malpensa-1-1-1">Getting Back to Malpensa the Next Day</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#what-wed-do-differently">What We'd Do Differently</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#one-day-enough-2">Is 24 Hours in Milan Enough?</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq-3">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides-8">Planning the Dolomites Part of Your Trip</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> With one day in Milan, stay in Brera or near Cadorna, visit the Duomo rooftop first thing in the morning, walk through the Galleria, spend late morning in Brera, have a proper Milanese lunch, then finish with aperitivo around the Navigli canals. If Milan is your first stop before a Dolomites road trip, this gives you the best version of the city without overloading the day.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"46px"} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-plan-24-hours-in-milan">How I'd plan 24 hours in Milan</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If I only had one night before heading to the mountains, I'd book Duomo rooftop access before landing — the good morning slots sell out fastest, and it sets the pace for the whole day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.viator.com/tours/Milan/Milan-Super-Saver-Skip-the-Line-Duomo-Tour-and-Evening-Rooftop-Visit/d512-6404DUOMOCOMBO?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=24-hours-in-milan" rel="sponsored noopener noreferrer" target="_blank">This is the Duomo rooftop tour I'd book</a> — skip-the-line access with real traveler reviews behind it, not a guess.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For where to sleep, <a href="https://expedia.tpm.lv/zkfcVbFM" target="_blank" rel="sponsored noopener noreferrer">UNA Hotels Cusani Milano</a> is where I'd stay — 4-star, 1,000+ reviews, right on the edge of Brera and walkable to everything in this itinerary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a single, well-paced day in Milan before driving on to the Dolomites — not a full multi-day city break.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> Duomo, Brera, and Navigli sit close enough together to cover on foot and by metro in one day without rushing — no upfront payment on eligible Viator bookings, free cancellation up to 24 hours before, so locking in the rooftop slot early costs nothing if plans change.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you want to see the Last Supper or the fashion district too — both need more time than a 24-hour layover allows.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you go:</strong> book the Duomo rooftop slot before you land, especially June through August — this is the one reservation that actually shapes the rest of the day.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-snapshot">Quick Snapshot</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Best neighborhood to stay</strong></td><td>Brera — walkable, beautiful, genuinely Milanese</td></tr><tr><td><strong>Must-see</strong></td><td>Duomo rooftop, Galleria Vittorio Emanuele II, Brera district</td></tr><tr><td><strong>Best meal timing</strong></td><td>Lunch in Brera, aperitivo at the Navigli canals</td></tr><tr><td><strong>Malpensa to city center</strong></td><td>Malpensa Express train (~50 min from Centrale, €15)</td></tr><tr><td><strong>Day trip to Dolomites from Milan?</strong></td><td>Not worth it — plan at least 2 nights in the mountains</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>This map shows the full day in order — all five stops numbered from morning to evening, plus the two best neighborhoods to stay in and the Cadorna station for the Malpensa Express back to the airport.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1GyVPVbfItzybP8zx7UMgOL6g9L03eSU&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="where-to-stay-milan">Where to Stay for a 24-Hour Layover</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you're only in Milan for one night, location matters more than usual. You want to walk out of your hotel and be somewhere worth walking in — not a business district that empties out at 7pm or a tourist corridor where every restaurant has a laminated photo menu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Brera is our answer.</strong> It's Milan's historic art neighborhood — cobblestone streets, ivy-covered buildings, independent wine bars, and enough restaurant options that you'll feel paralyzed in the best possible way. It's walking distance from the Duomo (about 20 minutes on foot) and close enough to the Navigli canals for an evening aperitivo without needing a taxi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We stayed at a small hotel just off Via Brera and would do it again without hesitation. Rates are higher here than in the outskirts, but for a single night in a city you're only half-seeing, paying for a good location is worth every euro. You can also find solid mid-range options in the wider Brera-Garibaldi area that walk the line between price and access.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://expedia.tpm.lv/zkfcVbFM" rel="sponsored noopener noreferrer" target="_blank">UNA Hotels Cusani Milano</a> is a good benchmark for what a solid one-night stay right on the edge of Brera looks like — 4-star, well-reviewed, walkable to everything on this itinerary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If Brera is full or over budget, the area around <strong>Corso Magenta</strong> (west of the Duomo, close to Santa Maria delle Grazie where the Last Supper is housed) is a quieter residential alternative with good transport links.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1435,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/mathieu-gauzy-l8FksmCohbw-unsplash-1024x700.jpg" alt="Brera neighborhood street in Milan with historic buildings and outdoor cafes" class="wp-image-1435"/><figcaption class="wp-element-caption">The Brera neighborhood feels like a village tucked inside a fashion capital.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="morning-duomo">Morning: The Duomo Without the Wait</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Duomo di Milano is one of those places that lives up to every photograph. The façade — all those spires and statues, white marble going orange-gold in the morning light — is the kind of thing you keep stopping to look at because you can't quite believe you're actually looking at it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But the lines can be brutal if you don't plan ahead, especially from June through August. Ticket types and access rules can change, but the rooftop terraces are the real experience and should be booked ahead if you only have one morning in Milan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Book your rooftop access before you arrive. We went up by stairs rather than elevator — it takes about 15 minutes of narrow medieval staircase, but the gargoyles and gothic pinnacles up close are extraordinary in a way you can't appreciate from the square below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For a short stopover, compare timed rooftop options before you land. <a href="https://www.viator.com/tours/Milan/Milan-Super-Saver-Skip-the-Line-Duomo-Tour-and-Evening-Rooftop-Visit/d512-6404DUOMOCOMBO?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=24-hours-in-milan" target="_blank" rel="sponsored noopener noreferrer">Viator has Duomo rooftop tickets and tours with traveler reviews</a>, and <a href="https://getyourguide.tpm.lv/ycKjRHBF" target="_blank" rel="sponsored noopener noreferrer">GetYourGuide is another place to check availability</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After the rooftop, walk directly into the <strong>Galleria Vittorio Emanuele II</strong> — the enormous 19th-century iron-and-glass shopping arcade built right into the Duomo's north side. You don't need to buy anything; walk through it slowly and look up at the glass dome.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Have a coffee at one of the historic cafes inside. It's expensive by Italian standards, but you're paying for one of the most beautiful rooms in Europe, and €5 for an espresso is still less than a museum ticket.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1437,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/chiara-f-bQ26Z0ot8LM-unsplash-edited-scaled.jpg" alt="Milan Duomo rooftop terraces with marble spires and city views" class="wp-image-1437"/><figcaption class="wp-element-caption">The Duomo rooftop is worth the early start and the advance booking.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="brera">Why Brera Is Worth More Than an Hour</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>From the Galleria, walk north to Brera. The 20-minute walk takes you past La Scala opera house (you can't go inside without a ticket, but the exterior is elegant and the square in front of it is pleasant), through quieter side streets, and eventually into the neighborhood itself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <strong>Pinacoteca di Brera</strong> is one of Italy's great art museums — major works by Raphael, Caravaggio, Mantegna, and dozens of other Renaissance and Baroque painters, all housed in a 17th-century palazzo. If you love art, spend 2 hours here. It's less overwhelmingly large than the Uffizi and you can actually look at things without being shuffled past them. If you don't love art museums, skip it — the neighborhood itself rewards wandering.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are independent bookshops, flower sellers, a small street market on certain days, and restaurants with outdoor seating spilling onto the cobblestones. The vibe is noticeably different from the tourist intensity around the Duomo. Locals actually live here. On a weekday morning you'll see them — getting coffee at the bar counter, buying bread, sitting at outdoor tables with newspapers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is the part of Milan that visitors most often miss because they don't get far enough from the cathedral. If you have 24 hours, make sure Brera gets at least 2 of them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1439,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/marco-chilese-i-YLsFH0tMM-unsplash-1024x683.jpg" alt="Quiet Brera street in Milan with cobblestones and warm evening light" class="wp-image-1439"/><figcaption class="wp-element-caption">Brera runs at a different pace than the rest of central Milan — in the best possible way.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="lunch">Where to Eat a Proper Milanese Lunch</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Milan has a reputation for being expensive, and dinner can be. But lunch is different. Most restaurants in the Brera area offer a <em>menù del giorno</em> — a set lunch of two or three courses at a price that's genuinely reasonable — and the midday meal is when locals eat their main meal of the day, which means the food tends to be better and more traditional than what gets sent out to tourists at dinner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What to order if you see it:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Risotto alla Milanese</strong> — saffron risotto, deeply savory and intensely yellow. This is the dish Milan is actually famous for and it tastes nothing like risotto anywhere else.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Cotoletta alla Milanese</strong> — a breaded veal cutlet pan-fried in butter, crisp outside and tender inside. It predates Wiener schnitzel by at least a century and the Milanese will tell you so.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Ossobuco</strong> — braised veal shank with gremolata. Rich, slow-cooked, deeply satisfying. Traditionally served with saffron risotto on the side.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Note that all three are veal-based — Milanese cuisine leans heavily on it. If you don't eat veal, ask about the <em>piatto del giorno</em> (daily special), which is often a fish or chicken alternative.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We ate at a small trattoria on a side street off Via Brera — paper tablecloths, handwritten menu that changes daily, no English translation available (we pointed and guessed). We had one of the best lunches of the entire trip. Our specific restaurant changes its offerings constantly, so rather than name it, walk one or two streets away from the main Via Brera drag, avoid any place with photos on the menu, and sit down somewhere that looks full of people who aren't tourists.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="aperitivo">The Aperitivo Ritual (Don't Skip This)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Milan invented the aperitivo as a social institution, and the <strong>Navigli canal district</strong> — about 3km south of Brera — is where you go to experience it properly. Take the metro (M2 to Porta Genova, about 10 minutes) or a short taxi ride in the late afternoon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The ritual works like this: you order a drink — a Campari Spritz, Negroni, Aperol Spritz, or a glass of local Franciacorta sparkling wine — and the bar sets out food alongside it. Real aperitivo bars put out a substantial spread: bruschetta, cold cuts, olives, arancini, sometimes pasta or small hot dishes. You pay for the drink (typically €8–12) and the food is included.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It runs from around 6pm until 9pm, which becomes your dinner if you do it properly at a couple of different bars. The Navigli canals have a long strip of bars on both sides, and on a warm evening the scene is genuinely beautiful — people standing outside with glasses, the canal reflecting the lights of the buildings, the last daylight going rose-gold over the rooftops.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This was the part of our Milan day we hadn't planned particularly carefully and ended up loving most. Allow at least 2 hours here. The Navigli gets lively and it's easy to lose track of time, which is exactly the point.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1440,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/daniel-kirby-smCqxgrMeNY-unsplash-1024x576.jpg" alt="Navigli canal district in Milan at sunset with restaurants along the water" class="wp-image-1440"/><figcaption class="wp-element-caption">The Navigli canal district on a warm evening is one of the most unexpected pleasures of Milan.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="malpensa-1-1-1">Getting Back to Malpensa the Next Day</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The <strong>Malpensa Express</strong> is the easiest way between the city and the airport. It runs from Milano Centrale (the main train station) and Milano Cadorna, directly to Malpensa Terminal 1 — about 50 minutes from Centrale and around 40 minutes from Cadorna. A standard Milan-Malpensa one-way ticket is €15 for adults, and trains run frequently from early morning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Buy tickets at the station machines or online in advance. If you're staying in Brera, Milano Cadorna is closer and slightly faster — it's the terminus of the M2 metro line and well-connected to the neighborhood.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One useful thing to sort before you land: an Italian eSIM. The Malpensa Express doesn't have reliable wifi, and you'll want navigation working from the moment you step off the train into a new city. I explain the setup in my <a href="/esim-for-travel/">eSIM for travel guide</a>, and <a href="https://airalo.tpm.lv/TYjQRZua" target="_blank" rel="sponsored noopener noreferrer">Airalo is one option to compare for Italian data</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're picking up a rental car at Malpensa to drive to the Dolomites, compare rates in advance instead of waiting until the desk. <a href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">Discover Cars compares airport rental options</a>, which is especially useful if you need an automatic car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One more thing worth sorting before you fly: travel insurance. If your trip includes any mountain hiking — which a Dolomites visit almost certainly does — standard travel coverage won't always include higher-risk activities and emergency evacuation. <a href="https://ektatraveling.tpm.lv/fqijSuju" target="_blank" rel="sponsored noopener noreferrer">EKTA is one provider to compare</a> before you leave.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One practical note: Malpensa is large and the car rental desks can have serious queues first thing in the morning. Build in 30–45 extra minutes if you're picking up a car and have a specific check-in time at your accommodation in the Dolomites. Our <a href="/milan-to-dolomites-road-trip/">Milan to Dolomites road trip guide</a> covers the full drive — the best route, where to stop, and how long it actually takes versus what Google Maps tells you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1442,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/jeton-bajrami-jKAfh_0TRcA-unsplash-edited-scaled.jpg" alt="Train platform in Milan for airport connections to Malpensa" class="wp-image-1442"/><figcaption class="wp-element-caption">The Malpensa Express is the stress-free way to get between central Milan and the airport.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-wed-do-differently">What We'd Do Differently</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Build the evening around the Navigli from the start — not as an afterthought we fit in at the end. We arrived at the canals without much of a plan, stayed longer than we meant to, and it became the part of the day we talked about most afterward. Next time we'd block the whole late afternoon for it: arrive by 5:30pm, pick a bar with a good canal-side position, and let the evening happen without a schedule attached to it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We'd also book the Duomo rooftop before leaving home rather than figuring it out the day before. In peak season, the good morning time slots sell out. The experience is worth it — the stress of finding last-minute availability is not.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And we'd resist the urge to add a fourth stop. Duomo + Brera + Navigli is already a full day at a good pace. Every time we've tried to squeeze in one more thing on a day like this, we've arrived somewhere too tired to appreciate it properly. The Last Supper, Sforza Castle, and the fashion district all deserve more time than a rushed 45 minutes — save them for a second trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="one-day-enough-2">Is 24 Hours in Milan Enough?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Enough to <em>see</em> Milan? No. Enough to <em>feel</em> it? Yes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 24 hours you can do the Duomo rooftop, walk the Galleria, spend real time in Brera, have a proper Milanese lunch, and do aperitivo at the Navigli canals. You'll leave with an actual impression of the city — its pace, its light, its specific kind of stylish-but-relaxed energy — rather than just an airport transit memory.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What you won't get to: the Last Supper (book weeks ahead through official channels if you want it — it's extraordinary but requires serious planning), the fashion district, the Sforza Castle, the design district around Porta Nuova. A second day would let you breathe more and cover these gaps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're using Milan as the gateway to a Dolomites trip, 24 hours is the right amount of time. More starts to feel like you're splitting your attention between two very different experiences. Less feels like you blinked and missed it entirely.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the Dolomites side of the trip, our <a href="/where-to-stay-in-the-dolomites/">guide to where to stay in the Dolomites</a> breaks down all the base town options so you can figure out which area fits your travel style before you book anything. And if you're still in the early planning stage, <a href="/how-to-plan-a-trip/">our general trip planning guide</a> walks through how we structure longer European trips from start to finish.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq-3">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is 24 hours enough time in Milan?</summary><!-- wp:paragraph -->
+<p>Yes — for a stopover layover before the Dolomites, 24 hours gives you the Duomo rooftop, Brera neighborhood, a proper Milanese lunch, and the Navigli aperitivo. You won't see everything (the Last Supper, the fashion district, the Castello Sforzesco all require more time), but you'll leave with a genuine feel for the city rather than just a transit memory. Two nights is the sweet spot if your schedule allows.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the best neighborhood to stay in Milan for one night?</summary><!-- wp:paragraph -->
+<p>Brera is the best choice for a short stay — walkable, beautiful, genuinely Milanese. It's 20 minutes on foot from the Duomo, close to the Navigli by metro, and has the best concentration of independent restaurants and wine bars. The Porta Venezia and Garibaldi areas are good alternatives at slightly lower prices. Avoid the area directly around the train station (Centrale) — it's functional but characterless and far from the things worth doing.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How do you get from Malpensa Airport to the center of Milan?</summary><!-- wp:paragraph -->
+<p>The Malpensa Express train is the easiest option — about 50 minutes from Milano Centrale, around 40 minutes from Milano Cadorna, and €15 for a standard adult one-way ticket. If you're staying in Brera, Cadorna is the closer terminus. Taxis from Malpensa to Milan have a regulated fixed fare of €110, so they only make sense if you have heavy luggage or are splitting the cost as a group. Buses exist but are slower and less predictable in traffic.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Do you need to book the Duomo rooftop in advance?</summary><!-- wp:paragraph -->
+<p>Yes — especially in June through August. Rooftop and combined Duomo tickets can sell out, particularly for the time slots that work best in a one-day itinerary. Book at least a few days ahead; in peak summer, a week or more is safer. <a href="https://www.viator.com/tours/Milan/Milan-Super-Saver-Skip-the-Line-Duomo-Tour-and-Evening-Rooftop-Visit/d512-6404DUOMOCOMBO?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=24-hours-in-milan" target="_blank" rel="sponsored noopener noreferrer">Viator has review-based Duomo rooftop options</a> if you're booking last minute and official availability is limited.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is 24 hours enough time in Milan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — for a stopover layover before the Dolomites, 24 hours gives you the Duomo rooftop, Brera neighborhood, a proper Milanese lunch, and the Navigli aperitivo. You won't see everything (the Last Supper, the fashion district, the Castello Sforzesco all require more time), but you'll leave with a genuine feel for the city rather than just a transit memory. Two nights is the sweet spot if your schedule allows."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best neighborhood to stay in Milan for one night?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brera is the best choice for a short stay — walkable, beautiful, genuinely Milanese. It's 20 minutes on foot from the Duomo, close to the Navigli by metro, and has the best concentration of independent restaurants and wine bars. The Porta Venezia and Garibaldi areas are good alternatives at slightly lower prices. Avoid the area directly around the train station (Centrale) — it's functional but characterless and far from the things worth doing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you get from Malpensa Airport to the center of Milan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Malpensa Express train is the easiest option — about 50 minutes from Milano Centrale, around 40 minutes from Milano Cadorna, and €15 for a standard adult one-way ticket. If you're staying in Brera, Cadorna is the closer terminus. Taxis from Malpensa to Milan have a regulated fixed fare of €110, so they only make sense if you have heavy luggage or are splitting the cost as a group. Buses exist but are slower and less predictable in traffic."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you need to book the Duomo rooftop in advance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — especially in June through August. Rooftop and combined Duomo tickets can sell out, particularly for the time slots that work best in a one-day itinerary. Book at least a few days ahead; in peak summer, a week or more is safer."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides-8">Planning the Dolomites Part of Your Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Driving to the Dolomites after Milan?</strong> → <a href="/milan-to-dolomites-road-trip/">Milan to Dolomites road trip</a> — the full 5-day route with stops, Lake Como, and what to cut if time is short.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Just need the logistics?</strong> → <a href="/milan-to-dolomites/">Milan to Dolomites transport options</a> — car vs. train vs. hybrid, with honest recommendations for US travelers.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Deciding where to base yourself?</strong> → <a href="/where-to-stay-in-the-dolomites/">Where to stay in the Dolomites</a> — Ortisei vs. Cortina vs. Canazei, honestly ranked.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Figuring out the budget?</strong> → <a href="/dolomites-travel-costs/">Dolomites travel costs</a> — what we actually spent including car, cable cars, and rifugio meals.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Planning the hikes?</strong> → <a href="/hiking-in-the-dolomites/">Hiking in the Dolomites</a> — best trails by difficulty, with family-friendly options included.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

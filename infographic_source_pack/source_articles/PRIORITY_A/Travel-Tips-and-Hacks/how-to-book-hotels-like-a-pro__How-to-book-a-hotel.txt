@@ -1,0 +1,331 @@
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Most people book accommodation the same way: they find something that looks nice, check the price, and confirm. Then they discover — sometimes at check-in, sometimes weeks later on their bank statement — that they paid more than they needed to, booked the wrong thing for the trip they were actually taking, or missed a cancellation window that would have saved them a significant amount of money. Accommodation is usually the biggest line item in a travel budget. It deserves more than five minutes on a comparison site.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is how I book every trip — from a resort week in Turkey to an Airbnb in the Netherlands to a 5-star in Egypt. The approach is the same regardless of the destination or the budget.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the full picture of how I plan a trip from start to finish, see our <a href="https://milesandflavors.com/how-to-plan-a-trip/">complete trip planning guide</a>. And for finding the flight that gets you there in the first place, our <a href="https://milesandflavors.com/how-to-find-cheap-flights/">cheap flights guide</a> covers the system I use on every booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1043,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_3592-1-edited-scaled.jpg" alt="Clean hotel room used as a practical example for choosing accommodation" class="wp-image-1043"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th colspan="2">How to Book Hotels: Quick Reference</th></tr></thead><tbody><tr><td><strong>First decision</strong></td><td>Book a free-cancellation option early, then check again 3-4 weeks before arrival.</td></tr><tr><td><strong>My default search order</strong></td><td>Use Booking.com for map and filter comparison, then check the hotel website before paying.</td></tr><tr><td><strong>Non-refundable rates</strong></td><td>Only consider them when plans are certain and the saving is genuinely worth the risk.</td></tr><tr><td><strong>Resort vs hotel vs Airbnb</strong></td><td>Choose based on how the trip will feel day to day, not the label or star rating.</td></tr><tr><td><strong>Most important filter with kids</strong></td><td>Location and noise. Check the immediate street, not only the neighborhood name.</td></tr><tr><td><strong>What "luxury" actually means</strong></td><td>Clean, well-run, good service, strong location, and fewer small problems.</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"37f6a23c-a661-4322-bc0e-640017f1585c","content":"The Free Cancellation Strategy: Book Now, Optimize Later","level":2,"link":"#the-free-cancellation-strategy-book-now-optimize-later","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"a983e2ce-1ce0-473a-a59a-3455e2594cbe","content":"How to Choose: Resort, Hotel, or Airbnb?","level":2,"link":"#how-to-choose-resort-hotel-or-airbnb","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7b89423a-e810-48df-8b77-831b19c8f418","content":"When to Choose a Resort","level":3,"link":"#when-to-choose-a-resort","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"0bb035d8-6ca6-4eb2-8f59-cdd3c2e937cd","content":"When to Choose a Hotel","level":3,"link":"#when-to-choose-a-hotel","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"3a31a51b-8ef5-4c65-bd0d-ab2ab72de0c0","content":"When to Choose an Airbnb","level":3,"link":"#when-to-choose-an-airbnb","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ad027265-b720-4641-8393-018f8d9f3f1e","content":"How to Read Hotel Reviews (The Right Way)","level":2,"link":"#how-to-read-hotel-reviews-the-right-way","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"890924a2-d763-4122-9aa7-87aaa285b023","content":"Booking Direct vs OTA: When It Actually Matters","level":2,"link":"#booking-direct-vs-ota-when-it-actually-matters","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"a0041eac-b098-4984-b8ec-0ce4d6a09d6a","content":"What to Pay With: Credit Card for Deposits","level":2,"link":"#what-to-pay-with-credit-card-for-deposits","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"bf080483-4551-4062-bba5-c3986beabebc","content":"Traveling with a Toddler: What Changes About Accommodation","level":2,"link":"#traveling-with-a-toddler-what-changes-about-accommodation","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"8b51e376-d256-4786-afdf-9106a20c8b5b","content":"My Exact Booking Process: Step by Step","level":2,"link":"#my-exact-booking-process-step-by-step","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ed3d511a-09f6-424c-910e-73ba1a2f9653","content":"What \u0022Comfort Premium\u0022 Actually Looks Like in Practice","level":2,"link":"#what-comfort-premium-actually-looks-like-in-practice","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"c0030050-e2a9-41c4-85a3-f01a44b1c03f","content":"Final Thoughts: How to Book Hotels Like a Pro","level":2,"link":"#final-thoughts-how-to-book-hotels-like-a-pro","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"hotel-booking-faq","content":"Hotel Booking FAQ","level":2,"link":"#hotel-booking-faq","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"is-it-better-to-book-direct-or-use-a-booking-site","content":"Is it better to book direct or use a booking site?","level":3,"link":"#is-it-better-to-book-direct-or-use-a-booking-site","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"should-you-book-a-non-refundable-hotel-rate","content":"Should you book a non-refundable hotel rate?","level":3,"link":"#should-you-book-a-non-refundable-hotel-rate","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"how-far-in-advance-should-you-book-hotels","content":"How far in advance should you book hotels?","level":3,"link":"#how-far-in-advance-should-you-book-hotels","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"what-hotel-rating-should-you-choose","content":"What hotel rating should you choose?","level":3,"link":"#what-hotel-rating-should-you-choose","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><ul><li class=""><a href="#the-free-cancellation-strategy-book-now-optimize-later">The Free Cancellation Strategy: Book Now, Optimize Later</a></li><li class=""><a href="#how-to-choose-resort-hotel-or-airbnb">How to Choose: Resort, Hotel, or Airbnb?</a><ul><li class=""><a href="#when-to-choose-a-resort">When to Choose a Resort</a></li><li class=""><a href="#when-to-choose-a-hotel">When to Choose a Hotel</a></li><li class=""><a href="#when-to-choose-an-airbnb">When to Choose an Airbnb</a></li></ul></li><li class=""><a href="#how-to-read-hotel-reviews-the-right-way">How to Read Hotel Reviews (The Right Way)</a></li><li class=""><a href="#booking-direct-vs-ota-when-it-actually-matters">Booking Direct vs OTA: When It Actually Matters</a></li><li class=""><a href="#what-to-pay-with-credit-card-for-deposits">What to Pay With: Credit Card for Deposits</a></li><li class=""><a href="#traveling-with-a-toddler-what-changes-about-accommodation">Traveling with a Toddler: What Changes About Accommodation</a></li><li class=""><a href="#my-exact-booking-process-step-by-step">My Exact Booking Process: Step by Step</a></li><li class=""><a href="#what-comfort-premium-actually-looks-like-in-practice">What "Comfort Premium" Actually Looks Like in Practice</a></li><li class=""><a href="#final-thoughts-how-to-book-hotels-like-a-pro">Final Thoughts: How to Book Hotels Like a Pro</a></li><li class=""><a href="#hotel-booking-faq">Hotel Booking FAQ</a><ul><li class=""><a href="#is-it-better-to-book-direct-or-use-a-booking-site">Is it better to book direct or use a booking site?</a></li><li class=""><a href="#should-you-book-a-non-refundable-hotel-rate">Should you book a non-refundable hotel rate?</a></li><li class=""><a href="#how-far-in-advance-should-you-book-hotels">How far in advance should you book hotels?</a></li><li class=""><a href="#what-hotel-rating-should-you-choose">What hotel rating should you choose?</a></li></ul></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:table {"className":"before-you-go-box","hasFixedLayout":false} -->
+<figure class="wp-block-table before-you-go-box"><table><thead><tr><th colspan="2">Before You Book a Hotel</th></tr></thead><tbody><tr><td><strong>Protect the trip first</strong></td><td>Lock in a free-cancellation option as soon as your dates are real. You can still improve the booking later, but you are not left with whatever is available at the last minute.</td></tr><tr><td><strong>Do the location test</strong></td><td>Open the map before paying. Check transport, walking distance, nearby bars, road noise, and whether the hotel is in the part of the city you will actually use.</td></tr><tr><td><strong>Compare before checkout</strong></td><td>I usually start with <a href="https://www.booking.com" target="_blank" rel="nofollow noopener noreferrer">Booking.com</a> because the filters are fast, then I check the hotel website and, for expensive stays, another major booking site before committing.</td></tr><tr><td><strong>Screenshot the boring details</strong></td><td>Save the cancellation deadline, local taxes, resort fees, deposit or card hold, breakfast terms, parking cost, and any child-related requests before you pay.</td></tr><tr><td><strong>For family trips</strong></td><td>Confirm cot or crib availability, lift access, quiet-room request, blackout curtains, and early check-in before arrival. These small details can change the whole trip.</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="the-free-cancellation-strategy-book-now-optimize-later">The Free Cancellation Strategy: Book Now, Optimize Later</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the single most useful thing I do when booking accommodation, and almost nobody does it systematically.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The principle: book with free cancellation as soon as you have your dates confirmed. Lock in a good option immediately so you are not scrambling later and accepting whatever is left. Then set a calendar reminder for 3–4 weeks before your trip. When that reminder fires, check the price again. If the same property has dropped in price — which happens regularly, especially heading into shoulder season — cancel and rebook at the lower rate. If the price has gone up, you already have a good option locked in, so you are not forced into a worse last-minute decision.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I have rebooked accommodation this way and saved $90–170 on a single booking. On a trip with multiple nights, this compounds quickly. The only effort required is setting the reminder and spending five minutes checking prices when it goes off. This is the travel equivalent of the long-term investor's approach: set it up correctly at the start and let the system work.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The critical rule:</strong> never book non-refundable rates unless the price difference is genuinely significant and your plans are completely certain. Travel plans change — especially with a young child. Free cancellation is not an optional extra. It is the baseline from which every booking starts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Ready to apply this?</strong> Start with free cancellation, a guest rating of 8.0+, and map view. I usually use <a href="https://www.booking.com" target="_blank" rel="nofollow noopener noreferrer">Booking.com</a> for the first comparison, then check the hotel website before paying.</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-to-choose-resort-hotel-or-airbnb">How to Choose: Resort, Hotel, or Airbnb?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The answer depends entirely on the type of trip — not on the destination, not on the budget, and not on what you booked last time. I use all three, sometimes on the same trip, and the decision follows a clear logic each time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="when-to-choose-a-resort">When to Choose a Resort</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A resort makes sense when the trip itself is the destination — when the goal is to switch off, not to explore. A week in Turkey or Egypt where you want sea, sun, good food, and a pool without logistical complexity: a resort handles all of that in one package. Everything is on site. You do not need to think about where to eat, how to get there, or what to do. That is the point.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For Africa and Asia — Egypt, Turkey — I default to 5-star. Not for the luxury of it, but for the certainty. In destinations where the standard varies more significantly, the difference between a well-run 5-star and a middling 4-star is not just about the room — it is about the food safety, the service consistency, and the overall reliability of the experience. With a toddler especially, that reliability is worth paying for.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In Europe and North America, a well-chosen 4-star hotel does exactly the same job. The baseline standard is higher and the gap between categories is smaller. Paying for a 5-star in Paris because it is a 5-star is often the wrong decision — a great 4-star in the right neighborhood will give you a better overall experience for less money.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When I am comparing resort options, I start broad, then narrow down by guest rating, food reviews, beach or pool setup, and cancellation terms. <a href="https://www.booking.com/searchresults.html?nflt=class%3D5" target="_blank" rel="nofollow noopener noreferrer">A 5-star resort search</a> is useful for the first pass, but the final decision still comes from recent reviews and the actual terms.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="when-to-choose-a-hotel">When to Choose a Hotel</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A city-based hotel is the right call when the trip is about the destination rather than the accommodation itself — when you are there to explore, not to stay in. Barcelona, Amsterdam, Istanbul: the accommodation is a base, not a destination. For these trips, a well-located 4-star in the right neighborhood beats an excellent 5-star in the wrong one every time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Location is the variable that most people underweight when booking hotels. The star rating tells you something about the room. The location tells you about the entire experience of the trip. I would rather walk out of the door into a good neighborhood than take a taxi from a perfect room.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What "right neighborhood" means when traveling with a toddler:</strong> not the nightlife district. This sounds obvious but it requires active filtering — many city-center hotels that look perfectly positioned are directly above or beside bars and clubs that get loud at midnight. Check the immediate surroundings on Google Maps before booking, not just the hotel's location pin. Read the most recent reviews specifically for noise. This is one filter that matters far more with a child than without one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For city trips, I usually compare 4-star hotels in map view first because it keeps the focus on neighborhood and transport. <a href="https://www.booking.com/searchresults.html?nflt=class%3D4" target="_blank" rel="nofollow noopener noreferrer">A 4-star hotel search</a> is only the starting point; the final decision is location, recent reviews, and cancellation terms.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="when-to-choose-an-airbnb">When to Choose an Airbnb</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>An Airbnb makes the most sense when you are renting a car and spending the days moving — when the accommodation is primarily a place to sleep, cook, and start from. Our trip to the Netherlands worked this way: we rented a car, spent full days exploring different parts of the country, and came back each evening to an apartment where we could cook a proper dinner from whatever we had found at local markets during the day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is something genuinely different about that kind of traveling. Breakfast at your own table, dinner made from local ingredients, the rhythm of a temporary home rather than a hotel room. With a toddler, the kitchen access is particularly valuable — you can feed a young child at the right time without depending on restaurant hours or menus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Airbnb also gives you more space for the same money in most destinations — a separate bedroom for the child, a living room, room to spread out. For trips longer than a few days, this matters more than people anticipate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What to look for in an Airbnb with a toddler:</strong> ground floor or confirmed lift access (prams and stairs are a genuine logistical problem), a properly equipped kitchen, and recent reviews that mention cleanliness specifically. A beautiful listing with dated reviews is a risk. Always check the most recent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-to-read-hotel-reviews-the-right-way">How to Read Hotel Reviews (The Right Way)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most people read the best reviews. I read the worst ones first.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The one-star and two-star reviews on Booking.com tell you far more about a property than the five-star ones. Not because every negative review is accurate — some are clearly unfair or based on unrealistic expectations — but because the pattern across negative reviews reveals what a property consistently fails at. If five separate reviewers mention noise from the street, that is a fact about the property. If three mention unresponsive staff at check-in, that is a pattern. If they all complain about different things, the property is probably fine and the reviews are outliers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After the negative reviews, look at the most recent reviews regardless of rating. A hotel can have an excellent overall score built up over years and have declined significantly in the last six months. The date of the reviews matters as much as their content.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The filters I always apply on Booking.com: free cancellation, minimum guest rating of 8.0, and — on city trips with a toddler — I check the map view before confirming anything to verify the immediate surroundings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Start your search:</strong> Filter by guest rating 8.0+, free cancellation, and check the map view before confirming. <a href="https://www.booking.com" target="_blank" rel="nofollow noopener noreferrer">Search on Booking.com.</a></td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="booking-direct-vs-ota-when-it-actually-matters">Booking Direct vs OTA: When It Actually Matters</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The standard advice is to book direct with the hotel — you get a better rate, more flexibility, the hotel prefers it. This is sometimes true and often not the decisive factor people suggest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In practice, I use Booking.com to search and compare — it is fast for comparison, the filtering is excellent, and the free cancellation options are easy to find. Once I have identified the property I want, I check the hotel's direct website to see if the rate is lower. If it is, I book direct. If it is the same or higher, I book through Booking.com for the platform's customer service as a backstop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The one clear advantage of booking direct: loyalty points if the hotel has a loyalty program, and a marginally higher chance of a room upgrade or early check-in if you call and mention you are traveling with a young child. This is not guaranteed but it works often enough to be worth trying.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-to-pay-with-credit-card-for-deposits">What to Pay With: Credit Card for Deposits</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hotels place a hold on your card at check-in — typically $100–500 depending on the property — which is released after checkout. Always pay this with a credit card rather than a debit card or travel money card. The hold ties up credit rather than real cash in your account, and a credit card provides purchase protection if the hotel makes an error on checkout.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the daily spending while traveling — restaurants, local transport, activities — a no-fee travel debit card is the right tool. Our <a href="https://milesandflavors.com/best-travel-money-card/">travel money card guide</a> covers the exact setup we use on every trip: Wise as the primary card, Revolut as backup, a no-fee credit card for larger purchases and hotel deposits.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="traveling-with-a-toddler-what-changes-about-accommodation">Traveling with a Toddler: What Changes About Accommodation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:kadence/advancedgallery {"uniqueID":"1021_a2fab1-71","ids":[1039],"type":"slider","imagesDynamic":[{"id":1039,"link":"https://milesandflavors.com/?attachment_id=1039","alt":"Hotel room detail checked before booking accommodation","url":"https://milesandflavors.com/wp-content/uploads/2026/04/IMG_2252-scaled.jpg","customLink":"","linkTarget":"","linkSponsored":"","thumbUrl":"https://milesandflavors.com/wp-content/uploads/2026/04/IMG_2252-1024x768.jpg","lightUrl":"https://milesandflavors.com/wp-content/uploads/2026/04/IMG_2252-scaled.jpg","width":1024,"height":768}],"kbVersion":2} /-->
+
+<!-- wp:paragraph -->
+<p>A few things become significantly more important when booking with a young child:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Cot or crib availability</strong> — always request this at booking, not at check-in. Most hotels have a limited number and they go quickly. Confirm a few days before arrival.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Blackout curtains</strong> — surprisingly important. A toddler who wakes with the sun at 5am on holiday is a different trip to one who sleeps until 7am. Check the reviews or email the hotel to ask.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Location relative to nightlife</strong> — covered above but worth repeating. Actively check the map and read recent reviews for noise mentions.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Pool fencing</strong> — for resort stays with a toddler, check whether the pool area has gating. Some do not, which means constant supervision at the poolside.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Early check-in</strong> — after a long flight with a young child, arriving at a hotel and waiting four hours for a room is genuinely difficult. Call the hotel a few days before and ask. It is often possible, especially if you arrive after a long-haul flight. Some hotels charge a small fee; others do it as a courtesy, particularly for families.</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="my-exact-booking-process-step-by-step">My Exact Booking Process: Step by Step</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Step</th><th>Action</th><th>Tool</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>Search with free cancellation filter and minimum 8.0 rating</td><td><a href="https://www.booking.com" target="_blank" rel="nofollow noopener noreferrer">Booking.com</a></td></tr><tr><td><strong>2</strong></td><td>Check map view — verify neighborhood and immediate surroundings</td><td>Google Maps</td></tr><tr><td><strong>3</strong></td><td>Read the worst reviews first, then the most recent</td><td>Booking.com reviews</td></tr><tr><td><strong>4</strong></td><td>Check the hotel's direct website for a lower rate</td><td>Hotel website</td></tr><tr><td><strong>5</strong></td><td>Book with free cancellation — confirm cot request if needed</td><td>Booking.com or direct</td></tr><tr><td><strong>6</strong></td><td>Set a calendar reminder for 3–4 weeks before arrival</td><td>Your calendar</td></tr><tr><td><strong>7</strong></td><td>Check price again — rebook if lower, keep if not</td><td>Booking.com</td></tr><tr><td><strong>8</strong></td><td>Call hotel 2–3 days before to request early check-in if needed</td><td>Phone or email</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-comfort-premium-actually-looks-like-in-practice">What "Comfort Premium" Actually Looks Like in Practice</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I am not looking for the cheapest option, and I am not looking for the most expensive. I am looking for the best return on what I spend — which is a different question entirely.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A 5-star resort in Turkey where the food is excellent, the pool is well-maintained, and the service is genuinely good: that is worth the rate. A 5-star hotel in a European city that charges the same price for a smaller room in a worse location than the 4-star next door: that is not. The star rating is one data point, not the conclusion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What I am actually evaluating: is this clean and well-run? Is the location right for what we are doing? If food is involved, is it good? Is the service the kind that makes a trip easier or harder? A hotel that scores well on those four questions at a fair price is the right choice, regardless of where it falls on the star scale.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="final-thoughts-how-to-book-hotels-like-a-pro">Final Thoughts: How to Book Hotels Like a Pro</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The free cancellation strategy, the right accommodation type for the trip you are actually taking, reading reviews from the bottom up, and paying with the right card — none of this is complicated. It just requires being slightly more deliberate about a decision most people make in five minutes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Accommodation is where a significant part of your trip budget goes and where a significant part of your trip experience is shaped. It deserves the same approach as the other decisions that matter: a clear framework, applied consistently, without overthinking the individual details.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hotel-booking-faq">Hotel Booking FAQ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-it-better-to-book-direct-or-use-a-booking-site">Is it better to book direct or use a booking site?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Check both. I usually use a booking site first to compare location, guest rating, cancellation terms, and price quickly. Then I check the hotel website before paying. If the direct rate is meaningfully cheaper or includes better terms, book direct. If the price is the same, I often prefer the platform because it gives me a clear booking record and customer-service backstop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="should-you-book-a-non-refundable-hotel-rate">Should you book a non-refundable hotel rate?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Only when your plans are genuinely fixed and the saving is large enough to justify the risk. For normal city trips, family trips, or trips booked months ahead, free cancellation is usually worth more than a small discount.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-far-in-advance-should-you-book-hotels">How far in advance should you book hotels?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Book a good refundable option as soon as your dates are set, especially for popular seasons, events, islands, and small historic cities. Then check again 3-4 weeks before arrival. If the price drops and your terms stay good, rebook. If prices rise, you already protected the trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-hotel-rating-should-you-choose">What hotel rating should you choose?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For city trips, I care more about location, recent reviews, and noise than the star rating. A well-located 4-star hotel can be better than a poorly located 5-star. For resort-heavy trips, especially where standards vary more widely, I am more willing to pay for a reliable 5-star if the food, service, pool, and beach setup are consistently reviewed well.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Is it better to book direct or use a booking site?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check both. I usually use a booking site first to compare location, guest rating, cancellation terms, and price quickly. Then I check the hotel website before paying. If the direct rate is meaningfully cheaper or includes better terms, book direct. If the price is the same, I often prefer the platform because it gives me a clear booking record and customer-service backstop."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Should you book a non-refundable hotel rate?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Only when your plans are genuinely fixed and the saving is large enough to justify the risk. For normal city trips, family trips, or trips booked months ahead, free cancellation is usually worth more than a small discount."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How far in advance should you book hotels?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Book a good refundable option as soon as your dates are set, especially for popular seasons, events, islands, and small historic cities. Then check again 3-4 weeks before arrival. If the price drops and your terms stay good, rebook. If prices rise, you already protected the trip."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What hotel rating should you choose?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For city trips, I care more about location, recent reviews, and noise than the star rating. A well-located 4-star hotel can be better than a poorly located 5-star. For resort-heavy trips, especially where standards vary more widely, I am more willing to pay for a reliable 5-star if the food, service, pool, and beach setup are consistently reviewed well."
+            }
+        }
+    ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th colspan="2">More Trip Planning Guides</th></tr></thead><tbody><tr><td>Search with free cancellation filter</td><td><a href="https://www.booking.com" target="_blank" rel="nofollow noopener noreferrer">Booking.com</a></td></tr><tr><td>Find cheap flights to get there</td><td><a href="https://milesandflavors.com/how-to-find-cheap-flights/">Cheap flights guide</a></td></tr><tr><td>Set up your travel money card</td><td><a href="https://milesandflavors.com/best-travel-money-card/">Wise + Revolut guide</a></td></tr><tr><td>Sort mobile data before you fly</td><td><a href="https://milesandflavors.com/esim-for-travel/">eSIM for travel guide</a></td></tr><tr><td>Plan the full trip</td><td><a href="https://milesandflavors.com/how-to-plan-a-trip/">Complete trip planning guide</a></td></tr></tbody></table></figure>
+<!-- /wp:table -->

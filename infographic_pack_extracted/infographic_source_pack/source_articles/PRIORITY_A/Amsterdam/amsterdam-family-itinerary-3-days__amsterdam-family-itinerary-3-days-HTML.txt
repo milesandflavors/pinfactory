@@ -1,0 +1,220 @@
+﻿<!-- wp:image {"id":2394,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/colin-meg-02HtqWzlGMo-unsplash-1024x683.jpg" alt="Parent and two children looking over an Amsterdam canal from a bridge" class="wp-image-2394"/><figcaption class="wp-element-caption">Three days in Amsterdam, paced for kids instead of a checklist.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam with kids works especially well once you stop trying to do the adult version at half speed. A canal boat ride is genuinely a ride, not just a photo opportunity. NEMO Science Museum is built entirely around hands-on experiments kids are allowed to touch. Vondelpark has enough open grass that "running around" is a real activity, not something you negotiate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Three days is enough to cover the city properly with kids in tow, plus one day trip out to the countryside that ends up being the thing they remember most. Here's how we'd run it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"3af5f264-58bd-478b-b6c0-e2764b349409","content":"The 3-Day Amsterdam Family Itinerary at a Glance","level":2,"link":"#itinerary-overview-family-ams","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"731f5b82-b855-4508-960b-39380f18ab96","content":"Day 1: Canal Cruise and the Jordaan","level":2,"link":"#day-1-canal-cruise-jordaan","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"40056f97-0729-490f-84b4-0b59944d0ff1","content":"Day 2: NEMO Science Museum, Vondelpark and Leidseplein","level":2,"link":"#day-2-nemo-science-museum-vondelpark-leidseplein","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"bdf20236-0f27-496c-8382-94c3914cfdcb","content":"Day 3: Zaanse Schans Day Trip","level":2,"link":"#day-3-zaanse-schans-day-trip","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ffd95365-61d9-4db6-b910-43d17929d2e3","content":"Where to Stay for an Amsterdam Family Trip","level":2,"link":"#where-to-stay-family-ams","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"d05d765a-d3b7-4699-8c0c-ac95580b779c","content":"What This Trip Costs With Kids","level":2,"link":"#amsterdam-family-costs","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"13aed41f-71e6-44cc-b65c-2e9ad978b1f9","content":"FAQ: Amsterdam with Kids","level":2,"link":"#faq","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ddd66770-2b1f-40f2-9831-6fe8aaf75663","content":"More Amsterdam Guides","level":2,"link":"#more-amsterdam-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul","excludeHeadings":["h3"]} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><ul><li class=""><a href="#itinerary-overview-family-ams">The 3-Day Amsterdam Family Itinerary at a Glance</a></li><li class=""><a href="#day-1-canal-cruise-jordaan">Day 1: Canal Cruise and the Jordaan</a></li><li class=""><a href="#day-2-nemo-science-museum-vondelpark-leidseplein">Day 2: NEMO Science Museum, Vondelpark and Leidseplein</a></li><li class=""><a href="#day-3-zaanse-schans-day-trip">Day 3: Zaanse Schans Day Trip</a></li><li class=""><a href="#where-to-stay-family-ams">Where to Stay for an Amsterdam Family Trip</a></li><li class=""><a href="#amsterdam-family-costs">What This Trip Costs With Kids</a></li><li class=""><a href="#faq">FAQ: Amsterdam with Kids</a></li><li class=""><a href="#more-amsterdam-guides">More Amsterdam Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Three days with kids covers a canal cruise and the Jordaan (Day 1), NEMO Science Museum and Vondelpark (Day 2), and a day trip to the Zaanse Schans windmills (Day 3). Base yourself somewhere with an elevator or confirmed low-floor rooms — Amsterdam's canal-house staircases are steep, and this matters more than it sounds like it would with a stroller and luggage. Book the canal cruise for a covered boat; morning timing usually works best around younger kids' nap schedules.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice"} -->
+<p class="affiliate-notice"><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book through them, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Lili's picks for a family trip</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Amsterdam doesn't demand much advance booking with kids, but two things are worth sorting before you land.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What I'd book</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A timed <a href="https://www.viator.com/tours/Amsterdam/Nemo-Science-Museum-Admission/d525-31070P184?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amsterdam-family-itinerary" target="_blank" rel="sponsored noopener noreferrer">NEMO Science Museum admission ticket</a> — booking ahead gets the timed-entry decision handled before your kids are tired at the door. Pair it with a covered canal cruise for Day 1; our <a href="https://milesandflavors.com/best-canal-cruises-in-amsterdam/">canal cruise guide</a> compares the daytime, evening, and private options and links directly to the ones worth booking. Morning departures work best around a younger child's nap schedule.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Where I'd stay</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.booking.com/searchresults.html?ss=Amsterdam" target="_blank" rel="nofollow noopener noreferrer">Compare Amsterdam family hotels on Booking.com</a> and filter specifically for an elevator — canal-house staircases are steep and narrow, and this matters more with a stroller and luggage than you'd expect. Full area breakdown in the <a href="https://milesandflavors.com/where-to-stay-amsterdam/">where to stay in Amsterdam guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel smarter</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer"><strong>Wise card</strong></a> — can help avoid your home bank's foreign transaction markup on small EUR purchases like snacks, museum tickets, and contactless payments.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://airalo.pxf.io/k4J7VV" target="_blank" rel="sponsored noopener noreferrer"><strong>Airalo Netherlands eSIM</strong></a> — useful for maps, tram routes, reservation emails, and last-minute plan changes when you're moving around with kids.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="itinerary-overview-family-ams">The 3-Day Amsterdam Family Itinerary at a Glance</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Day</th><th>Focus</th><th>Pace</th></tr></thead><tbody><tr><td>Day 1</td><td>Canal cruise, the Jordaan</td><td>Morning boat, afternoon wandering</td></tr><tr><td>Day 2</td><td>NEMO Science Museum, Vondelpark, Leidseplein</td><td>Museum morning, park afternoon</td></tr><tr><td>Day 3</td><td>Zaanse Schans day trip</td><td>Half-day out of the city</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-1-canal-cruise-jordaan">Day 1: Canal Cruise and the Jordaan</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Start with a canal cruise — book a covered boat specifically, since Amsterdam weather does whatever it wants regardless of season, and a covered boat means the day doesn't depend on the forecast. Child age cutoffs vary by operator, but babies and toddlers are often free or discounted; check the exact ticket rules before booking. A morning departure means the cruise lands before nap time rather than fighting it. The ride itself is an attraction on its own for most kids — houseboats, low bridges, and canal-side cafes all pass by at a pace slow enough to actually watch.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the afternoon, walk the Jordaan. It's flat, mostly car-free on the smaller streets, and full of small squares that work as natural rest stops. The cobblestones are the one real stroller obstacle in this neighborhood — manageable on the main streets and towpaths, trickier on some of the narrower side lanes, so budget a little extra time if you're pushing one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2396,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/ChatGPT-Image-2026.-jul.-23.-15_15_53-1024x576.png" alt="Children climbing on a playground structure in a green Amsterdam park" class="wp-image-2396"/><figcaption class="wp-element-caption">A playground afternoon is the reset that makes Day 2 work after NEMO's hands-on exhibits.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-2-nemo-science-museum-vondelpark-leidseplein">Day 2: NEMO Science Museum, Vondelpark and Leidseplein</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NEMO Science Museum is built on top of a tunnel over the IJ waterway and is genuinely designed for kids to touch things — five floors of hands-on experiments rather than exhibits behind glass. It works best for kids roughly age 6 and up; younger children can still enjoy the lower floors, but some of the more involved experiments are aimed at school-age attention spans. Admission is currently €21.50 from age 4, with ages 1 to 3 free, and tickets use timed entry. Budget two to three hours inside.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After NEMO, cross back toward the museum quarter by tram, metro, or taxi and give the afternoon to Vondelpark. It is not next door to NEMO, but it is the right reset after a hands-on museum morning: wide grass, playgrounds, a rose garden, and simple food stops. In summer, there is often an open-air theater running free performances. From Vondelpark, Leidseplein is close enough for an easy dinner stop before heading back to the hotel — lively, full of restaurant terraces, and much easier than adding another formal attraction.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-3-zaanse-schans-day-trip">Day 3: Zaanse Schans Day Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Zaanse Schans is an open-air collection of working windmills, traditional green wooden houses, and small craft workshops (cheese, clogs, chocolate) reached from Amsterdam Central by train to Zaandijk Zaanse Schans in about 17 minutes plus roughly a 15-minute walk, or by seasonal/direct bus connections that can be easier with small kids. It's an easy half-day that doesn't require a car, and the windmills themselves are the kind of thing that photographs well and holds a kid's attention without needing an explanation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Plan on three to four hours including travel time. The cheese and clog stops are easy, short, and genuinely engaging for most ages; walking around the village is free, while windmills, museums, and some specific experiences require paid entry. If your trip falls in tulip season (roughly mid-March through mid-May), Keukenhof Gardens is a seasonal alternative worth considering instead — but outside that window, Zaanse Schans is the better year-round pick.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="where-to-stay-family-ams">Where to Stay for an Amsterdam Family Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Jordaan and De Pijp both work well as family bases — central, walkable, and close to the canal ring without being in the busiest tourist core. Whatever area you choose, prioritize a hotel with an elevator and ask specifically about low-floor rooms; steep, narrow canal-house staircases are one of the few genuine physical challenges Amsterdam presents with kids in tow. For the full neighborhood breakdown, see the <a href="https://milesandflavors.com/where-to-stay-amsterdam/">where to stay in Amsterdam guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="amsterdam-family-costs">What This Trip Costs With Kids</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Young children are often free or discounted on canal cruises, but the exact age cutoff depends on the operator. NEMO Science Museum charges from age 4, with ages 1 to 3 free. Zaanse Schans is free to walk around — you only pay for windmill entry, museums, or specific experiences you choose to enter. For the full adult-and-kid cost breakdown of an Amsterdam trip — hotels, food, transport, and tickets — see the <a href="https://milesandflavors.com/amsterdam-travel-costs/">Amsterdam travel costs guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">FAQ: Amsterdam with Kids</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Is Amsterdam a good city to visit with kids?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — Amsterdam is genuinely family-friendly. Restaurants welcome children, public transport can work with strollers if you use the designated pushchair/wheelchair spaces and fold the stroller when space is tight, and NEMO Science Museum and Vondelpark's playgrounds are both built specifically with kids in mind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Is 3 days enough for Amsterdam with kids?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — three days covers a canal cruise, the Jordaan, NEMO Science Museum, Vondelpark, and a day trip to Zaanse Schans without over-scheduling any single day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">What age is NEMO Science Museum best for?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NEMO works best for kids around age 6 and up, since many of the hands-on experiments are designed for school-age attention spans. Younger children can still enjoy the lower floors, but some exhibits may not hold their interest as well.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How do you get to Zaanse Schans from Amsterdam?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The train from Amsterdam Central to Zaandijk Zaanse Schans takes about 17 minutes, followed by roughly a 15-minute walk. Seasonal/direct bus options can be easier with small kids because they drop you closer to the site.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Are Amsterdam's cobblestones difficult with a stroller?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>They're manageable on main streets and canal towpaths but trickier on some narrower side streets. Budget a little extra time for navigating them rather than expecting a flat, even walk everywhere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Three days with kids in Amsterdam isn't a scaled-down version of the adult trip — a covered canal boat, hands-on science exhibits, and a countryside afternoon among windmills all work on their own terms with children. Book the covered boat, pick a hotel with an elevator, and the rest of the trip takes care of itself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"Is Amsterdam a good city to visit with kids?","acceptedAnswer":{"@type":"Answer","text":"Yes — Amsterdam is genuinely family-friendly. Restaurants welcome children, public transport can work with strollers if you use the designated pushchair/wheelchair spaces and fold the stroller when space is tight, and NEMO Science Museum and Vondelpark's playgrounds are both built specifically with kids in mind."}},
+    {"@type":"Question","name":"Is 3 days enough for Amsterdam with kids?","acceptedAnswer":{"@type":"Answer","text":"Yes — three days covers a canal cruise, the Jordaan, NEMO Science Museum, Vondelpark, and a day trip to Zaanse Schans without over-scheduling any single day."}},
+    {"@type":"Question","name":"What age is NEMO Science Museum best for?","acceptedAnswer":{"@type":"Answer","text":"NEMO works best for kids around age 6 and up, since many of the hands-on experiments are designed for school-age attention spans. Younger children can still enjoy the lower floors, but some exhibits may not hold their interest as well."}},
+    {"@type":"Question","name":"How do you get to Zaanse Schans from Amsterdam?","acceptedAnswer":{"@type":"Answer","text":"The train from Amsterdam Central to Zaandijk Zaanse Schans takes about 17 minutes, followed by roughly a 15-minute walk. Seasonal/direct bus options can be easier with small kids because they drop you closer to the site."}},
+    {"@type":"Question","name":"Are Amsterdam's cobblestones difficult with a stroller?","acceptedAnswer":{"@type":"Answer","text":"They're manageable on main streets and canal towpaths but trickier on some narrower side streets. Budget a little extra time for navigating them rather than expecting a flat, even walk everywhere."}}
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-amsterdam-guides">More Amsterdam Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/amsterdam-with-a-toddler/">Amsterdam with a Toddler: What Actually Works</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/amsterdam-bucket-list/">Amsterdam Bucket List: Best Things to Do</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/amsterdam-travel-costs/">Amsterdam Travel Costs: The Honest Budget Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/best-canal-cruises-in-amsterdam/">Best Canal Cruises in Amsterdam</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/where-to-stay-amsterdam/">Where to Stay in Amsterdam</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+

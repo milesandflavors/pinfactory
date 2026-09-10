@@ -1,0 +1,386 @@
+﻿<!-- wp:paragraph -->
+<p>Navy Pier has a tourist trap reputation, and if you arrive at noon on a July Saturday expecting to fill an afternoon with paid attractions, you'll probably confirm it. The version that actually works is simpler: arrive in the late afternoon, walk the full length of the pier to the far eastern end where the crowds thin out and the lake opens up in every direction, ride the Centennial Wheel at golden hour, and stay for the fireworks on Wednesday or Saturday night. The fireworks are free, they go off directly over Lake Michigan with the Chicago skyline behind you, and they are some of the best I've seen anywhere — not because they're bigger than other cities' fireworks, but because of where you're standing when they happen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Budget 2–3 hours at Navy Pier. Prioritize the Centennial Wheel around sunset, the lakefront walk east to the breakwater, and the fireworks if your dates line up. Skip the restaurants directly at the entrance — the city has dramatically better food a ten-minute walk in any direction. If you want to spend money on one boat experience in Chicago, shortlist the architecture river cruise: it doesn't depart from Navy Pier, but it is the natural follow-up to a lakefront afternoon and the water experience I would choose first.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2276,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/gautam-krishnan-6RfX81kKH5I-unsplash-1024x683.jpg" alt="Centennial Wheel at Navy Pier in Chicago at golden hour" class="wp-image-2276"/><figcaption class="wp-element-caption">The Centennial Wheel at golden hour — this is the version of Navy Pier worth showing up for.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-summary">Quick Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Entry cost</strong></td><td>Free to enter — rides, museums, theater, cruises, and some seasonal attractions are ticketed</td></tr><tr><td><strong>Best time to visit</strong></td><td>Late afternoon into sunset; Wednesday or Saturday evenings for summer fireworks</td></tr><tr><td><strong>Don't miss</strong></td><td>Centennial Wheel at golden hour; the full walk to the eastern end; fireworks over Lake Michigan</td></tr><tr><td><strong>Time needed</strong></td><td>2–3 hours comfortably; longer on fireworks nights</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I genuinely use and recommend everything listed here. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Skip the line for the Centennial Wheel</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you're going in peak summer, I'd pre-book the <a href="https://getyourguide.tpm.lv/ycKjRHBF" target="_blank" rel="sponsored noopener noreferrer">Centennial Wheel ticket on GetYourGuide</a>. <strong>Best if you want:</strong> to skip the ticket line I mentioned above without gambling on same-day availability once you're already at the pier. <strong>Why it works:</strong> there's a Fastpass Express option that skips both the ticket line and the boarding line, which matters most on a July or August evening when the queue is longest right around sunset — exactly when you want to be riding, not waiting. Free cancellation is available up to 24 hours out, so booking ahead doesn't lock you into bad weather. <strong>Not ideal if:</strong> you're visiting on a quiet weekday morning, when the walk-up line is short enough that pre-booking doesn't save you much. <strong>Before booking:</strong> double-check whether you're selecting the Regular or Fastpass Express option, and confirm your ticket window covers the time of day you actually plan to ride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The ticket I'd book</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The paid experience I would shortlist is the <a href="https://www.viator.com/tours/Chicago/Chicago-Architecture-River-Cruise/d673-5580ARC?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=navy-pier-chicago" target="_blank" rel="sponsored noopener noreferrer">Chicago Architecture River Cruise on Viator</a> to pair with a Navy Pier afternoon. <strong>Best if you want:</strong> one paid Chicago experience that actually explains the skyline instead of just showing it to you. <strong>Why I like using Viator here:</strong> it gives you the convenience and security of sorting the ticket before you arrive, while still letting you check the exact terms first. When Reserve Now &amp; Pay Later or free cancellation is available, you can hold the time slot, avoid scrambling on your phone after Navy Pier, and still protect yourself if the weather or your plan changes. <strong>Not ideal if:</strong> you want a lake cruise that leaves directly from Navy Pier, because this one is a river cruise near the Michigan Avenue bridge, about a 20-minute walk west. <strong>Before booking:</strong> confirm the departure point, current duration, route, weather policy, Reserve Now &amp; Pay Later availability, cancellation window, and recent traveler comments for your exact date.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">This is where I'd stay</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The hotel I would shortlist is <a href="https://www.booking.com/hotel/us/loews-chicago.html" target="_blank" rel="nofollow noopener noreferrer">Loews Chicago Hotel</a> on North Park Drive in Streeterville. <strong>Best if you want:</strong> a comfortable base that keeps Navy Pier, the lakefront, the Magnificent Mile, and the Michigan Avenue bridge cruise docks all within an easy reach. <strong>Why it works:</strong> on a fireworks night, being able to walk back instead of fighting for rideshares or crowded buses makes the whole evening feel calmer. <strong>Not ideal if:</strong> you want the cheapest Chicago base or plan to spend most nights in West Loop, Wicker Park, or Lincoln Park. <strong>Before booking:</strong> compare the total price, room type, resort or destination fees, parking cost, cancellation policy, and recent guest comments for your exact dates.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary><!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="#quick-summary">Quick Summary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#is-it-worth-it">Is Navy Pier worth visiting?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#what-to-do">What to do at Navy Pier</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#architecture-cruise">The Chicago architecture river cruise</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#what-to-skip">What to skip</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#best-time">Best time to visit Navy Pier</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#getting-there">Getting to Navy Pier</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's picks</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently asked questions</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></details>
+<!-- /wp:details -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="is-it-worth-it">Is Navy Pier worth visiting?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — once, approached correctly. Navy Pier is not a museum or a neighborhood or a cultural experience in the traditional sense. It's a 3,300-foot pier on Lake Michigan that was built in 1916, used as a military training base in World War II, sat derelict for decades, and was reinvented as a tourism and entertainment destination in the 1990s. It now draws millions of visitors and is one of the Midwest's best-known attractions. The right way to use it is simple: come for the lakefront access, not for every commercial attraction inside.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The honest version: the location is exceptional and most of what's inside is mediocre. What saves it is the free access to one of the best vantage points in Chicago — at the far eastern end of the pier, with the lake in every direction and the skyline behind you, it's one of the few spots in the city where you can feel the actual scale of Lake Michigan. That's not nothing. And if you hit it on a Wednesday or Saturday evening in summer, the fireworks over the lake justify the trip on their own.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-to-do">What to do at Navy Pier</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The free things at Navy Pier are consistently better than the paid ones. Here's what's worth your time:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The Centennial Wheel</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The 196-foot Centennial Wheel is the defining landmark of Navy Pier and worth riding once — specifically in the late afternoon or early evening when the light on the skyline is at its best. Tickets are separate from pier admission and prices vary by ride type, so check current Pier Park pricing before you go. The view from the top faces south toward the skyline and west over the river and downtown, and it's genuinely one of the better elevated views in Chicago that doesn't require a building elevator.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The wheel gets queues in peak summer. If you're going in July or August, arrive before the evening rush or be prepared to wait. Skip it if the line looks long and you're short on time — the lakefront walk to the eastern end is free and arguably more satisfying.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Polk Bros Park and seasonal events</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Do not plan your visit around old Crystal Gardens advice. The former indoor garden space now changes with Navy Pier's seasonal programming, so check the current calendar if you want an indoor stop. What stays consistently useful is Polk Bros Park at the entrance: it gives you space to pause before the pier gets crowded, and in summer it often connects with free outdoor events, music, or family programming.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The lakefront walk east</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Walk the full length of the pier to the eastern breakwater end. This is the only part of Navy Pier where the tourist infrastructure falls away. At the far end you have open lake in three directions, no attractions, no queues, and a view back toward the skyline that most people never get to because they stop at the Ferris wheel. Bring a coffee, stand there for ten minutes, and remember that you're looking at the third-largest city in the United States from the middle of a lake. Take the south side of the pier on the way out for the skyline view; the north side coming back for the Ferris wheel and the park.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Summer fireworks</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In summer, Navy Pier usually launches fireworks on Wednesday and Saturday nights over Lake Michigan. The 2026 listings show Wednesday displays at 9 PM and Saturday displays at 10 PM through early September, but always check the official Navy Pier calendar before you build your evening around them. They're free, visible from anywhere along the pier, and extraordinary in a way that has more to do with the setting than the pyrotechnics. The fireworks reflect off the water. The skyline is lit behind you. Chicago's lakefront parks fill up with locals who know exactly how good this is, which tells you something. On a Wednesday evening in July, this is one of the best free things in any American city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Fireworks night logistics:</strong> On Wednesday and Saturday evenings Navy Pier gets genuinely crowded from around 8:30 PM onward. Claim your spot along the southern edge of the pier by 8 PM — you'll get the best angle for both the fireworks and the skyline view behind them. The crowds clear fairly quickly after the show, but the buses and water taxis fill up immediately. If you're not staying at a hotel in walking distance, plan your exit before the fireworks finish or prepare to wait.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Chicago Children's Museum</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you're visiting with children under 10, the Chicago Children's Museum is genuinely worth considering. It has three floors of interactive exhibits, it is well-maintained, and it gives kids a clear reason to be at Navy Pier beyond walking and views. For adults without children, I would skip it and spend that time on the lakefront or the architecture cruise instead. Check current admission before you go.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Chicago Shakespeare Theater</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of the best regional Shakespeare companies in the country, with productions that consistently draw national attention. If there's a performance during your visit that fits your schedule, it's worth considering regardless of whether you normally attend theater. Tickets vary; check the current season on their website. The theater is inside the pier building and easy to reach even on a busy evening.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2277,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/sergey-konstantinov-ys-rV4zB64Q-unsplash-683x1024.jpg" alt="Eastern end of Navy Pier with open Lake Michigan views in Chicago" class="wp-image-2277"/><figcaption class="wp-element-caption">The far eastern end of the pier — walk past the crowds to get here. The view is the point.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="architecture-cruise">The Chicago architecture river cruise</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The paid boat experience I would pair with a Navy Pier afternoon is not actually on the lake — it's on the Chicago River, departing from the dock near the Michigan Avenue bridge about a 20-minute walk west of Navy Pier. The Chicago Architecture River Cruise gives the skyline context in a way a lakefront walk cannot, and if you're spending a day in the Streeterville and Magnificent Mile area anyway, pairing it with Navy Pier is the natural way to structure the afternoon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The premise: about 90 minutes on the Chicago River, with a guide talking you through the architectural history of the buildings lining both banks. Chicago is the city where modern architecture was invented — the skyscraper was born here after the 1871 fire forced the city to rebuild from nothing — and the river view is the single best way to see that history in sequence. You float past buildings tied to Mies van der Rohe, Daniel Burnham, Helmut Jahn, and the architects still reshaping the skyline. This is not a tourist trap that happens to be popular. It is one of the rare Chicago paid experiences that actually makes the city easier to understand.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>See the full guide to <a href="https://milesandflavors.com/chicago-architecture-river-cruise/">the Chicago Architecture River Cruise</a> for everything on timing, tickets, and what to expect on board.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-to-skip">What to skip at Navy Pier</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I would not spend my main Chicago food budget at the restaurants right by the main pier entrance. Chicago is one of the best restaurant cities in the United States, and you can usually do better by walking ten minutes west into Streeterville, River North, or the Magnificent Mile area. Navy Pier is for lake views, fireworks, and easy family attractions; dinner is where I would be more selective.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The indoor shopping and arcade-style attractions are the kind of things that work best when you are killing time, avoiding bad weather, or traveling with kids who need a break from sightseeing. I would not build a first-time Chicago day around them. Use the pier for the lakefront, the Wheel, the skyline, and the seasonal events; treat the rest as optional filler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>None of this is a secret. Chicago residents use Navy Pier as a lakefront access point and fireworks venue. They know not to eat there. You can do the same.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-time">Best time to visit Navy Pier</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Late afternoon into sunset</strong> is the best time for the Ferris wheel and the lakefront walk — the light is better and the midday crowds have thinned slightly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Wednesday or Saturday evenings</strong> for the summer fireworks — arrive early for a good spot and check the current Navy Pier calendar for that night's exact show time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Weekday mornings</strong> if you want the least crowded version of the pier. The trade-off is no fireworks and less atmospheric light, but the lakefront walk is calmer and the Wheel queue is usually easier to manage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>July and August</strong> are the busiest months by a significant margin. If you're visiting in shoulder season — May, June, September, early October — the experience is meaningfully better. The weather is still good, the fireworks run through Labor Day, and the pier feels like a place rather than a crowd.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Winter visits are possible and occasionally interesting if there is a seasonal event running, but most of what makes Navy Pier worth visiting depends on the lakefront being inviting. Chicago in January is not inviting. Check the official event calendar before making Navy Pier a winter priority.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="getting-there">Getting to Navy Pier</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Navy Pier is at 600 East Grand Avenue — about a mile east of the Chicago River, east of Michigan Avenue, on the lakefront.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>CTA bus</strong> is usually the easiest public-transit option. Navy Pier is served by several CTA routes, including #29 State, #65 Grand, #66 Chicago, and #124 Navy Pier; #124 is especially useful from Union Station, Ogilvie, and Millennium Station. Check the CTA/RTA planner for the best route from your exact starting point.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Walking</strong> from the Michigan Avenue bridge area takes about 20 minutes east along Grand Avenue. Longer in wind, shorter if you're moving fast. The walk through Streeterville is pleasant and flat.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Water taxi</strong> can be a scenic seasonal option, but service changes by date and operator. Check the current Navy Pier and Shoreline schedules before relying on it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Driving</strong> is the worst option. Official garage rates can get expensive quickly, special-event pricing may apply, and the lots fill up fast on summer evenings. If you're coming for fireworks, take the bus, walk, or compare current garage rates in advance.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>For the full breakdown — exact garage rates, the best rideshare pickup spots, every CTA route, and the current water taxi schedule — see the complete guide to <a href="/getting-to-navy-pier-parking-rideshare-transit/">getting to Navy Pier: parking, rideshare, and transit</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently asked questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Navy Pier free to visit?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>The pier itself and the outdoor areas are free to enter. The Centennial Wheel, Pier Park rides, Chicago Children's Museum, Chicago Shakespeare Theater, cruises, and some seasonal attractions are ticketed separately, and prices can change. The summer fireworks are free and visible from anywhere along the pier or nearby lakefront.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>When are the Navy Pier fireworks?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>In summer, Navy Pier usually runs fireworks on Wednesday and Saturday nights. For 2026, the official calendar lists Wednesday shows at 9 PM and Saturday shows at 10 PM through early September, plus special holiday displays. The shows launch over Lake Michigan and are free to watch from the pier or nearby lakefront. Arrive early if you want a good spot along the southern rail.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What time does Navy Pier close?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Hours vary by season. In summer 2026 (May 23–September 7), Navy Pier and most shops and food court eateries are open Sunday–Thursday from 10 AM to 10 PM, Friday from 10 AM to 11 PM, and Saturday from 10 AM to midnight. Winter hours are shorter: Sunday–Thursday 11 AM–8 PM, Friday–Saturday 11 AM–9 PM. Full-service restaurants, boats, and theaters can run later than the posted hours, so check with the individual venue. There's no admission fee to enter the pier itself, and it's closed on Thanksgiving and Christmas.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How long should you spend at Navy Pier?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Two to three hours is comfortable for the outdoor highlights: the Centennial Wheel, Polk Bros Park, and the full lakefront walk to the eastern end. If you're staying for the fireworks, add extra time because you'll want to arrive early for a good position. If you're including the Chicago Children's Museum, a Chicago Shakespeare Theater performance, a cruise, or a seasonal attraction, budget more time accordingly.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What's the best way to get to Navy Pier from downtown Chicago?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>CTA bus is usually the easiest option. Navy Pier is served by several routes, including #29 State, #65 Grand, #66 Chicago, and #124 Navy Pier, with #124 useful from Union Station, Ogilvie, and Millennium Station. Walking from the Michigan Avenue bridge area takes about 20 minutes east along Grand Avenue. Water taxi service can be seasonal or limited, so check the current schedule. Avoid driving on fireworks nights if you can — official garage rates are expensive and lots fill quickly.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is the architecture river cruise at Navy Pier?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>No — the Chicago architecture river cruise departs from the dock area near the Michigan Avenue bridge on the Chicago River, about a 20-minute walk west of Navy Pier. It's a river cruise, not a lake cruise. However, it's the natural pairing for a day spent at Navy Pier and the Magnificent Mile: arrive at Navy Pier in the late afternoon, ride the Ferris wheel at sunset, then walk west along Grand Avenue to catch an evening architecture cruise on the river before dinner.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-chicago">More Chicago guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Filling out the rest of your Chicago trip:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/willis-tower-skydeck-vs-360-chicago/">Willis Tower Skydeck vs 360 Chicago: Which Observation Deck Is Worth It?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/chicago-architecture-river-cruise/">Chicago Architecture River Cruise: The Complete Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/millennium-park-cloud-gate-chicago/">Millennium Park and Cloud Gate: The Chicago First-Timer's Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/best-things-to-do-chicago-first-timers/">Best Things to Do in Chicago for First-Timers</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Navy Pier free to visit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The pier itself and the outdoor areas are free to enter. The Centennial Wheel, Pier Park rides, Chicago Children's Museum, Chicago Shakespeare Theater, cruises, and some seasonal attractions are ticketed separately, and prices can change. The summer fireworks are free and visible from anywhere along the pier or nearby lakefront."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When are the Navy Pier fireworks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In summer, Navy Pier usually runs fireworks on Wednesday and Saturday nights. For 2026, the official calendar lists Wednesday shows at 9 PM and Saturday shows at 10 PM through early September, plus special holiday displays. The shows launch over Lake Michigan and are free to watch from the pier or nearby lakefront. Arrive early if you want a good spot along the southern rail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What time does Navy Pier close?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hours vary by season. In summer 2026 (May 23–September 7), Navy Pier and most shops and food court eateries are open Sunday–Thursday from 10 AM to 10 PM, Friday from 10 AM to 11 PM, and Saturday from 10 AM to midnight. Winter hours are shorter: Sunday–Thursday 11 AM–8 PM, Friday–Saturday 11 AM–9 PM. Full-service restaurants, boats, and theaters can run later than the posted hours, so check with the individual venue. There's no admission fee to enter the pier itself, and it's closed on Thanksgiving and Christmas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should you spend at Navy Pier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two to three hours is comfortable for the outdoor highlights: the Centennial Wheel, Polk Bros Park, and the full lakefront walk to the eastern end. If you're staying for the fireworks, add extra time because you'll want to arrive early for a good position. If you're including the Chicago Children's Museum, a Chicago Shakespeare Theater performance, a cruise, or a seasonal attraction, budget more time accordingly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best way to get to Navy Pier from downtown Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CTA bus is usually the easiest option. Navy Pier is served by several routes, including #29 State, #65 Grand, #66 Chicago, and #124 Navy Pier, with #124 useful from Union Station, Ogilvie, and Millennium Station. Walking from the Michigan Avenue bridge area takes about 20 minutes east along Grand Avenue. Water taxi service can be seasonal or limited, so check the current schedule. Avoid driving on fireworks nights if you can because official garage rates are expensive and lots fill quickly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the architecture river cruise at Navy Pier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No — the Chicago architecture river cruise departs from the dock area near the Michigan Avenue bridge on the Chicago River, about a 20-minute walk west of Navy Pier. It's a river cruise, not a lake cruise. However, it's the natural pairing for a day spent at Navy Pier: arrive at Navy Pier in the late afternoon, ride the Ferris wheel at sunset, then walk west along Grand Avenue to catch an evening architecture cruise on the river before dinner."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->

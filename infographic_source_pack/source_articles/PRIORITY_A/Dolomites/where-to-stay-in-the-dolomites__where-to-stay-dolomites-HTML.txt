@@ -1,0 +1,670 @@
+﻿<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/michaela-rimakova-NBNqxZi08Yk-unsplash-1024x768.jpg" alt="Val Gardena village and Dolomite mountains in South Tyrol, Italy"/><figcaption class="wp-element-caption">The Dolomites are not one place. Where you base yourself changes how much of the region you can actually reach.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We chose the wrong base on our first day in the Dolomites. Not catastrophically wrong — the mountains were still extraordinary, the food was still excellent, the trip was still worth it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But we spent the first two mornings driving 45 minutes before we even reached the trailhead, because the village we'd picked was charming and well-reviewed and subtly misaligned with everything we actually wanted to do. A rifugio owner on day three put it better than any travel article had: "Ah — you want to be in Val Gardena for that."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Where you base yourself in the Dolomites determines everything downstream: which mountains you wake up under, which hikes you can reach before the day-trip crowds arrive, how much of your day vanishes in the car. The region is large, the valleys don't connect directly, and the difference between the right village and the almost-right one can cost you an hour of driving per day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is the honest breakdown — what each base actually gives you, who it suits, and what you're giving up when you choose one over the others.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#quick-area-comparison">Quick Area Comparison</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#rental-car">Do You Need a Rental Car?</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#cortina">Cortina d'Ampezzo — The Iconic Choice</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#ortisei">Ortisei — Best All-Round Base</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#selva">Selva di Val Gardena</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#canazei">Canazei — High Passes Base</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#bolzano">Bolzano — The Practical Entry Point</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#april">A Note on April Conditions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#differently">What We'd Do Differently</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#our-pick">Our Honest Pick</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides">More Guides for Your Dolomites Trip</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Stay in Ortisei for the best all-round first trip, Cortina for the most famous eastern Dolomites scenery, Canazei for high mountain passes, and Bolzano only as a practical arrival or budget base.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"46px"} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-pick-a-base">How I'd pick a base</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If I were choosing today, I'd start with the car rental and one flexible-rate hotel, then decide between Ortisei and Cortina once the dates were locked.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">Discover Cars</a> is where I'd start — compare Malpensa, Verona, and Bolzano airport rates before you book hotels. In the Dolomites, the car decision shapes the whole route.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For a flexible base while you decide, <a href="https://expedia.tpm.lv/Zt7vvRcm" target="_blank" rel="sponsored noopener noreferrer">Hotel Continental Dolomites</a> in Selva di Val Gardena is a solid pick with breakfast included.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And if Seceda is your big goal, <a href="https://www.viator.com/tours/Venice/Private-Guided-Tour-in-the-Dolomites-from-Venice/d522-408100P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=where-to-stay-dolomites" target="_blank" rel="sponsored noopener noreferrer">this is the private guided Dolomites hiking tour on Viator</a> I'd book — 4.9★, 86 reviews.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a clear-cut base decision instead of scrolling ten "best towns" lists that don't agree with each other.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> booking the car and a flexible-rate hotel early protects shoulder-season pricing, and the Viator tour has no upfront payment on eligible bookings and free cancellation up to 24 hours before — no risk locking it in now.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you're set on a single ski-week base — Selva or Canazei suit that better than Ortisei or Cortina.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you go:</strong> book with free cancellation wherever possible — Dolomites prices shift, and it's often worth rebooking closer to your dates if rates drop.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>This map shows all five bases, key hiking highlights, and the two main scenic passes — color-coded so you can see at a glance which valley each base sits in and what it gives you access to.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=13NPXHpV122HTT_oSM-jyP5jHlEiGNto&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="quick-area-comparison">Quick Area Comparison</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Village</th><th>Vibe</th><th>Best for</th><th>Price level</th><th>Car need</th></tr></thead><tbody><tr><td>Cortina d'Ampezzo</td><td>Glamorous, famous, scenic</td><td>First-timers, iconic scenery, Tre Cime access</td><td>$$$–$$$$</td><td>Strongly recommended</td></tr><tr><td>Ortisei (Val Gardena)</td><td>Charming, well-rounded, local feel</td><td>Hikers, families, best all-round base</td><td>$$–$$$</td><td>Strongly recommended</td></tr><tr><td>Selva di Val Gardena</td><td>Ski-resort, central, busy</td><td>Skiers, Sella Ronda loop access</td><td>$$–$$$</td><td>Strongly recommended</td></tr><tr><td>Canazei (Val di Fassa)</td><td>Quiet, mountain, unpretentious</td><td>High passes, Marmolada, hikers</td><td>$$</td><td>Strongly recommended</td></tr><tr><td>Bolzano / Bozen</td><td>City, practical, non-alpine</td><td>Budget base, arrival/departure night</td><td>$–$$</td><td>Helpful but not essential in town</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="rental-car">Do You Need a Rental Car?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For the trip most first-time visitors imagine — several valleys, early trailheads, viewpoints, and mountain passes — yes, a rental car makes the Dolomites dramatically more accessible. You can visit parts of the region by train and bus, especially if you base yourself in one valley, but public transport limits your timing and the number of places you can realistically combine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The car is not just a convenience here — it is what lets you choose the right base instead of being trapped by one valley. Budget for it from the start. Pick it up at Milan Malpensa (MXP) or Verona (VRN) and drive in, then compare rates before you commit to accommodation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're driving the route for the first time, the <a href="/milan-to-dolomites-road-trip/">Milan to Dolomites road trip guide</a> covers the drive in full, and you can compare <a href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">rental car rates on Discover Cars</a> before choosing your airport.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One thing worth sorting before you drive: travel insurance. The car rental coverage protects the vehicle — it doesn't cover you. Mountain driving, high-altitude hiking, and remote rifugio (mountain hut) trails are exactly where policy wording matters. If you use <a href="https://ektatraveling.tpm.lv/fqijSuju" target="_blank" rel="sponsored noopener noreferrer">EKTA</a>, check the hiking, medical treatment, and evacuation terms before you leave.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For connectivity, an <a href="https://airalo.tpm.lv/TYjQRZua" target="_blank" rel="sponsored noopener noreferrer">Airalo Italy eSIM</a> can be useful if your home roaming is expensive. Install it before you land, but still download offline Google Maps before driving into the mountains because signal gets patchy on some passes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="cortina">Cortina d'Ampezzo — The Most Famous Name, and Worth It</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/leon-m-eNNDJ5iOoK8-unsplash-1024x576.jpg" alt="Mountain road near Cortina d Ampezzo in the eastern Dolomites"/><figcaption class="wp-element-caption">Cortina gives you the most dramatic eastern Dolomites access, but you pay for that position.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Cortina d'Ampezzo is the most famous resort town in the Italian Dolomites. It sits in a wide valley in Veneto, surrounded by some of the most dramatic peaks in the range — the Tofane group, the Cristallo, the Cinque Torri.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It has a reputation for being expensive and fashionable, and that reputation is accurate. It also happens to be one of the most beautiful places we've stopped on any road trip we've done.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We came through Cortina on a slow morning and had breakfast at Café Royal. Great coffee, an almost unreasonably good pistachio donut, fresh croissants — the kind of stop where you end up staying longer than you planned because the atmosphere doesn't push you out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>No rush, no tourist noise, just a proper Italian café in a mountain town doing what Italian cafés do. We'd stop there again without hesitation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cortina is best for day hiking in summer and skiing in winter. In April, you're in shoulder season — ski infrastructure is winding down, some cable cars may be closed for maintenance between seasons, and the town is noticeably quieter than it is in February or August. That quiet is the actual selling point. The scenery is the same; the crowds are not.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Reality check:</strong> Cortina is expensive. Mid-range hotels start around $180–250/night in shoulder season; the luxury end has no ceiling. If you're not staying in peak ski or summer season, you'll find the pricing more manageable — but it never gets cheap. It's worth one or two nights if the budget allows. As a week-long base, you'd need a specific reason to commit to it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Local tip:</strong> Cortina's Corso Italia — the main pedestrian street — is charming in the evening even if you're just passing through. The town has good restaurants, a proper food market, and a walk-around quality that most alpine resorts don't.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Choose Cortina if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You want the most dramatic mountain backdrop in the Dolomites</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Tre Cime di Lavaredo is on your list — Cortina is the closest base</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You're traveling in shoulder season and want to experience the town without peak crowds</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You want a mix of great scenery and an actual town with good restaurants</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Avoid Cortina if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You're on a tight budget — it's the most expensive base in the Dolomites</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You want to access Val Gardena or the western passes without long drives</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You're visiting in peak ski season without booking months in advance</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://expedia.tpm.lv/srvNLSNi" rel="sponsored noopener noreferrer" target="_blank">Hotel de la Poste</a>, a 19th-century landmark right in the historic centre, is a good benchmark for Cortina pricing. Book with free cancellation — shoulder season prices in Cortina shift, and it's worth rechecking closer to your dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="ortisei">Ortisei — The Best All-Round Base</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/grigorii-shcheglov-X2M6s87SNzg-unsplash-1024x683.jpg" alt="Seceda cable car area near Ortisei in Val Gardena Dolomites"/><figcaption class="wp-element-caption">Ortisei sits in Val Gardena, with Seceda and Alpe di Siusi close enough to shape the whole trip.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you're visiting the Dolomites for the first time and you want one base that gives you access to the broadest range of what the region offers, Ortisei is the answer. It sits at the lower end of Val Gardena in South Tyrol, with the Alpe di Siusi — the largest high-altitude alpine meadow in Europe — directly above it, and the Seceda ridge with its iconic jagged peaks a cable car ride away.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The town itself has genuine character. Val Gardena has a strong Ladin cultural identity — Ladin is a distinct language and culture native to these valleys, separate from both Italian and German — with local woodcarving traditions, a mix of Italian and German signage, and an atmosphere that's more working alpine village than tourist infrastructure. It's charming without trying to be.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ortisei also has better pricing than Cortina. Mid-range hotels run $130–200/night, and there's a reasonable range of options from family-run guesthouses (pensione) to proper 4-star hotels. It's not cheap — the Dolomites never are — but the value-for-experience ratio is better than the more famous names.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Reality check:</strong> In April, the Alpe di Siusi cable car from Ortisei may be closed for the inter-season maintenance window (typically late March through mid-May). Verify before booking if this is a specific goal — it's not always the case, but it's worth checking. The hiking and scenic drives from Ortisei remain accessible regardless.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Choose Ortisei if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You want a well-rounded base with genuine village character</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Alpe di Siusi and Seceda are on your list</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You want more reasonable prices than Cortina without sacrificing quality</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You're traveling with family and want a walkable, liveable base</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Avoid Ortisei if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You specifically want the Val di Fassa passes (Pordoi, Sella) close — they're 45+ minutes away</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You want a quieter, less touristy atmosphere — Ortisei is a proper resort town in season</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>If Seceda is on your list — and it should be — a guided hike can make the first visit easier. The cable car timing, ridge route, and decision of where to linger versus push through are all easier with local context. Compare <a href="https://www.viator.com/tours/Venice/Private-Guided-Tour-in-the-Dolomites-from-Venice/d522-408100P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=where-to-stay-dolomites" rel="sponsored noopener noreferrer" target="_blank">private guided Dolomites hiking tour on Viator</a> (4.9★, 86 reviews), and check whether the cable car is included before booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ortisei has a solid range at different price points — family-run guesthouses with breakfast, mid-range hotels with spa access, and a handful of proper 4-stars. <a href="https://expedia.tpm.lv/EG2HvJnF" rel="sponsored noopener noreferrer" target="_blank">Hotel Angelo Engel</a> is a good example, close to the Ortisei-Furnes gondola</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="selva">Selva di Val Gardena — For the Central Sella Ronda Position</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Selva di Val Gardena sits further up the valley from Ortisei, closer to the Sella Pass and the junction of four valleys that makes the Sella Ronda ski circuit possible. In winter it's a major ski resort. In shoulder season and summer, it's a quieter version of the same valley — similar mountain scenery, similar access, slightly more ski-resort feel to the infrastructure and slightly less village character.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The location is genuinely excellent for anyone doing a loop through the central Dolomites — you're close to Passo Gardena, Passo Sella, and the road connections south toward Canazei and east toward Cortina. If you're driving the classic Dolomites passes circuit, Selva is about as central as you can get.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Choose Selva if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You're skiing and the Sella Ronda ski circuit is the main draw</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You want the most central position for a passes road trip</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You prefer a modern ski-resort setup over an older village atmosphere</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Avoid Selva if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You want authentic village character — Selva is primarily a ski resort</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You're visiting in summer and want a lively village with good restaurants beyond the hotel strip</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Selva has the most ski-resort style accommodation in the valley — modern, functional, well-located for the passes. <a href="https://expedia.tpm.lv/Zt7vvRcm" rel="sponsored noopener noreferrer" target="_blank">Hotel Continental Dolomites</a> is right in Selva and a good example of what that gets you</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="canazei">Canazei — The Quiet Gateway to the High Passes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/georgia-de-lotz-FpFR7Sauo6A-unsplash-1-edited-scaled.jpg" alt="Scenic mountain road through the Dolomites with jagged peaks"/><figcaption class="wp-element-caption">Canazei makes the most sense if high mountain passes and road-trip days are the main point of the trip.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Canazei sits in Val di Fassa in Trentino, at the foot of the highest passes in the Dolomites. Passo Pordoi — at 7,349 feet (2,239 meters), the highest paved pass in the Dolomites — is 20 minutes from town. Passo Fedaia and the Marmolada glacier are 25 minutes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For anyone who wants to spend time at altitude — driving the passes, hiking from them, or reaching the Sella Ronda circuit — Canazei is the most logical base.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It's also one of the more affordable options. The town is smaller and less glamorous than Cortina or Ortisei, which translates to better hotel pricing for the same mountain quality. Mid-range options start around $100–160/night.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The trade-off is a smaller range of restaurants and a more limited town center — but the mountains around it are as good as anywhere in the Dolomites.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Reality check:</strong> In April, the high passes around Canazei may still be partially closed or only recently opened after winter. Passo Pordoi typically opens in April, but conditions vary year to year — check current road status before planning pass-specific drives around it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Choose Canazei if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>The high passes are your main reason for visiting — Pordoi, Fedaia, Sella</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You want the best price-to-mountain-access ratio in the Dolomites</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You prefer a quieter, more unpretentious base</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Avoid Canazei if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You want a lively town center — Canazei is small and not designed for evenings out</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Cortina or Val Gardena are your main destinations — the drive is 1–1.5 hours</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Canazei's accommodation is smaller in volume than Cortina or Val Gardena, but that's part of the appeal — fewer tourists, better prices, and the passes right outside. <a href="https://expedia.tpm.lv/N2Y4DzqB" rel="sponsored noopener noreferrer" target="_blank">Hotel Cesa Tyrol</a> (4-star, 9.6/10) is a strong example of that value</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="bolzano">Bolzano — The Practical Entry Point</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Bolzano is the capital of South Tyrol and the largest city in the region. It sits at the bottom of the mountains rather than inside them — a proper city with a medieval center, a famous market, the Ötzi the Iceman museum, and hotel pricing that reflects the fact that you're not in a ski resort. Mid-range options run $90–150/night, significantly cheaper than anywhere in the mountains.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bolzano is not a mountain base in the way Ortisei or Canazei are. From here, the valleys and the high scenery are 30–60 minutes away by car. It works well as an arrival or departure night — pick up the rental car at Bolzano Airport or the train station, stay one night, and head into the mountains the next morning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It also works for travelers who want to combine a city day with mountain driving rather than being based exclusively in the alpine environment. <a href="https://expedia.tpm.lv/GqUPohVj" target="_blank" rel="sponsored noopener noreferrer">Stadt Hotel Città</a> is a well-reviewed, central example right in the old town.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Choose Bolzano if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You want a cheaper base with city amenities and good mountain day-trip access</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You're arriving by train (Bolzano has direct rail connections from Verona and Innsbruck)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You want one night before or after the mountain section of your trip</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Avoid Bolzano if:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You want to wake up in the mountains — Bolzano is a city in a valley</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You're planning multiple days of hiking or pass driving — the daily drive in and out adds up</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="april">A Note on April Conditions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>April is an underrated time to visit the Dolomites, but it comes with specific realities worth knowing before you book.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The ski season is ending or recently ended, which means the mountains are quieter than in February and far less crowded than in July or August. Hotel prices are at their lowest. The villages feel lived-in rather than tourist-packed. The roads are mostly clear, and the light in April — long, clean, with snow still on the upper peaks — is genuinely excellent for photography and driving.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The trade-off: some cable cars and lifts are closed during the inter-season maintenance window, typically running from late March or early April through mid-May. This varies by operator and year. If getting up to a specific viewpoint (Seceda, Faloria, the Marmolada) is non-negotiable for your trip, verify current operating status before booking accommodation and activities around it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The high passes themselves — Passo Pordoi, Passo Gardena, Passo Giau — may be fully or partially closed in early April if snow conditions are still heavy. They typically open progressively through April and May. Road conditions are generally good at valley level; higher roads need individual checking closer to your travel dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="differently">What We'd Do Differently</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Base in one place for at least two nights rather than moving every day. The Dolomites have a specific quality that rewards slowing down — the light changes dramatically between morning and evening, the mountain roads are better without a deadline, and the villages are more enjoyable when you're not checking out at 9am.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We'd also arrive via Milan, leave a proper buffer day in the city, then drive into the mountains. The Milan–Dolomites connection via the A22 motorway takes about 3.5 to 4 hours depending on which valley you're heading to. It's a good road trip in itself. Arriving rushed and driving straight to a mountain village at altitude after a transatlantic flight is a version of this trip we'd avoid.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="our-pick">The Bottom Line on Where to Stay in the Dolomites</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/DSC_4344-1-edited-scaled.jpg" alt="Lago di Braies in the Dolomites with mountain peaks around the lake"/><figcaption class="wp-element-caption">Without a car, you are limited to one valley. With one, the whole range opens up.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>For a first visit with a rental car: base in Ortisei or Cortina. Ortisei gives you the most balanced access to what makes the Dolomites distinctive — South Tyrol character, good hiking, reasonable pricing. Cortina gives you the most dramatic scenery and the best single-base access to the eastern highlights, but costs more and requires more driving to reach the western valleys.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the high passes: Canazei. Nothing else puts you as close to Pordoi, Fedaia, and the Sella Ronda circuit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For shoulder season or budget: Bolzano for the arrival night, then one of the mountain villages for the rest of the trip. The savings at Bolzano level are real; the drive up is short enough that it's worth it as a transition.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Whatever you choose, book the car before anything else. The accommodation decision only matters once you've confirmed you'll have transport to actually use it. Our guide to <a href="/how-to-plan-a-trip/">how to plan a trip</a> covers the full pre-booking checklist — worth running through before you commit to anything in the Dolomites, where prices move significantly between booking and travel dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the best village to stay in the Dolomites?</summary><!-- wp:paragraph -->
+<p>Ortisei is the best all-round base for most visitors — good hiking access, genuine village character, and better pricing than Cortina. Cortina d'Ampezzo is the best choice if the eastern highlights (Tre Cime, Cinque Torri) are your priority and budget is less of a concern. Canazei is the right pick for high-pass driving. There's no single "best" — it depends entirely on what you've prioritised for the trip.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How many days do you need in the Dolomites?</summary><!-- wp:paragraph -->
+<p>Three to four days is the minimum for a meaningful trip. Two days forces you into highlights-only mode with long driving. Five to seven days allows you to split time between different valleys and actually settle into a pace. If you're road-tripping from Milan and want to combine a city night with mountain days, four nights in the mountains is a good target — enough to cover two or three distinct areas without feeling rushed.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is it better to stay in Cortina or Ortisei?</summary><!-- wp:paragraph -->
+<p>Ortisei for most first-time visitors. It's better positioned for the hiking, more affordable, and has a more authentic South Tyrolean atmosphere. Cortina is the right call if your itinerary is built around the eastern Dolomites (Tre Cime, Cinque Torri, the Ampezzo valley) and you want the best mountain backdrop in the region. If you have five or more nights, split them: two nights in Cortina, three in Val Gardena.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Do you need a car to visit the Dolomites?</summary><!-- wp:paragraph -->
+<p>For a multi-valley Dolomites trip, yes, a car is strongly recommended. Public transport can work if you stay in one valley and plan around buses, but it is limiting for early trailheads, scenic passes, and flexible photography stops. Book the car before accommodation, then compare rates at Malpensa, Verona, and Bolzano on <a href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">Discover Cars</a>.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How expensive is accommodation in the Dolomites?</summary><!-- wp:paragraph -->
+<p>Expect to pay $130–250/night for mid-range hotels depending on village and season. Cortina is the most expensive; Canazei and Bolzano are the most affordable. Shoulder season (April–May, late September–October) offers meaningfully better pricing than July–August. Always book free cancellation — Dolomites prices shift between booking and travel dates, and it's often worth rebooking if rates drop.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>When is the best time to visit the Dolomites?</summary><!-- wp:paragraph -->
+<p>Late June through mid-September for hiking; December through March for skiing. Shoulder season — late May, early June, and September — offers the combination of lower prices, open trails, and fewer crowds. April is viable for driving and scenery but some cable cars are closed for inter-season maintenance and high passes may still be partially closed from winter. See the full breakdown in the <a href="/best-time-to-visit-the-dolomites-and-what-nobody-tells-you/">best time to visit the Dolomites guide</a>.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best village to stay in the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ortisei is the best all-round base for most visitors — good hiking access, genuine village character, and better pricing than Cortina. Cortina d'Ampezzo is the best choice if the eastern highlights (Tre Cime, Cinque Torri) are your priority and budget is less of a concern. Canazei is the right pick for high-pass driving. There's no single \"best\" — it depends entirely on what you've prioritised for the trip."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many days do you need in the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three to four days is the minimum for a meaningful trip. Two days forces you into highlights-only mode with long driving. Five to seven days allows you to split time between different valleys and actually settle into a pace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it better to stay in Cortina or Ortisei?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ortisei for most first-time visitors. It's better positioned for the hiking, more affordable, and has a more authentic South Tyrolean atmosphere. Cortina is the right call if your itinerary is built around the eastern Dolomites and you want the best mountain backdrop in the region."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you need a car to visit the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a multi-valley Dolomites trip, yes, a car is strongly recommended. Public transport can work if you stay in one valley and plan around buses, but it is limiting for early trailheads, scenic passes, and flexible photography stops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How expensive is accommodation in the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect to pay $130–250/night for mid-range hotels depending on village and season. Cortina is the most expensive; Canazei and Bolzano are the most affordable. Shoulder season offers meaningfully better pricing than July–August."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the best time to visit the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Late June through mid-September for hiking; December through March for skiing. Shoulder season — late May, early June, and September — offers the combination of lower prices, open trails, and fewer crowds."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading" id="more-guides">More Guides for Your Dolomites Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Driving in from the west?</strong> — <a href="/milan-to-dolomites-road-trip/">Milan to Dolomites road trip</a> — the full route, what to stop at, and how to pace it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Working out what this trip will cost?</strong> — <a href="/dolomites-travel-costs/">Dolomites travel costs</a> — real numbers: car rental, parking, cable cars, rifugio lunches, hotel by area.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Want to know which hikes to prioritise?</strong> — <a href="/hiking-in-the-dolomites/">Hiking in the Dolomites</a> — honest trail-by-trail breakdown by difficulty and access point.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Trying to pick the right travel window?</strong> — <a href="/best-time-to-visit-the-dolomites-and-what-nobody-tells-you/">Best time to visit the Dolomites</a> — crowds, weather, and what April vs. July actually means on the ground.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Coming from Venice for a day trip?</strong> — <a href="/day-trip-to-the-dolomites-from-venice/">Day trip to the Dolomites from Venice</a> — what's realistic in a day and what to prioritise.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+

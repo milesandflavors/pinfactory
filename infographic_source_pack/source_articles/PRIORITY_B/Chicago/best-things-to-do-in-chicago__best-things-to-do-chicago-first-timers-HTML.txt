@@ -1,0 +1,253 @@
+﻿<!-- wp:paragraph -->
+<p>Chicago doesn't get the same first-timer attention as New York or LA — which is exactly why it tends to surprise people. The architecture is genuinely world-class. The food scene rewards curiosity rather than just hunger. The lake is enormous and free and right there, which somehow still catches people off guard. And the whole downtown is compact enough to cover in three days without ever feeling rushed. This is what to do on a first visit, in the order that actually makes sense.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Take the architecture river cruise on day one — it orients you to the whole city in 90 minutes and nothing else does that as efficiently. Then Millennium Park, one observation deck (Willis Tower if you want to understand why people talk about this skyline the way they do), and a proper Chicago food tour. Three days covers all of this without rushing, and you'll leave with a city you actually understand rather than one you've just photographed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2219,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/megan-soule-hOy29Nl9cQ8-unsplash-1-1024x768.jpg" alt="Chicago River with downtown skyscrapers and bridges seen from the water" class="wp-image-2219"/><figcaption class="wp-element-caption">The Chicago River architecture cruise is the single best way to get oriented to the city — do it on day one, before you've seen anything else.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-summary">Quick Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Best time to visit</strong></td><td>Late spring through fall for the fullest schedule of cruises and outdoor time</td></tr><tr><td><strong>How many days</strong></td><td>3 for a solid first visit — enough to cover everything on this list without rushing</td></tr><tr><td><strong>Do this first</strong></td><td>The architecture river cruise — it sets up every other thing on the list</td></tr><tr><td><strong>Best for</strong></td><td>First-timers, architecture and food lovers, anyone who hasn't been yet and isn't sure what to expect</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary><!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="#quick-summary">Quick Summary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's picks: the tour and hotel I'd book</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#best-things-to-do">Best things to do in Chicago for first-timers</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently asked questions</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#more-chicago">More Chicago guides</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></details>
+<!-- /wp:details -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="lilis-picks" class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Lili's picks for Chicago</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Two things to have sorted before you arrive: the architecture cruise (day one if you can manage it) and a base in the Loop, so everything on this list is walkable or one L train stop away.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The tour I'd book</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Chicago Architecture River Cruise is the one paid experience I would protect space for on a first Chicago trip. You sit at water level as the skyscrapers rise on both sides of the river, and a guide explains how the city rebuilt and reshaped modern architecture after the Great Fire of 1871. By the time you step off the boat, every building you walk past for the rest of the trip will mean something. Best if you want the city to make sense quickly, not just look impressive in photos. Before booking, check the current operator, departure point, route, duration, weather policy, cancellation terms, and recent reviews. <a href="https://www.viator.com/tours/Chicago/Chicago-Architecture-River-Cruise/d673-5580ARC?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=chicago-first-timers" target="_blank" rel="sponsored noopener noreferrer">Chicago Architecture River Cruise on Viator →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div data-vi-partner-id="P00300034" data-vi-widget-ref="W-a62aa6b7-a5d1-4b9a-97b0-90c1c6b77c30"></div>
+<script async src="https://www.viator.com/orion/partner/widget.js"></script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong>Where I'd stay</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For a first visit, the Loop is the right base — you're within walking distance of Millennium Park, the Riverwalk, and the architecture cruise dock, and the L train connects you everywhere else without thinking about it. citizenM Chicago Downtown gives you good design, a central Loop location, and a price point that doesn't feel like you're being punished for choosing somewhere convenient. Compact, modern, well-reviewed — exactly what a first trip to Chicago needs. <strong>This is where I'd stay.</strong> <a href="https://www.booking.com/hotel/us/citizenm-chicago-downtown.html" target="_blank" rel="nofollow noopener noreferrer">citizenM Chicago Downtown on Booking.com →</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-things-to-do">Best Things to Do in Chicago for First-Timers</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="1-architecture-cruise">1. Take the Architecture River Cruise — Do This First</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Not optional. Not a nice-to-have. If there is one thing you do in Chicago, make it the architecture river cruise — and do it on your first full day, before you've seen anything else. The whole city snaps into focus from the water: you sit at river level looking straight up at towers that range from Art Deco to glass-and-steel modern, while a guide walks you through how Chicago essentially reinvented urban architecture from the ground up after the Great Fire of 1871. By the time you step off the boat 90 minutes later, every building you walk past for the rest of the trip will mean something. That context is worth everything. Full details on operators, what you'll see, and the best time to go are in my <a href="https://milesandflavors.com/chicago-architecture-river-cruise/">complete architecture cruise guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Time needed:</strong> 75–90 minutes | <strong>Best if:</strong> You want Chicago's skyline, history, and layout to click quickly | <a href="https://www.viator.com/tours/Chicago/Chicago-Architecture-River-Cruise/d673-5580ARC?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=chicago-first-timers" target="_blank" rel="sponsored noopener noreferrer">Compare the Chicago Architecture River Cruise on Viator →</a> and check current pricing, route, departure point, weather policy, cancellation terms, and recent reviews before choosing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="2-millennium-park">2. Millennium Park and Cloud Gate ("The Bean")</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Free, right downtown, and genuinely worth every photo you take — which, given how many photos you will take here, is saying something. Cloud Gate is one of those rare city landmarks that manages to look different at every hour: early morning with the skyline reflected in clean, empty silver; midday when the crowd underneath it turns into a swirling part of the composition; golden hour when the light goes warm and every visitor around you is doing the same thing and it doesn't matter. The park itself is worth exploring beyond the Bean — the Crown Fountain in summer, the Lurie Garden in bloom, the Art Institute of Chicago across the street if you want to extend the afternoon into something more.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Early morning for photos without crowds, or golden hour | <strong>Time needed:</strong> 30–60 minutes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2220,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/kevin-bhagat-d13oYs869qI-unsplash-1024x683.jpg" alt="Cloud Gate sculpture in Millennium Park reflecting the Chicago skyline" class="wp-image-2220"/><figcaption class="wp-element-caption">Cloud Gate in Millennium Park is free and genuinely worth every photo — go early morning or golden hour for the best light and thinner crowds.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="3-observation-deck">3. Pick One Observation Deck — I'd Pick Willis Tower</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You don't need both Willis Tower and 360 Chicago. One is enough, and I'd pick Willis Tower for a first visit. It's taller at 1,450 feet, the views stretch further, and the glass Ledge boxes that jut out over the street at the 103rd floor are genuinely something — you step out over the city with nothing but glass beneath your feet and either you love it or you very quickly decide you don't. 360 Chicago on Michigan Avenue has the TILT feature and is perfectly fine if you want the Mag Mile view. But Willis Tower is the one you'll be talking about afterward. Reserve a timed slot in summer if your schedule is tight, so the day doesn't get swallowed by lines.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Cost:</strong> Paid timed entry; prices vary by date and add-ons | <strong>Time needed:</strong> 60–75 minutes | <strong>Tip:</strong> If photos matter, choose the first entry slot or a clear-weather window rather than booking around price alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="4-food-tour">4. Take a Chicago Food Walking Tour</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Chicago is one of the great food cities in America, and deep-dish pizza, the Chicago hot dog, and Italian beef are all things where the gap between tourist versions and the real thing is wide enough to matter. The mistake is trying to figure this out yourself in three days. A guided food walk solves it in one afternoon: you cover the classics, eat from places a local has actually vetted, and come away with a mental map of what to order and where for the rest of the trip. This is how you eat in Chicago the right way on a first visit, rather than spending the whole week realizing too late what you should have ordered.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Time needed:</strong> About 3 hours | <strong>Best if:</strong> You want deep-dish pizza, Chicago-style classics, and local context without building your own food route | <a href="https://www.viator.com/tours/Chicago/Chicago-Food-Tour-Chicago-Style-Pizza-Beer-Brownies-and-Hot-Dogs/d673-3332BITEWALK?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=chicago-first-timers" target="_blank" rel="sponsored noopener noreferrer">Compare the Chicago Favorites Food &amp; Walking Tour on Viator →</a> and check current stops, inclusions, dietary notes, meeting point, cancellation terms, and recent reviews before choosing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="5-navy-pier">5. Navy Pier — At Sunset, Not as a Full Day</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="/navy-pier-chicago/">Navy Pier</a> is touristy, and locals will tell you that freely. But there's a difference between overrated and not worth visiting at all. The lake views at sunset are legitimately good. The Centennial Wheel against the early-evening sky is one of those photographs that's hard to argue against. The error most first-timers make is treating it as a full-day destination — it isn't. Treat it as a deliberate one-hour sunset stop and it delivers exactly what it promises. Build a whole day around it and you'll outrun the interesting parts before noon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunset is also when the Wheel line is longest, so if that's your plan, <a href="https://getyourguide.tpm.lv/ycKjRHBF" target="_blank" rel="sponsored noopener noreferrer">booking the ticket ahead</a> is worth it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Best for:</strong> Sunset views over Lake Michigan, the Centennial Wheel, and a walk along the water | <strong>Skip if:</strong> You're choosing between this and the Riverwalk — the Riverwalk has better views, more atmosphere, and more to actually do.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2221,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/rohan-gangopadhyay-heIaYq6A7tg-unsplash-1024x689.jpg" alt="Chicago skyline viewed from Lake Michigan with downtown towers along the waterfront" class="wp-image-2221"/><figcaption class="wp-element-caption">The lake cruise gives you the Chicago skyline from the water side — a completely different photograph from anything you get from the river.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="6-lake-cruise">6. Lake Michigan Skyline Cruise</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you've done the architecture river cruise (which you have, because you did it on day one), this is the natural companion rather than a replacement. The river cruise gives you the skyline from inside the city looking up. The lake cruise gives you the whole thing from out on the water looking back — a completely different photograph, a completely different sense of scale. Shorter and easier to fit into the day than the full architecture cruise, and worth building into an afternoon if you have one to spare.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Time needed:</strong> 30–45 minutes | <strong>Best if:</strong> You want skyline photos from the lake without committing to another long tour | <a href="https://www.viator.com/tours/Chicago/Lake-Michigan-Sightseeing-Cruise/d673-5580SKY?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=chicago-first-timers" target="_blank" rel="sponsored noopener noreferrer">Compare the Lake Michigan Skyline Cruise on Viator →</a> and check current departure point, route, weather policy, cancellation terms, and recent reviews before choosing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How many days do you need in Chicago for a first visit?</summary><!-- wp:paragraph -->
+<p>Three days covers the architecture cruise, Millennium Park, one observation deck, and a food tour without feeling rushed. Two days works if you're tight on time — prioritize the architecture cruise and pick one other thing from the list. Four days lets you add the Art Institute or a day trip somewhere outside downtown.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Should I go to Willis Tower or 360 Chicago?</summary><!-- wp:paragraph -->
+<p>Willis Tower is the stronger first-time experience if you want the most iconic skyline moment: it is taller, and the glass Ledge boxes are genuinely memorable. 360 Chicago on Michigan Avenue has the TILT feature and a different Mag Mile angle, but if you're only doing one, Willis Tower is the call. You don't need both.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What should I do first in Chicago?</summary><!-- wp:paragraph -->
+<p>The architecture river cruise, on your first full day. It orients you to the city's layout, explains why the skyline looks the way it does, and gives context to everything you'll walk past on foot afterward. Everything else on this list makes more sense once you've done it.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "How many days do you need in Chicago for a first visit?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Three days covers the architecture cruise, Millennium Park, one observation deck, and a food tour without feeling rushed. Two days works if you are tight on time — prioritize the architecture cruise and pick one other thing. Four days lets you add the Art Institute or explore beyond downtown."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Should I go to Willis Tower or 360 Chicago?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Willis Tower is the stronger first-time experience if you want the most iconic skyline moment: it is taller, and the glass Ledge boxes are genuinely memorable. 360 Chicago has the TILT feature and a different Mag Mile angle, but if you are only doing one, Willis Tower is the right call."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What should I do first in Chicago?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The architecture river cruise, on your first full day. It orients you to the city's layout, explains why the skyline looks the way it does, and gives context to everything you will walk past on foot afterward."
+            }
+        }
+    ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-chicago">More Chicago Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/chicago-architecture-river-cruise/">Chicago Architecture River Cruise — Full Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/3-days-in-chicago-itinerary/">3 Days in Chicago — Itinerary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/chicago-bucket-list-25-best-things-to-do/">Chicago Bucket List — 25 Best Things to Do</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/where-to-stay-in-chicago-7-best-areas-hotels/">Where to Stay in Chicago — 7 Best Areas</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/chicago-travel-costs-the-honest-budget-guide/">Chicago Travel Costs — Honest Budget Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://milesandflavors.com/20-free-things-to-do-in-chicago/">20 Free Things to Do in Chicago</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

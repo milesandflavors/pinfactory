@@ -1,0 +1,290 @@
+﻿<!-- wp:paragraph -->
+<p>Montserrat is the day trip we'd tell anyone with a spare day in Barcelona to take. An hour from the city, a jagged wall of rounded rock pinnacles rises straight out of the Catalan countryside — the "serrated mountain" that gives the place its name — and tucked into a ledge halfway up sits a thousand-year-old Benedictine monastery, home to Catalonia's beloved Black Madonna and one of Europe's oldest boys' choirs. The combination of dramatic mountain, working monastery, and easy half-day logistics makes it the standout escape from the city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This guide covers exactly how to get there from Barcelona — the train, the cable car, and the rack railway — what to see once you're up top, how long you need, and whether to go on your own or book a tour. We did it independently by train, and it's genuinely easy once you know the steps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":905,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8686-768x1024.jpg" alt="Montserrat monastery below the serrated mountain near Barcelona" class="wp-image-905"/><figcaption class="wp-element-caption">Montserrat - the serrated mountain rising above the monastery, about an hour from Barcelona.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-summary">Quick Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Distance from Barcelona</strong></td><td>About 30 miles (50 km) northwest — roughly 1 to 1.5 hours door to door</td></tr><tr><td><strong>How to get there</strong></td><td>FGC R5 train from Plaça Espanya, then the cable car (Aeri) or rack railway (Cremallera) up</td></tr><tr><td><strong>How long you need</strong></td><td>Half a day minimum; a full day if you hike</td></tr><tr><td><strong>Don't miss</strong></td><td>The basilica and the Black Madonna, the views, and the boys' choir if the timing works</td></tr><tr><td><strong>Book ahead</strong></td><td>Check the current FGC transport ticket options, or book a guided tour if you would rather not plan the logistics</td></tr><tr><td><strong>Best for</strong></td><td>First-timers in Barcelona with a free day; hikers, history and view lovers</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"c0d94820-2a7b-49b5-be86-2805cd97bdfe","content":"Quick Summary","level":2,"link":"#quick-summary","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"974d1064-5c77-43f5-b299-093c05891c31","content":"Where Is Montserrat — and Why Go","level":2,"link":"#why-go","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7948d841-e745-4af8-9655-019239187feb","content":"How to Get to Montserrat from Barcelona","level":2,"link":"#how-to-get-there","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"9c5588a9-33cb-4225-b0cc-f0c8d385cd0d","content":"What to See at Montserrat","level":2,"link":"#what-to-see","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"a4db6411-533d-4102-8fa3-da2b987a3cf5","content":"How Long Do You Need?","level":2,"link":"#how-long","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"9aea1ca6-a50a-4d0d-af71-ad11461ba78f","content":"Best Time to Visit Montserrat","level":2,"link":"#best-time","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"b013c648-989e-47c4-89e0-ae5a369c0613","content":"Is the Montserrat Day Trip Worth It?","level":2,"link":"#is-it-worth-it","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"feead6bd-a773-4e21-ae8e-72ac71815be5","content":"Frequently Asked Questions","level":2,"link":"#faq","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"8a960828-8ecc-458c-90e6-beac396f55b0","content":"More Barcelona Travel Guides","level":2,"link":"#more-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul","excludeHeadings":["h3"],"className":"wp-block-rank-math-toc-block"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><ul><li class=""><a href="#quick-summary">Quick Summary</a></li><li class=""><a href="#why-go">Where Is Montserrat — and Why Go</a></li><li class=""><a href="#how-to-get-there">How to Get to Montserrat from Barcelona</a></li><li class=""><a href="#what-to-see">What to See at Montserrat</a></li><li class=""><a href="#how-long">How Long Do You Need?</a></li><li class=""><a href="#best-time">Best Time to Visit Montserrat</a></li><li class=""><a href="#is-it-worth-it">Is the Montserrat Day Trip Worth It?</a></li><li class=""><a href="#faq">Frequently Asked Questions</a></li><li class=""><a href="#more-guides">More Barcelona Travel Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you book your Montserrat day trip</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Want it organized for you?</strong> A guided tour handles the transport and often adds a winery or tapas stop. <a href="https://www.viator.com/searchResults/all?text=Montserrat%20from%20Barcelona&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=montserrat-day-trip" target="_blank" rel="sponsored noopener noreferrer">Compare Montserrat tours from Barcelona on Viator →</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Going independently?</strong> Check the current FGC ticket options before you buy. Trans Montserrat and Tot Montserrat can simplify the train + mountain transport, but you usually choose between the Aeri cable car or the Cremallera rack railway when buying.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Staying in Barcelona?</strong> Compare central hotels on <a href="https://www.booking.com/searchresults.html?ss=Barcelona+Spain" target="_blank" rel="nofollow noopener noreferrer">Booking.com</a> or <a href="https://www.expedia.com/Hotel-Search?destination=Barcelona+Spain" target="_blank" rel="nofollow noopener noreferrer">Expedia</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you fly:</strong> our <a href="https://milesandflavors.com/how-to-find-cheap-flights/">cheap flights guide</a> and an <a href="https://milesandflavors.com/esim-for-travel/">eSIM</a> for maps and train times on the go.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="why-go">Where Is Montserrat — and Why Go</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Montserrat sits about 30 miles (50 km) northwest of Barcelona, and the mountain itself is the first reason to come: a surreal ridge of rounded, finger-like rock towers that looks like nothing else in the region. Halfway up clings <strong>Santa Maria de Montserrat</strong>, a Benedictine monastery founded in the 11th century and still home to a community of monks. It's the spiritual heart of Catalonia, the home of <strong>La Moreneta</strong> — the Black Madonna — and a place of pilgrimage for centuries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What makes it such a good day trip is that it delivers three very different things at once: a genuinely dramatic mountain with hiking and viewpoints, a historic working monastery and basilica, and an easy, scenic journey out of the city. You can make it as light or as active as you like — a relaxed morning at the monastery, or a full day adding a hike to the peaks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1469,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/IMG_8655-1-768x1024.jpg" alt="View from the Aeri cable car climbing toward Montserrat" class="wp-image-1469"/><figcaption class="wp-element-caption">The Aeri cable car climbs the cliff toward the monastery - the scenic way up.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-to-get-there">How to Get to Montserrat from Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The journey is half the fun, and it's simpler than it first looks. There are three main ways to do it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">By train + cable car or rack railway (the independent way)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is how we did it, and it's the most flexible. Take the <strong>FGC R5 train</strong> from <strong>Plaça Espanya</strong> in Barcelona, heading toward Manresa — it's about an hour. From there you have two ways up the mountain, leaving from two adjacent stops on the same line:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>The Aeri cable car</strong> — get off at <em>Aeri de Montserrat</em>. The cable car swings up the cliff face in about five minutes and the views are spectacular (skip it if you're nervous about heights).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>The Cremallera rack railway</strong> — get off at <em>Monistrol de Montserrat</em>. The cog train climbs more gradually over about 15–20 minutes, with great scenery and no cable-car vertigo.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Here's a nice trick: you do not necessarily have to experience the mountain the same way in both directions. <strong>We rode the cable car up and came down on the rack railway</strong>, then caught the R5 train back to Barcelona, and the views felt different each way. Just check the current ticket rules when you buy: some combined tickets are sold for either the Aeri cable car or the Cremallera rack railway, so if you want to mix the two like we did, confirm it at the station or buy the legs separately. Trans Montserrat and Tot Montserrat can still be useful if you want the metro/train connection plus mountain transport and funicular access in one package.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">By guided tour (the easy way)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you'd rather not think about train times and tickets, a guided tour from Barcelona handles all the logistics and picks you up in the city. Many tours pair Montserrat with something else — a Penedès winery and wine tasting, a tapas lunch, or a guided walk — which can make a great full day. It costs more than doing it yourself, but the convenience is real, especially if your Spanish is rusty or your time is tight. <a href="https://www.viator.com/searchResults/all?text=Montserrat%20monastery%20tour%20from%20Barcelona&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=montserrat-day-trip" target="_blank" rel="sponsored noopener noreferrer">Compare Montserrat day tours from Barcelona on Viator →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">By car</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can drive (about an hour) and park near the monastery, but for a day trip from the city it's rarely worth the hassle of a rental and parking. The train is cheaper, stress-free, and part of the experience. If you already have a car for a wider Catalonia road trip, though, Montserrat slots in easily.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-to-see">What to See at Montserrat</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The basilica and the Black Madonna</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The heart of the monastery is the <strong>basilica</strong>, and its star is <strong>La Moreneta</strong> — the Black Madonna, a 12th-century wooden statue of the Virgin and patron saint of Catalonia. A side route leads up behind the altar to see her up close; tradition has visitors touch the orb she holds. The queue can be long at busy times, and access or time-slot rules can change, so check the current monastery information before you build your day around it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The boys' choir (Escolania)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The <strong>Escolania de Montserrat</strong> is one of the oldest boys' choirs in Europe, and hearing them sing in the basilica is a highlight if your timing lines up. They typically perform around midday on most days, with some additional times — but the schedule changes and they take breaks during the year, so check the current timetable before you build your day around it. We were lucky enough to hear them, and it was genuinely beautiful — though you do queue to get into the basilica, so morning timing helps here too.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":908,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8712-1-768x1024.jpg" alt="Interior of the basilica at Santa Maria de Montserrat" class="wp-image-908"/><figcaption class="wp-element-caption">Inside the basilica at Santa Maria de Montserrat, where visitors gather for the choir and the Black Madonna.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The funiculars and the views</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Two short funiculars run from the monastery itself. The <strong>Sant Joan funicular</strong> climbs higher up the mountain to walking trails and some of the best panoramas over the rock formations and the valley below. The <strong>Santa Cova funicular</strong> drops down toward the Holy Grotto, a chapel on the cliff reached by a path lined with sculptures. Even if you don't hike far, riding up Sant Joan for the view is worth it. The views are stunning, and we especially loved the warm, reddish-brown color of the rock — and the way the weathered pinnacles seem to take on shapes. We kept spotting what looked like animals in them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Hiking</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For hikers, Montserrat is a treat. From the top of the Sant Joan funicular, trails wind among the rounded peaks, and the more ambitious can walk to <strong>Sant Jeroni</strong>, the highest point of the massif at around 4,055 feet (1,236 m), for a sweeping view that on clear days stretches for miles. Wear proper shoes and bring water — the paths are well marked but exposed and rocky.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Local tip:</strong> near the monastery there's a small market where farmers sell Catalan specialties — look for <em>mel i mató</em> (fresh cheese with honey) and local honey, cheeses and liqueurs. The cheese we bought from one of the little stalls was delicious — worth a stop on your way through.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2058,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-default"} -->
+<figure class="wp-block-image aligncenter size-full is-style-default"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/IMG_8733-1-edited-scaled.jpg" alt="Montserrat monastery square below the rounded rock formations" class="wp-image-2058"/><figcaption class="wp-element-caption">The monastery square sits directly below Montserrat's rounded rock formations.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-long">How Long Do You Need?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Half a day</strong> is enough to see the monastery, the basilica and the Black Madonna, ride a funicular for the view, and soak up the setting. If you want to <strong>hike</strong> — especially up to Sant Jeroni — give it a <strong>full day</strong>. Either way, build in time for the train and the cable car or rack railway at each end. Going in the morning beats the midday tour-bus crowds and gives you the best light and the calmest basilica.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-time">Best Time to Visit Montserrat</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Montserrat is open year-round, and spring and fall are the most comfortable for walking, with mild temperatures and clearer air. Summer is busier and hotter, though the mountain is cooler than the city. Whenever you go, <strong>start early</strong> — it makes the whole day better. The first cable cars and trains beat the crowds, you get a better spot on the cable car with that huge view ahead of you the whole way up, the basilica and choir queues are shorter, and you'll have the viewpoints closer to yourself. Weekends and holidays are the busiest, so a weekday morning is the sweet spot. The mountain weather can shift quickly, so bring a layer even in summer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="is-it-worth-it">Is the Montserrat Day Trip Worth It?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — it's the day trip we'd recommend first from Barcelona. The mountain alone is unforgettable, and pairing it with a thousand-year-old monastery and a short, scenic journey makes for a perfectly balanced day out of the city. For us, the magic was in the details — the warm color of those strange, animal-shaped rocks, the sound of the choir drifting through the basilica, and that first view from the cable car. It's a place that stays with you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Worth it if:</strong> you have a free day in Barcelona, you like dramatic scenery, history, or hiking, and you're happy with a half- to full-day excursion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Maybe skip if:</strong> you only have a day or two in Barcelona and haven't seen the city itself yet — do the Sagrada Família and the old town first, and save Montserrat for a return trip or a longer stay.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-get-faq">How do you get to Montserrat from Barcelona?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Take the FGC R5 train from Plaça Espanya toward Manresa (about an hour), then go up the mountain by the Aeri cable car (from Aeri de Montserrat station) or the Cremallera rack railway (from Monistrol de Montserrat station). Be careful when you buy and board: the cable car and rack railway use different train stops. Combined ticket options can simplify the day, but check whether your ticket is for Aeri or Cremallera before you leave Barcelona. Alternatively, a guided tour from Barcelona handles all the transport for you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-long-faq">How long do you need at Montserrat?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Half a day is enough to see the monastery, the basilica and the Black Madonna, and ride a funicular for the views. If you want to hike — especially up to the Sant Jeroni peak — plan a full day. Add time at each end for the train and the cable car or rack railway.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="cable-or-rack-faq">Cable car or rack railway — which is better?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Aeri cable car is faster (about five minutes) and more dramatic, climbing the cliff face with big views — but it is not ideal if you dislike heights. The Cremallera rack railway is a gentler 15 to 20 minute climb with lovely scenery and no vertigo. A nice option is to take one up and the other down, but confirm the ticket rules first or buy separate legs if needed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="worth-faq">Is Montserrat worth visiting?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — it's one of the best day trips from Barcelona. You get a strikingly beautiful mountain, a historic working monastery with the Black Madonna and a famous boys' choir, hiking and viewpoints, and a scenic, easy journey from the city. If you have a free day and enjoy scenery or history, it's well worth it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "How do you get to Montserrat from Barcelona?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Take the FGC R5 train from Placa Espanya toward Manresa, then go up the mountain by the Aeri cable car from Aeri de Montserrat station or the Cremallera rack railway from Monistrol de Montserrat station. The cable car and rack railway use different train stops, so check whether your ticket is for Aeri or Cremallera before you leave Barcelona. Alternatively, a guided tour from Barcelona handles the transport for you."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do you need at Montserrat?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Half a day is enough to see the monastery, the basilica and the Black Madonna, and ride a funicular for the views. If you want to hike — especially up to the Sant Jeroni peak — plan a full day. Add time at each end for the train and the cable car or rack railway."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Cable car or rack railway to Montserrat — which is better?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Aeri cable car is faster, about five minutes, and more dramatic, climbing the cliff face with big views, but it is not ideal if you dislike heights. The Cremallera rack railway is a gentler 15 to 20 minute climb with lovely scenery and no vertigo. A nice option is to take one up and the other down, but confirm the ticket rules first or buy separate legs if needed."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Montserrat worth visiting?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — it's one of the best day trips from Barcelona. You get a strikingly beautiful mountain, a historic working monastery with the Black Madonna and a famous boys' choir, hiking and viewpoints, and a scenic, easy journey from the city. If you have a free day and enjoy scenery or history, it's well worth it."
+            }
+        }
+    ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Barcelona Travel Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Planning the city itself? Our <a href="https://milesandflavors.com/barcelona-bucket-list/">Barcelona bucket list</a> and <a href="https://milesandflavors.com/4-days-in-barcelona-the-perfect-itinerary/">4 days in Barcelona itinerary</a> cover the must-sees.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Still booking? Our <a href="https://milesandflavors.com/how-to-find-cheap-flights/">cheap flights guide</a> and <a href="https://milesandflavors.com/how-to-plan-a-trip/">trip planning guide</a> help you put the trip together.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Before you go: the <a href="https://milesandflavors.com/best-travel-money-card/">best travel money card</a> for euro spending and the <a href="https://milesandflavors.com/esim-for-travel/">best eSIM for travel</a>.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

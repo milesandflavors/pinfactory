@@ -1,0 +1,367 @@
+<!-- wp:image {"id":1742,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/yusheng-deng-gNZ6MHqtsLY-unsplash-1-1024x768.jpg" alt="Cherry blossoms in Japan during peak sakura season with pink flowers in full bloom" class="wp-image-1742"/><figcaption class="wp-element-caption">Peak bloom in Japan lasts roughly 7–10 days per location. Timing it right is the whole game.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Cherry blossom season is the reason Japan fills up in spring — and unlike most overhyped travel experiences, it holds up. The problem isn't that it's not beautiful. It's that the window is genuinely short (7–10 days of peak bloom per city), the timing shifts by a week or more depending on the year, and showing up without understanding how it works can mean traveling through Japan and missing the bloom entirely. This guide covers the timing city by city, the best spots, and what to actually do with the information.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"affiliate-disclosure"} -->
+<p><em>This post contains affiliate links. If you book or buy something through them, I may earn a small commission — at no extra cost to you. I only link to tools and booking options that fit the planning decision in this guide.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group" id="quick-answer" style="background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px;border-left:4px solid #C4845A"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> for a first Japan cherry blossom trip, plan Tokyo, Kyoto, and Osaka for <strong>late March to early April</strong>, but keep the order flexible. If the bloom is early, start farther west or prioritize Tokyo first. If it is late, lean into Kyoto/Osaka and consider Nikko, Tohoku, or Hokkaido for a later sakura window.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p><em>Cherry blossom dates shift every year. Use this guide for planning windows, then cross-check the latest seasonal forecast before booking final dates. Useful sources include the <a href="https://www.jwa.or.jp/english/news/cherry-blossom-and-full-bloom-forecast-for-2026-part-3-2/" rel="nofollow noopener noreferrer" target="_blank">Japan Weather Association cherry blossom forecast</a>, the <a href="https://www.jwa.or.jp/english/services-solutions/media-solutions/seasonal-news-cherry-blossom-forecast/" rel="nofollow noopener noreferrer" target="_blank">JWA forecast methodology</a>, and <a href="https://www.japan.travel/en/guide/spring-guide/" rel="nofollow noopener noreferrer" target="_blank">JNTO's official spring guide</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The map below shows how cherry blossom season moves across Japan from south to north. Use it to compare early bloom areas, the main Tokyo–Kyoto–Osaka window, later Tohoku options, and Hokkaido's final sakura season if your dates fall after peak bloom in the south.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1Sd94HTI9virvEXzQqlsX5fCya1vWDxI&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you go — quick links</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Cherry blossom tours</strong> — <a href="https://www.viator.com/Japan/d16-ttd?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=japan-cherry-blossom-season" target="_blank" rel="sponsored noopener noreferrer">Browse sakura tours on Viator →</a> — useful for comparing seasonal walks, day trips, food tours, and garden visits before peak dates fill</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay</strong> — <a href="https://www.expedia.com/Hotel-Search?destination=Kyoto+Japan" target="_blank" rel="nofollow noopener noreferrer">Expedia →</a> or <a href="https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan" target="_blank" rel="nofollow noopener noreferrer">Booking.com →</a> — compare hotel and ryokan options early if you are targeting peak bloom in Kyoto or Tokyo</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel card</strong> — <a href="https://wise.com/" target="_blank" rel="nofollow noopener noreferrer">Wise →</a> — useful for yen withdrawals and avoiding poor exchange-rate markups; check current ATM and fee limits before relying on it</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>eSIM</strong> — <a href="https://www.airalo.com/japan-esim" target="_blank" rel="nofollow noopener noreferrer">Airalo Japan eSIM →</a> — useful for navigating parks, train routes, and bloom reports while you are out</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel insurance</strong> — <a href="https://www.worldnomads.com/travel-insurance/" target="_blank" rel="nofollow noopener noreferrer">World Nomads →</a> — compare medical, delay, cancellation, and activity wording before choosing a policy</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"b8e92e62-693c-404f-be16-ad20a71a175f","content":"How Japan's Cherry Blossom Season Actually Works","level":2,"link":"#how-it-works","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"0b6a4ef3-47d9-4616-9813-bd36f2b92445","content":"Cherry Blossom Timing by City: When to Be Where","level":2,"link":"#timing-by-city","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"4abe25fe-f76c-4e7d-ae3a-d6d8d048dc78","content":"Best Cherry Blossom Spots in Japan","level":2,"link":"#best-spots","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"1b455b28-7d47-4890-aff4-9fcd06171b02","content":"What Hanami Actually Is — and How to Do It","level":2,"link":"#hanami","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"a52bf498-45cb-47ec-aab9-8a19eff65643","content":"Practical Tips for Planning Around Cherry Blossom Season","level":2,"link":"#planning-tips","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"5cffcdb3-9e5f-486f-ae74-12e7c20ba493","content":"Frequently Asked Questions","level":2,"link":"#faq","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"39491fac-639b-4137-aa66-2126255df757","content":"More Japan Travel Guides","level":2,"link":"#more-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul","excludeHeadings":["h3"]} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><ul><li class=""><a href="#how-it-works">How Japan's Cherry Blossom Season Actually Works</a></li><li class=""><a href="#timing-by-city">Cherry Blossom Timing by City: When to Be Where</a></li><li class=""><a href="#best-spots">Best Cherry Blossom Spots in Japan</a></li><li class=""><a href="#hanami">What Hanami Actually Is — and How to Do It</a></li><li class=""><a href="#planning-tips">Practical Tips for Planning Around Cherry Blossom Season</a></li><li class=""><a href="#faq">Frequently Asked Questions</a></li><li class=""><a href="#more-guides">More Japan Travel Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-it-works">How Japan's Cherry Blossom Season Actually Works</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cherry blossoms in Japan — called sakura — aren't one nationwide event. They're a wave that moves from south to north, and from low elevations to high, over a period of roughly three months. The Somei Yoshino variety, which is the most common and the one you'll see lining most parks and castle moats, blooms and falls within about 7–10 days per location. One week you're looking at bare branches; ten days later the petals are on the ground.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Japanese weather organizations release cherry blossom forecasts every year and update them through the season. The Japan Weather Association uses the same criteria as the Japan Meteorological Agency: blooming is recorded when five to six or more flowers have opened on the designated sample tree, and full bloom is recorded when more than 80% of the buds have opened. The sweet spot for viewing — and the window most people want — is the 3–5 days around full bloom.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rain and wind shorten the season significantly. A cold snap can extend it. Warmer winters push the bloom earlier; cool springs delay it. This is why planning around cherry blossoms requires flexibility, or a specific strategy for handling uncertainty.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="timing-by-city">Cherry Blossom Timing by City: When to Be Where</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>These are typical peak bloom windows based on historical averages. Any given year may vary by 1–2 weeks depending on weather.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="okinawa-late-january-to-early-february">Okinawa — Late January to Early February</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Japan's cherry blossom season actually starts in Okinawa in late January, with a variety called Higanzakura that blooms earlier and looks slightly different from the standard Somei Yoshino. It's not on most travelers' radar for spring, which means the crowds are a fraction of what you'd encounter in Tokyo or Kyoto.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="kyushu-fukuoka-kumamoto-mid-march">Kyushu (Fukuoka, Kumamoto) — Mid-March</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The southern island of Kyushu is typically the first major destination to see Somei Yoshino bloom, usually in mid-March. Fukuoka's Maizuru Park and the grounds around Kumamoto Castle are popular viewing spots. This is a useful option if you want cherry blossoms with fewer international crowds — most visitors who plan around sakura season aim for Tokyo and Kyoto.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="hiroshima-and-osaka-mid-to-late-march">Hiroshima and Osaka — Mid to Late March</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hiroshima typically sees peak bloom just ahead of Kyoto and Osaka — useful to know if you're building an itinerary from west to east. The Peace Memorial Park with cherry blossoms in full color has a particular weight to it. Osaka's Osaka Castle Park is one of the city's best hanami spots, with hundreds of trees surrounding the castle grounds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="tokyo-and-kyoto-late-march-to-early-april">Tokyo and Kyoto — Late March to Early April</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the window most people are targeting. In its 2026 forecast, the Japan Weather Association placed Tokyo full bloom around March 25, with the wider full-bloom front moving across much of Kyushu, western Japan, and southern Tohoku by early April. Kyoto and Osaka usually sit in the same late-March to early-April planning window. The classic spots in Tokyo include Ueno Park, Shinjuku Gyoen, and the Meguro River. In Kyoto, the Philosopher's Path, Maruyama Park, and the grounds around Kiyomizu-dera are the highlights.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The most useful advice for these cities: go early. Ueno Park at 6am during peak bloom is a completely different experience from Ueno Park at 11am. The light is better, the photos are better, and you're not navigating around a crowd that stretches from the gates to the lake. The same applies to the Philosopher's Path in Kyoto — it's a genuinely pleasant walk at dawn; by mid-morning it's wall-to-wall foot traffic.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For where to base yourself in Tokyo during cherry blossom season, the <a href="/where-to-stay-in-tokyo">Tokyo accommodation guide</a> covers the neighborhoods closest to the main viewing spots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="nikko-and-northern-honshu-mid-april">Nikko and Northern Honshu — Mid-April</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>As Tokyo's bloom winds down, the season moves north. Nikko, about two hours from Tokyo, typically peaks in mid-April. The combination of cherry blossoms with Nikko's elaborate shrines and surrounding mountains makes it one of the most distinctive sakura settings in Japan — and one that sees far fewer international visitors than Kyoto or Tokyo during bloom.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="hirosaki-and-kakunodate-tohoku-late-april">Hirosaki and Kakunodate (Tohoku) — Late April</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hirosaki Castle in Aomori Prefecture is widely considered one of Japan's most beautiful cherry blossom sites. The castle moat fills with fallen petals — a pink carpet on the water — during peak bloom in late April. Kakunodate, a well-preserved samurai town nearby, has weeping cherry trees lining its streets that flower around the same time. This region often blooms close to Golden Week, which means it can get busy — but it still feels different from the Kyoto and Tokyo peak-bloom crowds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="hokkaido-hakodate-sapporo-late-april-to-early-may">Hokkaido (Hakodate and Sapporo) — Late April to Early May</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hokkaido is the last major region to bloom, typically in late April through early May. This is useful for two reasons: if you miss cherry blossoms in the south, you can chase them north, and Hokkaido gives you a later sakura option after Tokyo and Kyoto are finished. Hakodate's Goryokaku Fort — a star-shaped former fortification — surrounded by cherry trees is one of the more unusual sakura settings in Japan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1744,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/manato-kudo-P98Tr62-XQU-unsplash-1024x768.jpg" alt="Hirosaki Castle in Aomori during late April cherry blossom season in northern Japan" class="wp-image-1744"/><figcaption class="wp-element-caption">Hirosaki Castle in Aomori — one of Japan's most celebrated cherry blossom sites, blooming in late April when the south is long finished.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-spots">Best Cherry Blossom Spots in Japan</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Every city has its main hanami parks, but these are the spots worth going out of your way for:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="shinjuku-gyoen-tokyo">Shinjuku Gyoen, Tokyo</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of the few major hanami spots in Tokyo where alcohol is prohibited — which makes it noticeably calmer than Ueno Park. The garden has around 1,500 trees including several varieties that bloom at different times, extending the viewing window. Entry costs around ¥500. Arrive when it opens at 9am for the best experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="meguro-river-tokyo">Meguro River, Tokyo</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The cherry trees lining the Meguro River create a canopy over the water — the kind of scene that looks exactly like the photos. It gets crowded but the walk is long enough that it never feels like a single bottleneck. Evening is particularly good here when the lanterns along the river are lit and the petals glow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="philosophers-path-kyoto">Philosopher's Path, Kyoto</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A two-kilometer canal walk lined with cherry trees. It's one of Kyoto's most beloved spots and one of its most crowded during peak bloom. The solution is simple: walk it before 8am. At that hour it's genuinely peaceful; by 10am it's shoulder-to-shoulder. The path connects several major temples including Nanzen-ji and Ginkaku-ji, making it a logical part of a morning itinerary. For full Kyoto itinerary suggestions, see the <a href="/best-things-to-do-in-kyoto">Kyoto guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="maruyama-park-kyoto">Maruyama Park, Kyoto</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The centerpiece of this park is a massive weeping cherry tree — one of the most photographed trees in Japan — that's lit up at night during bloom season. The surrounding park is the main hanami gathering spot in Kyoto, with food stalls, picnickers, and a genuinely festive atmosphere in the evenings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="mount-yoshino-nara">Mount Yoshino, Nara</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If there's one cherry blossom site in Japan that stands apart from the others, it's Mount Yoshino. The entire mountainside is covered in thousands of cherry trees — around 30,000 — planted at different elevations so the bloom moves progressively up the mountain. It's been considered sacred for over 1,000 years and is consistently described as Japan's most significant cherry blossom experience. The trade-off: it requires a day trip from Kyoto or Osaka and gets genuinely crowded at peak bloom.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1746,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/nichika-sakurai-AbscEaBAjnE-unsplash-1024x683.jpg" alt="People enjoying hanami under cherry blossom trees in Japan during spring" class="wp-image-1746"/><figcaption class="wp-element-caption">Hanami — the tradition of gathering under cherry trees — is as much the point as the blossoms themselves.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hanami">What Hanami Actually Is — and How to Do It</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hanami literally means "flower viewing," but in practice it means spreading a tarp or blanket under cherry trees, eating food, and spending an afternoon in the park with friends or family. It's a tradition that goes back centuries and is taken seriously — people arrive early on weekends to claim space under the best trees, sometimes hours before their group arrives.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As a visitor, you can participate in hanami exactly the same way. Pick up food from a convenience store or a nearby market — onigiri, karaage, cherry blossom-themed sweets that appear everywhere in spring — find a spot in the park, and spend an afternoon under the trees. It's one of the more genuinely local things you can do in Japan as a tourist, and it costs almost nothing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Note that alcohol is permitted in most hanami parks (Shinjuku Gyoen is the main exception), and the atmosphere in the evenings at major spots like Ueno and Maruyama Park is lively rather than quiet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="planning-tips">Practical Tips for Planning Around Cherry Blossom Season</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Follow forecasts and live bloom reports.</strong> Japanese weather organizations release cherry blossom forecasts starting in January or February, with updates as the season approaches. Use forecast providers and live bloom reports together: the Japan Weather Association publishes seasonal forecasts, while Japan-Guide.com is useful for real-time trip-planning reports from popular locations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Build flexibility into your itinerary.</strong> If cherry blossoms are the main point of the trip, don't book a rigid city-by-city schedule 4 months out and assume the bloom will cooperate. The most reliable approach: book the flights and accommodation early, keep the specific city sequence flexible enough to shift by a few days if the forecast shows the bloom running early or late.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Consider chasing the bloom north.</strong> If you're spending 10+ days in Japan, you can time an itinerary that follows the bloom from Osaka and Kyoto northward through Tokyo, then to Tohoku or Hokkaido. The <a href="/japan-10-day-itinerary/">10-day Japan itinerary</a> covers how to structure this.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Book accommodation now.</strong> This is not advice that's worth delaying. The mid-range ryokans and well-located hotels in Kyoto during peak bloom are booked out 2–3 months before the season. Book with free cancellation and you can always adjust: <a href="https://www.expedia.com/Hotel-Search?destination=Kyoto+Japan" rel="nofollow noopener noreferrer" target="_blank">Expedia →</a> or <a href="https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan" rel="nofollow noopener noreferrer" target="_blank">Booking.com →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Have a data connection for forecasts and navigation.</strong> Checking bloom reports on the go, navigating between parks, and translating park signage all need working data. An eSIM such as Airalo can be useful because you can install it before you fly and activate it according to the provider instructions when you arrive. <a href="https://www.airalo.com/japan-esim" rel="nofollow noopener noreferrer" target="_blank">Get an Airalo Japan eSIM →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="when-is-peak-cherry-blossom-season-in-japan">When is peak cherry blossom season in Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Peak cherry blossom season in Tokyo and Kyoto typically falls in late March to early April — usually the last few days of March through the first week of April. The exact dates shift by 1–2 weeks depending on winter temperatures. Southern regions like Kyushu bloom in mid-March; Hokkaido blooms in late April to early May.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-long-does-cherry-blossom-season-last-in-japan">How long does cherry blossom season last in Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Somei Yoshino variety, which covers most of Japan's famous viewing spots, blooms for roughly 7–10 days per location. However, the full national season runs from late January in Okinawa to early May in Hokkaido — so Japan as a whole has cherry blossoms for about three months. Different varieties also bloom at different times, extending the season at any given location.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-should-i-do-if-it-rains-during-cherry-blossom-season">What should I do if it rains during cherry blossom season?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Rain shortens the bloom significantly — petals fall faster when wet. If rain is forecast during peak bloom, prioritize the covered viewing options (temple gardens with overhead branches), go out early before the worst of the weather, and focus on interior attractions on heavy rain days. A light rain can also make for atmospheric photos with fewer crowds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-cherry-blossom-season-too-crowded-to-enjoy">Is cherry blossom season too crowded to enjoy?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The popular spots in Tokyo and Kyoto are genuinely crowded during peak bloom, but not unenjoyably so. The solution at most locations is timing: arrive at the major parks before 8am and you'll have a completely different experience from the midday crowds. Smaller, less famous parks in most cities also have cherry blossoms with a fraction of the visitors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-hanami">What is hanami?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hanami is the Japanese tradition of gathering under cherry trees to eat, drink, and enjoy the blossoms. It typically involves spreading blankets in a park, bringing food from convenience stores or nearby markets, and spending an afternoon or evening under the trees. It's one of Japan's most popular social traditions and something visitors can participate in exactly as locals do.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Japan Travel Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Planning when to go? → <a href="/best-time-to-visit-japan">Best Time to Visit Japan: Month-by-Month Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Want the full trip plan? → <a href="/japan-10-day-itinerary/">10 Days in Japan Itinerary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Deciding on Kyoto? → <a href="/best-things-to-do-in-kyoto">Best Things to Do in Kyoto</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Deciding on Tokyo? → <a href="/best-things-to-do-in-tokyo">Best Things to Do in Tokyo</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Figuring out costs? → <a href="/japan-travel-costs">Japan Travel Costs: What to Expect</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is peak cherry blossom season in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peak cherry blossom season in Tokyo, Kyoto, and Osaka typically falls from late March to early April. Exact dates shift each year based on winter and spring temperatures, so travelers should check the latest forecast before finalizing dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does cherry blossom season last in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At one location, the main Somei Yoshino bloom usually lasts about seven to ten days, with the best viewing around full bloom. Across Japan, the season stretches from Okinawa in late January to Hokkaido in late April or early May."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if it rains during cherry blossom season?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rain and wind can shorten the bloom, so prioritize your most important outdoor spots before heavy weather arrives. Light rain can still be beautiful for photos and usually means fewer crowds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is cherry blossom season too crowded to enjoy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most famous cherry blossom spots in Tokyo and Kyoto are crowded during peak bloom, but the season is still worth it. Arrive early, use smaller neighborhood parks, and avoid the middle of the day at the busiest sights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is hanami?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hanami is the Japanese tradition of gathering under cherry blossom trees to enjoy the flowers, usually with food, drinks, and time in the park with friends or family. Visitors can participate respectfully by bringing a picnic, keeping noise reasonable, and taking all trash with them."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->

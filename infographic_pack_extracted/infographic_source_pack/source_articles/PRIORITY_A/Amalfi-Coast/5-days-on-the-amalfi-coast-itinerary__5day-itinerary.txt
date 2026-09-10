@@ -1,0 +1,763 @@
+﻿<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>The Amalfi Coast has a way of making you feel like you've wandered into a painting. The towns stack up the cliffside in impossible colors, the water is a shade of blue that doesn't seem real until you're actually swimming in it, and the road that winds along the edge of it all is one of the most dramatic drives in Europe. The coast exceeds expectations almost regardless of how high you've set them — which says a lot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Five days is the sweet spot for a first visit. Long enough to slow down and actually experience the coast, short enough to keep things focused. You'll see Positano, Amalfi, Ravello, Capri, and the Path of the Gods. You'll have time for beach afternoons and long lunches. You won't feel rushed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":678,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="/wp-content/uploads/2026/04/Amalfi-coast-683x1024.jpg" alt="Colorful hillside view of Positano on Italy’s Amalfi Coast with turquoise sea and dramatic cliffs, featured in a 5 days on Amalfi Coast itinerary guide." class="wp-image-678"/><figcaption class="wp-element-caption">Stunning view of Positano from the water, with pastel buildings climbing the cliffs of the Amalfi Coast.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-summary">Quick Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Best time to visit</strong></td><td>May–June or September–October</td></tr><tr><td><strong>How many days</strong></td><td>5 days ideal, 3 minimum</td></tr><tr><td><strong>Best base</strong></td><td>Positano or Praiano</td></tr><tr><td><strong>Getting around</strong></td><td>Ferry + bus + walking</td></tr><tr><td><strong>Don't miss</strong></td><td>Path of the Gods + Capri boat tour</td></tr><tr><td><strong>Book in advance</strong></td><td>Accommodation (3 months), boats, tours</td></tr><tr><td><strong>Best for</strong></td><td>Couples, honeymooners, first-time Italy visitors</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="before-you-go-quick-links">Before you go — quick links</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Flights — <a href="https://flights.google.com" rel="nofollow noopener noreferrer" target="_blank">Google Flights</a> or <a href="https://www.skyscanner.com" rel="nofollow noopener noreferrer" target="_blank">Skyscanner</a> — fly into Naples (NAP)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Hotels — <a href="https://www.expedia.com/Hotel-Search?destination=Amalfi+Coast%2C+Italy" rel="nofollow noopener noreferrer" target="_blank">Search Amalfi Coast hotels on Expedia</a> or <a href="https://www.booking.com/searchresults.html?ss=Amalfi+Coast" rel="nofollow noopener noreferrer" target="_blank">Booking.com</a> — book at least 3 months ahead for peak season</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Boat tours — <a href="https://www.viator.com/Salerno-tours/Day-Cruises/d4736-g3-c7?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amalfi-5-day-itinerary" rel="sponsored noopener noreferrer" target="_blank">Reserve your Amalfi Coast boat tour on Viator</a> — morning slots sell out weeks ahead in summer; book before the hotels fill</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Travel card — <a href="https://wise.com" rel="nofollow noopener noreferrer" target="_blank">Wise</a> for payments and withdrawals in Italy</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>eSIM — <a href="https://www.airalo.com/italy-esim" rel="nofollow noopener noreferrer" target="_blank">Airalo Italy plan</a> — set up before you fly</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Insurance — <a href="https://www.worldnomads.com/travel-insurance/" rel="nofollow noopener noreferrer" target="_blank">World Nomads</a> — compare policy wording for hiking, boat trips, and cancellation cover before you buy</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"50ed14b8-04e6-4208-8a32-51659fbeff6c","content":"Quick Summary","level":2,"link":"#quick-summary","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"4afeb7cb-ec3f-4f82-9e31-c5d1fa37e162","content":"Before you go — quick links","level":2,"link":"#before-you-go-quick-links","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7f871271-6f3f-435b-a70b-260455cf6b72","content":"Quick Tips for the Amalfi Coast","level":2,"link":"#quick-tips-for-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"a755d4cc-22fe-40ae-bbc0-4a89d275a37d","content":"Where to Stay","level":3,"link":"#where-to-stay","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"e24a540b-06d3-4f0c-a148-063b06d8a596","content":"Experiences Worth Booking in Advance","level":3,"link":"#experiences-worth-booking-in-advance","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"e8562ab1-5ca9-471a-9ba8-1bb459efcfcb","content":"Your 5 Days on the Amalfi Coast: Overview","level":2,"link":"#your-5-days-on-the-amalfi-coast-overview","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"a24f34dc-cf33-45e1-8c23-a13deb4aa502","content":"Before You Go: Getting Around the Amalfi Coast","level":2,"link":"#before-you-go-getting-around-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"348db223-7cf0-42d9-908a-bcb18c00cda0","content":"Day 1 — Positano: Arrival \u0026 First Views","level":2,"link":"#day-1-positano-arrival-first-views","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"f6791249-ca89-4c83-8bef-bb77a60974a4","content":"Morning","level":3,"link":"#morning","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"70e5d077-32a9-4042-b075-8c2e9986dda7","content":"Afternoon","level":3,"link":"#afternoon","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"a5d6649b-f2d1-421b-90e5-a2f9df730681","content":"Evening","level":3,"link":"#evening","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"21759083-36ca-4058-8443-de989034cdfe","content":"Day 2 — Path of the Gods + Praiano","level":2,"link":"#day-2-path-of-the-gods-praiano","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"5ec52e5f-9825-40f6-bfed-e049f477ee63","content":"Morning: Path of the Gods","level":3,"link":"#morning-path-of-the-gods","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"31353e50-a44d-41b7-9f91-eb687f5c07db","content":"Afternoon: Praiano","level":3,"link":"#afternoon-praiano","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"c5b724c3-843f-4fd7-b209-ed5772e783cb","content":"Evening","level":3,"link":"#evening-1","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"295d01be-18b5-4694-a26c-161fba98e6c9","content":"Day 3 — Amalfi Town + Ravello","level":2,"link":"#day-3-amalfi-town-ravello","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"797a8737-641d-4fba-bcb6-187cbfe80679","content":"Morning: Amalfi Town","level":3,"link":"#morning-amalfi-town","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"c5d0572e-461a-4353-8ad7-66633353855f","content":"Afternoon: Ravello","level":3,"link":"#afternoon-ravello","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"3433e2fd-d36a-4927-8b59-60534862588e","content":"Evening: Dinner in Amalfi","level":3,"link":"#evening-dinner-in-amalfi","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"1cead68d-cec6-4264-88d9-4294ed95d455","content":"Day 4 — Capri","level":2,"link":"#day-4-capri","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"c422350f-d9e4-42e2-9c78-e976fab1f757","content":"Morning: Getting There \u0026 Blue Grotto","level":3,"link":"#morning-getting-there-blue-grotto","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"3990bd4e-570c-4ef8-971d-e553a584e04b","content":"Afternoon: Capri Town \u0026 Anacapri","level":3,"link":"#afternoon-capri-town-anacapri","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"867ef681-c8ba-4b0c-8d08-42d5b22f0cf9","content":"Evening","level":3,"link":"#evening-2","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"4ed73fce-6d8c-4fe3-aff0-6e5efb6a2ece","content":"Day 5 — Boat Tour + Hidden Gems","level":2,"link":"#day-5-boat-tour-hidden-gems","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ed0762db-f193-4183-947b-fbe8e9b0a8c2","content":"Morning: Amalfi Coast Boat Tour","level":3,"link":"#morning-amalfi-coast-boat-tour","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"27a76689-052f-420e-b16f-56d77d983684","content":"Afternoon: Hidden Gems","level":3,"link":"#afternoon-hidden-gems","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"4b3208ae-7e75-46b0-9846-52fba7255b0e","content":"Evening: Final Dinner","level":3,"link":"#evening-final-dinner","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"d6ab616b-4c99-4ba2-aa16-18fb6982cbef","content":"If You Have Less Time","level":2,"link":"#if-you-have-less-time","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7281d732-4954-40e8-ac4a-97b8b099ad5b","content":"Is the Amalfi Coast Worth It?","level":2,"link":"#is-the-amalfi-coast-worth-it","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"47d7b0ae-5e5e-4ee8-b0a5-4d58036d1e84","content":"Planning Mistakes to Avoid","level":2,"link":"#planning-mistakes-to-avoid","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"e71375bb-78c4-451e-852a-5f8cbe20b27b","content":"Best Time for 5 Days on the Amalfi Coast","level":2,"link":"#best-time-for-5-days-on-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"13dd89ff-db4b-435b-b529-34cfaa9ef8f8","content":"Practical Info","level":2,"link":"#practical-info","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"dee3de4d-36b9-4b00-8413-7c03d916a942","content":"Getting to the Amalfi Coast","level":3,"link":"#getting-to-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"259e127a-1de6-46d0-a066-c311dbf205f2","content":"How Much Does 5 Days on the Amalfi Coast Cost?","level":3,"link":"#how-much-does-5-days-on-the-amalfi-coast-cost","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7a049ab5-a0df-43e6-9350-dd9663fe7122","content":"What to Pack","level":3,"link":"#what-to-pack","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"1d1c4c5a-20db-4570-9306-96c92ef9f3ee","content":"Money \u0026 Paying","level":3,"link":"#money-paying","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"57e39b96-47a0-4b13-85e6-6ecc2598ca36","content":"Staying Connected","level":3,"link":"#staying-connected","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"9dfb7715-c208-4240-b9ca-9a6725560251","content":"Travel Insurance","level":3,"link":"#travel-insurance","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"058a1763-f0dd-4e73-b5d5-c749423f6f51","content":"Final Thoughts: Your 5-Day Amalfi Coast Itinerary","level":2,"link":"#final-thoughts-your-5-day-amalfi-coast-itinerary","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"07b0ebdb-fa8b-41d3-a4be-8b13a6729aaf","content":"Frequently Asked Questions","level":2,"link":"#frequently-asked-questions","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"247e3eaa-8be2-440f-b316-cb19e5701f8f","content":"Is 5 days enough for the Amalfi Coast?","level":3,"link":"#is-5-days-enough-for-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"5330cceb-b740-4ad6-99eb-c444f6b57f9c","content":"Where is the best base for 5 days on the Amalfi Coast?","level":3,"link":"#where-is-the-best-base-for-5-days-on-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"b2fad57a-ee88-474a-82da-79277f79f3b4","content":"Do I need a car on the Amalfi Coast?","level":3,"link":"#do-i-need-a-car-on-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"d3e00bb8-b4e6-4673-bce8-4dfc985cc752","content":"What is the best month for 5 days on the Amalfi Coast?","level":3,"link":"#what-is-the-best-month-for-5-days-on-the-amalfi-coast","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"d3a904a2-b392-412e-97fb-531e42545f45","content":"Is the Path of the Gods difficult?","level":3,"link":"#is-the-path-of-the-gods-difficult","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ddd79152-764b-41da-91d5-b5b336fd7cf3","content":"More Amalfi Coast Guides","level":2,"link":"#more-amalfi-coast-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"div"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><div><div class=""><a href="#quick-summary">Quick Summary</a><div><div class=""><a href="#before-you-go-quick-links">Before you go — quick links</a></div></div></div><div class=""><a href="#quick-tips-for-the-amalfi-coast">Quick Tips for the Amalfi Coast</a><div><div class=""><a href="#where-to-stay">Where to Stay</a></div><div class=""><a href="#experiences-worth-booking-in-advance">Experiences Worth Booking in Advance</a></div></div></div><div class=""><a href="#your-5-days-on-the-amalfi-coast-overview">Your 5 Days on the Amalfi Coast: Overview</a></div><div class=""><a href="#before-you-go-getting-around-the-amalfi-coast">Before You Go: Getting Around the Amalfi Coast</a></div><div class=""><a href="#day-1-positano-arrival-first-views">Day 1 — Positano: Arrival &amp; First Views</a><div></div></div><div class=""><a href="#day-2-path-of-the-gods-praiano">Day 2 — Path of the Gods + Praiano</a><div></div></div><div class=""><a href="#day-3-amalfi-town-ravello">Day 3 — Amalfi Town + Ravello</a><div></div></div><div class=""><a href="#day-4-capri">Day 4 — Capri</a><div></div></div><div class=""><a href="#day-5-boat-tour-hidden-gems">Day 5 — Boat Tour + Hidden Gems</a><div></div></div><div class=""><a href="#if-you-have-less-time">If You Have Less Time</a></div><div class=""><a href="#is-the-amalfi-coast-worth-it">Is the Amalfi Coast Worth It?</a></div><div class=""><a href="#planning-mistakes-to-avoid">Planning Mistakes to Avoid</a></div><div class=""><a href="#best-time-for-5-days-on-the-amalfi-coast">Best Time for 5 Days on the Amalfi Coast</a></div><div class=""><a href="#practical-info">Practical Info</a><div><div class=""><a href="#getting-to-the-amalfi-coast">Getting to the Amalfi Coast</a></div><div class=""><a href="#how-much-does-5-days-on-the-amalfi-coast-cost">How Much Does 5 Days on the Amalfi Coast Cost?</a></div><div class=""><a href="#what-to-pack">What to Pack</a></div><div class=""><a href="#money-paying">Money &amp; Paying</a></div><div class=""><a href="#staying-connected">Staying Connected</a></div><div class=""><a href="#travel-insurance">Travel Insurance</a></div></div></div><div class=""><a href="#final-thoughts-your-5-day-amalfi-coast-itinerary">Final Thoughts: Your 5-Day Amalfi Coast Itinerary</a></div><div class=""><a href="#frequently-asked-questions">Frequently Asked Questions</a><div><div class=""><a href="#is-5-days-enough-for-the-amalfi-coast">Is 5 days enough for the Amalfi Coast?</a></div><div class=""><a href="#where-is-the-best-base-for-5-days-on-the-amalfi-coast">Where is the best base for 5 days on the Amalfi Coast?</a></div><div class=""><a href="#do-i-need-a-car-on-the-amalfi-coast">Do I need a car on the Amalfi Coast?</a></div><div class=""><a href="#what-is-the-best-month-for-5-days-on-the-amalfi-coast">What is the best month for 5 days on the Amalfi Coast?</a></div><div class=""><a href="#is-the-path-of-the-gods-difficult">Is the Path of the Gods difficult?</a></div></div></div><div class=""><a href="#more-amalfi-coast-guides">More Amalfi Coast Guides</a></div></div></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:paragraph -->
+<p>The map below shows every stop in this 5-day itinerary across five color-coded layers — one per day — so you can see the full route, the distances between towns, and how it all fits together before you book anything.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ZhMPW3G9ppwqcZDBoHecVdLIiRVjoF8&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-tips-for-the-amalfi-coast">Quick Tips for the Amalfi Coast</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="where-to-stay">Where to Stay</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For a first visit, I'd base myself in Positano for the full iconic experience, or Praiano if budget is a priority — same views, 10 minutes away, significantly lower prices. For the full breakdown of every town on the coast with honest pros, cons, and hotel recommendations, our <a href="/where-to-stay-on-the-amalfi-coast/">Amalfi Coast accommodation guide</a> covers everything.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Luxury Positano:</strong> Le Sirenuse is one of the finest hotels on the Italian coast — exceptional views, extraordinary service, position right in the heart of town. Search on <a href="https://www.expedia.com/Hotel-Search?destination=Positano%2C+Italy" rel="nofollow noopener noreferrer" target="_blank">Expedia</a> or <a href="https://www.booking.com/hotel/it/le-sirenuse.html" rel="nofollow noopener noreferrer" target="_blank">Booking.com</a> — book months ahead.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Luxury Ravello:</strong> Belmond Hotel Caruso has an infinity pool that appears to float above the sea — one of the most romantic hotels in Italy. Search on <a href="https://www.expedia.com/Hotel-Search?destination=Ravello%2C+Italy" rel="nofollow noopener noreferrer" target="_blank">Expedia</a> or <a href="https://www.booking.com/hotel/it/caruso.html" rel="nofollow noopener noreferrer" target="_blank">Booking.com</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mid-range Amalfi:</strong> Hotel Luna Convento is a converted 13th-century convent with cliff-edge pool and sea views — extraordinary value compared to Positano. Search on <a href="https://www.expedia.com/Hotel-Search?destination=Amalfi%2C+Italy" rel="nofollow noopener noreferrer" target="_blank">Expedia</a> or <a href="https://www.booking.com/hotel/it/luna-convento.html" rel="nofollow noopener noreferrer" target="_blank">Booking.com</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mid-range Praiano:</strong> Casa Angelina is one of the most beautifully designed boutique hotels on the coast at prices well below comparable Positano properties. Search on <a href="https://www.expedia.com/Hotel-Search?destination=Praiano%2C+Italy" rel="nofollow noopener noreferrer" target="_blank">Expedia</a> or <a href="https://www.booking.com/hotel/it/casa-angelina-lifestyle-hotel.html" rel="nofollow noopener noreferrer" target="_blank">Booking.com</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Budget base:</strong> Sorrento has the widest range of affordable accommodation and excellent ferry connections to the coast. Compare on <a href="https://www.expedia.com/Hotel-Search?destination=Sorrento%2C+Italy" rel="nofollow noopener noreferrer" target="_blank">Expedia</a> or <a href="https://www.booking.com/searchresults/it/sorrento.html" rel="nofollow noopener noreferrer" target="_blank">Booking.com</a>.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="experiences-worth-booking-in-advance">Experiences Worth Booking in Advance</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>On the Amalfi Coast, leaving things to chance in peak season means missing them. I'd lock these in before you arrive:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>The Amalfi Coast private boat tour is the best way to see the coastline from the water — grottos, hidden beaches, sea caves. <a href="https://www.viator.com/tours/Sorrento/Capri-Blue-Grotto-Small-Group-Boat-Day-Tour-From-Sorrento/d947-42612P9?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amalfi-5-day-itinerary" rel="sponsored noopener noreferrer" target="_blank">Book a private boat tour on Viator.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The Capri boat tour from Positano covers the Blue Grotto, the Faraglioni rock stacks, and sea caves in one morning. <a href="https://www.viator.com/searchResults/all?text=capri+boat+tour&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amalfi-5-day-itinerary" rel="sponsored noopener noreferrer" target="_blank">See Capri boat tour options on Viator.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The Path of the Gods guided hike is better with a local guide for the stories and context. <a href="https://www.viator.com/Naples-attractions/Path-of-the-Gods-Sentiero-Degli-Dei/d508-a25933?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amalfi-5-day-itinerary" rel="sponsored noopener noreferrer" target="_blank">Book a guided Path of the Gods hike on Viator.</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Pro tip:</strong> Book accommodation at least 3 months ahead for May–September visits. The Amalfi Coast fills up faster than almost anywhere else in Europe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="your-5-days-on-the-amalfi-coast-overview">Your 5 Days on the Amalfi Coast: Overview</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Day 1:</strong> Positano — arrival, first views, and the beach</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Day 2:</strong> Path of the Gods hike + Praiano</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Day 3:</strong> Amalfi town + Ravello</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Day 4:</strong> Capri day trip</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Day 5:</strong> Boat tour + hidden gems</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>This route works best if you keep the towns in order instead of zigzagging: Positano and Praiano first, Amalfi and Ravello together, Capri as its own day, and a final boat day if the sea conditions cooperate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="before-you-go-getting-around-the-amalfi-coast">Before You Go: Getting Around the Amalfi Coast</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Getting around the Amalfi Coast is part of the experience — but it requires planning. The road between towns is famously narrow and winding, distances that look short on a map can take an hour in summer traffic, and parking is scarce and expensive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Ferry (best option):</strong> Ferries connect Positano, Amalfi, Capri, and Sorrento and are often faster than driving when they are running. Service is seasonal and weather-dependent, so check the current <a href="https://www.travelmar.it/en/" rel="nofollow noopener noreferrer" target="_blank">Travelmar</a> or operator timetable for your exact dates. Buy tickets in advance for peak season and always check the last return boat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Bus (budget option):</strong> The SITA bus is the main budget option along the coast road, but fares, routes, and crowding change by season. Check current timetables before relying on a tight connection, buy tickets before boarding where required, and leave buffer time in summer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Car:</strong> Beautiful but intense — roads are narrow, local traffic is assertive, and parking is expensive and scarce. I would not drive here unless you are very comfortable with tight mountain roads. If you are arriving as part of a longer Southern Italy road trip, our <a href="/14-day-southern-italy-road-trip-itinerary/">14-day Southern Italy road trip itinerary</a> covers the full driving route including exactly how to approach the Amalfi Coast by car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Last checked:</strong> May 2026. Amalfi Coast transport is seasonal: ferries, SITA buses, Capri boats, and Blue Grotto access can change with timetable updates and sea conditions. Use ferries whenever possible, start early every day, and never rely on just one transport option.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-1-positano-arrival-first-views">Day 1 — Positano: Arrival &amp; First Views</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning">Morning</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you're arriving from Naples, take the ferry directly to Positano if the timing works — the approach by water, with the town rising in layers of pink, white, and terracotta above you, is one of the great arrival experiences in travel. Once you've checked in and left your bags, walk straight into the town. Start at the top and walk down — it's the most beautiful direction and you can always take the bus back up.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <strong>Church of Santa Maria Assunta</strong> is the first stop — the majolica-tiled dome is the iconic image of Positano and the interior is worth a few minutes. The Byzantine Black Madonna icon above the altar has been here since the 13th century.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Early morning before tour groups arrive | <strong>Time needed:</strong> 20 minutes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":679,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="/wp-content/uploads/2026/04/Santa-Maria-Church_Positano-1024x683.jpg" alt="Santa Maria Assunta Church in Positano surrounded by colorful hillside buildings on Italy’s Amalfi Coast." class="wp-image-679"/><figcaption class="wp-element-caption">The iconic Santa Maria Assunta Church in Positano, framed by pastel houses and dramatic Amalfi Coast cliffs.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon">Afternoon</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Lunch:</strong> Da Adolfo, reached by a free boat from the beach, is a local institution serving grilled fish and fresh mozzarella on a terrace right on the water. Book ahead — it fills up fast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Spiaggia Grande</strong> is Positano's main beach — colorful umbrellas, the whole town rising behind it. Beach club rental runs €20–50 for two chairs and an umbrella. The small free section at the northern end is perfectly good if you'd rather save the money.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Fornillo Beach</strong> is the quieter alternative — a 10-minute walk west around a rocky headland. Half the crowds, the same clear water, a more relaxed atmosphere. The better choice for families with young children — calmer water and less busy even in peak season.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Best time:</strong> Early morning or late afternoon | <strong>With kids:</strong> Fornillo Beach is easier — calmer water and more space</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":680,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/Positano-beach-768x1024.jpg" alt="Scenic view of Positano beach with turquoise sea, sunbeds, and steep cliffs on Italy’s Amalfi Coast." class="wp-image-680"/><figcaption class="wp-element-caption">A beautiful coastal view of Positano beach, where turquoise water meets the dramatic cliffs of the Amalfi Coast.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="evening">Evening</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Sunset:</strong> Walk up to the terrace viewpoints above the town about 30 minutes before sunset. The light on the water from the heights above Positano is extraordinary — warm orange light on the white buildings while the sea turns golden below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Dinner:</strong> La Tagliata in the hills above the town is worth the taxi ride — a family-run restaurant serving a multi-course feast of whatever is fresh that day. For something more central, Il Ritrovo is one of the finest restaurants in Positano with panoramic views.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> ~€23–32 per person budget | ~€45–68 mid-range | ~€75–110 splurge</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Make dinner reservations on Day 1, not day-of. The best restaurants in Positano fill up fast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-2-path-of-the-gods-praiano">Day 2 — Path of the Gods + Praiano</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-path-of-the-gods">Morning: Path of the Gods</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>An early start today — the Path of the Gods is significantly better before 10am, both for the light and the crowds. Grab a coffee and cornetto from any bar before setting off.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <strong>Path of the Gods (Sentiero degli Dei)</strong> is one of the best hikes in Europe — a trail along the clifftops above Positano with views of the entire Amalfi Coast that no photograph does justice to. The name is not hyperbole. The most popular route runs from Agerola to Nocelle, descending steeply into Positano below. Throughout, you're above the coastline looking simultaneously at the sea below, the towns on the cliffs, and the mountains behind you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Getting there:</strong> Take the SITA bus toward Agerola/Bomerano and check current schedules before you go; from Positano this usually requires a transfer via Amalfi | <strong>Distance:</strong> About 7.8 km one way on the classic Bomerano-to-Nocelle route | <strong>Difficulty:</strong> Moderate | <strong>Time needed:</strong> 3-4 hours | <strong>Price:</strong> Free trail, transport extra</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Wear proper walking shoes, bring 2 liters of water, and start as early as possible. In summer heat the exposed sections become noticeably uncomfortable by midday. A guided hike adds local stories that transform what you're seeing. <a href="https://www.viator.com/Naples-attractions/Path-of-the-Gods-Sentiero-Degli-Dei/d508-a25933?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amalfi-5-day-itinerary" rel="sponsored noopener noreferrer" target="_blank">Book a guided Path of the Gods hike on Viator.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon-praiano">Afternoon: Praiano</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After descending into Nocelle, take the steps or local bus down to Positano, then walk or bus 10 minutes east to <strong>Praiano</strong> — one of the most relaxed and unhurried towns on the coast. Better lunch value than Positano, a local atmosphere, and the same extraordinary views.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Marina di Praia</strong> — a tiny beach hidden in a cove below Praiano — is one of the best swimming spots on the coast. Take the steep path down from the road for an afternoon swim. The water here is clearer and calmer than Positano's main beach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Praiano is one of the best-value bases on the Amalfi Coast — consider staying here instead of Positano for a quieter, more affordable, equally beautiful experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="evening-1">Evening</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Return to your base for the evening. After the hike, a slow aperitivo hour and an early dinner are the right approach. <strong>Music on the Rocks</strong> bar in Positano — built into a cave at the water's edge — is one of the best cocktail spots on the coast. Arrive around 6pm for the sea views before it fills up.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-3-amalfi-town-ravello">Day 3 — Amalfi Town + Ravello</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-amalfi-town">Morning: Amalfi Town</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Take the ferry from Positano to Amalfi — the 25-minute crossing gives you the coastline from the best possible angle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Amalfi Cathedral (Duomo di Amalfi)</strong> is the essential stop — an extraordinary Arab-Norman building dating to the 9th century, with a dramatic striped facade and the Chiostro del Paradiso cloister, which is one of the most beautiful spaces on the entire coast. Don't rush through it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Main church usually free / cloister and museum areas require a small ticket | <strong>Best time:</strong> Early morning | <strong>Time needed:</strong> 45 minutes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Paper Museum (Museo della Carta):</strong> Amalfi was the first city in Europe to produce paper, and this small museum inside a 13th-century paper mill has working demonstrations. More interesting than it sounds, and only 20 minutes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> ~€5 | <strong>Tip:</strong> The narrow streets behind the main square have ceramics and limoncello at prices significantly lower than Positano.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":681,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/Amalfi-cathedral-1024x684.jpg" alt="Amalfi Cathedral and Piazza del Duomo with historic buildings, fountain, and visitors in the town of Amalfi on Italy’s Amalfi Coast." class="wp-image-681"/><figcaption class="wp-element-caption">The stunning Amalfi Cathedral rising above Piazza del Duomo, one of the most iconic sights on the Amalfi Coast.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon-ravello">Afternoon: Ravello</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Take the bus from Amalfi (20–30 minutes) up to Ravello — sitting 350 meters above the sea and feeling like a completely different world. Quieter, cooler, and more refined than the coastal towns below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Villa Cimbrone's Terrace of Infinity</strong> is one of the most celebrated viewpoints in Italy — a row of marble busts at the edge of a cliff with the sea stretching to the horizon 350 meters below. Come in the afternoon when the light is warm and the day-trippers have thinned out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Villa Rufolo</strong> has extraordinary gardens and was the inspiration for Wagner's Parsifal. The views from the tower over the coast are worth the entry fee alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Both villas require paid garden entry; check current prices before you go | <strong>Best time:</strong> Late afternoon | <strong>Time needed:</strong> 2-3 hours for both</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":682,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/Villa-Rufolo-768x1024.jpg" alt="Scenic view from Villa Rufolo gardens in Ravello with flowers, pine trees, and the Amalfi Coast coastline below." class="wp-image-682"/><figcaption class="wp-element-caption">The breathtaking gardens of Villa Rufolo in Ravello, offering panoramic views over the Amalfi Coast.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Atrani:</strong> On the way back, stop at Atrani — a tiny village right next to Amalfi that most visitors miss entirely. One of the smallest municipalities in Italy, with a charming main square, a quiet beach, and a completely different atmosphere from the busy tourist towns nearby.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="evening-dinner-in-amalfi">Evening: Dinner in Amalfi</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Il Tari on Via Capuano is a local favorite — small, unpretentious, and serving some of the best pasta on the coast. The lemon ravioli is the dish to order. Book ahead.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-4-capri">Day 4 — Capri</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-getting-there-blue-grotto">Morning: Getting There &amp; Blue Grotto</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the day most people say was their favorite of the trip. Capri is everything you've heard — dramatic, glamorous, and genuinely extraordinary. Arrive early — day-trippers flood the island by 10am and it gets crowded fast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ferries run from Positano (35–40 minutes), Amalfi (50–60 minutes), and Sorrento (25 minutes). Book in advance — morning ferries sell out. <a href="https://www.viator.com/searchResults/all?text=capri+ferry+and+boat+tour&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amalfi-5-day-itinerary" rel="sponsored noopener noreferrer" target="_blank">Book your Capri ferry on Viator.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Blue Grotto (Grotta Azzurra):</strong> A sea cave where the water glows an extraordinary shade of blue due to the way light enters through an underwater opening. You enter lying flat in a small rowboat. Brief (about 5 minutes inside) but genuinely magical.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Boat transfer and Blue Grotto entry/rowboat are paid separately, and access only runs when sea conditions allow | <strong>Best time:</strong> Morning for best light | <strong>Tip:</strong> In peak summer the queue can be long — a full island boat tour can be just as memorable and avoids building your whole day around one weather-dependent cave. <a href="https://www.viator.com/searchResults/all?text=capri+boat+tour&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amalfi-5-day-itinerary" rel="sponsored noopener noreferrer" target="_blank">See Capri boat tour options on Viator.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":683,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/The-Blue-Grotto-768x1024.jpg" alt="Rocky sea cave entrance near Capri with crystal clear blue water and dramatic limestone cliffs in southern Italy." class="wp-image-683"/><figcaption class="wp-element-caption">The stunning Blue Grotto area near Capri, famous for its clear blue water and impressive coastal rock formations.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon-capri-town-anacapri">Afternoon: Capri Town &amp; Anacapri</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Take the funicular from Marina Grande up to <strong>Capri town</strong>. The <strong>Giardini di Augusto</strong> offer extraordinary views of the Faraglioni rock formations below — the three towering stacks that are Capri's most iconic image.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Take the local bus up to <strong>Anacapri</strong> — quieter and more authentic than Capri town. The chairlift to Monte Solaro (587 meters) provides the best panoramic views on the island — the Gulf of Naples, Vesuvius, and the full sweep of the Amalfi Coast on a clear day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Chairlift pricing can change; check current rates before you go | <strong>Time needed:</strong> 2-3 hours for Capri town and Anacapri</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":684,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/The-Faraglioni-768x1024.jpg" alt="View of the Faraglioni rock formations off the coast of Capri surrounded by pine trees and deep blue sea." class="wp-image-684"/><figcaption class="wp-element-caption">The iconic Faraglioni rocks of Capri, one of the most famous natural landmarks in southern Italy.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="evening-2">Evening</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Return to the Amalfi Coast by ferry before the last boats leave — check times carefully. A slow dinner back at your base with a glass of local Falanghina white wine and fresh seafood is exactly right after the intensity of Capri.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-5-boat-tour-hidden-gems">Day 5 — Boat Tour + Hidden Gems</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-amalfi-coast-boat-tour">Morning: Amalfi Coast Boat Tour</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The last day should be spent on the water. A boat tour gives you the perspective that makes everything else make sense — from the sea, you understand the scale of what you've been exploring and the drama of the cliffs rising from the water. From the sea, the coast is even more beautiful than from the road.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most tours depart in the morning and run 4–6 hours, covering the Grotta dello Smeraldo, the Furore Fjord, hidden beaches, and sea caves accessible only by water.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Shared group tour ~€55–82 per person | Private boat ~€180–365 for the boat | <strong>Book:</strong> At least 1–2 weeks in advance in summer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A private boat allows you to set your own pace and swim where you want — for a couple or small group, splitting the cost is genuinely worth it. <a href="https://www.viator.com/tours/Sorrento/Capri-Blue-Grotto-Small-Group-Boat-Day-Tour-From-Sorrento/d947-42612P9?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amalfi-5-day-itinerary" rel="sponsored noopener noreferrer" target="_blank">Book a private Amalfi Coast boat tour on Viator.</a> For a shared tour at better value, <a href="https://www.viator.com/Salerno-tours/Day-Cruises/d4736-g3-c7?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=amalfi-5-day-itinerary" rel="sponsored noopener noreferrer" target="_blank">see group boat tour options on Viator.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon-hidden-gems">Afternoon: Hidden Gems</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Grotta dello Smeraldo (Emerald Grotto):</strong> Near Conca dei Marini, this sea cave gets its name from the vivid green color of the water — produced by a submerged opening that filters the light differently from Capri's Blue Grotto. Visit by boat rather than road for the best experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> ~€7 per person | <strong>Time needed:</strong> 30 minutes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Furore Fjord:</strong> A narrow cleft in the cliffs where a small river meets the sea. The famous cliff-diving competition happens here every summer and the sheer drama of the walls rising on both sides makes it one of the most extraordinary places on the coast. Most visitors drive past without stopping — don't.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Minori:</strong> A quieter town at the eastern end with one of the few actual sandy beaches in the area. Less busy than Positano or Amalfi, good local restaurants, and the unhurried atmosphere the more famous towns have largely lost.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="evening-final-dinner">Evening: Final Dinner</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A final dinner back at your base. Order the pasta alle vongole, the grilled branzino, or whatever the kitchen tells you is best today. Drink the local white wine. Stay until the restaurant wants to close. The Amalfi Coast does not release people easily — and that's entirely the point.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="if-you-have-less-time">If You Have Less Time</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>3 days:</strong> Day 1 Positano → Day 2 Amalfi + Ravello → Day 3 Boat tour</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>4 days:</strong> Add Capri on Day 3, boat tour on Day 4</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>7 days:</strong> Add Pompeii, Sorrento, and a much slower pace throughout — or combine with the beginning of our <a href="/14-day-southern-italy-road-trip-itinerary/">14-day Southern Italy road trip itinerary</a> for the full experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="is-the-amalfi-coast-worth-it">Is the Amalfi Coast Worth It?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — and more beautiful in person than in photographs, which says a lot. The combination of views, food, water, and the quality of light at golden hour adds up to something that's hard to describe and easy to remember for years.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Worth it if:</strong> you love dramatic coastal scenery, excellent food, and have 5 days to give it the pace it deserves. May, June, and September are when it's at its best.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Less ideal if:</strong> you're visiting in peak July–August without advance bookings, traveling with a lot of luggage (the stairs are real), or expecting everything to be easy and logistically simple.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="planning-mistakes-to-avoid">Planning Mistakes to Avoid</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Booking accommodation too late.</strong> Three months in advance is the minimum for peak season. Four to six months is safer. The best properties — especially in Positano and Ravello — fill completely well before summer arrives.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Overpacking.</strong> The stairs in Positano are beautiful and relentless. A smaller bag — particularly a carry-on rather than a large checked case — makes every day of this itinerary easier.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Defaulting to the road when the ferry is available.</strong> The ferry between towns is often faster, always more relaxing, and provides views that road travel can't match. Use it as the default wherever it runs.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not building a buffer day.</strong> Five days covers the core itinerary well — but Ravello and Praiano both reward an extra afternoon. If the schedule allows six days, use the extra time there.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-time-for-5-days-on-the-amalfi-coast">Best Time for 5 Days on the Amalfi Coast</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>May–early June</strong> is the ideal window — warm enough to swim, significantly fewer crowds than peak summer, and accommodation 20–30% lower than July–August. The coast is green and every outdoor experience is better without the heat and crowds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>September–October</strong> is equally excellent — the sea is still warm from summer, prices drop after August, and September light is extraordinary for photography. This is when I'd recommend a first visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>July–August</strong> is peak season — hot, crowded, and expensive. If summer is your only option, book everything at least 4–6 months ahead and start every day early.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Shoulder season tip:</strong> September rates drop 25–40% compared to August — same hotels, same views, same sea temperature. Waiting three weeks from August to September is one of the best travel value moves available anywhere in Europe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-info">Practical Info</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="getting-to-the-amalfi-coast">Getting to the Amalfi Coast</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Fly into Naples International Airport (NAP). Seasonal nonstop options from the US can appear, but many travelers will connect through a European hub, so compare routes before assuming a direct flight. From the airport, take a private transfer or taxi toward Sorrento, then continue by ferry when service fits your dates, or transfer directly to Positano by private car. I'd compare flight prices on <a href="https://www.google.com/flights" rel="nofollow noopener noreferrer" target="_blank">Google Flights</a> and <a href="https://www.skyscanner.com" rel="nofollow noopener noreferrer" target="_blank">Skyscanner</a> — checking both usually surfaces different deals.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-much-does-5-days-on-the-amalfi-coast-cost">How Much Does 5 Days on the Amalfi Coast Cost?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Expense</th><th>Budget-conscious</th><th>Comfortable</th><th>Splurge</th></tr></thead><tbody><tr><td>Accommodation</td><td>€75–110/night</td><td>€135–225/night</td><td>€320+/night</td></tr><tr><td>Food (daily)</td><td>€28–42/day</td><td>€55–82/day</td><td>€110+/day</td></tr><tr><td>Activities</td><td>€23–37/day</td><td>€55–90/day</td><td>€135+/day</td></tr><tr><td>Transport</td><td>€14–23/day</td><td>€28–45/day</td><td>€75+/day</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-to-pack">What to Pack</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Comfortable walking shoes — cobblestones and stairs everywhere</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Light layers for evenings — the coast gets breezy after dark</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Reef-safe sunscreen</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A dry bag if you're doing boat tours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Small daypack — large bags are difficult on ferries and stairs</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="money-paying">Money &amp; Paying</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Italy is straightforward for payments — cards are accepted almost everywhere on the Amalfi Coast, including restaurants and boat tours. That said, a few smaller trattorias and market stalls are still cash-only. I use <a href="https://wise.com" rel="nofollow noopener noreferrer" target="_blank">Wise</a> abroad — it converts at the real exchange rate with no markup, which saves a noticeable amount over a week in Italy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="staying-connected">Staying Connected</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>An Italian SIM is easy to buy in Naples, but if you'd rather not deal with it after a long flight, an eSIM is the cleaner option. <a href="https://www.airalo.com/italy-esim" rel="nofollow noopener noreferrer" target="_blank">Airalo</a> has Italy plans from around €5 for a week — you set it up before you leave and it's active the moment you land.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="travel-insurance">Travel Insurance</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Amalfi Coast involves boats, cliff paths, and steep staircases — standard travel insurance does not always cover activity-related incidents. <a href="https://www.worldnomads.com/travel-insurance/" rel="nofollow noopener noreferrer" target="_blank">World Nomads</a> is one provider to compare, but read the policy wording for hiking, boat trips, cancellation, and medical cover before you buy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="final-thoughts-your-5-day-amalfi-coast-itinerary">Final Thoughts: Your 5-Day Amalfi Coast Itinerary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Five days on the Amalfi Coast is enough to understand why people come back. The views, the food, the water, and the particular quality of light on the Italian coast at golden hour all combine into something that stays with you long after you've left.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Don't try to see every town. The best moments on the Amalfi Coast happen when you stop rushing — the lunch that extends into the afternoon, the swim in a cove you stumbled on by accident, the evening walk through a town after the day-trippers have gone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Go early. Stay late. Eat everything. The Amalfi Coast will do the rest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="frequently-asked-questions">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-5-days-enough-for-the-amalfi-coast">Is 5 days enough for the Amalfi Coast?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes — 5 days is the ideal length for a first visit. You'll cover Positano, Amalfi, Ravello, Capri, and the Path of the Gods comfortably without feeling rushed. Three days is the minimum for a meaningful experience; anything less and you're just passing through. Seven days allows a slower pace and the addition of Pompeii and Sorrento.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="where-is-the-best-base-for-5-days-on-the-amalfi-coast">Where is the best base for 5 days on the Amalfi Coast?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Positano for the full iconic first-visit experience, or Praiano if value is a priority — equal views, 10 minutes away, 30–40% cheaper. Amalfi town is the most practical base for transport. For families or budget travelers, Sorrento offers the best value and ferry connections. For a full breakdown, our <a href="/where-to-stay-on-the-amalfi-coast/">Amalfi Coast accommodation guide</a> covers every town honestly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="do-i-need-a-car-on-the-amalfi-coast">Do I need a car on the Amalfi Coast?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>No — and for most visitors, a car is more trouble than it is worth. Ferries are often faster than the road when they are running, buses cover the main towns, and parking is expensive and scarce. Use ferries as your primary transport where possible and save the car for the wider Southern Italy trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-the-best-month-for-5-days-on-the-amalfi-coast">What is the best month for 5 days on the Amalfi Coast?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>September is the best month — the sea is still warm, crowds thin after summer, and hotel prices drop 25–40% compared to August. May and early June are close behind. July and August are the most crowded and expensive months — avoid if possible, or book everything at least 4–6 months ahead.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-the-path-of-the-gods-difficult">Is the Path of the Gods difficult?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Moderate — some steep sections but manageable for most reasonably fit hikers. The classic route from Bomerano/Agerola to Nocelle is about 7.8 km one way and takes 3-4 hours at a comfortable pace. Wear proper walking shoes, bring plenty of water, and start early to avoid the heat. With young children, only consider it if your family is used to hiking and you have the right carrier — it is a long day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context":  "https://schema.org",
+    "@type":  "FAQPage",
+    "mainEntity":  [
+                       {
+                           "@type":  "Question",
+                           "name":  "Is 5 days enough for the Amalfi Coast?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "Yes — 5 days is the ideal length for a first visit. You\u0027ll cover Positano, Amalfi, Ravello, Capri, and the Path of the Gods comfortably without feeling rushed. Three days is the minimum for a meaningful experience; anything less and you\u0027re just passing through. Seven days allows a slower pace and the addition of Pompeii and Sorrento."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "Where is the best base for 5 days on the Amalfi Coast?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "Positano for the full iconic first-visit experience, or Praiano if value is a priority — equal views, 10 minutes away, 30–40% cheaper. Amalfi town is the most practical base for transport. For families or budget travelers, Sorrento offers the best value and ferry connections. For a full breakdown, our Amalfi Coast accommodation guide covers every town honestly."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "Do I need a car on the Amalfi Coast?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "No — and for most visitors, a car is more trouble than it is worth. Ferries are often faster than the road when they are running, buses cover the main towns, and parking is expensive and scarce. Use ferries as your primary transport where possible and save the car for the wider Southern Italy trip."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "What is the best month for 5 days on the Amalfi Coast?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "September is the best month — the sea is still warm, crowds thin after summer, and hotel prices drop 25–40% compared to August. May and early June are close behind. July and August are the most crowded and expensive months — avoid if possible, or book everything at least 4–6 months ahead."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "Is the Path of the Gods difficult?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "Moderate — some steep sections but manageable for most reasonably fit hikers. The classic route from Bomerano/Agerola to Nocelle is about 7.8 km one way and takes 3-4 hours at a comfortable pace. Wear proper walking shoes, bring plenty of water, and start early to avoid the heat. With young children, only consider it if your family is used to hiking and you have the right carrier — it is a long day."
+                                              }
+                       }
+                   ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-amalfi-coast-guides">More Amalfi Coast Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Deciding where to base yourself? Our <a href="/where-to-stay-on-the-amalfi-coast/">Amalfi Coast accommodation guide</a> covers every town with honest pros, cons, and price ranges.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Want to know everything worth doing on the coast? Our <a href="/amalfi-coast-bucketlist-25-best-thing-to-do/">Amalfi Coast bucket list</a> covers the 25 best experiences with honest assessments.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Traveling on a budget? Our <a href="/amalfi-coast-travel-costs/">Amalfi Coast budget guide</a> breaks down exactly what everything costs.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Looking for free experiences? Our <a href="/free-things-to-do-on-the-amalfi-coast/">guide to free things to do on the Amalfi Coast</a> covers the best no-cost options.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Combining this with a wider Southern Italy trip? Our <a href="/14-day-southern-italy-road-trip-itinerary/">14-day Southern Italy road trip itinerary</a> covers the full route from Naples to the Amalfi Coast.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+
+

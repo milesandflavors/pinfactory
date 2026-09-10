@@ -1,0 +1,275 @@
+﻿<!-- wp:paragraph -->
+<p>There's no single "best" time to visit the Azores — it depends on what you want from the trip. These nine green islands sit in the middle of the Atlantic, where the weather is mild all year but can change in an hour, and each season has a different draw: whales in spring, hydrangeas and warm seas in summer, quiet roads and low prices in the shoulder months. This guide breaks it down by month and by what you're after, so you can pick the dates that fit your trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2051,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/rui-silvestre-0m-egh5Gcl0-unsplash-1024x681.jpg" alt="Blue hydrangeas overlooking a green coastline on Sao Miguel in the Azores" class="wp-image-2051"/><figcaption class="wp-element-caption">In summer, blue hydrangeas bloom across Sao Miguel - one of the Azores' signature sights.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-summary">Quick Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Best overall</strong></td><td>Late spring to early fall (roughly May to September)</td></tr><tr><td><strong>Best weather</strong></td><td>July and August — warmest, driest, sunniest</td></tr><tr><td><strong>Whale watching</strong></td><td>April to June for big migratory whales; dolphins &amp; sperm whales possible year-round</td></tr><tr><td><strong>Hydrangeas in bloom</strong></td><td>Roughly June to August, usually peaking in July</td></tr><tr><td><strong>Fewest crowds &amp; best value</strong></td><td>May, October, and winter</td></tr><tr><td><strong>Warmest sea</strong></td><td>August to September</td></tr><tr><td><strong>Rain</strong></td><td>Possible any month; wettest in winter. Pack layers and a rain jacket year-round</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"8beff635-e4aa-4578-b092-8840448a0765","content":"Quick Summary","level":2,"link":"#quick-summary","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"d0af6f97-885e-4578-b569-2f00545090c0","content":"The Short Answer","level":2,"link":"#short-answer","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"5cadc650-0fc1-4292-a451-728db423e790","content":"Azores Weather: What to Actually Expect","level":2,"link":"#weather","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"f6710f7a-ec5a-41b2-a2c5-9beffabf9686","content":"The Azores Season by Season","level":2,"link":"#season-by-season","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"a412e471-763e-4176-a491-e4b55c2f9404","content":"Best Time to Visit Based on What You Want","level":2,"link":"#best-time-for","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"466b4f33-2c98-4bd8-b1ea-c30ee648ec7f","content":"Azores Month by Month","level":2,"link":"#month-by-month","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"19347cf9-2cc5-40bb-afe9-d04e1bac221c","content":"Festivals and Events","level":2,"link":"#festivals","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"f065bb25-e7a2-4e60-b683-a863c1343f6e","content":"When Not to Visit (and What to Know)","level":2,"link":"#when-not-to-go","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"83c73351-64d2-4c90-a90a-73634a639e54","content":"Frequently Asked Questions","level":2,"link":"#faq","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"89c35fb5-198d-4f38-a20b-683f63906d73","content":"More Azores \u0026 Travel Guides","level":2,"link":"#more-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul","excludeHeadings":["h3"],"className":"wp-block-rank-math-toc-block"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><ul><li class=""><a href="#quick-summary">Quick Summary</a></li><li class=""><a href="#short-answer">The Short Answer</a></li><li class=""><a href="#weather">Azores Weather: What to Actually Expect</a></li><li class=""><a href="#season-by-season">The Azores Season by Season</a></li><li class=""><a href="#best-time-for">Best Time to Visit Based on What You Want</a></li><li class=""><a href="#month-by-month">Azores Month by Month</a></li><li class=""><a href="#festivals">Festivals and Events</a></li><li class=""><a href="#when-not-to-go">When Not to Visit (and What to Know)</a></li><li class=""><a href="#faq">Frequently Asked Questions</a></li><li class=""><a href="#more-guides">More Azores &amp; Travel Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you choose your Azores dates</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>If this is your first Azores trip</strong>, start with the <a href="https://milesandflavors.com/things-to-do-in-sao-miguel/">things to do in São Miguel guide</a> so you know which sights need clear weather.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>If whales are the priority</strong>, read the <a href="https://milesandflavors.com/azores-whale-watching/">Azores whale watching guide</a> first, then compare licensed operators and boat types: <a href="https://www.viator.com/searchResults/all?text=Azores%20whale%20watching&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=best-time-azores" target="_blank" rel="sponsored noopener noreferrer">Azores whale-watching tours on Viator →</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>If you want better value</strong>, look at May, June, September or October before defaulting to July and August.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>If hotel prices decide your dates</strong>, compare Ponta Delgada stays before locking in flights: <a href="https://www.booking.com/searchresults.html?ss=Ponta+Delgada+Azores" target="_blank" rel="nofollow noopener noreferrer">Booking.com</a> or <a href="https://www.expedia.com/Hotel-Search?destination=Ponta+Delgada+Azores" target="_blank" rel="nofollow noopener noreferrer">Expedia</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>If you plan to drive</strong>, book the rental car early for summer dates: <a href="https://www.discovercars.com" target="_blank" rel="nofollow noopener noreferrer">compare cars for Ponta Delgada Airport →</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you fly</strong>, check whether a stopover route fits your dates and set up data for maps and forecasts: <a href="https://milesandflavors.com/free-stopover-flights-in-2026/">free stopover guide</a> and <a href="https://milesandflavors.com/esim-for-travel/">eSIM guide</a>.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="short-answer">The Short Answer</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For most travelers, <strong>late spring through early fall — roughly May to September — is the best time to visit the Azores.</strong> You get the most travel-friendly weather, the long days, the warmest sea, the hydrangeas in bloom, and more reliable boat trips and ferries. The trade-off is that July and August are the busiest and priciest months (though the Azores still usually feel calmer than Europe's biggest summer hotspots).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If your priority is <strong>whales</strong>, aim for spring (April–June). If you want <strong>quiet roads and lower prices</strong>, choose May, October, or the off-season. And if you're mainly here for the <strong>hot springs and don't mind rain</strong>, even winter has its charm. There's a good version of the Azores in every month — the key is matching the season to what you came for.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weather">Azores Weather: What to Actually Expect</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Azores have a mild, oceanic climate with no real extremes — summers are warm rather than hot, winters are cool rather than cold, and the islands stay green all year because it rains often. Summer highs are typically in the mid-70s°F (around 24–26°C), and winter highs sit around the low 60s°F (about 16–17°C). The sea is at its warmest in late summer, around the low 70s°F (22–23°C).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The thing to understand about Azorean weather is that it's <strong>changeable and very local</strong>. Microclimates mean one side of an island can be sunny while another is under cloud, and you can genuinely get "four seasons in a day." Rain is possible in any month. None of this should put you off — it's exactly why the landscape is so lush — but it does mean two things: <strong>pack layers and a waterproof whatever the season</strong>, and <strong>stay flexible</strong>, saving weather-sensitive spots like the crater lakes for your clearest days.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="season-by-season">The Azores Season by Season</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Summer (June to September): the easiest time to go</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is peak season for a reason: the warmest, driest, sunniest weather, the longest days, the warmest sea for swimming, and more reliable whale-watching and ferry departures. The famous blue hydrangeas are in bloom, lining the roads and dividing the green fields. The downside is higher prices and more visitors in July and August — book accommodation and a rental car early — but even at its busiest, the Azores stay refreshingly uncrowded. June and September are the sweet spot: summer weather with a little more breathing room.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spring (April to June): whales and green hills</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Spring is whale season — blue, fin and sei whales pass through Azorean waters on migration, mainly between April and June, making it the strongest window if you want a chance at the big animals. The islands are at their greenest, prices are lower than peak summer, and the crowds are thinner. The weather is more variable than high summer (more showers, cooler water), but for nature lovers and photographers, late spring is one of the most rewarding times to come.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2053,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/natalie-behn-iM72pKfWCuk-unsplash-1024x683.jpg" alt="Whale tail fluke in the water during a whale-watching trip in the Azores" class="wp-image-2053"/><figcaption class="wp-element-caption">Spring is the strongest window for big migratory whales in the Azores, but sightings are never guaranteed.</figcaption></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Fall (October): the quiet shoulder</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>October is an excellent shoulder month: the summer crowds have gone, prices ease, the sea is still relatively warm from the long summer, and the landscape stays green. You trade a higher chance of rain and shorter days for quieter roads and better value. It's a lovely, low-key time to explore — just keep your itinerary flexible for the weather.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Winter (November–March): hot springs and low prices</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Winter in the Azores is mild but wet and windy — temperatures rarely drop far, but rain and cloud are frequent, days are short, and some boat tours pause or run less often. It's usually the cheapest, quietest time, and the geothermal hot springs are wonderful in cooler weather. Come in winter if you want low prices, quieter trails, and don't mind being flexible and a little lucky with the skies. It's not the time for guaranteed beach days or the most dependable whale trips.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-time-for">Best Time to Visit Based on What You Want</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Whale watching:</strong> April–June for the big migratory whales (blue, fin, sei); dolphins and sperm whales are possible year-round. See our <a href="https://milesandflavors.com/azores-whale-watching/">Azores whale watching guide</a> for the full breakdown.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Hiking:</strong> late spring to early fall (May–September), when trails are driest and days are longest. Bring a waterproof anyway.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Hydrangeas:</strong> roughly June–August, usually peaking in July, when the blue flowers line the roads across São Miguel and Faial.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Swimming &amp; the warmest sea:</strong> July to September, when the ocean is at its warmest.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Hot springs:</strong> year-round — but soaking in a warm thermal pool is especially good in the cooler, quieter months.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Fewest crowds &amp; lowest prices:</strong> winter for the lowest prices, or May and October for a balance of decent weather and far fewer people.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":2052,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/06/rui-amaro-fLpQ9rPLE94-unsplash-1024x683.jpg" alt="Sete Cidades crater lakes on Sao Miguel in the Azores on a clear day" class="wp-image-2052"/><figcaption class="wp-element-caption">Save the crater lakes like Sete Cidades for your clearest day - the views vanish in fog.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="month-by-month">Azores Month by Month</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Month</th><th>Weather</th><th>Crowds &amp; prices</th><th>Why go</th></tr></thead><tbody><tr><td>January to March</td><td>Mild, wet, windy</td><td>Lowest, quietest</td><td>Hot springs, low prices, empty trails</td></tr><tr><td>April</td><td>Cool, variable, greening</td><td>Low</td><td>Whale migration begins, lush hills</td></tr><tr><td>May</td><td>Mild, brighter</td><td>Low–moderate</td><td>Whales, green, fewer crowds, good value</td></tr><tr><td>June</td><td>Warm, mostly dry</td><td>Moderate</td><td>Whales, hydrangeas starting, long days</td></tr><tr><td>July to August</td><td>Warmest, driest, sunniest</td><td>Busiest, priciest</td><td>Best weather, hydrangeas, warm sea</td></tr><tr><td>September</td><td>Warm, warm sea</td><td>Moderate</td><td>Summer weather, warmest water, easing crowds</td></tr><tr><td>October</td><td>Mild, more showers</td><td>Low–moderate</td><td>Quiet shoulder, still-warm sea, good value</td></tr><tr><td>November to December</td><td>Cool, wet, windy</td><td>Lowest</td><td>Hot springs, lowest prices, solitude</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="festivals">Festivals and Events</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you'd like to catch the islands at their liveliest, a couple of events stand out. The <strong>Festas do Senhor Santo Cristo dos Milagres</strong> in Ponta Delgada (on São Miguel) is the biggest religious festival in the Azores, held in spring on the fifth Sunday after Easter, with processions, lights and crowds filling the capital. In late June, the <strong>Festas Sanjoaninas</strong> on Terceira island bring days of parades, music and street parties. Dates shift year to year, so check the current calendar if you want to plan around them — and book accommodation well ahead, as the islands fill up.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="when-not-to-go">When Not to Visit (and What to Know)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There's no truly "bad" time to visit the Azores, but a few honest caveats: <strong>deep winter (December to February)</strong> brings the wettest, windiest weather and the least dependable boat trips, so it's not the season for guaranteed whale watching or beach days. <strong>July and August</strong> give you the most reliable weather but usually the highest prices and the most company — if you can travel in June or September instead, you can get similar conditions with more space and lower costs. Whatever the month, the golden rules are the same: <strong>rent a car, pack for rain, and keep your plans flexible</strong> so you can chase the clear skies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="best-month-faq">What is the best month to visit the Azores?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>June and September are arguably the best months: you get warm, mostly dry summer weather and the warmest sea, but with fewer crowds and lower prices than July and August. July and August have the most reliable weather and the hydrangeas in full bloom, while May and October are quieter, greener and cheaper. For whales, choose April to June.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="rainy-faq">Does it rain a lot in the Azores?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Rain is possible in any month — it's why the islands are so green — and winter is the wettest, windiest season. Even in summer you can get a passing shower, and the weather is very local, so one side of an island may be sunny while another is cloudy. Pack layers and a waterproof jacket year-round, and keep your itinerary flexible so you can save weather-sensitive spots like the crater lakes for clear days.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="whale-season-faq">When is whale-watching season in the Azores?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The big migratory whales — blue, fin and sei whales — pass through mainly between April and June, making spring the prime season. Dolphins and sperm whales are possible year-round, with summer usually offering calmer seas and more reliable departures. Sightings are never guaranteed, but the islands' shore-based spotters help improve the odds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="hydrangea-faq">When do the hydrangeas bloom in the Azores?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Azores' famous blue hydrangeas bloom roughly from June through August, usually peaking in July, when they line the roads and field boundaries across islands like São Miguel and Faial. If the hydrangeas are a priority for your photos, aim for high summer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the best month to visit the Azores?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "June and September are arguably the best months: you get warm, mostly dry summer weather and the warmest sea, but with fewer crowds and lower prices than July and August. July and August have the most reliable weather and the hydrangeas in full bloom, while May and October are quieter, greener and cheaper. For whales, choose April to June."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does it rain a lot in the Azores?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rain is possible in any month — it's why the islands are so green — and winter is the wettest, windiest season. Even in summer you can get a passing shower, and the weather is very local, so one side of an island may be sunny while another is cloudy. Pack layers and a waterproof jacket year-round, and keep your itinerary flexible so you can save weather-sensitive spots like the crater lakes for clear days."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "When is whale-watching season in the Azores?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The big migratory whales — blue, fin and sei whales — pass through mainly between April and June, making spring the prime season. Dolphins and sperm whales are possible year-round, with summer usually offering calmer seas and more reliable departures. Sightings are never guaranteed, but the islands' shore-based spotters help improve the odds."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "When do the hydrangeas bloom in the Azores?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Azores' famous blue hydrangeas bloom roughly from June through August, usually peaking in July, when they line the roads and field boundaries across islands like São Miguel and Faial. If the hydrangeas are a priority for your photos, aim for high summer."
+            }
+        }
+    ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Azores &amp; Travel Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>What to actually do there: our <a href="https://milesandflavors.com/things-to-do-in-sao-miguel/">things to do in São Miguel guide</a> covers the crater lakes, hot springs and viewpoints.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Planning the highlight: the <a href="https://milesandflavors.com/azores-whale-watching/">Azores whale watching guide</a> covers what you'll see and how to pick a tour.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Getting there and ready: our <a href="https://milesandflavors.com/free-stopover-flights-in-2026/">free stopover flights guide</a>, <a href="https://milesandflavors.com/how-to-plan-a-trip/">trip planning guide</a>, and <a href="https://milesandflavors.com/best-travel-money-card/">best travel money card</a>.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+

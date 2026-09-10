@@ -1,0 +1,453 @@
+<!-- wp:image {"id":2654,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/chicago-cloud-gate-snow-thanksgiving.jpg" alt="Cloud Gate in Millennium Park surrounded by fresh snow during a winter storm in Chicago" class="wp-image-2654"/><figcaption class="wp-element-caption">Fresh snow can turn Cloud Gate into a striking winter scene, but it is not guaranteed during Thanksgiving week.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Chicago isn't the first city that comes up when people plan a Thanksgiving trip — that's usually New York, for the parade, or somewhere warm, for the weather. But Chicago has its own Thanksgiving Day parade, its holiday season switches on within days of the holiday itself, and the city in late November has a specific, cold, atmospheric character that's genuinely worth knowing about before you book.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It's also a city that partly shuts down for the day itself. Several major museums close on Thanksgiving Day, while other attractions switch to holiday or seasonal hours. That doesn't make the trip a bad idea. It makes it a trip you need to plan around the actual calendar instead of a generic "things to do in Chicago" list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This guide answers the question people actually search for — is it worth going to Chicago for Thanksgiving — and then walks through what's genuinely open, what's genuinely worth seeing, and how to time the trip so you're not standing outside a locked museum on the one day you had free.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#is-it-worth-it">Is Chicago Worth It for Thanksgiving?</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#weather-thanksgiving-week">Weather in Chicago Thanksgiving Week</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#whats-open-closed">What's Open and Closed on Thanksgiving Day</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#thanksgiving-parade">The Chicago Thanksgiving Parade</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#lights-festival-christkindlmarket">The Lights Festival and Christkindlmarket Timing</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-eat">Where to Eat Thanksgiving Dinner in Chicago</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#hotel-rates">Hotel Rates During Thanksgiving Week</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#weekend-itinerary">What to Do the Rest of the Weekend</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#who-should-come">Who Should Come — and Who Shouldn't</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">FAQ: Thanksgiving in Chicago</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-chicago-guides">More Chicago Guides</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Yes, cautiously — if you plan around the actual holiday instead of assuming it works like a normal city weekend. Chicago has its own Thanksgiving Day parade (November 26, 2026, on State Street), and the Magnificent Mile Lights Festival lands just five days earlier, so the city visibly switches into holiday mode right around the same week. That's the real draw: a genuine parade, a lit-up Michigan Avenue, and a cold, atmospheric version of Chicago you don't get in October.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The honest trade-off: Thanksgiving Day itself is a partial shutdown day. The Art Institute, Griffin Museum of Science and Industry, and Chicago History Museum are closed. Lincoln Park Zoo remains open, but ZooLights is a separate evening event with its own operating calendar. If museum-hopping on Thursday is the whole plan, this isn't the week. If you want the parade, the lights, and a colder holiday version of downtown, it can be worth it.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks for Thanksgiving in Chicago</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The indoor attraction I'd shortlist</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The <a href="https://www.viator.com/tours/Chicago/Skydeck-Chicago-Admission/d673-5671SKYDECK?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=thanksgiving-in-chicago" target="_blank" rel="sponsored noopener noreferrer">Willis Tower Skydeck ticket on Viator</a> is the one I'd shortlist if your trip includes Thanksgiving Day itself. <strong>Best if you want:</strong> an indoor attraction that operates every day of the year while several museums are closed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Why I like this booking option:</strong> the current listing offers a timed entry, Reserve Now &amp; Pay Later, and free cancellation up to 24 hours before the experience starts. That gives you a confirmed place without making a changing holiday itinerary feel rigid. <strong>Not ideal if:</strong> low cloud or poor visibility would make the view disappointing. <strong>Before booking:</strong> recheck the selected date, entry time, cancellation terms, and current Thanksgiving hours because product conditions can change.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Where I'd stay</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I'm not picking one specific hotel for a timing-focused guide like this one. What matters more for Thanksgiving week is location relative to the two events that define the week: the Loop and River North both put you within easy walking distance of State Street for the parade and Michigan Avenue for the Lights Festival. If you're traveling with kids, the <a href="/where-to-stay-in-chicago-with-kids/">where to stay in Chicago with kids guide</a> covers family-friendly neighborhoods and logistics in more depth. Book with free cancellation where it's offered — Thanksgiving week plans change more than a typical weekend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel smarter</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer"><strong>Wise card</strong></a> — useful for international visitors who want to pay in U.S. dollars without relying on cash for every small purchase. Check Wise's current availability, fees, and card terms for your home country before signing up.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer"><strong>Telekonek eSIM</strong></a> — useful for international visitors who want data ready for parade road closures, transit updates, and restaurant reservations without searching for a local SIM after landing. Check device compatibility and current plan coverage first. Use code <strong>MILESANDFLAVORS5</strong> for 5% off.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="is-it-worth-it">Is Chicago Worth It for Thanksgiving?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes, for a specific kind of traveler. Chicago's version of Thanksgiving isn't a scaled-down New York — it's its own thing. The city runs its own Thanksgiving Day parade down State Street, the Magnificent Mile Lights Festival flips the switch on the holiday season just days before, and the whole downtown core has a cold, quiet, string-lights atmosphere that's genuinely different from how the city feels in October or even a normal December weekend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What it isn't is a normal sightseeing Thursday. Several major museums close, restaurant hours move to holiday schedules, and some seasonal events pause for the evening. Build Thanksgiving Day around the parade, the Skydeck, an outdoor walk if the weather cooperates, and a confirmed dinner reservation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Save the museum-heavy part of the trip for Friday or the weekend. Lincoln Park Zoo is an exception to the shutdown pattern: the zoo itself is open 365 days a year. ZooLights is a separate ticketed evening event, so verify its 2026 date-by-date calendar before assuming it runs on Thanksgiving night.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weather-thanksgiving-week">Weather in Chicago Thanksgiving Week</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Late November in Chicago is cold in the way that changes how you plan a day, not just what coat you wear. <a href="https://www.weather.gov/lot/November_Normals_Chicago" target="_blank" rel="nofollow noopener noreferrer">National Weather Service climate normals</a> for November 26 are about <strong>43°F for the high and 30°F for the low</strong>. Wind can make exposed stretches along the lake and downtown streets feel colder than the number on your phone suggests.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Snow is possible but not something to count on for the holiday itself; it's more of a broader late-fall-into-winter possibility than a guaranteed Thanksgiving-week backdrop. Pack for genuine cold and wind rather than a specific weather scene, and plan on real indoor stretches during the day — this isn't a week to build an all-outdoor itinerary around.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="whats-open-closed">What's Open and Closed on Thanksgiving Day</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the part people underestimate when they plan a Chicago Thanksgiving trip around a normal-day itinerary. Several major attractions close entirely on Thanksgiving Day:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.artic.edu/visit" target="_blank" rel="nofollow noopener noreferrer"><strong>Art Institute of Chicago</strong></a> — closed on Thanksgiving Day. See the <a href="/art-institute-chicago-free-days/">Art Institute free-days guide</a> for when to catch it the rest of the week.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.msichicago.org/visit/museum-hours" target="_blank" rel="nofollow noopener noreferrer"><strong>Griffin Museum of Science and Industry</strong></a> — closed on Thanksgiving Day.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.chicagohistory.org/visit-us/" target="_blank" rel="nofollow noopener noreferrer"><strong>Chicago History Museum</strong></a> — closed on Thanksgiving Day.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.lpzoo.org/visit/today-at-the-zoo/" target="_blank" rel="nofollow noopener noreferrer"><strong>Lincoln Park Zoo</strong></a> — the zoo itself is open 365 days a year. <a href="https://www.lpzoo.org/event/zoolights/" target="_blank" rel="nofollow noopener noreferrer">ZooLights</a> is a separate ticketed evening event with its own calendar. Check Thanksgiving Day hours, the current ZooLights schedule, and any individual building closures before you go.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://theskydeck.com/plan-a-visit/" target="_blank" rel="nofollow noopener noreferrer"><strong>Willis Tower Skydeck</strong></a> operates 365 days a year, making it one of the clearest ticketed indoor options for Thanksgiving Day. Lincoln Park Zoo also remains open. The <a href="https://www.chicagoparkdistrict.com/holiday-schedule" target="_blank" rel="nofollow noopener noreferrer">Chicago Park District's 2026 holiday schedule</a> lists the Maggie Daley Ice Skating Ribbon as open with special holiday hours and required reservations. Garfield Park Conservatory and Lincoln Park Conservatory are also listed as open.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some restaurants open specifically for Thanksgiving dinner with holiday menus. Do not assume normal Thursday service: confirm the restaurant's current menu, seating time, deposit or prepayment policy, and cancellation rules when you reserve.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2655,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/chicago-river-aerial-snow-november.jpg" alt="Aerial view of the Chicago River and downtown streets after snowfall" class="wp-image-2655"/><figcaption class="wp-element-caption">Snow around the Chicago River shows why a Thanksgiving itinerary needs warm indoor backup stops.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="thanksgiving-parade">The Chicago Thanksgiving Parade</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Chicago has run its own Thanksgiving Day parade for close to a century, historically known for years as the McDonald's Thanksgiving Parade before shifting to the Chicago Thanksgiving Parade branding it uses today. The 2026 edition is the 92nd annual parade, taking place on <strong>Thursday, November 26, 2026</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The route runs north along State Street, from Ida B. Wells Drive to Randolph Street, with the parade scheduled from <strong>8 a.m. to 11 a.m. Central Time</strong>. Expect marching bands, floats, and balloons in the classic Thanksgiving-parade format. It is smaller than Macy's in New York, but it is a real, long-running local tradition and the clearest reason to be downtown on Thanksgiving morning. For current logistics and any last-minute changes, check the <a href="https://www.choosechicago.com/blog/special-events/chicago-thanksgiving-day-parade/" rel="nofollow noopener noreferrer" target="_blank">Choose Chicago parade guide</a> closer to your dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="lights-festival-christkindlmarket">The Lights Festival and Christkindlmarket Timing</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The other piece that makes Thanksgiving week feel bigger than the holiday itself is timing: the <a href="https://www.themagnificentmile.com/lights-festival" target="_blank" rel="nofollow noopener noreferrer"><strong>Magnificent Mile Lights Festival</strong></a> is scheduled for <strong>Saturday, November 21, 2026</strong>, the Saturday before Thanksgiving. The event brings tree lighting and an evening parade to North Michigan Avenue. If your trip starts a few days before Thanksgiving, you can catch both major events on the same visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Christkindlmarket, the German-style holiday market that usually sets up at Daley Plaza, has opened around this part of the calendar in previous years. However, its exact 2026 schedule was not published at the time of this update. Check the <a href="https://www.christkindlmarket.com/special-events/" target="_blank" rel="nofollow noopener noreferrer">official Christkindlmarket calendar</a> before treating it as a fixed part of your trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2656,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/chicago-lakefront-lake-shore-drive-night.jpg" alt="Lake Shore Drive and the Chicago lakefront illuminated after dark beside Lake Michigan" class="wp-image-2656"/><figcaption class="wp-element-caption">Chicago's illuminated lakefront after dark, when an early November sunset changes the rhythm of a sightseeing day.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="where-to-eat">Where to Eat Thanksgiving Dinner in Chicago</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Treat Thanksgiving dinner like a holiday reservation, not a normal night out. Chicago hotels and independent restaurants often publish dedicated Thanksgiving menus, but the participating venues, prices, and reservation terms change each year.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I would compare the current Thanksgiving listings on a reservation platform, then verify the menu on the restaurant's own website before booking. Reserve earlier than you would for a normal Thursday, especially if you need a specific time, a children's menu, or dietary accommodations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hotel-rates">Hotel Rates During Thanksgiving Week</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Do not assume Thanksgiving week is automatically cheaper or more expensive than another late-November stay. Hotel prices are dynamic, and the parade, holiday travel, location, cancellation terms, and booking lead time can all move the total in either direction.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Compare the exact same dates across the Loop, River North, and nearby neighborhoods. Look at the final total after taxes and destination fees, not just the first nightly rate, and favor flexible terms if your holiday plans are still moving.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If price matters more than being in the middle of the parade and lights atmosphere, the same logic that applies to the rest of the month applies here too — see the <a href="/chicago-in-november/">Chicago in November guide</a> for the fuller breakdown of quiet-versus-festive weeks and how rates move across the month.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weekend-itinerary">What to Do the Rest of the Weekend</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Thanksgiving Day is the outlier. Friday through Sunday look more like a normal, if cold, Chicago weekend. Museums generally return to their published schedules, while Lincoln Park Zoo has remained open throughout. Recheck each attraction's calendar because holiday-week hours can still differ from an ordinary weekend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A few things worth building the weekend around:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Millennium Park and Cloud Gate</strong> — free outdoor stops during posted park hours. For Thanksgiving Day skating, the Chicago Park District lists the nearby Maggie Daley Ice Skating Ribbon as open with special holiday hours; reservations are required.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>The Art Institute</strong> — closed Thursday, but a strong pick once it's back on normal hours. See the <a href="/art-institute-chicago-free-days/">Art Institute free-days guide</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Michigan Avenue</strong> — the Lights Festival decorations stay up well past the switch-on night, so you'll catch the full display even if you missed the festival itself.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Willis Tower Skydeck</strong> — open all weekend, weather-proof. See the <a href="/willis-tower-skydeck-vs-360-chicago/">Skydeck vs. 360 Chicago guide</a>.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>For a broader, non-holiday-specific rundown of what's worth prioritizing in Chicago generally, the <a href="/best-things-to-do-in-chicago/">best things to do in Chicago for first-timers guide</a> is the fuller version of this list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="who-should-come">Who Should Come — and Who Shouldn't</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Come if</strong> you want a genuine parade, the visible start of the city's holiday season, and cold-weather atmosphere over warm-weather sightseeing — and you're comfortable building Thanksgiving Day around outdoor viewing, a dinner reservation, and one indoor attraction that's actually open.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Skip it, or shift your dates, if</strong> museum-hopping every day is the priority, you won't book a holiday dinner reservation ahead, or you'd rather avoid parade-week rates and crowds. In that case, the quieter first three weeks of November — covered in the <a href="/chicago-in-november/">Chicago in November guide</a> — or the <a href="/chicago-fall-bucket-list/">Chicago fall bucket list</a> are the better fit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">FAQ: Thanksgiving in Chicago</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is it worth going to Chicago for Thanksgiving?</summary><!-- wp:paragraph -->
+<p>Yes, for the right traveler. Chicago runs its own Thanksgiving Day parade, and the Lights Festival is scheduled just days before it. The trade-off is that Thanksgiving Day is a partial shutdown day: the Art Institute, Griffin Museum of Science and Industry, and Chicago History Museum close. Lincoln Park Zoo remains open, while ZooLights uses a separate evening calendar. Come for the parade and holiday atmosphere, but plan Thursday around confirmed openings.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is the Chicago Thanksgiving Parade the same as the Macy's Parade in New York?</summary><!-- wp:paragraph -->
+<p>No — separate events in separate cities. Chicago's parade, historically known as the McDonald's Thanksgiving Parade and now branded the Chicago Thanksgiving Parade, runs its 92nd annual edition on State Street from Ida B. Wells Drive to Randolph Street, 8 a.m. to 11 a.m. on November 26, 2026. It's smaller than Macy's, but a genuine, decades-old local tradition.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What's open in Chicago on Thanksgiving Day?</summary><!-- wp:paragraph -->
+<p>Willis Tower Skydeck and Lincoln Park Zoo operate 365 days a year. The Chicago Park District lists the Maggie Daley Ice Skating Ribbon, Garfield Park Conservatory, and Lincoln Park Conservatory as open on Thanksgiving Day in 2026. The skating ribbon uses special holiday hours and requires reservations. The Art Institute, Griffin Museum of Science and Industry, and Chicago History Museum close. Restaurants use individual holiday schedules, so reserve and confirm directly.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Willis Tower Skydeck open on Thanksgiving?</summary><!-- wp:paragraph -->
+<p>Yes. The Skydeck operates every day of the year, including Thanksgiving, making it one of the few ticketed indoor attractions running on a day when most museums are closed.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What's the weather like in Chicago for Thanksgiving?</summary><!-- wp:paragraph -->
+<p>Cold. National Weather Service climate normals for November 26 are about 43°F for the high and 30°F for the low. Wind can make exposed areas feel colder. Snow is possible but not guaranteed, so pack for cold and wind rather than a specific snow scene.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Are hotel rates higher during Thanksgiving week in Chicago?</summary><!-- wp:paragraph -->
+<p>Not always. Chicago hotel prices are dynamic, and Thanksgiving week can vary by property, neighborhood, booking lead time, and cancellation terms. Compare the same exact dates and final totals across a few central areas instead of assuming the holiday automatically means a higher or lower rate.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is the Magnificent Mile Lights Festival on Thanksgiving Day?</summary><!-- wp:paragraph -->
+<p>No. The Lights Festival is set for Saturday, November 21, 2026 — the Saturday before Thanksgiving, not the same day or the weekend after. Decorations stay up well past that night, so a Thanksgiving-week visit still catches the full Michigan Avenue display.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it worth going to Chicago for Thanksgiving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for the right traveler. Chicago runs its own Thanksgiving Day parade, and the Lights Festival is scheduled just days before it. The trade-off is that Thanksgiving Day is a partial shutdown day: the Art Institute, Griffin Museum of Science and Industry, and Chicago History Museum close. Lincoln Park Zoo remains open, while ZooLights uses a separate evening calendar. Come for the parade and holiday atmosphere, but plan Thursday around confirmed openings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Chicago Thanksgiving Parade the same as the Macy's Parade in New York?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No — separate events in separate cities. Chicago's parade, historically known as the McDonald's Thanksgiving Parade and now branded the Chicago Thanksgiving Parade, runs its 92nd annual edition on State Street from Ida B. Wells Drive to Randolph Street, 8 a.m. to 11 a.m. on November 26, 2026. It's smaller than Macy's, but a genuine, decades-old local tradition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's open in Chicago on Thanksgiving Day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Willis Tower Skydeck and Lincoln Park Zoo operate 365 days a year. The Chicago Park District lists the Maggie Daley Ice Skating Ribbon, Garfield Park Conservatory, and Lincoln Park Conservatory as open on Thanksgiving Day in 2026. The skating ribbon uses special holiday hours and requires reservations. The Art Institute, Griffin Museum of Science and Industry, and Chicago History Museum close. Restaurants use individual holiday schedules, so reserve and confirm directly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Willis Tower Skydeck open on Thanksgiving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Skydeck operates every day of the year, including Thanksgiving, making it one of the few ticketed indoor attractions running on a day when most museums are closed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the weather like in Chicago for Thanksgiving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cold. National Weather Service climate normals for November 26 are about 43°F for the high and 30°F for the low. Wind can make exposed areas feel colder. Snow is possible but not guaranteed, so pack for cold and wind rather than a specific snow scene."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are hotel rates higher during Thanksgiving week in Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not always. Chicago hotel prices are dynamic, and Thanksgiving week can vary by property, neighborhood, booking lead time, and cancellation terms. Compare the same exact dates and final totals across a few central areas instead of assuming the holiday automatically means a higher or lower rate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Magnificent Mile Lights Festival on Thanksgiving Day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The Lights Festival is set for Saturday, November 21, 2026 — the Saturday before Thanksgiving, not the same day or the weekend after. Decorations stay up well past that night, so a Thanksgiving-week visit still catches the full Michigan Avenue display."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-chicago-guides">More Chicago Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Filling out the rest of a late-November Chicago trip:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/chicago-in-november/">Chicago in November</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/chicago-fall-bucket-list/">Chicago Fall Bucket List</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/willis-tower-skydeck-vs-360-chicago/">Willis Tower Skydeck vs 360 Chicago: Which Observation Deck Is Worth It?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/art-institute-chicago-free-days/">Art Institute of Chicago Free Days</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/best-things-to-do-in-chicago/">Best Things to Do in Chicago for First-Timers</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/where-to-stay-in-chicago-with-kids/">Where to Stay in Chicago with Kids</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Chicago's Thanksgiving isn't a smaller version of New York's — it's a colder, more compact holiday-kickoff week built around a genuine local parade and a lights festival that lands just days before it. Plan around Thanksgiving Day's partial shutdown instead of ignoring it, and the rest of the week delivers the festive, atmospheric trip you'd expect from one of the country's most underrated Christmas cities getting an early start.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Come for the parade and the lights. Build Thursday around what's actually open. Save the museum-heavy day for Friday.</p>
+<!-- /wp:paragraph -->
+
+<!--
+SEO & PUBLISHING METADATA
+TITLE (H1): Thanksgiving in Chicago 2026: Parade, Weather and What's Open
+SLUG: thanksgiving-in-chicago
+FOCUS KEYWORD: Thanksgiving in Chicago
+META DESCRIPTION: Planning Thanksgiving in Chicago in 2026? Compare parade timing, weather, closures, open attractions, dinner plans and the holiday weekend.
+-->

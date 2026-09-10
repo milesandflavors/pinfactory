@@ -1,0 +1,590 @@
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Barcelona didn't ease us in gently. We stepped off the plane and the city just — hit. The warmth, the noise, the scale of it, the way every street seems to lead somewhere worth stopping for. Four days felt like the right amount of time: enough to see the things we came for, enough to get genuinely lost in a neighborhood, enough to sit down for a proper dinner without watching the clock.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're still sorting the logistics — flights, accommodation, travel insurance — our <a href="https://milesandflavors.com/how-to-plan-a-trip/">complete trip planning guide</a> covers all of it in one place before you start spending money on anything.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":894,"sizeSlug":"large","linkDestination":"none","className":"alignnone"} -->
+<figure class="wp-block-image size-large alignnone"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8858-1024x768.jpg" alt="Barcelona street view from a personal 4-day Barcelona itinerary" class="wp-image-894"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th colspan="2">4 Days in Barcelona: The Perfect Itinerary Quick Summary</th></tr></thead><tbody><tr><td><strong>Best time to visit</strong></td><td>May–June or September–October — same experience, 25–30% lower prices</td></tr><tr><td><strong>How many days</strong></td><td>4 days minimum; 5 if you want one genuinely slow day</td></tr><tr><td><strong>Best base</strong></td><td>Eixample — walkable, great metro access, excellent restaurants</td></tr><tr><td><strong>Getting around</strong></td><td>Metro + walking; T-Casual 10-trip card (about €13) covers most city journeys</td></tr><tr><td><strong>Don't miss</strong></td><td>Sagrada Família, Passeig de Gràcia, Gothic Quarter, Montserrat</td></tr><tr><td><strong>Book in advance</strong></td><td>Sagrada Família, Casa Batlló, Casa Milà — popular time slots can sell out weeks ahead</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"98ab23dc-7999-4542-99be-c4d2f9beff7e","content":"Before you go — quick links","level":2,"link":"#before-you-go-quick-links","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"3504f099-d785-4a14-83ef-a4aedaafe7fe","content":"Quick Tips for Barcelona","level":2,"link":"#quick-tips-for-barcelona","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ac3b9df3-1cd9-4e52-afc4-a92c1217663a","content":"Where to Stay","level":3,"link":"#where-to-stay","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"2d124550-cd86-471a-b443-b81f6f07ca8a","content":"Book Before You Arrive","level":3,"link":"#book-before-you-arrive","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"9103ef63-faa0-4f02-bf92-cc6aaddacc27","content":"Your 4 Days in Barcelona: Overview","level":2,"link":"#your-4-days-in-barcelona-overview","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ec60f72c-f31e-4bec-92d0-f10184d48351","content":"Day 1: Eixample and the Gaudí Buildings","level":2,"link":"#day-1-eixample-and-the-gaudi-buildings","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"16489402-bebb-4b90-9da3-cd8619473817","content":"Morning: Sagrada Família","level":3,"link":"#morning-sagrada-familia","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"f3ebd582-6cab-447c-995b-60f489aa0b0f","content":"Afternoon: Passeig de Gràcia, Casa Milà, and Casa Batlló","level":3,"link":"#afternoon-passeig-de-gracia-casa-mila-and-casa-batllo","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"5e91a52a-cbfe-4808-af54-a2e7c4acc26a","content":"Evening: Dinner in Eixample","level":3,"link":"#evening-dinner-in-eixample","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"005e2052-6e51-4429-a03a-38cec4e08e2a","content":"Day 2: Gothic Quarter, La Boqueria, and Barceloneta","level":2,"link":"#day-2-gothic-quarter-la-boqueria-and-barceloneta","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"cdfa8d0c-ad4b-403e-ab50-71ae0a68b520","content":"Morning: Gothic Quarter","level":3,"link":"#morning-gothic-quarter","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"7848bab8-aa06-4f08-b402-41178a161eda","content":"Late Morning: La Boqueria","level":3,"link":"#late-morning-la-boqueria","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"9d3a5244-8f2c-4fbb-98cb-4a5ca9e813a0","content":"Afternoon: La Rambla and Barceloneta Beach","level":3,"link":"#afternoon-la-rambla-and-barceloneta-beach","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"a1254993-0edc-4dec-a7a7-39ca3740dc02","content":"Evening: Cocktails on a Terrace","level":3,"link":"#evening-cocktails-on-a-terrace","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"d3185e99-b8d6-47c7-8cd9-fdf97380e91a","content":"Day 3: Montjuïc","level":2,"link":"#day-3-montjuic","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"b563a895-4049-420c-b6f5-6137c023e544","content":"Morning: MNAC","level":3,"link":"#morning-mnac","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"57d44424-0615-4c25-9cb7-14fc419f792a","content":"Afternoon: Viewpoints and Montjuïc Castle","level":3,"link":"#afternoon-viewpoints-and-montjuic-castle","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"5a9bd993-99ae-4c57-8a2f-0c12e1e629c4","content":"Evening: Magic Fountain Area or Montjuïc Views","level":3,"link":"#evening-magic-fountain-of-montjuic","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"0f6c72f8-dd98-4b79-97c6-e7deed75d583","content":"Day 4: Montserrat Day Trip","level":2,"link":"#day-4-montserrat-day-trip","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"828ee368-655d-40d6-9d4f-b91903f74895","content":"The Monastery and Basilica","level":3,"link":"#the-monastery-and-basilica","disable":true,"isUpdated":false,"isGeneratedLink":true},{"key":"a0f8d297-a0de-42cc-928b-ebd652faf5a1","content":"The Trails and Views","level":3,"link":"#the-trails-and-views","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"8f3a364c-8aea-466a-a287-eecbe9fddd84","content":"What to Eat in Barcelona","level":2,"link":"#what-to-eat-in-barcelona","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7384b934-11d5-4dee-8dc5-83ba9ce0d6b5","content":"If You Have Less Time","level":2,"link":"#if-you-have-less-time","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"0b71d651-7041-4204-a464-a471ba3a4ef7","content":"Best Time for 4 Days in Barcelona","level":2,"link":"#best-time-for-4-days-in-barcelona","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"c215d914-b2ee-4bc3-b124-1111b2eeb8fc","content":"Practical Info","level":2,"link":"#practical-info","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"20cac80c-ef39-450e-ba7d-6b7853fe5096","content":"Staying Connected","level":3,"link":"#staying-connected","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"ac2ceb25-5162-455a-98fd-a5aa2202934d","content":"Travel Insurance","level":3,"link":"#travel-insurance","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"0633ef0e-cb0c-4bcb-ab3f-0fb03f8d94ed","content":"What We'd Do Differently","level":2,"link":"#what-wed-do-differently","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"df35975d-fb12-4d17-9b89-d875acdc7cd4","content":"Final Thoughts: 4 Days in Barcelona","level":2,"link":"#final-thoughts-4-days-in-barcelona","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"div"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><div><div class=""><a href="#before-you-go-quick-links">Before you go — quick links</a></div><div class=""><a href="#quick-tips-for-barcelona">Quick Tips for Barcelona</a><div><div class=""><a href="#where-to-stay">Where to Stay</a></div><div class=""><a href="#book-before-you-arrive">Book Before You Arrive</a></div></div></div><div class=""><a href="#your-4-days-in-barcelona-overview">Your 4 Days in Barcelona: Overview</a></div><div class=""><a href="#what-to-eat-in-barcelona">What to Eat in Barcelona</a></div><div class=""><a href="#if-you-have-less-time">If You Have Less Time</a></div><div class=""><a href="#best-time-for-4-days-in-barcelona">Best Time for 4 Days in Barcelona</a></div><div class=""><a href="#practical-info">Practical Info</a><div><div class=""><a href="#staying-connected">Staying Connected</a></div><div class=""><a href="#travel-insurance">Travel Insurance</a></div></div></div><div class=""><a href="#what-wed-do-differently">What We'd Do Differently</a></div><div class=""><a href="#final-thoughts-4-days-in-barcelona">Final Thoughts: 4 Days in Barcelona</a></div></div></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="before-you-go-quick-links">Before you go — quick links</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Flights — <a href="https://flights.google.com" target="_blank" rel="nofollow noopener">Google Flights</a> or <a href="https://www.skyscanner.com" target="_blank" rel="nofollow noopener">Skyscanner</a> — fly into Barcelona (BCN)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Hotels — <a href="https://www.booking.com" target="_blank" rel="nofollow noopener">browse Barcelona hotels on Booking.com</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Tickets — <a href="https://www.viator.com/Barcelona/d562-ttd?pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">Sagrada Família, Casa Batlló and Montserrat on Viator</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Travel card — <a href="https://milesandflavors.com/best-travel-money-card/">compare travel money cards before you go</a> — avoid foreign transaction fees in Barcelona</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>eSIM — <a href="https://airalo.pxf.io/3koV4r" target="_blank" rel="sponsored noopener noreferrer">Airalo Spain plan</a> — set up before you fly</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Insurance — <a href="https://www.worldnomads.com" target="_blank" rel="nofollow noopener">World Nomads</a> — compare theft and medical cover before you fly</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-tips-for-barcelona">Quick Tips for Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="where-to-stay">Where to Stay</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We stayed in Eixample and would make the same call again — it puts you walking distance from the Gaudí buildings, has excellent metro connections to every other neighborhood, and feels like a real part of the city after 8pm rather than a tourist zone. The Gothic Quarter has more atmosphere but more noise at night; El Born is better for a second visit. For our full neighborhood breakdown with honest pros and cons, see our <a href="https://milesandflavors.com/where-to-stay-in-barcelona/">Barcelona accommodation guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Luxury (€180–300+/night):</strong> The upper end of Eixample and the Passeig de Gràcia corridor has some of the finest hotels in the city — boutique properties with rooftop pools and the Gaudí buildings visible from the terrace. <a href="https://www.booking.com/searchresults.html?dest_id=-372490&amp;dest_type=city&amp;nflt=class%3D5" target="_blank" rel="nofollow noopener">Browse luxury Barcelona hotels on Booking.com.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mid-range (€100–170/night):</strong> The sweet spot for Eixample. Solid 3- and 4-star hotels within walking distance of the main sights, with real neighborhood restaurants outside the door. This is where we stay. <a href="https://www.booking.com/searchresults.html?dest_id=-372490&amp;dest_type=city&amp;nflt=class%3D4" target="_blank" rel="nofollow noopener">Browse mid-range Barcelona hotels on Booking.com.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Budget (€65–95/night):</strong> Gràcia and the outer Eixample have the best budget options — a metro stop further from the sights but genuinely local neighborhoods with good value accommodation. <a href="https://www.booking.com/searchresults.html?dest_id=-372490&amp;dest_type=city&amp;nflt=class%3D3" target="_blank" rel="nofollow noopener">Browse budget Barcelona hotels on Booking.com.</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Pro tip:</strong> Always book free cancellation. Barcelona hotel prices shift regularly — especially seasonally — and rebooking at a lower rate a few weeks before arrival has saved us real money more than once.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="book-before-you-arrive">Book Before You Arrive</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona rewards advance planning. The Gaudí buildings can sell out weeks ahead in peak season, and Montserrat gets much easier when you lock in the transport plan early. Book these before anything else:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Sagrada Família is the single most important booking you'll make for Barcelona — same-day entry slots can disappear in peak season, and the whole visit is calmer when you book the earliest slot you can. Add tower access when you book if that matters to you. <a href="https://www.viator.com/Barcelona-attractions/Sagrada-Familia/d562-a820?pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">Book your Sagrada Família tickets here.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Casa Batlló is the most theatrical of the Gaudí buildings to visit inside — immersive, dramatic, and genuinely unlike anything else. The best time slots can sell out. <a href="https://www.viator.com/Barcelona-attractions/Casa-Batllo/d562-a9858?pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">Book your Casa Batlló tickets here.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Casa Milà (La Pedrera) — the rooftop alone justifies the visit. Warrior chimneys, 360-degree city views, and afternoon light that makes it one of the best photo spots in the city. <a href="https://www.viator.com/tours/Barcelona/Skip-the-Line-La-Pedrera-Casa-Mila-Ticket/d562-5735PEDRERA?pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">Book your Casa Milà tickets here.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Montserrat is not the place to improvise late in the morning — missing the early train can cost you the calmest hours on the mountain. If your day is fixed, compare transport and day-trip options ahead of time. <a href="https://www.viator.com/tours/Barcelona/Private-tour-half-day-customized-sightseeing/d562-16168P9?pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">Compare Montserrat day trip options here.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A guided Sagrada Família tour gives you context that the audio guide alone doesn't — the symbolism and the construction story make the building even more extraordinary. <a href="https://www.viator.com/searchResults/all?text=sagrada+familia+guided+tour&pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">See Sagrada Família guided tour options here.</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="your-4-days-in-barcelona-overview">Your 4 Days in Barcelona: Overview</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Day 1:</strong> Eixample — Sagrada Família, Passeig de Gràcia, Casa Milà, Casa Batlló, neighborhood dinner</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Day 2:</strong> Gothic Quarter, La Boqueria, La Rambla, Barceloneta beach, terrace cocktails</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Day 3:</strong> Montjuïc — MNAC, viewpoints, Olympic area, and the Magic Fountain area if shows are running</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Day 4:</strong> Montserrat full day — mountain, monastery, Basilica, hiking trails</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-1-eixample-and-the-gaudi-buildings">Day 1: Eixample and the Gaudí Buildings</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We gave the first day to Eixample and the buildings that make Barcelona unmistakable. Start early — the city is a different place before 10am, and the Gaudí buildings in particular are worth every minute of an early start.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-sagrada-familia">Morning: Sagrada Família</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We arrived at 9am on a weekday and had almost an hour before the tour groups descended. I'd read about Sagrada Família, I'd seen the photos, and it still wasn't enough preparation. The exterior is extraordinary — the Nativity and Passion facades look like they were designed by different civilizations, because in a sense they were. But the interior is something else entirely. The columns branch like trees, the light comes through the stained glass in colors that shift as the morning progresses, and the scale of it only hits you properly when you're standing inside it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":904,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8921-768x1024.jpg" alt="Sagrada Familia basilica in Barcelona during a 4-day itinerary" class="wp-image-904"/><figcaption class="wp-element-caption">Sagrada Família</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Price:</strong> From €26 with audio guide; tower access extra and worth it</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Time needed:</strong> 1.5–2 hours minimum</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Best time:</strong> Opening (9am) or after 5pm</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book in advance:</strong> <a href="https://www.viator.com/Barcelona-attractions/Sagrada-Familia/d562-a820?pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">Sagrada Família tickets via Viator</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Pro tip:</strong> Add the Nativity Tower — better views than the Passion side and worth the extra cost</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>With kids:</strong> Very manageable — even floors, steady queues, and the interior is less echo-loud than you'd expect. Use the app instead of renting the audio guide so you keep your hands free</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon-passeig-de-gracia-casa-mila-and-casa-batllo">Afternoon: Passeig de Gràcia, Casa Milà, and Casa Batlló</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Walk down Passeig de Gràcia from Sagrada Família. The boulevard itself deserves to be taken slowly — it's one of the most beautiful streets in Europe, and between the famous Gaudí buildings there are other Modernista masterpieces that most people walk straight past without noticing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Casa Milà (La Pedrera)</strong> — The rooftop is the reason to go. Those chimney warriors against the Barcelona skyline are one of those images that's everywhere and still manages to be better in person. We went in the late afternoon and the light on the rooftop was genuinely beautiful. The apartment floor below gives real insight into what Gaudí thought a home should feel like — which turns out to be nothing like a normal home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":926,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8911-edited-1024x1024.jpg" alt="Casa Mila facade with curved stone balconies in Barcelona" class="wp-image-926"/><figcaption class="wp-element-caption">Casa Milà</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Price:</strong> From €25 | <strong>Time needed:</strong> 1.5 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book:</strong> <a href="https://www.viator.com/tours/Barcelona/Skip-the-Line-La-Pedrera-Casa-Mila-Ticket/d562-5735PEDRERA?pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">Casa Milà tickets via Viator</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Casa Batlló</strong> — The facade stops people mid-stride. Blue and green ceramic scales, balconies shaped like bone, a roofline that reads as a dragon's back in the right light. If you're choosing one building to go inside, Casa Batlló's immersive experience is the more theatrical of the two. If budget is the question, 20 minutes on the pavement outside is still worth the stop — the exterior alone justifies it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":929,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8901-4-edited-scaled.jpg" alt="Colorful Casa Batllo facade on Passeig de Gracia in Barcelona" class="wp-image-929"/><figcaption class="wp-element-caption">Casa Batlló</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Price:</strong> From €35 | <strong>Time needed:</strong> 1–1.5 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book:</strong> <a href="https://www.viator.com/Barcelona-attractions/Casa-Batllo/d562-a9858?pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">Casa Batlló tickets via Viator</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="evening-dinner-in-eixample">Evening: Dinner in Eixample</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The streets around Carrer d'Enric Granados — the pedestrianized street with the long park running down the middle — have some of the best restaurants in the city. Walk two blocks off Passeig de Gràcia and the prices drop while the quality stays. We had a proper Catalan dinner for €38 for two with wine. Not a tourist restaurant, not a fancy address — just a neighborhood place that happened to be excellent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-2-gothic-quarter-la-boqueria-and-barceloneta">Day 2: Gothic Quarter, La Boqueria, and Barceloneta</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-gothic-quarter">Morning: Gothic Quarter</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Gothic Quarter doesn't require a plan — and that's precisely the point. Give it a full morning and just walk. Every alley leads somewhere: a hidden plaza, a Roman wall fragment, a church that's been standing for 600 years. We spent three hours here and felt like we'd only started. When we visited, Barcelona Cathedral had free morning access, and it was worth going inside; check current visitor hours before building your day around it. The real find is the cloister, where a flock of white geese has apparently lived for centuries. Strange, quiet, and completely unforgettable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":930,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8597-edited-scaled.jpg" alt="Narrow street in the Gothic Quarter of Barcelona" class="wp-image-930"/><figcaption class="wp-element-caption">Barcelona Gothic Quarter</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Price:</strong> Free to explore; check current Cathedral visitor hours and ticket rules before you go</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Best time:</strong> Before 10am — the crowds haven't arrived yet</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Time needed:</strong> 2–3 hours minimum</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="late-morning-la-boqueria">Late Morning: La Boqueria</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ten minutes' walk from the Gothic Quarter brings you to La Boqueria on La Rambla. Go for the experience — the color, the chaos, the stacked seafood and hanging jamón. But eat at the stalls toward the back of the market, not the front counters facing the street. We had excellent seafood tapas for €13 per person. The fruit stands near the entrance charge tourist prices; the coffee bars at the back don't.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Price:</strong> Free entry | <strong>Best time:</strong> Before 11am or after 3pm</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon-la-rambla-and-barceloneta-beach">Afternoon: La Rambla and Barceloneta Beach</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Walk the full length of La Rambla — Plaça de Catalunya down to the Columbus Monument at the port. It's more touristy than it used to be and everyone knows it, and it's still worth doing once for the sheer energy of the thing. Keep your bag in front of you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":931,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8876-1-768x1024.jpg" alt="Columbus Monument near La Rambla and the Barcelona waterfront" class="wp-image-931"/><figcaption class="wp-element-caption">Columbus Monument</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>From there, head east to Barceloneta. We spent the afternoon at the beach. The Mediterranean in May is cold — genuinely cold — but the experience of lying by the sea in the middle of a major European city is one of those things that reminds you why you travel. The beach is wide, clean, and very much the city's living room in summer. One practical note: the seafood restaurants along the beachfront strip are expensive and mostly average. Walk one street back and you'll find better food for noticeably less.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="evening-cocktails-on-a-terrace">Evening: Cocktails on a Terrace</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":893,"sizeSlug":"large","linkDestination":"none","className":"alignnone"} -->
+<figure class="wp-block-image size-large alignnone"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8810-768x1024.jpg" alt="Glass of sangria during an evening in Barcelona" class="wp-image-893"/><figcaption class="wp-element-caption"><p>Sangría</p></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Barcelona's terrace bars come alive around 7pm. Eixample has the most concentrated selection. Dinner doesn't happen before 9pm here — which takes some adjustment and then quickly feels like the only sensible way to live. Budget €10–15 per cocktail in a mid-range spot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-3-montjuic">Day 3: Montjuïc</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Montjuïc is the hill above the port, and it holds considerably more than most visitors give it credit for. We gave it a full day and it didn't feel rushed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="morning-mnac">Morning: MNAC</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Museu Nacional d'Art de Catalunya is one of the most dramatically situated buildings in Europe — a domed palace from the 1929 International Exposition, approached via a long cascade of fountains and stairs. The Romanesque art collection inside is world-class. Even if art museums aren't your priority, the view from the terrace looking back over the city is worth the climb alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":932,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8838-1-768x1024.jpg" alt="Museu Nacional d Art de Catalunya on Montjuic in Barcelona" class="wp-image-932"/><figcaption class="wp-element-caption">MNAC / Museu Nacional d'Art de Catalunya</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Museum entry:</strong> €12 | <strong>Exterior and terrace:</strong> Free | <strong>Time needed:</strong> 1.5–2 hours inside; 30 minutes for the exterior alone</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="afternoon-viewpoints-and-montjuic-castle">Afternoon: Viewpoints and Montjuïc Castle</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>From MNAC, walk or take the cable car up to Montjuïc Castle. The views over the port and out toward the Mediterranean are genuinely impressive, and the castle itself is worth 45 minutes. The Funicular de Montjuïc from Paral·lel metro station covers the climb if you'd rather save the legs — it's included in the T-Casual metro card.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":933,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8839-1-768x1024.jpg" alt="View from Montjuic over Barcelona during a 4-day itinerary" class="wp-image-933"/><figcaption class="wp-element-caption">View from Montjuic over Barcelona</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Funicular:</strong> Included in T-Casual card | <strong>Castle entry:</strong> €5</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="evening-magic-fountain-of-montjuic">Evening: Magic Fountain Area or Montjuïc Views</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Magic Fountain area at the base of MNAC is still worth having on your Montjuïc evening route, but do not build the whole day around a fixed show time without checking the current official schedule first. Shows have changed in recent years because of water restrictions and city programming. If the fountain is running, arrive early and watch from the MNAC steps for the best elevated view. If it is not running, stay for sunset over the city instead — the view alone still earns the stop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Price:</strong> Free | <strong>Season:</strong> May–October, Thursday–Sunday evenings | <strong>Duration:</strong> ~25–30 minutes per show</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-4-montserrat-day-trip">Day 4: Montserrat Day Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Montserrat was the part of the itinerary I was least certain about including. It felt like it might be one stop too many for four days. It wasn't. It ended up being one of the best days of the entire trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The mountain looks impossible from a distance — vertical rock faces rising out of the Catalan countryside, a monastery clinging to the side of it at 700 meters. Then you're there, and it somehow exceeds the image.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Getting there:</strong> FGC train from Plaça Espanya to Monistrol de Montserrat (about 1 hour), then the rack railway (cremallera) up to the monastery. Budget roughly €25–35 round trip and check the current FGC timetable before you go. Take the earliest train that makes sense for your trip. We took the 9:30am and regretted losing an hour of morning calm on the mountain. <a href="https://www.viator.com/tours/Barcelona/Private-tour-half-day-customized-sightseeing/d562-16168P9?pid=P00300034&mcid=42383&medium=link&campaign=4-days-barcelona" target="_blank" rel="sponsored noopener noreferrer">Compare Montserrat day trip and transport options here.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":903,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8670-768x1024.jpg" alt="Santa Maria de Montserrat monastery near Barcelona" class="wp-image-903"/><figcaption class="wp-element-caption">Santa Maria de Montserrat</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="the-monastery-and-basilica">The Monastery and Basilica</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Basilica is free to enter and beautiful — Romanesque and Gothic elements, and a sense of genuine religious life that you don't get in many monastery-as-attraction settings. The line to see La Moreneta (the Black Madonna) moves steadily. Don't skip it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Basilica entry:</strong> Free | <strong>Best time to arrive:</strong> Before 11am or after 3pm | <strong>Time needed:</strong> 1 hour</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="the-trails-and-views">The Trails and Views</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Sant Joan trail above the monastery takes about an hour up and rewards you with views that feel genuinely remote — remarkable for somewhere an hour by train from a major city. The rock formations this close are strange and beautiful in a way that no photograph quite captures.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":935,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8655-edited-scaled.jpg" alt="Montserrat rock formations in sunshine near Barcelona" class="wp-image-935"/><figcaption class="wp-element-caption">Close-up view of the Montserrat rocks in sunshine</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Sant Joan trail:</strong> Free | <strong>Time:</strong> 1 hour up, 45 minutes down | <strong>Tip:</strong> Proper shoes — the path is rocky in places</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-to-eat-in-barcelona">What to Eat in Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":897,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/IMG_8816-768x1024.jpg" alt="Seafood paella served in Barcelona" class="wp-image-897"/><figcaption class="wp-element-caption">Seafood Paella</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Barcelona is not actually the home of paella — that's Valencia — but the seafood versions here, and fideuà (noodles instead of rice) and arroz negro (squid ink rice), are genuinely excellent. The rule is simple: restaurants on the Barceloneta beachfront and directly on La Rambla are expensive and mostly average. Walk two blocks in any direction and the quality goes up as the prices come down.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <strong>menú del día</strong> is how locals eat on a weekday and how you should eat in Barcelona — a fixed 3-course lunch with a drink for €12–16, at the same restaurants that charge €35–50 at dinner. It's one of the genuine bargains of European travel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="if-you-have-less-time">If You Have Less Time</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>3 days:</strong> Drop Montserrat. It deserves a full day — doing it rushed isn't the same experience. Do Days 1, 2, and 3.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>2 days:</strong> Day 1 (Sagrada Família + Passeig de Gràcia buildings) and Day 2 (Gothic Quarter + Barceloneta). Skip Montjuïc.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-time-for-4-days-in-barcelona">Best Time for 4 Days in Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>May–June and September–October</strong> are the sweet spot. A 3-star Eixample hotel that costs €95/night in September runs €175–200 in August — on a 4-night trip that's €320–420 saved before you've bought a single ticket. The crowds thin out meaningfully too: morning visits to Sagrada Família feel manageable rather than crushing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>July–August:</strong> Very hot (86–95°F / 30–35°C), very crowded, peak prices. If summer is your only option, book everything 3–4 months ahead.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>November–March:</strong> Quiet, cheap, cooler (50–59°F / 10–15°C). Good for architecture and museums; beach days are off the table.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-info">Practical Info</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Getting there:</strong> Most US flights connect through Madrid, London, or a European hub. Budget $500–850 round trip from the East Coast in shoulder season. <a href="https://www.google.com/flights" target="_blank" rel="nofollow noopener">Google Flights</a> with flexible dates is the best starting point — flying Tuesday or Wednesday instead of Friday can save $150–300 per person.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Getting around:</strong> The T-Casual card (10 metro/bus/funicular trips, about €13) covers four days comfortably if you're walking a reasonable amount. Check the current TMB fare before buying, but for most first-timers it is still the easiest value card. The metro is clean, frequent, and easy to navigate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Airport transfer:</strong> The Aerobus runs frequently from T1 and T2 to Plaça de Catalunya and usually costs around €7–8 one way. It is the easiest option with luggage; check the current fare before you land.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Money:</strong> Barcelona is almost entirely cashless. Use a card with no foreign transaction fees and avoid airport exchange desks. My <a href="https://milesandflavors.com/best-travel-money-card/">travel money card guide</a> explains how I compare Wise-style cards before paying abroad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="staying-connected">Staying Connected</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Spain uses the same mobile networks as the rest of Europe, so an EU SIM works fine — but if you're flying in from the US, an eSIM is the easier option. <a href="https://airalo.pxf.io/3koV4r" target="_blank" rel="sponsored noopener noreferrer">Airalo</a> has Spain plans from around $5 for a week — set it up before you leave and it's active when you land.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="travel-insurance">Travel Insurance</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona is generally safe and low-risk, but pickpocketing on Las Ramblas and the metro is genuinely common. Compare travel insurance before you fly, especially for medical cover, trip cancellation, and theft limits. <a href="https://www.worldnomads.com" target="_blank" rel="nofollow noopener">World Nomads</a> is one option worth checking against your own policy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-wed-do-differently">What We'd Do Differently</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Book Sagrada Família for the 9am slot, not mid-morning — we lost the early calm</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Take an earlier Montserrat train than you think you need — our 9:30am departure cost us an hour we would have liked on the mountain</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Skip the Barceloneta beachfront restaurants entirely — the side streets are better in every way</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Spend one proper evening in El Born — next time</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="barcelona-itinerary-faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-4-days-enough-in-barcelona">Is 4 days enough in Barcelona?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes. Four days is enough for Sagrada Família, the main Gaudí buildings, the Gothic Quarter, Barceloneta, Montjuïc, and a Montserrat day trip. Five days is better if you want a slower pace or a proper beach afternoon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="where-to-stay-first-time-barcelona">Where should first-time visitors stay in Barcelona?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Eixample is the easiest base for a first Barcelona trip. It is walkable, well connected by metro, close to the Gaudí sights, and calmer at night than staying directly on La Rambla.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-to-book-before-barcelona">What should I book before arriving in Barcelona?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Book Sagrada Família first, then Casa Batlló or Casa Milà if you want to go inside. For Montserrat, decide your transport plan before the night before so you do not lose the best morning hours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-montserrat-worth-it-from-barcelona">Is Montserrat worth a day trip from Barcelona?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes, if you have four days. Montserrat gives the trip a completely different rhythm after the city sights: mountain views, the monastery, short trails, and a quieter side of Catalonia.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-magic-fountain-running-barcelona">Is the Magic Fountain running in Barcelona?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The schedule changes, and shows have been affected by water restrictions in recent years. Check the current official schedule before planning your evening around it. If it is not running, the MNAC steps are still a great sunset viewpoint.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is 4 days enough in Barcelona?","acceptedAnswer":{"@type":"Answer","text":"Yes. Four days is enough for Sagrada Familia, the main Gaudi buildings, the Gothic Quarter, Barceloneta, Montjuic, and a Montserrat day trip. Five days is better if you want a slower pace or a proper beach afternoon."}},{"@type":"Question","name":"Where should first-time visitors stay in Barcelona?","acceptedAnswer":{"@type":"Answer","text":"Eixample is the easiest base for a first Barcelona trip. It is walkable, well connected by metro, close to the Gaudi sights, and calmer at night than staying directly on La Rambla."}},{"@type":"Question","name":"What should I book before arriving in Barcelona?","acceptedAnswer":{"@type":"Answer","text":"Book Sagrada Familia first, then Casa Batllo or Casa Mila if you want to go inside. For Montserrat, decide your transport plan before the night before so you do not lose the best morning hours."}},{"@type":"Question","name":"Is Montserrat worth a day trip from Barcelona?","acceptedAnswer":{"@type":"Answer","text":"Yes, if you have four days. Montserrat gives the trip a completely different rhythm after the city sights: mountain views, the monastery, short trails, and a quieter side of Catalonia."}},{"@type":"Question","name":"Is the Magic Fountain running in Barcelona?","acceptedAnswer":{"@type":"Answer","text":"The schedule changes, and shows have been affected by water restrictions in recent years. Check the current official schedule before planning your evening around it. If it is not running, the MNAC steps are still a great sunset viewpoint."}}]}
+</script>
+<!-- /wp:html -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="final-thoughts-4-days-in-barcelona">Final Thoughts: 4 Days in Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Four days in Barcelona is enough to fall for the city and not quite enough to feel done with it. We came home already talking about going back — for El Born properly, for a better look at Park Güell, for that fideuà at the restaurant we noticed but didn't have time for. That's what a good trip does.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For a full breakdown of what everything costs — from coffee to Sagrada Família tickets — see our <a href="https://milesandflavors.com/barcelona-travel-costs/">Barcelona budget guide</a>. For everything the city offers without a ticket price, our <a href="https://milesandflavors.com/free-things-to-do-in-barcelona/">free things to do in Barcelona</a> guide is worth reading before you finalize your plan. And when you're ready to book accommodation, our <a href="https://milesandflavors.com/where-to-stay-in-barcelona/">where to stay in Barcelona guide</a> breaks down every neighborhood with honest notes on each one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

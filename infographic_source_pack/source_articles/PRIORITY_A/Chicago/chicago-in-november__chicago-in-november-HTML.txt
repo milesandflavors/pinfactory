@@ -1,0 +1,281 @@
+﻿<!-- wp:image {"id":2558,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/aric-cheng-FiBhJBeyo3I-unsplash-scaled.jpg" alt="Chicago downtown street with holiday lights and an elevated train in November" class="wp-image-2558"/><figcaption class="wp-element-caption">November in Chicago: colder, quieter for most of the month, and the holiday lights start switching on right at the end.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>November in Chicago is really two different months stitched together. For the first three weeks, it feels like genuine off-season — thinner crowds, lower hotel rates, colder weather, and a city that is easier to do on a tighter budget.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Then, around Thanksgiving, the mood changes fast: the Magnificent Mile lights up, Christkindlmarket usually opens at Daley Plaza, and downtown starts turning into the holiday city Chicago is known for. Knowing which version of November you're walking into changes how you should plan the trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#weather">Weather in Chicago in November — What to Pack</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#early-vs-late">Early November vs. Late November</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#events">Best Events in Chicago in November</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#hotels">Hotel Prices and Crowds</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#practical-tips">Practical Tips</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-from-chicago">More from Chicago</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Chicago in November is colder and grayer than October, with average highs dropping from about 55°F at the start of the month to about 42°F by November 30. For roughly the first three weeks, it is genuinely quiet — thinner crowds and often lower hotel rates than October or late-December holiday dates.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>That changes fast near Thanksgiving: the Magnificent Mile Lights Festival is confirmed for November 21, 2026, the Chicago Thanksgiving Parade is on November 26, 2026, and Christkindlmarket usually opens around this part of the calendar, though 2026 market dates should be checked once officially published. Decide which version of November you want before you book: quiet-and-cheaper, or festive-and-busier.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"46px"} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-plan-november">How I'd plan a November trip to Chicago</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>First decide which November you actually want. If it's a quiet, budget-friendly city trip, I'd book the first three weeks and skip Thanksgiving week entirely — better rates, thinner crowds, still plenty to do indoors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If the holiday atmosphere is the actual point, I'd deliberately target the week the Lights Festival and Christkindlmarket season begin and accept the higher prices that come with it. For that kind of trip, I'd shortlist the <a href="https://www.viator.com/tours/Chicago/Chicago-Holiday-Lights-Tour/d673-5765CHIGHTS?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=chicago-in-november" rel="sponsored noopener noreferrer" target="_blank">Chicago Holiday Lights Tour on Viator</a> because an organized evening route is easier than trying to connect multiple decorated areas yourself once it's cold and dark by 5 PM.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What I like about booking this through Viator is the planning comfort: I can compare the exact route, departure point, inclusions, cancellation window, and whether reserve-now-pay-later is available before locking it in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Either way, November is cold enough that I'd build in indoor time on purpose rather than fighting the weather — this is a good month to lean on the <a href="/art-institute-chicago-free-days/">Art Institute</a> and other indoor sights instead of forcing an all-outdoor itinerary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> either genuinely cheap, quiet Chicago, or the start of its holiday season — just pick one, since November delivers very different trips depending on the week.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> the first three weeks are priced and crowded like true off-season; the last week converts fast once the lights and market open.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you're hoping for outdoor-heavy sightseeing in comfortable weather — by late November it's genuinely cold, and wind off the lake makes it feel colder still.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you book:</strong> Thanksgiving week hotel rates rise with the parade and the holiday-season kickoff — book earlier than you would for a random November week if your dates land near it.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weather">Weather in Chicago in November — What to Pack</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>November is where Chicago stops being a fall city and starts being a winter one. National Weather Service climate normals for Chicago show average highs around 55°F and lows near 40°F on November 1, dropping to about 42°F and 29°F by November 30; the full-month average is 48°F / 34°F, with about 2.4 inches of precipitation and 1.8 inches of snow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wind off Lake Michigan regularly makes the actual feel colder than the number on the forecast, especially downtown and along the lakefront. This is a real coat month, not a jacket month — bring layers, a genuine winter coat by late November, gloves, and shoes that handle wet, cold pavement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="early-vs-late">Early November vs. Late November</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Early to mid-November</strong> is the quietest stretch of Chicago's entire fall-into-winter calendar. The Halloween crowds are gone, the holiday crowds haven't arrived, and hotel rates typically sit at or near their lowest point of the season. It's a genuinely good window for museums, the Riverwalk on a crisp clear day, and sights that get crowded in summer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Late November</strong> — specifically the week of Thanksgiving — is a completely different city. The Magnificent Mile Lights Festival lands right around this point, Christkindlmarket usually starts around the same part of the calendar, Thanksgiving itself brings its own parade and family travel, and hotel demand rises to match. If you want to see Chicago's holiday season actually begin, this is the week; if you want the quiet, budget version of the month, avoid it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="events">Best Events in Chicago in November</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong><a href="https://www.themagnificentmile.com/lights-festival" rel="nofollow noopener noreferrer" target="_blank">Magnificent Mile Lights Festival</a></strong> (November 21, 2026) — a full-day event on Michigan Avenue: Lights Festival Lane runs 11 AM-4 PM, the parade starts at 5:30 PM, and fireworks over the river are scheduled around 7:15 PM. This is the unofficial start of Chicago's holiday season.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Christkindlmarket Chicago</strong> (expected around late November; confirm 2026 dates) — the Daley Plaza market usually runs into Christmas Eve, and the opening weekend typically lands in November. For the full breakdown of the market — what to eat, what to buy, how to handle the cold — see the <a href="/chicago-at-christmas/">Chicago at Christmas guide</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><a href="https://www.choosechicago.com/blog/special-events/chicago-thanksgiving-day-parade/" rel="nofollow noopener noreferrer" target="_blank">Chicago Thanksgiving Parade</a></strong> (November 26, 2026) — runs along State Street from 8 AM to 11 AM, with marching bands, floats, and balloons in the classic Thanksgiving-parade format.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hotels">Hotel Prices and Crowds</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Split the month in half when thinking about cost. Early to mid-November often runs below October's already-reasonable rates because it is past Marathon and Halloween demand and has not fully hit the holiday season yet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thanksgiving week changes that: parade attendance, family travel, the Lights Festival, and the expected start of Christkindlmarket season all land in the same handful of days, and pricing responds accordingly. If budget matters more than holiday atmosphere, book the first three weeks; if the holiday kickoff is the point, expect to pay more for it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Dress for real cold by late November:</strong> a proper coat, not just a jacket — wind off the lake makes the actual temperature feel colder.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Build in indoor time:</strong> the <a href="/art-institute-chicago-free-days/">Art Institute</a> and other museums are a natural fit for a cold-weather day that isn't built entirely around outdoor sightseeing.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Decide your week deliberately:</strong> early-to-mid November and Thanksgiving week are close to two different trips — pick the one that matches what you actually want.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book Thanksgiving-week hotels early:</strong> the overlap of the parade, the Lights Festival, and the expected holiday-market kickoff compress demand into one specific week.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay:</strong> the <a href="/where-to-stay-in-chicago-7-best-areas-hotels/">where to stay in Chicago guide</a> covers the neighborhoods — the Loop and River North put you closest to the Lights Festival and Christkindlmarket if that's the draw.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-chicago">More from Chicago</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If Christkindlmarket and the holiday season are the real reason for a November-into-December trip, the <a href="/chicago-at-christmas/">Chicago at Christmas guide</a> covers all of it in depth. For the wider trip, the <a href="/3-days-in-chicago-itinerary/">3-day Chicago itinerary</a> and the <a href="/chicago-bucket-list-25-best-things-to-do/">Chicago bucket list guide</a> round out what to prioritize regardless of season. If your dates are flexible, the <a href="/chicago-in-october/">Chicago in October guide</a> covers the milder, marathon-month alternative.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is November a good time to visit Chicago?</summary><!-- wp:paragraph -->
+<p>It depends which week. Early to mid-November is quiet and generally the cheapest stretch of the fall calendar. Thanksgiving week is festive but busier and pricier, with the Lights Festival, Christkindlmarket's opening, and the Thanksgiving Parade all landing close together.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the weather like in Chicago in November?</summary><!-- wp:paragraph -->
+<p>Average highs drop from around 56°F early in the month to the low-to-mid 40s by the end, with lows in the 30s. Wind off Lake Michigan can make it feel colder than the forecast temperature. A real winter coat is appropriate by late November.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>When does Christkindlmarket open in Chicago?</summary><!-- wp:paragraph -->
+<p>Christkindlmarket Chicago usually opens in late November and runs into Christmas Eve at Daley Plaza in the Loop, but the 2026 opening date should be confirmed on the official market calendar before you plan around it. The opening weekend usually falls in November even though most of the market's run is in December.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Are hotel prices higher during Thanksgiving week in Chicago?</summary><!-- wp:paragraph -->
+<p>Yes. Thanksgiving week combines parade attendance, family travel, the Lights Festival, and the expected start of Christkindlmarket season, which can raise both demand and pricing compared with earlier weeks in November.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is November a good time to visit Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends which week. Early to mid-November is quiet and generally the cheapest stretch of the fall calendar. Thanksgiving week is festive but busier and pricier, with the Lights Festival, Christkindlmarket's opening, and the Thanksgiving Parade all landing close together."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the weather like in Chicago in November?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Average highs drop from about 55F at the start of the month to about 42F by November 30, with lows sliding from around 40F to about 29F. Wind off Lake Michigan can make it feel colder than the forecast temperature. A real winter coat is appropriate by late November."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When does Christkindlmarket open in Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Christkindlmarket Chicago usually opens in late November and runs into Christmas Eve at Daley Plaza in the Loop, but the 2026 opening date should be confirmed on the official market calendar before you plan around it. The opening weekend usually falls in November even though most of the market's run is in December."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are hotel prices higher during Thanksgiving week in Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Thanksgiving week combines parade attendance, family travel, the Lights Festival, and the expected start of Christkindlmarket season, which can raise both demand and pricing compared with earlier weeks in November."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+

@@ -1,0 +1,404 @@
+<!-- wp:image {"id":1599,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/david-edelstein-N4DbvTUDikw-unsplash-1024x683.jpg" alt="Laptop and notebook on a desk while planning a Japan travel budget" class="wp-image-1599"/><figcaption class="wp-element-caption">Planning your Japan trip budget — from Tokyo to Osaka in 10 days</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Japan has a reputation for being expensive. That reputation is about 30% accurate. Yes, flights are long and not cheap. But once you're there, a bowl of ramen costs $8, a subway ride costs $2, and a mid-range hotel room in Tokyo runs $130–170 a night — not dramatically different from a comparable room in London or Paris. The "Japan is expensive" myth mostly comes from people who conflate flight cost with in-country cost, or who stayed somewhere with a shrine view and wondered why the room was $400.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This breakdown covers a realistic 10-day Japan trip — Tokyo, one night in Hakone, Kyoto, Osaka — for a traveler who wants comfort without luxury: good hotels, great food, the experiences worth paying for, and not throwing money away on things that don't matter. All USD figures are planning ranges based on 2025–2026 pricing, and Japanese yen exchange rates can move enough to change the final number.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"affiliate-disclosure"} -->
+<p><em>This post contains affiliate links. If you book or buy something through them, I may earn a small commission — at no extra cost to you. I only link to tools and booking options that fit the planning decision in this guide.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you go — quick links</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Where to stay</strong> — <a href="https://www.expedia.com/Hotel-Search?destination=Tokyo+Japan" target="_blank" rel="nofollow noopener noreferrer">Expedia →</a> or <a href="https://www.booking.com/searchresults.html?ss=Tokyo" target="_blank" rel="nofollow noopener noreferrer">Booking.com →</a> — free cancellation strategy explained below; book ryokans 2–3 months out</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Best guided tours</strong> — <a href="https://www.viator.com/Japan/d16-ttd?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=japan-travel-costs" target="_blank" rel="sponsored noopener noreferrer">Browse Japan tours on Viator →</a> — tea ceremony and Ghibli slots sell out weeks ahead, especially in spring and fall</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel card</strong> — <a href="https://wise.com/" target="_blank" rel="nofollow noopener noreferrer">Wise →</a> — useful for withdrawing yen and avoiding the worst bank exchange-rate markups; check current fee limits before you travel</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>eSIM</strong> — <a href="https://www.airalo.com/japan-esim" target="_blank" rel="nofollow noopener noreferrer">Airalo Japan eSIM →</a> — install before you fly so you can get online as soon as your phone connects after landing</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel insurance</strong> — <a href="https://www.worldnomads.com/travel-insurance/" target="_blank" rel="nofollow noopener noreferrer">World Nomads →</a> — compare medical, cancellation, and activity wording before choosing a policy</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:rank-math/toc-block {"title":"In This Guide","headings":[{"key":"3a2b3629-b456-4f0f-8091-e7a3ed775224","content":"Japan Travel Costs at a Glance","level":2,"link":"#numbers","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"c0d0a071-69a3-491b-887a-acabbe9397c3","content":"Flights to Japan","level":2,"link":"#flights","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"6d1d42e8-a085-4173-a1c7-79050f4afbeb","content":"The JR Pass: Worth It?","level":2,"link":"#jr-pass","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"eb6ec5fd-a839-46c4-b94e-813ae7791cba","content":"Accommodation Costs","level":2,"link":"#accommodation","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"71227791-29fb-46ad-85a5-6e15f31cf3a8","content":"Food Budget","level":2,"link":"#food","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"9afdce2c-e444-4937-85bd-c65cfcd30ee8","content":"Activities and Entrance Fees","level":2,"link":"#activities","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"68049af3-e863-4a0d-89bd-58490866426f","content":"Getting Around in Cities","level":2,"link":"#getting-around","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"7b2fe91a-0765-435b-ad3a-6556e9a5e36a","content":"Your 10-Day Japan Budget: What It Actually Adds Up To","level":2,"link":"#full-budget","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"d0327c6d-80f7-47fd-bee8-578ff79fbed7","content":"How to Spend Less Without Ruining the Trip","level":2,"link":"#spend-less","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"fbd47ad6-bea8-41a4-a7bb-4580a8683865","content":"Practical Tools for Japan","level":2,"link":"#practical-tools","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"78771156-a4d2-422d-be82-a9a03870b23d","content":"Frequently Asked Questions","level":2,"link":"#faq","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"8a4957ec-ba19-433a-9178-8025f4a6ee54","content":"Is Japan expensive for American travelers?","level":3,"link":"#is-japan-expensive-for-american-travelers","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"ca58468b-e862-4958-a144-4d59fcd1f771","content":"How much spending money do I need for 10 days in Japan?","level":3,"link":"#how-much-spending-money-do-i-need-for-10-days-in-japan","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"565616b3-66c1-49fa-a879-463c96c5a116","content":"Is the JR Pass worth it for a 10-day trip?","level":3,"link":"#is-the-jr-pass-worth-it-for-a-10-day-trip","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"caa8b318-8b24-406f-b66d-e3601d2a20dd","content":"What's the cheapest time to visit Japan?","level":3,"link":"#whats-the-cheapest-time-to-visit-japan","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"7ab3d96d-edd2-4051-94c4-eedf46259356","content":"Do I need a lot of cash in Japan?","level":3,"link":"#do-i-need-a-lot-of-cash-in-japan","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"b269010e-ac06-404d-b6ea-0a0a72729ead","content":"How much does a ryokan night cost?","level":3,"link":"#how-much-does-a-ryokan-night-cost","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"1a16682a-db81-4b7c-aac9-ec3b7bc5caed","content":"More Japan Travel Guides","level":2,"link":"#more-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><h2>In This Guide</h2><nav><ul><li class=""><a href="#numbers">Japan Travel Costs at a Glance</a></li><li class=""><a href="#flights">Flights to Japan</a></li><li class=""><a href="#jr-pass">The JR Pass: Worth It?</a></li><li class=""><a href="#accommodation">Accommodation Costs</a></li><li class=""><a href="#food">Food Budget</a></li><li class=""><a href="#activities">Activities and Entrance Fees</a></li><li class=""><a href="#getting-around">Getting Around in Cities</a></li><li class=""><a href="#full-budget">Your 10-Day Japan Budget: What It Actually Adds Up To</a></li><li class=""><a href="#spend-less">How to Spend Less Without Ruining the Trip</a></li><li class=""><a href="#practical-tools">Practical Tools for Japan</a></li><li class=""><a href="#faq">Frequently Asked Questions</a><ul><li class=""><a href="#is-japan-expensive-for-american-travelers">Is Japan expensive for American travelers?</a></li><li class=""><a href="#how-much-spending-money-do-i-need-for-10-days-in-japan">How much spending money do I need for 10 days in Japan?</a></li><li class=""><a href="#is-the-jr-pass-worth-it-for-a-10-day-trip">Is the JR Pass worth it for a 10-day trip?</a></li><li class=""><a href="#whats-the-cheapest-time-to-visit-japan">What's the cheapest time to visit Japan?</a></li><li class=""><a href="#do-i-need-a-lot-of-cash-in-japan">Do I need a lot of cash in Japan?</a></li><li class=""><a href="#how-much-does-a-ryokan-night-cost">How much does a ryokan night cost?</a></li></ul></li><li class=""><a href="#more-guides">More Japan Travel Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:paragraph -->
+<p>The map below shows the 10-day Japan route this budget is based on: Tokyo, Hakone, Kyoto, Osaka, and an optional Nara day trip. I use this route because it is one of the most common first-time Japan itineraries, and it makes the main cost decisions easier to understand — especially hotels, ryokan stays, and long-distance train tickets.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1w4-Gopovhn_y2m5tsxvFeZbmUJFoYHw&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="numbers">Japan Travel Costs at a Glance</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Before the full breakdown: here's what a 10-day Japan trip actually costs per person, including flights from the US.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Category</th><th>Budget traveler</th><th>Mid-range (comfort)</th><th>Splurge</th></tr></thead><tbody><tr><td>Flights (RT, US)</td><td>$700–900</td><td>$900–1,200</td><td>$1,500+</td></tr><tr><td>Accommodation (per night)</td><td>$60–90</td><td>$130–180</td><td>$250–500+</td></tr><tr><td>Long-distance trains / pass decision</td><td>$220–320</td><td>$300–500</td><td>$600+</td></tr><tr><td>Food (per day)</td><td>$25–35</td><td>$50–75</td><td>$100+</td></tr><tr><td>Activities (per day)</td><td>$15–25</td><td>$35–55</td><td>$80+</td></tr><tr><td>City transport (per day)</td><td>$5–8</td><td>$8–12</td><td>$15+</td></tr><tr><td><strong>10-day total (per person)</strong></td><td><strong>$2,400–3,200</strong></td><td><strong>$3,800–5,200</strong></td><td><strong>$6,500+</strong></td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>The mid-range column is what most first-time visitors to Japan actually spend — and what this guide is built around. You're staying in proper hotels, eating well (including some nicer dinners), doing the worthwhile paid experiences, and not counting every yen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="flights">Flights to Japan</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Flights are the largest single cost of a Japan trip, and also the most variable. From the US West Coast (Los Angeles, San Francisco, Seattle), expect to pay <strong>$700–1,000 round trip</strong> in shoulder season — March, May, September, early October. From the East Coast, add $150–250. Peak cherry blossom season (late March to mid-April) and Golden Week (late April–early May) push prices $300–500 higher and are genuinely harder to book.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The best deals typically appear 3–4 months out on Japan Airlines, ANA, and United's nonstop routes. One thing worth knowing: some carriers offer free stopovers in hub cities — Finnair through Helsinki, Korean Air through Seoul, JAL through Tokyo on the way to Osaka. These can add a city to your trip at essentially no extra flight cost. Worth looking into if you're flexible on routing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="jr-pass">The JR Pass: Worth It?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1600,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/fikri-rasyid-3ba59K57wE4-unsplash-1024x576.jpg" alt="Shinkansen bullet train at a platform in Japan for long-distance travel between Tokyo Kyoto and Osaka" class="wp-image-1600"/><figcaption class="wp-element-caption">The Shinkansen bullet train — essential transport for the Tokyo–Kyoto–Osaka route</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>First, the important correction: there is no 10-day national JR Pass. The nationwide pass comes in 7-day, 14-day, and 21-day versions. In 2026, the ordinary adult price is <strong>50,000 yen for 7 days</strong> and <strong>80,000 yen for 14 days</strong> when bought through the official online system or an overseas JR-designated agency. Check the <a href="https://japanrailpass.net/en/purchase/price/" rel="nofollow noopener noreferrer" target="_blank">official Japan Rail Pass price table</a> before you buy because yen exchange rates change.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For a standard Tokyo → Hakone → Kyoto → Osaka first trip, the nationwide JR Pass does <strong>not</strong> automatically pay for itself anymore. Individual shinkansen tickets plus an IC card are often cheaper and simpler unless you add a long-distance side trip such as Hiroshima, Miyajima, or multiple extra rail days. Do the route math before buying: the pass is useful when it replaces several expensive intercity journeys, not when it is used as a general city-transport card.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Full route planning and what to skip: see our <a href="/japan-10-day-itinerary">Japan 10-day itinerary guide</a> — it covers how the Tokyo, Hakone, Kyoto, and Osaka sequence works, and why Hakone needs extra attention because part of the route uses private rail rather than JR.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="accommodation">Accommodation Costs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1602,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/owen-roth-SETVBREfkPY-unsplash-edited-scaled.jpg" alt="Traditional Japanese ryokan room in Hakone with tatami flooring and low table" class="wp-image-1602"/><figcaption class="wp-element-caption">A traditional ryokan in Hakone — tatami floors, onsen, kaiseki dinner, and Mt. Fuji views</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Mid-range hotels in Tokyo and Kyoto run <strong>$130–180 per night</strong> for a comfortable room in a central location. This gets you a clean, well-run property with good transport access — not a budget capsule hotel, but not a hotel where the lobby has a fountain either. Osaka tends to run slightly cheaper for equivalent quality: $110–150 for the same standard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The one exception where you should spend more: <strong>ryokans in Hakone</strong>. A proper ryokan — tatami floors, yukata robes, multi-course kaiseki dinner, private or semi-private onsen — runs $280–550 per person per night including dinner and breakfast. It's a lot. It's also unlike anything else you'll do on the trip, and most people who skip it for budget reasons come home wishing they hadn't. One night is enough. Book 2–3 months out — the good ones fill well in advance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For Tokyo, Shinjuku gives you the best balance of train access and neighborhood atmosphere. Shibuya is slightly more expensive for the same quality. If you're trying to control costs without sacrificing the experience, Shinjuku is where to base yourself. Browse options for your dates: <a href="https://www.expedia.com/Hotel-Search?destination=Shinjuku+Tokyo+Japan" rel="nofollow noopener noreferrer" target="_blank">Expedia →</a> or <a href="https://www.booking.com/searchresults.html?ss=Shinjuku%2C+Tokyo" rel="nofollow noopener noreferrer" target="_blank">Booking.com →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The free cancellation strategy works well in Japan: book refundable rates 6–8 weeks out, recheck prices 2 weeks before your trip. Prices sometimes drop, and you can rebook if they do. The good mid-range properties in Kyoto during fall foliage season (November) fill up fully by September — don't wait on those.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="food">Food Budget</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1603,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/crystal-jo-TWTxHN2QIGc-unsplash-1024x768.jpg" alt="Bowl of ramen in Tokyo with pork egg seaweed and green onions" class="wp-image-1603"/><figcaption class="wp-element-caption">A proper ramen bowl in Tokyo costs $8–12 — exceptional value for the quality</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Japan is one of the best-value food destinations in the world at the mid-range level. A proper bowl of ramen from a good shop: $8–12. A sit-down sushi lunch (not conveyor belt, not omakase — a real sushi restaurant): $25–40 per person. A casual izakaya dinner with drinks: $30–45 per person. The food costs feel extraordinarily low for the quality.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Budget $50–70 per person per day for food if you're eating well — meaning a nice lunch, a sit-down dinner, plenty of snacks from konbini and market stalls. Budget $75–100 if you want to do a few special dinners. Tsukiji Outer Market for breakfast, a kaiseki dinner in Kyoto once — these are genuinely not as expensive as they sound if you book at lunch service instead of dinner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One thing that surprises most people: <strong>convenience store food in Japan is legitimately good.</strong> 7-Eleven onigiri, FamilyMart egg sandwiches, Lawson's sandwiches — these are $1–3 meals that are actually delicious. Don't feel like you're compromising by eating konbini food; you're just doing what most people in Japan do for weekday lunch.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="activities">Activities and Entrance Fees</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most of Japan's best experiences are either free (Senso-ji Temple, Fushimi Inari, Arashiyama Bamboo Grove, Shibuya Crossing) or very low cost ($5–12 entrance fee for imperial gardens, castles, and most temples). The paid experiences that are genuinely worth budgeting for:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>teamLab digital art museums</strong> — $30–38 per person, book in advance</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Ghibli Museum</strong> — JPY 1,000 for adults through the official advance-reservation system; bundled tours cost more, and there are no walk-in tickets</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Traditional tea ceremony</strong> — $25–60 depending on format (private vs. group)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Nijo Castle, Kinkaku-ji, Fushimi Inari</strong> — $5–10 entrance, no booking needed</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sumo tournament</strong> — $30–60 for proper arena seats when in season</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Day trip to Nikko or Kamakura</strong> — $10–15 transport + $10–20 entrance fees</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":1579,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/05/michael-wu-NsH4kE9zocY-unsplash-1024x768.jpg" alt="Tsukiji Outer Market in Tokyo with seafood stalls and visitors walking through the market" class="wp-image-1579"/><figcaption class="wp-element-caption">Tsukiji Outer Market — fresh seafood, street food, and the best breakfast in Tokyo</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you're going to spend money on one guided experience in Tokyo, make it either the <strong>food tour through Tsukiji and Asakusa</strong> — you'll eat more than you think, and you'll learn where to come back on your own — or a <strong>private tea ceremony</strong> that includes the full preparation ritual, not just a cup. Both of these book up, particularly in spring and fall. The Tsukiji morning market tour runs about $65–80 and includes market snacks, a sushi breakfast, and enough context to make the rest of your Japan food experience land differently. <a href="https://www.viator.com/searchResults/all?text=Tsukiji%20food%20tour%20Tokyo&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=japan-travel-costs-tsukiji" rel="sponsored noopener noreferrer" target="_blank">Check Tsukiji food tour availability on Viator →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Budget roughly $35–55 per person per day for activities across the 10-day trip — some days you'll spend nothing (temple hopping is free), some days you'll spend $60–80 (teamLab plus a tour).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="getting-around">Getting Around in Cities</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Suica or Pasmo IC card covers all subway and bus travel within cities — load it at any station, tap in and out, it works everywhere. A typical day of Tokyo subway use costs $5–10. Osaka is similar. The JR Pass does NOT cover subway lines within cities, only the JR-operated trains (useful for getting between neighborhoods in Tokyo where JR lines run, but not for the subway itself).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Taxis in Japan are immaculate and reliable, and also genuinely expensive — $15–25 for a 10-minute ride. Use them only when trains genuinely don't reach your destination or it's late at night. Uber exists in Japan but is limited outside of major cities and airports.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="full-budget">Your 10-Day Japan Budget: What It Actually Adds Up To</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Here's a realistic per-person breakdown for a mid-range 10-day trip, flying from the US West Coast:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Expense</th><th>Cost (per person)</th><th>Notes</th></tr></thead><tbody><tr><td>Round-trip flights</td><td>$900–1,100</td><td>LAX/SFO, shoulder season</td></tr><tr><td>Long-distance trains / pass decision</td><td>$300–500</td><td>Individual shinkansen tickets for the Tokyo-Hakone-Kyoto-Osaka route; more if adding Hiroshima or a pass</td></tr><tr><td>Hotels (8 nights × $150)</td><td>$1,200</td><td>Shinjuku, Kyoto, Osaka</td></tr><tr><td>Ryokan in Hakone (1 night, incl. dinner + breakfast)</td><td>$350–500</td><td>Non-negotiable recommendation</td></tr><tr><td>Food ($65/day × 10)</td><td>$650</td><td>Mix of casual and sit-down</td></tr><tr><td>Activities ($45/day × 10)</td><td>$450</td><td>teamLab, food tour, tea ceremony, temples</td></tr><tr><td>City transport ($10/day × 10)</td><td>$100</td><td>IC card subway + occasional taxi</td></tr><tr><td>Miscellaneous (SIM, souvenirs, incidentals)</td><td>$150–200</td><td></td></tr><tr><td><strong>Total per person</strong></td><td><strong>$4,100–4,800</strong></td><td>10 days, West Coast departure; train choice changes the final number</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>From the East Coast, add $200–300 to the flight cost. Traveling as a couple, many costs (hotel rooms, museum entrances) split naturally. The per-person number drops if you're sharing accommodation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="spend-less">How to Spend Less Without Ruining the Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If the $4,200–4,600 figure is over your target, here's where to trim without touching the parts that matter:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Book flights in shoulder season.</strong> Japan in May or early October is cheaper and, honestly, better than cherry blossom peak. Fewer crowds, same weather range, flights $200–400 less.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>One ryokan night is enough.</strong> You don't need two. One night in Hakone with dinner and breakfast gives you the full experience; a second night is just expensive repetition.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Eat lunch at sit-down restaurants, not dinner.</strong> Many of Kyoto's kaiseki restaurants serve a lunch course for 40–50% less than the dinner equivalent. Same kitchen, same ingredients, better value.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Skip the guided tours you could do alone.</strong> Fushimi Inari is better solo at 6am. Arashiyama bamboo grove doesn't need explanation. Save the guide budget for Tsukiji or tea ceremony where context genuinely changes the experience.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Stay one train stop out in Tokyo.</strong> Hotels in Shinjuku are cheaper than hotels in Ginza or Omotesando for very similar access. It's a 10-minute ride.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tools">Practical Tools for Japan</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Cash and cards.</strong> Japan is far more card-friendly than it used to be, but cash still matters for smaller restaurants, temple fees, local shops, lockers, and rural stops. 7-Eleven and Japan Post ATMs reliably accept many foreign cards. A multi-currency card such as <a href="https://wise.com/" rel="nofollow noopener noreferrer" target="_blank">Wise</a> can help avoid poor bank exchange rates and foreign transaction fees, but check the current withdrawal limits and fee table before you rely on it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Data and connectivity.</strong> Japan's mobile coverage is excellent across cities and most train routes. The options are pocket wifi rental, a local SIM, or an eSIM. An <a href="https://www.airalo.com/japan-esim" rel="nofollow noopener noreferrer" target="_blank">Airalo Japan eSIM</a> is convenient because you can install it before departure and connect when you land. Typical short-trip data plans often sit in the $8–18 range, but compare current packages before paying.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel insurance.</strong> Japan has excellent healthcare, but visitors are responsible for their own medical costs. If your itinerary includes hiking, winter sports, or remote day trips, read the policy wording carefully rather than assuming every activity is included. <a href="https://www.worldnomads.com/travel-insurance/" rel="nofollow noopener noreferrer" target="_blank">World Nomads</a> is one option to compare; check medical limits, cancellation coverage, evacuation wording, and activity exclusions before buying.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-japan-expensive-for-american-travelers">Is Japan expensive for American travelers?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Japan is moderately expensive — comparable to Western Europe once you're on the ground, and cheaper than Scandinavia. The flight is the biggest cost. In-country daily expenses for a mid-range traveler run $120–180 per person per day including food, transport, and activities, which is reasonable for the quality of experience. The reputation for being very expensive comes from combining flight cost with in-country cost, and from travelers who stayed at high-end ryokans.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-much-spending-money-do-i-need-for-10-days-in-japan">How much spending money do I need for 10 days in Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Budget $1,500–2,000 per person for all on-the-ground expenses over 10 days — food, local transport, activities, and incidentals — not including long-distance trains or flights. This covers eating well (not just convenience stores), doing the paid attractions worth doing, and not stressing about every purchase. Add your intercity train tickets or pass choice, plus your nightly hotel rate, on top.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-the-jr-pass-worth-it-for-a-10-day-trip">Is the JR Pass worth it for a 10-day trip?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Not automatically. For the standard Tokyo → Hakone → Kyoto → Osaka route, individual tickets are often cheaper than a nationwide JR Pass after the price increase. The pass starts making sense when you add expensive extra rail days, such as Hiroshima, Miyajima, or several long-distance side trips. For most first-timers, compare individual shinkansen tickets against the 7-day pass price before buying.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="whats-the-cheapest-time-to-visit-japan">What's the cheapest time to visit Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Late May, June (rainy season but cheaper), and September are the lowest-cost months. Avoid late March to mid-April (cherry blossoms) and late April to early May (Golden Week national holidays) — flights and hotels cost significantly more and popular spots are extremely crowded. Early November offers fall foliage with moderate crowds; late November is better value as tourist season tapers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="do-i-need-a-lot-of-cash-in-japan">Do I need a lot of cash in Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>More than in many card-heavy destinations. Major hotels, stations, convenience stores, and many restaurants accept cards, but smaller restaurants, temples, markets, lockers, and rural stops may still need cash. Withdraw yen at 7-Eleven or Japan Post ATMs, which reliably accept many foreign cards. A low-fee multi-currency card can help reduce exchange-rate costs on repeated withdrawals.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-much-does-a-ryokan-night-cost">How much does a ryokan night cost?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A proper ryokan in Hakone — tatami rooms, kaiseki dinner, onsen access, breakfast included — runs $280–550 per person per night depending on the property and season. Most include dinner and breakfast, so the per-meal cost is less alarming than the room rate suggests. Budget travelers skip it; most people who've been to Japan twice say it was the thing they wished they'd done on the first trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Japan expensive for American travelers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Japan is moderately expensive: comparable to Western Europe once you are on the ground, and cheaper than Scandinavia. The flight is usually the biggest cost. In-country daily expenses for a mid-range traveler often run about $120-180 per person per day including food, local transport, and activities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much spending money do I need for 10 days in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Budget $1,500-2,000 per person for food, local transport, activities, and incidentals over 10 days, not including long-distance trains, accommodation, or flights. Add your intercity train tickets or pass choice and nightly hotel rate on top."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the JR Pass worth it for a 10-day trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not automatically. For a standard Tokyo, Hakone, Kyoto, and Osaka route, individual tickets are often cheaper than a nationwide JR Pass after the price increase. The pass starts making sense when you add expensive extra rail days such as Hiroshima, Miyajima, or several long-distance side trips."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the cheapest time to visit Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Late May, June, and September are often lower-cost periods. Avoid late March to mid-April for cherry blossoms and late April to early May for Golden Week if cost control is the priority."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a lot of cash in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need more cash than in many card-heavy destinations. Major hotels, stations, convenience stores, and many restaurants accept cards, but smaller restaurants, temples, markets, lockers, and rural stops may still need yen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does a ryokan night cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A proper ryokan in Hakone with tatami rooms, kaiseki dinner, onsen access, and breakfast often runs about $280-550 per person per night depending on the property and season."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Japan Travel Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Still planning the trip from scratch? Our <a href="/japan-10-day-itinerary">Japan 10-day itinerary</a> covers the full route from Tokyo to Osaka with day-by-day structure — useful alongside this cost breakdown once you know what you want to spend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Comparing bases before booking? Our <a href="/where-to-stay-in-tokyo/">where to stay in Tokyo guide</a> explains which neighborhoods make sense for a first trip, and our <a href="/best-things-to-do-in-tokyo">best things to do in Tokyo guide</a> helps decide which paid experiences are worth keeping in the budget.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Not sure about the broader trip logistics? Our <a href="/how-to-plan-a-trip">trip planning guide</a> covers booking order, research tools, and the free cancellation strategy that saves most travelers $100–200 per trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Still deciding whether 10 days is enough? Start there — adding more time doesn't always improve the trip, and Japan is one of the destinations where the focus of fewer places, done well, makes the biggest difference.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Japan costs what it costs — but nothing about the price is random or hidden. Plan the numbers before you land, and what you'll actually find is one of the best-value quality travel experiences in the world.</p>
+<!-- /wp:paragraph -->

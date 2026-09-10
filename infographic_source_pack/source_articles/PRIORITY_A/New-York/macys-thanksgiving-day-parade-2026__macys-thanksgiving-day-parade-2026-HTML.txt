@@ -1,0 +1,308 @@
+<!-- wp:image {"id":2741,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/macys-parade-snoopy-balloon-nyc-2.jpg" alt="The Snoopy balloon floating down a Manhattan street during the Macy's Thanksgiving Day Parade, with crowds watching below" class="wp-image-2741"/><figcaption class="wp-element-caption">Snoopy is one of the most recognizable balloons in the parade lineup.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The Macy's Thanksgiving Day Parade first marched through New York in 1924, and 2026 marks its <strong>100th edition</strong>. It is not the parade's 100th anniversary: the event paused from 1942 through 1944, which is why the 100th march falls 102 years after the tradition began.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Macy's has confirmed the milestone celebration for Thanksgiving Day, November 26, 2026. This guide separates what is already confirmed from what still depends on the official 2026 route, public-viewing, balloon-inflation, and broadcast announcements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#2026-parade">The 2026 Parade: Confirmed Date and Expected Route</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-watch">Best Places to Watch in Person</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#balloon-inflation">Watching the Balloon Inflation the Night Before</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#tv-streaming">Watching on TV or Streaming</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-stay">Where to Stay for Parade Weekend</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#what-to-bring">What to Bring If You're Watching In Person</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides">More NYC Guides</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> The 100th Macy's Thanksgiving Day Parade takes place on Thursday, November 26, 2026. Macy's has confirmed the 100th edition, but its full 2026 route, public-viewing zones, balloon-inflation access, and broadcast schedule had not yet been published when this guide was updated in August 2026.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Recent editions have followed a roughly 2.5-mile route from West 77th Street and Central Park West to Macy's Herald Square. Use that as a planning framework only, then check the <a href="https://www.macys.com/s/parade/" target="_blank" rel="noopener noreferrer">official Macy's Parade page</a> before choosing a viewing spot or making a same-day plan.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks for Parade Weekend</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>This is what I'd choose:</strong> if Macy's confirms public access for 2026, I would prioritize the <a href="#balloon-inflation">balloon inflation viewing</a> the night before. It offers a close look at the balloons without committing your entire Thanksgiving morning to one crowded viewing spot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>This is where I'd stay:</strong> <a href="https://expedia.tpm.lv/oq9U9Bpo" target="_blank" rel="sponsored noopener noreferrer">Dream Midtown, by Hyatt on Expedia</a>. It is a short walk from Columbus Circle, making it a practical base if the 2026 route follows the recent Central Park West pattern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Do not assume that every room overlooks the parade. Compare the final total, room category, view description, and cancellation terms for your dates before booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel smarter</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>If you are visiting from abroad, the <a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer"><strong>Wise card</strong></a> can show the exchange rate and applicable fee before you convert or spend. Check current availability and pricing for your home country, and carry a backup payment method.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>For mobile data, you can set up a <a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer"><strong>Telekonek eSIM</strong></a> before departure so maps and subway directions work when you land. Check device compatibility and the current plan terms first; code <strong>MILESANDFLAVORS5</strong> gives 5% off.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="2026-parade">The 2026 Parade: Confirmed Date and Expected Route</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The 100th Macy's Thanksgiving Day Parade takes place on Thursday, November 26, 2026. The parade began in 1924 and paused from 1942 through 1944 during World War II, so 2026 is the 100th individual parade rather than its 100th anniversary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Macy's had not released the final 2026 route when this guide was updated in August. Recent editions have started near West 77th Street and Central Park West, continued toward Columbus Circle and down Sixth Avenue, and finished at Macy's Herald Square. Treat that route as an early planning reference and confirm it on the <a href="https://www.macys.com/s/parade/" target="_blank" rel="noopener noreferrer">official parade page</a> before choosing a hotel or viewing spot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="where-to-watch">Best Places to Watch in Person</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Do not commit to a viewing block until Macy's publishes its official 2026 spectator map. In recent editions, designated stretches of <strong>Central Park West</strong> and <strong>Sixth Avenue</strong> have offered public viewing. The exact turn at <strong>Columbus Circle</strong>, however, has previously been closed to public viewing, so do not build your plan around standing there.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The television production zone around <strong>34th to 38th Street</strong> has also been restricted in previous years, and <strong>Herald Square</strong> is not a dependable public-viewing choice. Once the 2026 map is live, choose a clearly designated public section farther uptown instead of assuming the finish area will be accessible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For recent parades, spectators aiming for a front-row position have arrived around 6 a.m. Expect security controls, road closures, and dense crowds, but verify the final 2026 access guidance before deciding when and where to arrive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2742,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/nyc-winter-crowd-street-cold-2.jpg" alt="A bundled-up crowd filling a New York City street on a cold, sunny winter morning" class="wp-image-2742"/><figcaption class="wp-element-caption">Bundle up — you'll likely be standing outside for hours before the parade reaches your spot.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="balloon-inflation">Watching the Balloon Inflation the Night Before</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The balloon inflation has traditionally taken place near the American Museum of Natural History on the day before Thanksgiving. If Macy's opens it to the public again, the expected date would be <strong>Wednesday, November 25, 2026</strong>. It can be a better fit than parade morning if you want to see the balloons up close without spending most of Thanksgiving at one viewing spot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The exact 2026 hours, entrance, security rules, and public-access details were not yet confirmed when this guide was updated. Recent editions have used a controlled entrance near West 72nd Street and Columbus Avenue, but check the official Macy's announcement before traveling across the city. If access is confirmed, arrive early and expect substantial crowds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="tv-streaming">Watching on TV or Streaming</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NBCUniversal has confirmed coverage of the 100th parade, but the final 2026 airtime, Peacock availability, and any encore schedule were not yet posted when this guide was updated. Recent editions have aired from <strong>8:30 a.m. to noon</strong> across U.S. time zones. Check NBC or Peacock closer to Thanksgiving before planning your morning around that schedule.</p>
+
+<!-- wp:paragraph -->
+<p>Watching from home is the more comfortable way to see the televised performances and the full lineup. Watching in person gives you the street-level atmosphere, but only the section that passes your particular spot.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="where-to-stay">Where to Stay for Parade Weekend</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If the 2026 route follows the recent Central Park West pattern, staying near Midtown or the south end of Central Park can reduce your dependence on crowded parade-morning transit. <a href="https://expedia.tpm.lv/oq9U9Bpo" target="_blank" rel="sponsored noopener noreferrer">Dream Midtown, by Hyatt on Expedia</a> is a short walk from Columbus Circle and gives you several subway options after the parade.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If public balloon-inflation access is confirmed, an Upper West Side hotel may be more convenient for the evening event. Wherever you stay, do not assume a room has a parade view unless that exact room category says so. Compare the final price, location, cancellation terms, and recent guest reviews before booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="what-to-bring">What to Bring If You're Watching In Person</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Late November in New York can be cold, and you may be standing outside for hours before the parade reaches your block. Dress in warm layers, wear comfortable shoes, and bring hand warmers if you tend to feel the cold.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A portable phone charger is useful because cold weather and frequent photos can drain your battery quickly. Bathroom access is limited, and subway stations near the route can be extremely crowded before and after the parade, so build extra time into both journeys.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Review the official 2026 security guidance before leaving your hotel. Previous editions have restricted items such as folding chairs, umbrellas, backpacks, and large bags, but the current rules should be your final reference.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>When is the Macy's Thanksgiving Day Parade in 2026?</summary><!-- wp:paragraph -->
+<p>The 100th Macy's Thanksgiving Day Parade takes place on Thursday, November 26, 2026. Macy's had confirmed the date and milestone edition, but the final 2026 route was still pending when this guide was updated.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is 2026 really the 100th Macy's Thanksgiving Day Parade?</summary><!-- wp:paragraph -->
+<p>Yes. It is the 100th individual parade, not the event's 100th anniversary. The tradition began in 1924 and paused from 1942 through 1944 during World War II, so the 100th march takes place 102 years after the first one.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Where is the best place to watch the Macy's parade in person?</summary><!-- wp:paragraph -->
+<p>Wait for Macy's official 2026 spectator map before choosing a block. Previous editions have designated parts of Central Park West and Sixth Avenue for public viewing, while the exact Columbus Circle turn, the television production zone near 34th to 38th Street, and Herald Square have not been dependable public-viewing locations.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Can I watch the balloons get inflated before the parade?</summary><!-- wp:paragraph -->
+<p>The balloon inflation traditionally takes place near the American Museum of Natural History on the day before Thanksgiving, making November 25 the expected 2026 date. Public access, hours, entrance details, and security rules were still awaiting official confirmation when this guide was updated.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What time is the Macy's parade on TV?</summary><!-- wp:paragraph -->
+<p>NBCUniversal has confirmed coverage of the 100th parade, but the exact 2026 airtime, Peacock availability, and encore schedule were still pending when this guide was updated. Recent editions have aired from 8:30 a.m. to noon across U.S. time zones.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the Macy's Thanksgiving Day Parade in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 100th Macy's Thanksgiving Day Parade takes place on Thursday, November 26, 2026. Macy's had confirmed the date and milestone edition, but the final 2026 route was still pending when this guide was updated."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 2026 really the 100th Macy's Thanksgiving Day Parade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. It is the 100th individual parade, not the event's 100th anniversary. The tradition began in 1924 and paused from 1942 through 1944 during World War II, so the 100th march takes place 102 years after the first one."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is the best place to watch the Macy's parade in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wait for Macy's official 2026 spectator map before choosing a block. Previous editions have designated parts of Central Park West and Sixth Avenue for public viewing, while the exact Columbus Circle turn, the television production zone near 34th to 38th Street, and Herald Square have not been dependable public-viewing locations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I watch the balloons get inflated before the parade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The balloon inflation traditionally takes place near the American Museum of Natural History on the day before Thanksgiving, making November 25 the expected 2026 date. Public access, hours, entrance details, and security rules were still awaiting official confirmation when this guide was updated."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What time is the Macy's parade on TV?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NBCUniversal has confirmed coverage of the 100th parade, but the exact 2026 airtime, Peacock availability, and encore schedule were still pending when this guide was updated. Recent editions have aired from 8:30 a.m. to noon across U.S. time zones."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="more-guides">More NYC Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Filling out a Thanksgiving week trip to New York:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/thanksgiving-in-nyc/">Thanksgiving in NYC: What's Open, What Closes, and What to Do</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-at-christmas/">NYC at Christmas: What's Actually Worth It</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/25-best-things-to-do-in-nyc/">25 Best Things to Do in NYC: An Honest First-Timer List</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/empire-state-building-vs-top-of-the-rock/">Empire State Building vs Top of the Rock: Which Is Worth It?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/central-park-nyc-guide/">Central Park NYC: The Complete Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-travel-costs/">NYC Travel Costs: What a Real Trip Actually Costs</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>The 100th Macy's Thanksgiving Day Parade is a real milestone, but the best plan depends on details Macy's has not yet finalized publicly. If balloon-inflation access is confirmed, that would be my first choice for a close-up experience with less commitment than parade morning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For parade day, wait for the official spectator map, choose a designated public-viewing section, dress for a long cold morning, and avoid building your plan around the television production zone near Herald Square.</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,240 @@
+<!-- wp:image {"id":2687,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/barcelona-at-christmas-gothic-alley-lights.jpg" alt="A narrow Gothic Quarter alley in Barcelona strung with warm string lights at night, with people walking below" class="wp-image-2687"/><figcaption class="wp-element-caption">The Gothic Quarter after dark is the reason to save Day 1's evening for wandering, not a restaurant reservation.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Two days is genuinely enough to get the best of Barcelona at Christmas, as long as you don't try to force every neighborhood into both of them. I split mine between the old city — Fira de Santa Llúcia, the Cathedral, the Gothic Quarter's lit alleys — and the Eixample, where Sagrada Família gets its own small Christmas market and Passeig de Gràcia gets its own string of lights.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is the practical, hour-by-hour version. For the fuller picture — the Catalan traditions, what's open over the holidays, what to pack — see <a href="/barcelona-at-christmas/">Barcelona at Christmas: Mild Days, Century-Old Markets, No Heavy Coat</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#day-1">Day 1: The Gothic Quarter and Fira de Santa Llúcia</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#day-2">Day 2: Sagrada Família and the Eixample</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#extending">If You Have a Third Day</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-stay">Where I'd Stay</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides">More Barcelona Guides</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Day 1 covers the Gothic Quarter, Barcelona Cathedral, and Fira de Santa Llúcia — the centuries-old Christmas market that's been running since 1786. Day 2 covers Sagrada Família (book the timed ticket ahead), its own smaller Christmas market, and an evening walk down Passeig de Gràcia for the lights. Both markets traditionally run from late November through December 23, so confirm the current-year dates before you land. December in Barcelona stays mild — around 58°F (14.3°C) by day — so this is a genuinely comfortable two days on foot.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks for This Itinerary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>This is what I'd book for Day 1:</strong> the <a href="https://www.viator.com/tours/Barcelona/Barcelona-Christmas-Tour/d562-420878P3?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=barcelona-christmas-itinerary" target="_blank" rel="sponsored noopener noreferrer">Barcelona Christmas Lights and Hidden Streets Walking Tour on Viator</a> — a two-hour small-group route through the Gothic Quarter and Fira de Santa Llúcia, with local Christmas treats included, that does the context-setting for you before you spend the rest of the day wandering on your own.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> the traditions explained as you go, rather than piecing them together yourself afterward.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> two hours is short enough to slot in early on Day 1, and it ends inside Fira de Santa Llúcia so you can keep browsing right after.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you'd rather wander the market solo — it's small and easy without a guide.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before booking:</strong> confirm the current meeting point and cancellation terms for your date.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Where I'd stay:</strong> <a href="https://expedia.tpm.lv/AJMKIyfC" target="_blank" rel="sponsored noopener noreferrer">H10 Montcada Boutique Hotel on Expedia</a>, between El Born and the Gothic Quarter — a short walk from the Cathedral and Fira de Santa Llúcia, which makes Day 1 of this itinerary almost entirely walkable from your door. It held a 9.4 out of 10 rating from more than 1,000 reviews when I checked. Compare the exact room type and total price for your dates before booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel smarter</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>The <a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer"><strong>Wise card</strong></a> shows the exchange rate and fee before you spend — check current availability for your home country.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Set up a <a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer"><strong>Telekonek eSIM</strong></a> before you land so maps work from the airport. Code <strong>MILESANDFLAVORS5</strong> gives 5% off.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="day-1">Day 1: The Gothic Quarter and Fira de Santa Llúcia</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I'd start late morning at <strong>Barcelona Cathedral</strong> and <strong>Fira de Santa Llúcia</strong>, the market that's been running in the square in front of it since 1786. It's not a large market — around 300 stalls — so give it 20 to 30 minutes rather than a whole morning, browsing the nativity figurines, wreaths, and the <em>caganer</em> figures that show up at nearly every stall once you know to look for them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>From there, spend the rest of the day just walking the <strong>Gothic Quarter</strong> itself. This is where the season actually shows: narrow medieval streets strung with lights, small squares good for sitting with a coffee, and the kind of wandering that doesn't need a fixed plan. Save it for after dark if you can — the lights over the alleys are the whole point.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Break for lunch somewhere in the Born, a short walk from the Cathedral, and use the afternoon to duck into shop windows for Caga Tió displays — you'll start recognizing the wooden log with the painted face everywhere once you've seen the first one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="day-2">Day 2: Sagrada Família and the Eixample</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<!-- wp:image {"id":2688,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/barcelona-at-christmas-sagrada-familia.jpg" alt="The Sagrada Família towers rising against a clear blue sky in Barcelona" class="wp-image-2688"/><figcaption class="wp-element-caption">Book Sagrada Família's timed entry before you land — this is the one reservation on the trip I wouldn't leave to chance.</figcaption></figure>
+<!-- /wp:image -->
+
+<p>Book your <strong>Sagrada Família</strong> timed entry before you land — this is the one reservation on the whole trip I wouldn't leave to chance. Go in the morning while the light through the stained glass is strongest, and budget at least 90 minutes inside.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On your way out, the smaller <strong>Christmas market at Sagrada Família</strong> is worth ten minutes even if you weren't planning on it — the most recent edition had around 78 stalls with trees, nativity pieces, and artisan food, a smaller and more modern-feeling market than Fira de Santa Llúcia. It's an add-on to the basilica visit, not a separate trip across the city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Spend the afternoon on <strong>Passeig de Gràcia</strong> — Casa Batlló and Casa Milà are both here if you want a Gaudí double bill, and the avenue's own Christmas lights are worth timing for early evening. Finish the day walking back toward the center as the lights come on properly; this is the kind of Barcelona evening that doesn't need a reservation, just comfortable shoes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="extending">If You Have a Third Day</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If your trip lines up with early January, the <strong>Cavalcada de Reis</strong> on the evening of January 5 is worth staying for — the Three Kings traditionally arrive by boat at Port Vell before a parade through the city. Otherwise, a third day is a good time to slow down: Montjuïc's viewpoints, a longer lunch, or simply revisiting the Gothic Quarter without a checklist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="where-to-stay">Where I'd Stay</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For this specific two-day route, I'd stay in or near the Gothic Quarter or the Born — it puts Day 1 almost entirely within walking distance, and you're still a straightforward metro ride from Sagrada Família and the Eixample for Day 2. That's exactly why <a href="https://expedia.tpm.lv/AJMKIyfC" target="_blank" rel="sponsored noopener noreferrer">H10 Montcada Boutique Hotel on Expedia</a> made my shortlist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is 2 days enough for Barcelona at Christmas?</summary><!-- wp:paragraph -->
+<p>Yes, for the main seasonal highlights. Two days covers Fira de Santa Llúcia, the Gothic Quarter, Sagrada Família and its own Christmas market, and Passeig de Gràcia's lights. A third day works well if it lines up with the Cavalcada de Reis on January 5, or if you just want a slower pace.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Do I need to book Sagrada Família in advance for a Christmas trip?</summary><!-- wp:paragraph -->
+<p>Yes. Sagrada Família uses timed-entry tickets year-round, and the holiday season is a busy period. Book before you land rather than trying to get tickets on arrival.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What order should I see Barcelona's Christmas markets in?</summary><!-- wp:paragraph -->
+<p>Fira de Santa Llúcia by the Cathedral works well on Day 1 since it's in the old city alongside the Gothic Quarter. The smaller Sagrada Família market fits naturally on Day 2, right after your timed basilica visit, since it's steps from the entrance.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is 2 days enough for Barcelona at Christmas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for the main seasonal highlights. Two days covers Fira de Santa Llucia, the Gothic Quarter, Sagrada Familia and its own Christmas market, and Passeig de Gracia's lights. A third day works well if it lines up with the Cavalcada de Reis on January 5, or if you just want a slower pace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to book Sagrada Familia in advance for a Christmas trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Sagrada Familia uses timed-entry tickets year-round, and the holiday season is a busy period. Book before you land rather than trying to get tickets on arrival."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What order should I see Barcelona's Christmas markets in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fira de Santa Llucia by the Cathedral works well on Day 1 since it's in the old city alongside the Gothic Quarter. The smaller Sagrada Familia market fits naturally on Day 2, right after your timed basilica visit, since it's steps from the entrance."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="more-guides">More Barcelona Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/barcelona-at-christmas/">Barcelona at Christmas: Mild Days, Century-Old Markets, No Heavy Coat</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/sagrada-familia-towers-worth-it/">Sagrada Família Towers: Are the Tower Tickets Worth It?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/casa-mila-vs-casa-batllo/">Casa Milà vs Casa Batlló: Which Gaudí House Should You Visit?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/gothic-quarter-barcelona-at-night-safe/">Is the Gothic Quarter Safe at Night?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/la-boqueria-market-tourist-trap/">La Boqueria Market: Tourist Trap or Worth It?</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Two days, two neighborhoods, and a genuinely comfortable amount of walking between them — that's the whole shape of this trip. Book Sagrada Família before you land, save the Gothic Quarter for after dark, and let the mild weather do the rest.</p>
+<!-- /wp:paragraph -->

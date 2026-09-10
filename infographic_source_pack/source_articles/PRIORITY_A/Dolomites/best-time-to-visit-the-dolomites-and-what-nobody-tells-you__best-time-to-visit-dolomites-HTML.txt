@@ -1,0 +1,442 @@
+﻿<!-- wp:image {"id":1458,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/willdwind-william-martret-gB6hdqxoqSk-unsplash-1024x769.jpg" alt="September mountain view in the Dolomites with quiet trails and dramatic peaks" class="wp-image-1458"/><figcaption class="wp-element-caption">September in the Dolomites: the light is different, the trails are quieter, and you can actually stop and breathe.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you're trying to figure out the best time to visit the Dolomites, I'll give you my honest answer upfront: it's September. Not July, not August — even though that's when most people go.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We visited the Lago di Braies area ourselves, and I've done enough research (and made enough booking mistakes) to tell you that timing here matters more than almost anywhere else in Europe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Dolomites are genuinely extraordinary, but the peak summer crowds can turn a dream trip into a stressful parking hunt. Here's what actually helps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#month-by-month">Month-by-Month Snapshot: Weather, Crowds, and Prices</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#summer-dolomites">Summer in the Dolomites (July–August)</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#shoulder-season">June and September: The Shoulder Season Sweet Spot</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#spring-dolomites">Spring (April–May)</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#winter-dolomites">Winter (December–March)</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#what-nobody-tells-you">What Nobody Tells You About Timing</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#when-to-go">When to Go Based on What You Actually Want</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#how-to-book">How to Book: The Strategy That Works</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides">More Guides for Your Dolomites Trip</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> The best time to visit the Dolomites is September for most travelers. You still get open trails, mountain huts, cable cars, and comfortable hiking weather, but with fewer crowds and better hotel prices than July or August. Late June is the second-best choice if you want wildflowers and long days. I would avoid August unless school holidays are your only option.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"46px"} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-time-a-dolomites-trip">How I'd time a Dolomites trip</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If I were booking today for a September window, I'd lock in the car and a flexible-rate hotel first — both get more expensive and less available the closer you get to shoulder season.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">Discover Cars</a> is where I'd start — compare airport pickup rates at Malpensa, Verona, or Venice before you book accommodation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For a base, <a href="https://expedia.tpm.lv/Zt7vvRcm" target="_blank" rel="sponsored noopener noreferrer">Hotel Continental Dolomites</a> in Selva di Val Gardena is a solid, flexible-rate pick with breakfast included.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And if I only had a few days, I'd remove the route-planning stress with <a href="https://www.viator.com/tours/Venice/Private-Guided-Tour-in-the-Dolomites-from-Venice/d522-408100P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=best-time-to-visit-dolomites" target="_blank" rel="sponsored noopener noreferrer">this private guided Dolomites hiking tour on Viator</a> — 4.9★, 86 reviews.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a confident, dated plan instead of guessing between "shoulder season" and just booking whatever's cheap.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> booking the car and hotel early protects September pricing before it firms up, and the Viator tour has no upfront payment on eligible bookings with free cancellation up to 24 hours before — no downside to locking in the date now.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> your dates are fixed to peak summer or Christmas week — those need 4-6 months of lead time, not the 2-3 months shoulder season allows.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you go:</strong> sort money, data, and insurance too — my guides to <a href="/best-travel-money-card/">travel money cards</a>, <a href="/esim-for-travel/">eSIMs for travel</a>, and <a href="/how-to-plan-a-trip/">planning a trip</a> cover the setup.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>This map shows where timing matters most — the crowd bottlenecks, the shoulder season sweet spots, the base towns, and the two practical warnings (Cortina ZTL and the Tre Cime toll road) that catch people off guard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1AF91b34qtxLI94h_yRmFyxxyS7hRB2U&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="month-by-month">Month-by-Month Snapshot: Weather, Crowds, and Prices</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Month</th><th>Weather</th><th>Crowds</th><th>Prices</th><th>What's Open</th></tr></thead><tbody><tr><td>April</td><td>Unpredictable, snow on passes</td><td>Very low</td><td>Low</td><td>Some rifugios closed</td></tr><tr><td>May</td><td>Cool, some snow still possible</td><td>Low</td><td>Low–medium</td><td>Opening season, limited</td></tr><tr><td>June</td><td>Warm, some afternoon storms</td><td>Moderate</td><td>Medium</td><td>Most rifugios open by mid-June</td></tr><tr><td>July</td><td>Warm and sunny</td><td>Extreme</td><td>Peak</td><td>Everything open</td></tr><tr><td>August</td><td>Warm and sunny</td><td>Extreme</td><td>Peak</td><td>Everything open</td></tr><tr><td>September</td><td>Warm days, cool nights</td><td>Low–moderate</td><td>20–30% below peak</td><td>Most things still open</td></tr><tr><td>October</td><td>Cool, first snow possible</td><td>Very low</td><td>Low</td><td>Rifugios closing mid-month</td></tr><tr><td>Dec–Mar</td><td>Cold, snowy</td><td>High at ski resorts</td><td>High (Christmas spike)</td><td>Ski infrastructure open</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="summer-dolomites">Summer in the Dolomites (July–August): Beautiful, But You Pay for It in Every Way</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Let me be fair: the Dolomites in July and August are genuinely stunning. The sky is reliably blue, the meadows are green, the wildflowers are out, and every trail is accessible. If you've never been and you can only travel in summer, go — it's still worth it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But here's what you're signing up for. Lago di Braies, probably the most photographed lake in the Dolomites, has a parking lot that fills up by 6:30am on peak days. By 7am, there's a shuttle system in place and a queue forming.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The road to Tre Cime di Lavaredo has a toll and gets gridlocked. Cortina d'Ampezzo has ZTL zones (restricted traffic areas) that catch rental car drivers off guard. Accommodation prices in July–August are at their absolute ceiling — I've seen the same hotel room listed at €240 in August and €160 in late September.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you must go in peak season: book accommodation 4–6 months ahead, and consider basing yourself in a smaller village rather than a famous hub. We look at that in more detail in our <a href="/where-to-stay-in-the-dolomites/">guide to where to stay in the Dolomites</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1474,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/DSC_4344-1-683x1024.jpg" alt="Lago di Braies in the Dolomites on a crowded August morning" class="wp-image-1474"/><figcaption class="wp-element-caption">Lago di Braies at 7am in August. The parking lot was already full when we arrived. This is not an exaggeration.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="shoulder-season">June and September: The Shoulder Season Sweet Spot (This Is the Real Answer)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If I had to pick one month to send anyone to the Dolomites, it would be September. The weather is still warm during the day — expect 61–72°F at valley level — nights get cool, which is actually pleasant for sleeping. The alpine summer crowds evaporate almost overnight once school starts across Europe in late August.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Trails are quiet. You can park at Lago di Braies without panic. Rifugios are still open and serving food. And prices drop 20–30% compared to August peaks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The bonus nobody really talks about: September is when the larch trees start turning gold. It's subtle in early September and gets more dramatic through the month. By late September the whole landscape shifts — the rocky grey peaks above, the amber and rust of the larches below. It's genuinely one of the most beautiful things I've seen on any trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're visiting for the first time in September and want to make the most of the ridge walks and high terrain, a guided hike takes the logistics off your plate on a day that should be spent looking at the scenery, not reading a trail map. <a href="https://www.viator.com/tours/Venice/Private-Guided-Tour-in-the-Dolomites-from-Venice/d522-408100P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=best-time-to-visit-dolomites" rel="sponsored noopener noreferrer" target="_blank">the private guided Dolomites hiking tour on Viator</a> (4.9★, 86 reviews). September availability goes fast, so check dates early if that is your window.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>June is the other underrated option. The higher passes may still have snow patches in early June, but by mid-June most trails are open and rifugios are up and running. Wildflowers are at their peak in June — the meadows around Alpe di Siusi are extraordinary. Crowds are much lower than July, and you'll often have viewpoints to yourself in the early morning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1475,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/IMG_5870-768x1024.jpg" alt="Quiet September trail in the Dolomites with mountain views and no crowds" class="wp-image-1475"/><figcaption class="wp-element-caption">This is what the Dolomites look like in September. No queue, no crowd, no stress — just mountains.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="spring-dolomites">Spring (April–May): Quiet, Cheap, and Requires Flexibility</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Spring in the Dolomites is a gamble, but not a bad one if you know what you're getting into. April can still have significant snow on the higher passes, some mountain roads and lifts may run on limited schedules, and many rifugios are still closed through April and into early May. The landscape can look tired: patches of old grey snow, muddy trails, not yet the vivid green of summer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>That said, valley-level villages like Ortisei or Corvara are perfectly accessible, prices are at their lowest of the hiking season, and you'll essentially have the place to yourself. If you're a photographer or someone who likes solitude, late April or early May can be quietly magical — especially if there's late snow on the peaks and clear skies. Just check rifugio opening dates before you go (I'll come back to that).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="winter-dolomites">Winter (December–March): A Completely Different Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Winter in the Dolomites is not a compromise version of summer — it's a completely different product. The Dolomiti Superski area is one of the largest ski regions in the world, and Val Gardena in particular is consistently ranked among the best ski destinations in Europe. If skiing is what you want, this is a world-class option.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pricing follows ski season logic: Christmas and New Year are extremely expensive and booked out far in advance. January and February are the sweet spot for skiing — better snow conditions than December, and prices are noticeably lower once the holiday crush is over. March can still offer good skiing and starts to feel more affordable again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One thing to know: winter and summer are genuinely different itineraries. The rifugio system and hiking infrastructure are largely irrelevant in winter. You're looking at ski lifts, slope-side restaurants, and après-ski culture instead. Both are great. They just aren't the same trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1478,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/johnny-africa-ouxw7zqdhQY-unsplash-1024x768.jpg" alt="Val Gardena in winter with snowy Dolomites peaks and ski scenery" class="wp-image-1478"/><figcaption class="wp-element-caption">Val Gardena in winter. Completely different trip, same extraordinary backdrop.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-nobody-tells-you">What Nobody Tells You About Timing in the Dolomites</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The month you visit matters. So does the hour you arrive and the road you take. Here are the practical things that rarely make it into the pretty Instagram posts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Lago di Braies parking reality.</strong> In July and August, the parking lot at Lago di Braies fills up before 7am. After that, access shifts to a paid shuttle from a lower parking area. It's not a disaster, but if you weren't expecting it, it's annoying — especially with a toddler and a full day bag. The fix is simple: arrive before 7am, or visit in June or September when this isn't a problem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>ZTL zones in Cortina d'Ampezzo.</strong> Cortina has restricted traffic areas (Zone a Traffico Limitato) that are actively enforced. Rental cars are not exempt. If you drive into a ZTL zone without a permit, you get a fine — often weeks later to your home address. Check the current ZTL map before driving into Cortina's center, and confirm with your rental company whether your vehicle has a permit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The Tre Cime road toll.</strong> The private road up to the Tre Cime di Lavaredo trailhead has a toll — around €30 per car at last check, though this changes. It's worth it, but it's not something most people mention when they post the photo. Factor it into your <a href="/dolomites-travel-costs/">Dolomites trip budget</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Rifugio opening dates are not standardized.</strong> Each mountain hut sets its own schedule, and they vary year to year depending on snowmelt and the owner's plans. Don't assume a rifugio is open because it was open this week last year. Check directly — most have websites or Instagram accounts, and many respond quickly to email. This is especially important if a specific rifugio lunch stop is a core part of your itinerary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="when-to-go">When to Go Based on What You Actually Want</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Not everyone wants the same thing from the Dolomites. Here's a quick decision guide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Hiking:</strong> June or September. Best trail conditions, manageable crowds, rifugios open. September if you want autumn colors; June if you want wildflowers.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Skiing:</strong> January–February for best conditions and value. December if you need school holidays. Avoid Christmas week unless you've booked 6+ months ahead.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Photography:</strong> September for larches and golden light, or April–May for snow-capped peaks against blue sky and empty foregrounds. Avoid August unless you're shooting before 7am.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Family trip with young kids:</strong> June or early September. Comfortable temperatures, shorter queues, less pressure at parking areas. We traveled with our two-and-a-half-year-old and shoulder season made everything easier — less time stuck in traffic, more flexibility.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Road trip through the Dolomites:</strong> September wins outright. The Dolomite passes are open, traffic is manageable, and the scenery on the Great Dolomites Road is at its most dramatic. See the <a href="/milan-to-dolomites-road-trip/">Milan to Dolomites road trip</a> post for the full route.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="how-to-book">How to Book: The Strategy That Works</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Dolomites reward people who plan ahead but also reward flexibility. Here's how I approach it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For July and August: start looking 4–6 months out. The good properties — the ones with mountain views, free parking, and breakfast included — go fast. Book refundable rates where possible so you can adjust if your plans shift.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For June and September: you have more breathing room, but don't wait until the last minute. Aim for 2–3 months ahead. Smaller agritourism properties and family-run hotels tend to fill before the big chain hotels do.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For Dolomites accommodations I use Expedia because the free cancellation filter is genuinely useful for booking early with flexibility. <a href="https://expedia.tpm.lv/Zt7vvRcm" rel="sponsored noopener noreferrer" target="_blank">Hotel Continental Dolomites</a> is a good flexible-rate example. If you're specifically looking at the Val Gardena area for skiing or as a base for hiking, <a href="https://expedia.tpm.lv/EG2HvJnF" rel="sponsored noopener noreferrer" target="_blank">Hotel Angelo Engel in Ortisei</a> puts you close to the Ortisei-Furnes gondola.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For car rental: the Dolomites are not easy to navigate without a car, especially if you want to move between valleys. I use <a href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">Discover Cars</a> to compare rental options so I'm not just stuck with the airport desk price. Book with full insurance and confirm the ZTL situation with whoever you rent from. You can find more practical planning advice in our <a href="/how-to-plan-a-trip/">trip planning guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the full picture on what to budget, our <a href="/dolomites-travel-costs/">Dolomites travel costs breakdown</a> covers accommodation, food, car rental, and the various tolls and fees that surprise people.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Travel insurance is worth sorting before you go, particularly if your trip includes mountain hiking. Coverage varies a lot by policy, so compare activity coverage and emergency evacuation before you leave. <a href="https://ektatraveling.tpm.lv/fqijSuju" target="_blank" rel="sponsored noopener noreferrer">EKTA is one provider to compare</a>, especially if your itinerary includes outdoor activities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For connectivity: cell signal is fine in the valleys and on the main roads, but patchy on the high passes and remote rifugio approaches. My <a href="/esim-for-travel/">eSIM guide</a> explains the setup, and <a href="https://airalo.tpm.lv/TYjQRZua" target="_blank" rel="sponsored noopener noreferrer">Airalo is one Italy eSIM option to compare</a> before you fly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For spending: a low-fee travel card makes daily expenses easier, especially with parking, fuel, restaurants, and cable cars. I use <a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer">Wise</a> — my <a href="/best-travel-money-card/">travel money card guide</a> explains why and what to check before relying on any card in the mountains. Some smaller rifugios and mountain parking areas are still cash only, so having some euros on hand is useful regardless.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The best time to visit the Dolomites comes down to what you're there for — but if you're asking for a single honest answer, September is it. The weather holds, the landscape is at its most dramatic, the crowds are gone, and you'll pay less for the same experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We've done the early-morning parking scramble and the shoulder-season version of the same destinations, and the difference in how a day feels is significant. Plan around the shoulder season if you possibly can, book accommodation early even then, and arrive at the famous spots early in the day regardless of when you visit. The mountains will deliver the rest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the best month to visit the Dolomites?</summary><!-- wp:paragraph -->
+<p>September is the single best month for most visitors — the weather is still warm, trails and rifugios are fully open, crowds drop 30–50% compared to August, and prices fall 20–30%. Late June is an excellent second choice if September doesn't work with your schedule: wildflowers are at their peak, the passes are open, and crowds haven't yet hit July levels. Both months consistently outperform peak summer for ease, value, and the overall experience of the Dolomites.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is August a good time to visit the Dolomites?</summary><!-- wp:paragraph -->
+<p>August is genuinely beautiful but comes with real trade-offs: Lago di Braies parking fills before 7am, the Tre Cime road gets gridlocked, and accommodation prices are at peak. If August is your only option, go — the mountains are still extraordinary. Mitigate the crowds by arriving at every key spot before 8am, staying in a smaller village rather than a resort hub, and choosing trails that aren't the top three on every Instagram list. Read the full guide to <a href="/hiking-in-the-dolomites/">hiking in the Dolomites</a> for alternatives to the most crowded routes.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Can you visit the Dolomites in April?</summary><!-- wp:paragraph -->
+<p>Yes, with specific expectations. April is beautiful and extremely quiet, but some high passes may still be partially closed after winter, certain cable cars run on reduced inter-season schedules, and some rifugios haven't opened yet. Valley-level walking and driving are perfectly feasible. April is an excellent choice if you want solitude and don't mind checking infrastructure status before you book — things that were closed last week often open without announcement.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How crowded are the Dolomites in summer?</summary><!-- wp:paragraph -->
+<p>Extremely crowded at the famous spots. Lago di Braies, Tre Cime, and the Seceda cable car all reach capacity by mid-morning in July and August. This is not an exaggeration — the Lago di Braies parking lot fills before 6:30am on peak days. The solution is either visiting in shoulder season (June, September) or arriving at every key spot before 8am. Choosing trails beyond the top five most photographed locations also makes an enormous difference.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is the Dolomites good for skiing?</summary><!-- wp:paragraph -->
+<p>Yes — it's one of the best ski destinations in Europe. The Dolomiti Superski area (which includes Val Gardena, Alta Badia, and several other interconnected resorts) is one of the largest ski domains in the world. January and February offer the best snow and value; December is festive but expensive; March is a good option for late-season skiing at lower prices. For skiers, this is a genuinely world-class destination that competes with anywhere in the Alps.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best month to visit the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "September is the single best month for most visitors — the weather is still warm, trails and rifugios are fully open, crowds drop 30–50% compared to August, and prices fall 20–30%. Late June is an excellent second choice if September doesn't work with your schedule."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is August a good time to visit the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "August is genuinely beautiful but comes with real trade-offs: Lago di Braies parking fills before 7am, the Tre Cime road gets gridlocked, and accommodation prices are at peak. Mitigate the crowds by arriving at every key spot before 8am and staying in a smaller village rather than a resort hub."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you visit the Dolomites in April?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with specific expectations. April is beautiful and extremely quiet, but some high passes may still be partially closed after winter, certain cable cars run on reduced inter-season schedules, and some rifugios haven't opened yet. Valley-level walking and driving are perfectly feasible."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How crowded are the Dolomites in summer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Extremely crowded at the famous spots. Lago di Braies, Tre Cime, and the Seceda cable car all reach capacity by mid-morning in July and August — the Lago di Braies parking lot fills before 6:30am on peak days. The solution is either visiting in shoulder season or arriving at every key spot before 8am."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Dolomites good for skiing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — it's one of the best ski destinations in Europe. The Dolomiti Superski area is one of the largest ski domains in the world. January and February offer the best snow and value; December is festive but expensive; March is good for late-season skiing at lower prices."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Guides for Your Dolomites Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Figuring out where to base yourself?</strong> → <a href="/where-to-stay-in-the-dolomites/">Where to stay in the Dolomites</a> — village-by-village breakdown with honest pricing and who each one suits.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Planning the hikes?</strong> → <a href="/hiking-in-the-dolomites/">Hiking in the Dolomites</a> — trail-by-trail breakdown by difficulty, with family-friendly options and cable car logistics.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Working out the full budget?</strong> → <a href="/dolomites-travel-costs/">Dolomites travel costs</a> — real numbers: car rental, cable cars, parking, rifugio meals, accommodation by area.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Driving in from Milan?</strong> → <a href="/milan-to-dolomites-road-trip/">Milan to Dolomites road trip</a> — the full 5-day route with stops and timing.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Coming from Venice for a day?</strong> → <a href="/day-trip-to-the-dolomites-from-venice/">Day trip to the Dolomites from Venice</a> — what's realistic in one day, what to prioritise.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

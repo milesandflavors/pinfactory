@@ -1,0 +1,353 @@
+﻿<!-- wp:paragraph -->
+<p>Millennium Park is the reason most people end up spending more time in the Chicago Loop than they planned. It sits right on the lakefront at the northern edge of downtown — 24.5 acres of free public space with a Frank Gehry concert pavilion, a garden that wins architecture awards, and a giant mirrored steel sculpture that has somehow become the face of an entire city. It is one of the best free things to do in Chicago, and it rewards more than a quick photo stop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Go to Cloud Gate first thing in the morning, before 8 AM if you can manage it — the skyline reflection is cleanest, the plaza is quiet, and you will get photos that look nothing like the midday version you see everywhere. Then work your way through the rest of the park: Crown Fountain if it is running, the Lurie Garden, the Pritzker Pavilion. The whole park takes 60–90 minutes at a relaxed pace; longer if you want to sit in the garden or catch an evening concert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":724,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/04/cloudgate_morning-1-1024x768.jpg" alt="Cloud Gate sculpture in Millennium Park reflecting the Chicago skyline in the morning" class="wp-image-724"/><figcaption class="wp-element-caption">Cloud Gate in Millennium Park — one of the best free things in Chicago, and genuinely different every hour of the day.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-summary">Quick Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Location</strong></td><td>201 E Randolph St, Chicago Loop — between Michigan Ave and DuSable Lake Shore Drive</td></tr><tr><td><strong>Entry</strong></td><td>Free — no tickets needed for the park or any of its main attractions</td></tr><tr><td><strong>Cloud Gate access</strong></td><td>Millennium Park is generally open 6 AM–11 PM, but check current city hours before a late visit; the underside (omphalos) closes 11 PM–6 AM</td></tr><tr><td><strong>Crown Fountain</strong></td><td>Water feature usually runs May through October, weather permitting; free</td></tr><tr><td><strong>Pritzker Pavilion concerts</strong></td><td>Free outdoor concerts in season — check the current Millennium Park and Grant Park Music Festival schedules</td></tr><tr><td><strong>Best time for photos</strong></td><td>Early morning (before 8 AM) or golden hour — fewest crowds, best light</td></tr><tr><td><strong>Nearest L stop</strong></td><td>Washington/Wabash (Brown, Green, Orange, Pink, Purple lines)</td></tr><tr><td><strong>How long to allow</strong></td><td>60–90 minutes for the park; longer if you stay for a concert or the Art Institute</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary><!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="#quick-summary">Quick Summary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's picks: the tour and hotel I'd book</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#cloud-gate">Cloud Gate (The Bean) — Everything Worth Knowing</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#pritzker-pavilion">Jay Pritzker Pavilion</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#crown-fountain">Crown Fountain</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#lurie-garden">Lurie Garden</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#nearby">What Else Is Right Here</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#photos-tips">Photography Tips</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#getting-there">Getting There</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#more-chicago">More Chicago Travel Guides</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></details>
+<!-- /wp:details -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="lilis-picks" class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Lili's picks for Millennium Park</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The park itself costs nothing. What I'd sort in advance is the architecture river cruise — it puts the whole skyline that frames the park into context — and a hotel close enough that you can walk over early morning before the crowds arrive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The tour I'd book</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Chicago Architecture River Cruise is the one paid experience I would shortlist with any Millennium Park visit. <strong>Best if you want:</strong> the skyline around Cloud Gate to mean something, not just look impressive. <strong>Why it works:</strong> you see the same towers from water level while a guide explains how Chicago rebuilt and reimagined modern architecture after the 1871 Great Fire. <strong>Not ideal if:</strong> you only have time for a quick free Loop walk or the weather looks rough. Before booking, check the current operator, departure point, route, duration, weather policy, cancellation terms, and recent reviews. <a href="https://www.viator.com/tours/Chicago/Chicago-Architecture-River-Cruise/d673-5580ARC?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=millennium-park-chicago" target="_blank" rel="sponsored noopener noreferrer">Compare Chicago architecture river cruises on Viator →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div data-vi-partner-id="P00300034" data-vi-widget-ref="W-a62aa6b7-a5d1-4b9a-97b0-90c1c6b77c30"></div>
+<script async src="https://www.viator.com/orion/partner/widget.js"></script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong>Where I'd stay</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Fairmont Chicago Millennium Park sits directly across from the park on North Columbus Drive. The location is the main reason to shortlist it: you can walk to Cloud Gate early, catch an evening Pritzker Pavilion concert without thinking about a late ride back, and keep the Riverwalk and Loop sights within easy reach. <strong>This is where I would stay if Millennium Park and the river are the center of the trip.</strong> <a href="https://www.booking.com/hotel/us/the-fairmont.html" target="_blank" rel="nofollow noopener noreferrer">Fairmont Chicago Millennium Park on Booking.com →</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="cloud-gate">Cloud Gate (The Bean) — Everything Worth Knowing</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cloud Gate is the official name. Everyone calls it the Bean, which makes sense: it is 33 feet high, 66 feet wide, made of 168 polished stainless steel plates welded together without a visible seam, and it looks unmistakably like a giant silver bean. Designed by British-Indian sculptor Anish Kapoor, it was installed in 2004 and unveiled to the public in 2006, and it has been the defining image of Chicago ever since.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What makes it worth more than a quick photo is that it is genuinely different at different times of day. Early morning — before 8 AM, before the rest of the city wakes up — the Chicago skyline reflects back in clean, undistorted silver against a quiet sky. Midday the crowd beneath it becomes part of the composition: dozens of people reflected and warped into something almost abstract. Golden hour turns the whole surface warm, with the towers of the Loop glowing orange behind you. Overcast days create a flat, graphic reflection that has its own appeal. It is one of those rare public art pieces that consistently rewards revisiting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Walk underneath it. The concave underside — called the omphalos — creates a distorted mirror tunnel that pulls you and the skyline into a circular reflection overhead. It is easy to spend fifteen minutes just looking up. The omphalos is open during park hours but closes between 11 PM and 6 AM, so check current city hours before planning a late visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2249,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/07/austin-hervias-KQ1h9MyTCEI-unsplash-1024x683.jpg" alt="Visitors walking under the mirrored underside of Cloud Gate in Millennium Park" class="wp-image-2249"/><figcaption class="wp-element-caption">The omphalos — the concave underside of Cloud Gate — creates a circular mirror effect overhead. Walk under it.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="pritzker-pavilion">Jay Pritzker Pavilion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Jay Pritzker Pavilion is Frank Gehry's contribution to the park: a stainless steel bandshell with dramatic ribbons of metal fanning 120 feet above the stage, connected by a trellis of crisscrossed steel pipes that extends over the Great Lawn. The trellis carries a distributed sound system, which means the audio quality in the back of the lawn equals what you'd get in most indoor concert halls — an unusual achievement for an outdoor venue that seats 11,000 people.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The pavilion hosts free concerts and cultural events through the warmer months. The <strong>Grant Park Music Festival</strong> is the big one, with the Grant Park Orchestra and Chorus performing outdoors in the park, but schedules change by season. There are also Movies in the Park evenings, SummerDance events, and periodic free performances from visiting artists. Check the current Millennium Park and Grant Park Music Festival schedules before you visit. Bring a blanket, pick a spot on the Great Lawn, and let Chicago happen around you. It is one of the best free evenings the city offers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="crown-fountain">Crown Fountain</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Crown Fountain sits at the southern edge of the park near Michigan Avenue, and it is one of those installations that sounds confusing until you see it. Two 50-foot glass block towers face each other across a shallow black granite reflecting pool. Each tower displays a slow video loop of the faces of 1,000 Chicago residents — ordinary people from every neighborhood in the city — filmed specifically for the piece by Barcelona artist Jaume Plensa. Every few minutes, the person's lips purse and a jet of water shoots out, to the delight of every child within range.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In summer the fountain is a splash zone — kids run through the water, parents take up positions on the rim of the reflecting pool, and the whole thing turns into an informal neighborhood gathering spot. The water feature usually operates from May through October, weather permitting; outside that season, the illuminated towers are still worth seeing after dark. The fountain is free, and the video towers rotate faces of Chicago residents throughout the day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="lurie-garden">Lurie Garden</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Lurie Garden is the quiet corner of Millennium Park that most visitors rush past, and it is worth slowing down for. The 4.4-acre garden occupies the southern portion of the park behind a tall shoulder hedge, divided into two sections: the Dark Plate (shade-loving plants, grasses, and ferns) and the Light Plate (open prairie flowers and perennials that bloom from spring through fall). The design is by Gustafson Guthrie Nichol with Piet Oudolf, the Dutch landscape designer behind the High Line's planting and the gardens at several major public projects.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In peak season — late June through September — the Light Plate is in full bloom: purple coneflowers, prairie smoke, grasses gone golden, black-eyed Susans. The garden is free, well-maintained, and genuinely beautiful in a way that feels surprising for the middle of a major American city. Go in the morning if you can; the light through the grasses is different than what you get midday.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="nearby">What Else Is Right Here</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The Art Institute of Chicago</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Art Institute sits directly across Michigan Avenue from Millennium Park, connected to the park via the <strong>Nichols Bridgeway</strong> — a curved pedestrian bridge that rises from the park's northwest edge and lands at the Modern Wing's third floor. The Art Institute is one of the best art museums in the United States, with an encyclopedic collection that includes Seurat's <em>A Sunday on La Grande Jatte</em>, Edward Hopper's <em>Nighthawks</em>, and one of the world's best collections of Impressionist paintings. It is not free, so check current ticket prices before you go, but if you have half a day, pairing it with a morning in the park makes a perfect day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The Chicago Riverwalk</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Chicago Riverwalk runs along the south bank of the Chicago River about a ten-minute walk north of the park. It is a pleasant waterside promenade with restaurants, kayak rentals, and an unobstructed view of the canyon of towers that lines the river — the same view you see from the architecture cruise, but from water level on foot. Walk down Wabash or State Street from the park to reach it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Lake Michigan and the Lakefront Trail</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The park's eastern edge opens directly to Lake Michigan and the Lakefront Trail — an 18-mile path that runs the length of Chicago's shoreline. Even if you only walk a few blocks north or south from the park, the lake at this point is genuinely impressive: it is so large you cannot see the other side, which catches most visitors off guard. North of the park, Monroe Harbor fills with sailboats through summer. South of the park, the Museum Campus holds the Field Museum, the Shedd Aquarium, and the Adler Planetarium — all worth a half-day if your schedule allows.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">McCormick Tribune Ice Rink (winter only)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In winter, the McCormick Tribune Plaza in front of the Pritzker Pavilion becomes a free ice rink — free to skate if you have your own skates, skate rental available for a fee. Skating in front of Cloud Gate with the Chicago skyline behind you is a genuinely good experience. The rink operates from mid-November through early March, weather permitting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="photos-tips">Photography Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>For Cloud Gate without crowds:</strong> arrive before 8 AM on a weekday. The plaza is usually at its quietest then, and the skyline reflection in the early morning — before the sun is high enough to create harsh shadows — is the cleanest version of the shot. Weekends and midday are when the plaza fills up, but the crowd can also add to the composition if you use the reflection to multiply everyone into something abstract.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Golden hour:</strong> roughly 7–8 PM in summer. The towers of the Loop catch warm light from the west and reflect gold across the entire surface of the Bean. This is the shot that looks nothing like the travel photos you've seen, and it is worth planning your evening around it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Overcast days:</strong> flat light eliminates the sun glare that causes blown-out reflections on the steel surface. A grey sky turns Cloud Gate into a graphic silver object rather than a light-filled mirror — different and genuinely beautiful for wide shots of the whole sculpture against the city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Under the Bean:</strong> wide-angle lens from directly underneath the omphalos. Lie on the ground if you're willing. The circular reflection overhead works best with a handful of people spread around the rim — completely empty looks flat, completely packed loses the geometry.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="getting-there">Getting There</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Millennium Park is in the heart of downtown and easy to reach without a car — which is the right approach. Driving and parking in this part of the Loop is expensive and frustrating.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>By L train:</strong> The closest stops are Washington/Wabash (Brown, Green, Orange, Pink, Purple lines) and Monroe (Red and Blue lines). All are a short walk to the park entrance on Michigan Avenue.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>By bus:</strong> Multiple CTA bus routes run along Michigan Avenue, which borders the park to the west.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>On foot:</strong> From the Chicago Riverwalk area it is about a 10-minute walk south. From the Magnificent Mile, about 15 minutes south on Michigan Avenue.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>By bike:</strong> Divvy bike-share stations are located at multiple points around the park. The Lakefront Trail connects directly to the park's eastern edge.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Millennium Park free?</summary><!-- wp:paragraph -->
+<p>Yes — entirely. Entry to the park is free, Cloud Gate is free, Crown Fountain is free, the Lurie Garden is free, and summer concerts at the Pritzker Pavilion are free. The ice rink in winter is free to skate if you have your own skates; rentals cost extra. The Art Institute of Chicago next door charges admission separately.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>When is the best time to visit Cloud Gate for photos?</summary><!-- wp:paragraph -->
+<p>Early morning — before 8 AM — for the emptiest plaza and cleanest skyline reflection. Golden hour in the evening (around 7–8 PM in summer) for warm light across the steel surface. Weekday mornings are significantly quieter than weekends. Overcast days are good for wide shots without glare.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How long do you need at Millennium Park?</summary><!-- wp:paragraph -->
+<p>Allow 60–90 minutes to walk through the main areas — Cloud Gate, Crown Fountain, the Pritzker Pavilion, and the Lurie Garden. Add time if you want to sit in the garden, walk to the lakefront, or extend into the Art Institute. Evening concerts at the Pritzker Pavilion typically run 1.5–2 hours.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What are Cloud Gate's hours?</summary><!-- wp:paragraph -->
+<p>Cloud Gate is outdoors in Grainger Plaza, but plan around Millennium Park hours: the wider park is generally open daily from 6 AM to 11 PM, and the omphalos (the underside arch) closes between 11 PM and 6 AM. Check current city hours before a late visit or during major events.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is there parking near Millennium Park?</summary><!-- wp:paragraph -->
+<p>Yes — the Millennium Park garage on East Monroe Street is directly underground. But parking in the Loop can be expensive, and the L is usually faster and cheaper from most parts of the city. If you are driving from outside Chicago, compare garage rates in advance or consider parking near a CTA or Metra stop and riding in.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Millennium Park worth visiting?</summary><!-- wp:paragraph -->
+<p>Yes — and it is one of the best free things in Chicago. Cloud Gate alone is worth the walk, but the combination of the Bean, the Pritzker Pavilion, Crown Fountain, and the Lurie Garden makes this one of the strongest urban park experiences in the United States. If this is your first Chicago trip, I would put Millennium Park on day one.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Is Millennium Park free?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Entry to the park is free, Cloud Gate is free, Crown Fountain is free, the Lurie Garden is free, and many seasonal concerts at the Pritzker Pavilion are free. The ice rink in winter is free to skate with your own skates; rentals cost extra."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "When is the best time to visit Cloud Gate for photos?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Early morning before 8 AM for the emptiest plaza and cleanest skyline reflection. Golden hour in the evening, around 7 to 8 PM in summer, for warm light across the steel surface. Weekday mornings are significantly quieter than weekends."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do you need at Millennium Park?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Allow 60 to 90 minutes to walk through the main areas: Cloud Gate, Crown Fountain, the Pritzker Pavilion, and the Lurie Garden. Add time if you want to sit in the garden, walk to the lakefront, or extend into the Art Institute."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are Cloud Gate's hours?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cloud Gate is outdoors in Grainger Plaza, but plan around Millennium Park hours: the wider park is generally open daily from 6 AM to 11 PM, and the omphalos, or underside arch, closes between 11 PM and 6 AM. Check current city hours before a late visit or during major events."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Millennium Park worth visiting?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — it is one of the best free things in Chicago. The combination of Cloud Gate, the Frank Gehry pavilion, Crown Fountain, and the Lurie Garden makes this one of the finest urban parks in any American city. It belongs on day one of any Chicago visit."
+            }
+        }
+    ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-chicago">More Chicago Travel Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Planning your whole Chicago trip? Our <a href="https://milesandflavors.com/best-things-to-do-chicago-first-timers/">best things to do in Chicago for first-timers</a> and <a href="https://milesandflavors.com/3-days-in-chicago-itinerary/">3 days in Chicago itinerary</a> cover everything worth seeing.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The one paid experience worth booking near the park: our full <a href="https://milesandflavors.com/chicago-architecture-river-cruise/">Chicago architecture river cruise guide</a> — operators, what you'll see, and the best time to go.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Not sure where to base yourself? Our <a href="https://milesandflavors.com/where-to-stay-in-chicago/">where to stay in Chicago guide</a> covers the best neighborhoods and hotels for every type of trip.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Before you go: our <a href="https://milesandflavors.com/how-to-find-cheap-flights/">cheap flights guide</a>, the <a href="https://milesandflavors.com/best-travel-money-card/">best travel money card</a> for US travel, and the <a href="https://milesandflavors.com/esim-for-travel/">best eSIM for travel</a>.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

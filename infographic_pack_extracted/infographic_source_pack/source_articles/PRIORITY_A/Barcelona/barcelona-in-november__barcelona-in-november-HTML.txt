@@ -1,0 +1,293 @@
+﻿<!-- wp:image {"id":2496,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/yoav-aziz-cvi13cJfZQI-unsplash-scaled.jpg" alt="Narrow Gothic Quarter street in Barcelona on a cool off-season day" class="wp-image-2496"/><figcaption class="wp-element-caption">November Barcelona is made for old-city walks, museum time, and slower days between the big sights.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Barcelona in November is the city's actual best-kept secret if you care more about Gaudí, old streets, museums, and long lunches than beach weather. It sits in the cheapest band of the year for hotels, with recent hotel price-trend data often showing rates roughly 40% below the May peak. The trade-off is real too: expect cool 48–63°F (9–17°C) days, a Mediterranean that is basically done being swimmable, and shorter daylight. For a trip built around the Gothic Quarter, Sagrada Familia, Park Güell, and food rather than sunbathing, November quietly outperforms the obvious months.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#weather">Weather in Barcelona in November</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#prices">Prices: Why November Wins</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#crowds">Crowds</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#events">Events &amp; Seasonal Food</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#what-to-pack">What to Pack</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#is-it-worth-it">Is Barcelona in November Worth It?</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-from-barcelona">More from Barcelona</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Barcelona in November is genuinely worth it if the beach is not the point. It is one of the cheapest months of the year for hotels, with recent hotel price-trend data often putting November far below the May peak, and the weather is still workable for sightseeing: roughly 48–63°F (9–17°C), depending on the time of day. Crowds are noticeably thinner at Sagrada Familia and Park Güell, and November is usually drier than October in the long-term climate normals. Skip it only if a swimmable Mediterranean is non-negotiable; sea temperatures sit around 63°F, too cold for most people to enjoy.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="this-is-what-id-book">This is what I'd book</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>With crowds already thin in November, the ticket I would still shortlist is the <a href="https://www.viator.com/tours/Barcelona/Sagrada-Familia-Skip-The-Line-Tour/d562-340934P4?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=barcelona-in-november" rel="sponsored noopener noreferrer" target="_blank">Sagrada Familia Skip-the-Line Guided Tour</a>. Entry is timed regardless of season, and a guide turns the basilica from an impressive photo into something you actually understand.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a guaranteed time slot and context on what Gaudí was actually building, not just a fast way inside.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> November's short days mean planning the visit around actual daylight matters more — a booked slot keeps the rest of the day from sliding.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you already hold a standalone ticket or prefer exploring without a group.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before booking:</strong> compare the exact time slot, group size, and cancellation window for your dates.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Why I like using Viator here:</strong> it keeps the ticket decision simple while you are already juggling weather, daylight, and timed-entry sights. On many eligible listings, flexible cancellation or reserve-now-pay-later terms may be available, but always check the exact terms for your date before booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="this-is-where-id-stay">This is where I'd stay</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The hotel I'd shortlist for a November trip is <a href="https://www.booking.com/hotel/es/silken-ambassador-ramblas.html" rel="nofollow noopener noreferrer" target="_blank">Silken Ramblas on Booking.com</a> — a central Raval option a few minutes' walk from Las Ramblas and the Gothic Quarter. Rates and review scores move, so treat this as the kind of hotel I would compare for your exact dates rather than a fixed-price promise.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> to walk to everything in the old city without paying Gothic Quarter prices.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> in a month built around short days and long lunches rather than beach time, being a five-minute walk from the sights that matter most saves real daylight.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you want beachfront or a quieter residential neighborhood — Raval is central and lively, not calm.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before booking:</strong> compare total price with taxes, cancellation terms, and breakfast inclusion for your exact dates.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weather">Weather in Barcelona in November</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Daytime sightseeing usually feels cool rather than cold: Barcelona Airport climate normals put November average highs around 63°F (17°C), lows around 47°F (9°C), and a monthly mean near 55°F (13°C). Here is the part that surprises people: November is usually <strong>drier than October</strong>. AEMET normals show October around 91mm of rain over about 6 rainy days, while November drops to roughly 59mm over about 5 rainy days. Sunshine averages just under 5 hours a day, so the city still works well between showers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The sea sits around 63°F by November — swimmable for the genuinely committed, not realistic as a beach-trip centerpiece. Plan the trip around the city, not Barceloneta.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="prices">Prices: Why November Wins</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the headline fact: November sits in Barcelona's cheapest hotel season. Recent hotel price-trend data from major booking platforms puts November close to the bottom of the year, often around 40% lower than May, which is usually one of the expensive months. I would not call Barcelona "cheap" in an absolute sense, but November gives you much better leverage: central hotels that feel painful in spring can suddenly look reasonable. Booking a few weeks out is usually the sweet spot for price and selection, unless your dates overlap with a major event.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With that much saved on the room, it's worth setting a little aside for travel insurance instead — <a href="https://ektatraveling.tpm.lv/fqijSuju" rel="sponsored noopener noreferrer" target="_blank">EKTA</a> is the one I'd actually look at, given November's shorter days and the chance of a rain-disrupted afternoon changing your plans.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2497,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/zhiyuan-sun-ScFR_p0T78A-unsplash-981x1024.jpg" alt="Sagrada Familia facade under dramatic clouds in Barcelona" class="wp-image-2497"/><figcaption class="wp-element-caption">Sagrada Familia still uses timed entry in November, but the planning pressure is much lower than in peak season.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="crowds">Crowds</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>November crowds are thinner than October's, which were already a relief after summer. Sagrada Familia and Park Güell still run timed entry, but the pressure is lower: weekdays are usually easier, while weekends and holiday-adjacent dates still deserve advance booking. The real payoff is at street level: restaurant tables that needed reservations in summer are easier to find, and the Gothic Quarter's narrow lanes go back to feeling like an actual neighborhood rather than a photo line.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="events">Events &amp; Seasonal Food</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>November's cultural calendar runs quieter and more local than the big summer festivals. <a href="https://es.in-edit.org/en/" rel="nofollow noopener noreferrer" target="_blank"><strong>In-Edit</strong></a>, Barcelona's music documentary festival, runs from October 29 to November 8 in 2026 and draws more than 35,000 people in a typical edition. <a href="https://mirafestival.com/en/" rel="nofollow noopener noreferrer" target="_blank"><strong>MIRA Digital Arts Festival</strong></a> takes place November 6–7, 2026 at Fira Montjuïc, with audiovisual shows, installations, contemporary music, and a completely different side of the city than the Gaudí trail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Food-wise, November opens with All Saints' Day (November 1) and the season of <em>castanyes</em> (roasted chestnuts) sold from street carts, plus <em>panellets</em> — small marzipan pastries that show up in every bakery window. It's also a good month for a <a href="/montserrat-day-trip-from-barcelona/">Montserrat day trip</a> or a run out to Girona, both far more pleasant without summer's heat and coach-tour crowds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-to-pack">What to Pack</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>A real jacket, not just a light layer</strong> — mornings and evenings sit closer to 50°F than the daytime high.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>A small umbrella</strong> for the occasional shower, though less often than October.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Comfortable, closed shoes</strong> — sandals are a summer item here now.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sunglasses anyway.</strong> Low winter sun angles are brighter at street level than people expect.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="is-it-worth-it">Is Barcelona in November Worth It?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Yes, if:</strong> you want the lowest prices of the year, the thinnest crowds at the major sights, and you're building the trip around the city itself rather than the beach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Maybe wait, if:</strong> swimming or beach days are the actual point — that's a June through early-September trip, not a November one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-barcelona">More from Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For the full trip layout, the <a href="/4-days-in-barcelona-the-perfect-itinerary/">4-day Barcelona itinerary</a> works just as well in November, with shorter lines throughout. If you're weighing this month against the shoulder-season alternative, the <a href="/barcelona-in-october/">Barcelona in October guide</a> covers how the two compare directly. And for the stay itself, our <a href="/where-to-stay-in-barcelona/">where to stay in Barcelona guide</a> breaks down every neighborhood honestly, not just the one hotel above.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is November a good time to visit Barcelona?</summary><!-- wp:paragraph -->
+<p>Yes, if the beach is not the point. November is one of the cheapest months of the year for Barcelona hotels, with cool but workable 48–63°F (9–17°C) weather and much thinner crowds at major sights like Sagrada Familia and Park Güell.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Barcelona cheaper in November than October?</summary><!-- wp:paragraph -->
+<p>Usually, yes. November sits in Barcelona's low hotel season and is often meaningfully cheaper than October, especially outside festival or holiday dates. Recent price-trend data also puts November far below the May peak.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Does it rain more in Barcelona in October or November?</summary><!-- wp:paragraph -->
+<p>October is usually wetter. AEMET climate normals for Barcelona Airport show October around 91mm of rain over about 6 rainy days, compared with roughly 59mm over about 5 rainy days in November.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Can you swim in Barcelona in November?</summary><!-- wp:paragraph -->
+<p>Technically, but sea temperatures sit around 63°F, too cold for most people to enjoy. November works better as a city-and-culture trip than a beach trip.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is November a good time to visit Barcelona?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the beach is not the point. November is one of the cheapest months of the year for Barcelona hotels, with cool but workable 48-63F (9-17C) weather and much thinner crowds at major sights like Sagrada Familia and Park Guell."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Barcelona cheaper in November than October?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually, yes. November sits in Barcelona's low hotel season and is often meaningfully cheaper than October, especially outside festival or holiday dates. Recent price-trend data also puts November far below the May peak."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does it rain more in Barcelona in October or November?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October is usually wetter. AEMET climate normals for Barcelona Airport show October around 91mm of rain over about 6 rainy days, compared with roughly 59mm over about 5 rainy days in November."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you swim in Barcelona in November?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technically, but sea temperatures sit around 63F, too cold for most people to enjoy. November works better as a city-and-culture trip than a beach trip."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+

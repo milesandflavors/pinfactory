@@ -1,0 +1,213 @@
+<!-- wp:image {"id":2673,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/nyc-at-christmas-rockefeller-rink-hero.jpg" alt="Skaters on the Rockefeller Center ice rink beneath the Christmas tree and gilded Prometheus statue" class="wp-image-2673"/><figcaption class="wp-element-caption">Rockefeller Center's rink is smaller and pricier than Bryant Park's — but it comes with the postcard view.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Two of New York's most famous ice rinks sit less than a mile apart, and every winter visitor ends up asking the same question: which one is actually worth it? The honest answer is that they're not really competing for the same experience. Rockefeller Center sells you the postcard. Bryant Park sells you the actual skate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#rockefeller">Rockefeller Center: The Postcard Rink</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#bryant-park">Bryant Park: The Actual Skate</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#comparison">Price and Atmosphere, Side by Side</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#which-one">Which Rink Wins</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-stay">Where to Stay</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides">More NYC Guides</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Rockefeller Center is the pick if the view — the tree, the gilded Prometheus statue, the skyline — is the whole point, but it costs real money: general admission runs from about $22 up to $112+ for VIP slots, plus roughly $12 for skate rental, on a small, often crowded rink. Bryant Park is free if you bring your own skates (rental otherwise runs about $19 to $60 with fees), on a larger rink as part of the bigger Winter Village complex. Go to Rockefeller for the photo; go to Bryant Park to actually skate without watching the clock on an expensive timed session.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>This is where I'd stay:</strong> <a href="https://expedia.tpm.lv/0eoUGpcT" target="_blank" rel="sponsored noopener noreferrer">citizenM New York Times Square on Expedia</a>. Both rinks are within easy walking distance or a short subway ride, so you're not locked into picking just one before you land. It held a 9.4 out of 10 rating from more than 2,200 reviews when I checked.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel smarter</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>If you are visiting from abroad, the <a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer"><strong>Wise card</strong></a> can show the exchange rate and applicable fee before you convert or spend. Check current availability and pricing for your home country, and carry a backup payment method.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>For mobile data, you can set up a <a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer"><strong>Telekonek eSIM</strong></a> before departure so maps and subway directions work when you land. Check device compatibility and the current plan terms first; code <strong>MILESANDFLAVORS5</strong> gives 5% off.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="rockefeller">Rockefeller Center: The Postcard Rink</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Rockefeller Center's rink is small — genuinely smaller than most people expect from photos — and it's timed, usually sold in roughly one-hour sessions with dynamic pricing that climbs sharply around evenings, weekends, and the holidays themselves. General admission runs from about $22 for off-peak slots up to $112 or more for VIP sessions, and skate rental adds roughly $12 on top if you don't bring your own.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What you're paying for is the setting: the tree overhead, the gilded Prometheus statue, and the surrounding skyscrapers in every direction. It's genuinely one of the most photographed few square meters in the city, and if that specific scene is what you came for, no other rink replicates it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="bryant-park">Bryant Park: The Actual Skate</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Rink at Bryant Park flips the model: admission is free if you bring your own skates, with no timed session to watch the clock on. If you need rentals, current pricing runs roughly $19 to $60 including fees, still generally cheaper than a comparable Rockefeller slot. The rink itself is noticeably bigger, which means more actual room to skate rather than shuffling around a crowded circle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It's also part of the larger Bryant Park Winter Village, so skating pairs naturally with the Holiday Shops and food vendors around it — you can make a full afternoon of the same stop rather than skating and then leaving to find everything else.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="comparison">Price and Atmosphere, Side by Side</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><thead><tr><th></th><th>Rockefeller Center</th><th>Bryant Park</th></tr></thead><tbody><tr><td><strong>Admission</strong></td><td>~$22-$112+, dynamic pricing</td><td>Free with your own skates</td></tr><tr><td><strong>Skate rental</strong></td><td>~$12 extra</td><td>~$19-$60 with fees</td></tr><tr><td><strong>Session</strong></td><td>Timed, roughly 1 hour</td><td>Not strictly timed</td></tr><tr><td><strong>Rink size</strong></td><td>Small, often crowded</td><td>Larger, more room</td></tr><tr><td><strong>The draw</strong></td><td>The tree, the statue, the skyline view</td><td>Part of a bigger market complex</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="which-one">Which Rink Wins</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you're choosing based on the photo alone, Rockefeller Center wins — nothing else looks like it. If you're choosing based on the actual experience of skating without rushing and without a steep bill, Bryant Park wins clearly. My honest suggestion for most first-timers: walk by Rockefeller Center for the view and the photo, even if you don't skate there, and save your actual skating time and budget for Bryant Park.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="where-to-stay">Where to Stay</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Both rinks sit close enough together that neighborhood choice matters less here than for most NYC attractions — a Midtown base works for either. <a href="https://expedia.tpm.lv/0eoUGpcT" target="_blank" rel="sponsored noopener noreferrer">citizenM New York Times Square on Expedia</a> keeps both within easy reach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Rockefeller Center or Bryant Park ice skating better?</summary><!-- wp:paragraph -->
+<p>Rockefeller Center wins for the view and the classic New York photo, but it's small, often crowded, and priced from about $22 up to $112+ for a timed session. Bryant Park is free with your own skates, on a bigger rink, with no strict time limit — the better choice if actually skating matters more than the postcard scene.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Bryant Park ice skating really free?</summary><!-- wp:paragraph -->
+<p>Yes, admission to the rink itself is free if you bring your own skates. If you need rentals, current pricing runs roughly $19 to $60 including fees, still generally less than a comparable Rockefeller Center session.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How much does Rockefeller Center ice skating cost?</summary><!-- wp:paragraph -->
+<p>General admission runs from about $22 for off-peak slots up to $112 or more for VIP sessions, using dynamic pricing that climbs on evenings, weekends, and holiday dates. Skate rental adds roughly $12 more if you don't bring your own.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Rockefeller Center or Bryant Park ice skating better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rockefeller Center wins for the view and the classic New York photo, but it's small, often crowded, and priced from about $22 up to $112+ for a timed session. Bryant Park is free with your own skates, on a bigger rink, with no strict time limit -- the better choice if actually skating matters more than the postcard scene."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Bryant Park ice skating really free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, admission to the rink itself is free if you bring your own skates. If you need rentals, current pricing runs roughly $19 to $60 including fees, still generally less than a comparable Rockefeller Center session."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does Rockefeller Center ice skating cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General admission runs from about $22 for off-peak slots up to $112 or more for VIP sessions, using dynamic pricing that climbs on evenings, weekends, and holiday dates. Skate rental adds roughly $12 more if you don't bring your own."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="more-guides">More NYC Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/nyc-at-christmas/">NYC at Christmas: What's Actually Worth It</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-christmas-itinerary/">NYC Christmas Itinerary: A Day-by-Day Plan</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-christmas-market/">NYC Christmas Market: Which One Is Actually Worth Your Time</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/central-park-nyc-guide/">Central Park NYC: The Complete Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-travel-costs/">NYC Travel Costs: What a Real Trip Actually Costs</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Neither rink is a bad choice, but they're solving different problems. Rockefeller Center sells the scene; Bryant Park sells the skate. If your budget or your patience for a timed session is limited, Bryant Park is the practical winner — save Rockefeller Center for the photo you walk by on your way somewhere else.</p>
+<!-- /wp:paragraph -->

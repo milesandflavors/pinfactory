@@ -1,0 +1,324 @@
+﻿<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Barcelona is not a cheap city — but it's one of those places where the free experiences can genuinely carry a whole day. The Gothic Quarter costs nothing to walk through and is one of the most atmospheric neighborhoods in Europe. The Montjuïc viewpoints are free and better than many paid observation decks we've been to. The Magic Fountain is free when shows are scheduled, but the timetable changes, so treat it as a bonus and check the official schedule before planning an evening around it. We spent our first day in Barcelona almost entirely on free experiences and it was one of the best days of the trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Still planning the trip? Our <a href="/how-to-plan-a-trip/">complete trip planning guide</a> covers flights, accommodation, and travel insurance — all in one place. And for a full breakdown of what Barcelona costs overall, see our <a href="/barcelona-travel-costs/">Barcelona budget guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":933,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/IMG_8839-1-768x1024.jpg" alt="View from Montjuïc toward the Four Columns and city skyline, one of the best Free Things to Do in Barcelona" class="wp-image-933"/><figcaption class="wp-element-caption">Montjuïc View Toward the Four Columns</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Quick Tips Before You Go</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most of Barcelona's best free experiences are in the center — the Gothic Quarter, Montjuïc, Passeig de Gràcia, and the waterfront are all walkable from Eixample. A 1-zone T-Casual card is €13 in the 2026 TMB fare table and covers metro, bus, tram, and the Funicular de Montjuïc. It does not cover the L9 Sud airport metro stations, so keep airport transfers separate from your "free day" budget. Check the <a href="https://www.tmb.cat/es/tarifas-metro-bus-barcelona/precios-titulos-transporte" target="_blank" rel="nofollow noopener noreferrer">official TMB fare table</a> before you travel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A few of the paid attractions on this list have free entry windows, but they often require timed reservations. The Picasso Museum releases free slots a few days ahead, and MNAC is free on Saturday afternoons and the first Sunday of the month. If your dates line up, plan around these. For the full list of what's worth paying for, see our <a href="/barcelona-bucket-list/">Barcelona bucket list</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:kadence/tableofcontents {"uniqueID":"887_66144c-39","listStyle":"none","titleBorderColor":""} /-->
+
+<!-- wp:paragraph -->
+<p>The map below groups the free sights by walking route, so you can build a low-cost Barcelona day without crossing the city back and forth. I also marked the places that are free only with timing or reservation, plus the paid sights worth budgeting for if you have room.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1vpI5YYRkuzW4ABBezc3LyO9a5Pq8J-g&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">1. Walk Passeig de Gràcia</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You don't need to go inside Casa Batlló or Casa Milà to appreciate them — both facades are visible from the street, and standing in front of them is completely free. Passeig de Gràcia is one of the most beautiful boulevards in Europe: wide, tree-lined, and studded with Modernista architecture at every turn. Between the two Gaudí buildings there are other landmark buildings that most people walk straight past — Casa Amatller, Casa Lleó Morera — all free to admire from outside. Walk the full length from Plaça de Catalunya up to Diagonal and back, and you've had an extraordinary morning for nothing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":926,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/IMG_8911-edited-1024x1024.jpg" alt="Casa Milà (La Pedrera) facade with curved balconies on Passeig de Gràcia, one of the best Free Things to Do in Barcelona" class="wp-image-926"/><figcaption class="wp-element-caption">Antoni Gaudí’s iconic Casa Milà with its flowing stone facade and wrought-iron balconies in central Barcelona.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Time needed:</strong> 1 hour at a comfortable pace | <strong>Best time:</strong> Morning or early evening when the light is best on the facades</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> If Passeig de Gràcia makes you want to go inside the buildings, both Casa Batlló and Casa Milà are worth it — but book in advance. <a href="https://www.viator.com/searchResults/all?text=casa+battl%C3%B3&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=barcelona-free-things" target="_blank" rel="sponsored noopener noreferrer">Compare Casa Batlló tickets via Viator.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">2. Explore the Gothic Quarter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>No entry fee, no ticket, no reservation required. Just walk in. The Gothic Quarter's network of medieval streets, hidden plazas, and Roman wall fragments is best explored without a map — the getting lost is part of it. We gave it a full morning and still felt like we'd only scratched the surface. Every alley leads somewhere worth stopping for. Get there before 10am if you want to experience it before the crowds arrive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":930,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/IMG_8597-edited-1024x1024.jpg" alt="Narrow street in Barcelona's Gothic Quarter" class="wp-image-930"/><figcaption class="wp-element-caption">Barcelona Gothic Quarter</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Before 10am | <strong>Time needed:</strong> 2–3 hours minimum</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">3. Barcelona Cathedral Exterior and Plaça de la Seu</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Cathedral of the Holy Cross and Saint Eulalia is still worth adding to a free Barcelona walk, but be careful with outdated advice here. The official cultural and tourist visit is now a paid visit, so I would treat the exterior, Plaça de la Seu, Carrer del Bisbe, and the surrounding Gothic Quarter streets as the free experience. If you want to go inside as a visitor, check the <a href="https://catedralbcn.org/en/tourist-visit/visiting-hours/" target="_blank" rel="nofollow noopener noreferrer">official Barcelona Cathedral visiting hours and ticket page</a>. If you enter for worship or prayer, treat it as worship, not a free sightseeing hack.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free exterior and surrounding streets | <strong>Tourist visit:</strong> Paid | <strong>Time needed:</strong> 20–30 minutes for the outside and nearby Gothic Quarter lanes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">4. La Boqueria Market</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Entry is free and the experience — the color, the noise, the stacked seafood and hanging jamón and fruit piled into architectural pyramids — is worth every minute. The rule for eating: head to the back stalls, away from the tourist-facing counters near the entrance. Better quality, lower prices, and the coffee bars at the back are where the market vendors themselves eat. Arrive before 11am for the full experience without the worst of the crowds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free entry | <strong>Best time:</strong> Before 11am or after 3pm | <strong>Tip:</strong> Back stalls for eating, front displays for looking</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">5. La Rambla</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Walk it once — the full stretch from Plaça de Catalunya down to the Columbus Monument at the port takes about 20 minutes at an easy pace. It's busier and more touristy than it used to be, and it's still worth doing once for the sheer energy of it: the flower stalls, the human statues, the street performers, and the sense of being in a city that is very much alive and very much itself. Hold your bag.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":931,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/IMG_8876-1-768x1024.jpg" alt="Columbus Monument at the end of La Rambla in Barcelona" class="wp-image-931"/><figcaption class="wp-element-caption">Columbus Monument</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Time needed:</strong> 20–30 minutes end to end | <strong>Tip:</strong> Don't eat at the restaurants directly on La Rambla — one block in either direction and the quality goes up as the prices come down</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">6. Montjuïc Viewpoints</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The hill above the port has multiple free viewpoints looking over the city, the harbor, and the Mediterranean. The Mirador del Migdia is the most peaceful — fewer people than the main viewpoints, and a genuinely beautiful outlook. The Funicular de Montjuïc from Paral·lel metro station gets you up without the climb and is included in the T-Casual metro card. Walk between the viewpoints from the top — the whole hill is navigable on foot and the different angles on the city are worth exploring.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Funicular:</strong> Included in a 1-zone T-Casual card (€13 in 2026), but the cable car is separate and paid | <strong>Best time:</strong> Late afternoon for the light</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">7. MNAC Exterior and Terrace</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Museu Nacional d'Art de Catalunya charges for entry — but walking up the monumental staircase, standing in front of the building, and looking back over the city from the exterior platforms is completely free. The cascade of fountains below the palace is one of the most dramatic settings in Barcelona, and the view from the steps — the city spreading out toward the sea, Sagrada Família visible on the horizon — is genuinely stunning. The rooftop viewpoint is covered by MNAC's paid/basic admission, so keep the free version outside.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":932,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/IMG_8838-1-768x1024.jpg" alt="MNAC building and steps on Montjuic in Barcelona" class="wp-image-932"/><figcaption class="wp-element-caption">MNAC / Museu Nacional d'Art de Catalunya</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free exterior and steps | <strong>Museum entry:</strong> €12 general admission; free Saturday afternoons and the first Sunday of the month with online reservation recommended | <strong>Best time:</strong> Late afternoon when the light hits the facade</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">8. Magic Fountain of Montjuïc</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Magic Fountain at the base of MNAC is one of Barcelona's classic free evening experiences when music-and-color shows are running. The important update: the schedule is not something to guess from old blog posts. Barcelona City Council currently publishes the active timetable and choreography calendar, and the days can change by season or for maintenance. We watched from the steps of MNAC, which gives an elevated view over the full display. If a show lines up with your dates, arrive 15–20 minutes early for a good spot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Current planning rule:</strong> check the <a href="https://www.barcelona.cat/en/what-to-do-in-bcn/magic-fountain/magic-fountains-show-times" target="_blank" rel="nofollow noopener noreferrer">official Magic Fountain show times</a> before you go | <strong>Best viewpoint:</strong> Steps of MNAC, slightly elevated above the crowds</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">9. Barceloneta Beach</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The beach itself is free. Barcelona's main city beach is wide, clean, and well-maintained — and the experience of lying by the sea in the middle of a major European city, with the skyline behind you and the Mediterranean in front, is one of those things that earns its place on any list regardless of price. Buy food and drinks at a supermarket a few streets back from the front (there's a Mercadona nearby) and you can spend an entire afternoon here for essentially nothing. The sea is cold in May and warm from July onwards.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> May–June or September (less crowded and usually easier on accommodation prices than July–August) | <strong>Tip:</strong> Skip the beachfront restaurants — walk one or two streets back and compare menus before sitting down</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">10. Park Güell Area Reality Check</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Old Barcelona advice often says you can visit the "free parts" of Park Güell, but that is not a reliable tourist plan anymore. The official Park Güell site treats the park as a regulated visitor area, with the famous monumental spaces covered by timed tickets and resident-only periods outside tourist hours. If you are keeping the day free, make this a neighborhood walk instead: approach from Gràcia, enjoy the streets around the park, and save the paid Park Güell visit for a day when the mosaic terrace is actually in your budget.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Free version:</strong> Gràcia-to-Park-Güell neighborhood walk and views from outside the ticketed area | <strong>Official general ticket:</strong> €18 in the current Park Güell tariff table | <strong>If you want the full visit:</strong> <a href="https://www.viator.com/tours/Barcelona/Park-Guell-Tickets-with-Tour-Guide/d562-340934P1?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=barcelona-free-things" target="_blank" rel="sponsored noopener noreferrer">compare Park Güell ticket and tour options on Viator</a> or check the <a href="https://parkguell.barcelona/en/planning-your-visit/prices-and-times" target="_blank" rel="nofollow noopener noreferrer">official Park Güell prices</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">11. El Born Neighborhood</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>El Born is one of Barcelona's best neighborhoods and it costs nothing to walk around. Medieval streets, good independent shops, excellent wine bars, and the Basílica de Santa Maria del Mar — one of the finest Gothic churches in Spain, free to enter, and somehow less visited than it deserves to be. The neighborhood is at its best in the late morning or early evening. We wish we'd spent more time here.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free to explore | <strong>Santa Maria del Mar:</strong> Free | <strong>Best time:</strong> Late morning or 6–8pm when the restaurants open</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">12. Arc de Triomf</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona's triumphal arch was built as the entrance gate to the 1888 Universal Exposition — not for a military victory, which gives it an oddly cheerful energy for a triumphal arch. It stands at the top of a long palm-lined promenade that's worth the 15-minute walk from the Gothic Quarter. Free to look at, pleasant to walk around, and a good photo stop on the way to or from Parc de la Ciutadella.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Time needed:</strong> 15–20 minutes | <strong>Getting there:</strong> 5-minute walk from Arc de Triomf metro station</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">13. Parc de la Ciutadella</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona's central park is free to enter and has more in it than most parks — an ornamental lake (with rowing boats for rent), a large cascade fountain that a young Gaudí helped design, a small zoo (not free), and a lot of locals doing exactly what you'd want to do: sitting in the sun, reading, not rushing anywhere. It's a good place for an hour of doing nothing in particular, which Barcelona doesn't always make easy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free entry | <strong>Best time:</strong> Weekend mornings when it's lively but not yet crowded | <strong>Time needed:</strong> 1–1.5 hours</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="14-bunkers-del-carmel">14. Bunkers del Carmel</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The old anti-aircraft bunkers above the Carmel neighborhood give one of the best 360-degree panoramic views of Barcelona — the Sagrada Família, the sea, Montjuïc, the whole city spread below you in one unobstructed sweep. It has become much more popular in recent years, and access is now controlled outside set opening hours to protect the neighborhood from late-night crowding. Take the metro or bus toward El Carmel and expect an uphill walk. Go for clear late-afternoon light, be quiet around the residential streets, and leave before closing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":894,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/IMG_8858-1024x768.jpg" alt="Panoramic view over Barcelona from Bunkers del Carmel" class="wp-image-894"/><figcaption class="wp-element-caption">Barcelona view</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Getting there:</strong> Metro or bus toward El Carmel + uphill walk | <strong>Best time:</strong> Late afternoon before the site closes | <strong>Tip:</strong> Check current access hours and do not plan a late-night visit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">15. Walk the Waterfront</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The stretch from Barceloneta along the waterfront to the Port Olímpic marina is a flat, pleasant walk with palm trees, yacht masts, and sea breeze — and a completely different perspective on the city than the inland streets. It takes about 45 minutes one way at an easy pace and passes some of the city's more interesting public art. Frank Gehry's enormous golden fish sculpture outside the Hotel Arts is worth a stop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Time needed:</strong> 45 minutes one way | <strong>Best time:</strong> Morning or early evening</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">16. Sagrada Família Exterior</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Going inside Sagrada Família is worth every cent — but if the ticket is out of reach or it's sold out, the exterior from the park is one of the great free experiences in Europe. The Nativity facade (Gaudí's original, intricate, covered in organic detail) and the Passion facade (stark, geometric, deliberately austere) are both visible from the street. Walk around the full perimeter slowly. The building changes character completely depending on which side you're looking at and what the light is doing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":904,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/IMG_8921-768x1024.jpg" alt="Sagrada Família surrounded by trees and visitors in Barcelona" class="wp-image-904"/><figcaption class="wp-element-caption">Sagrada Família</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free (exterior) | <strong>Official base ticket:</strong> €26 | <strong>If you want to go inside:</strong> <a href="https://www.viator.com/Barcelona-attractions/Sagrada-Familia/d562-a820?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=barcelona-free-things" target="_blank" rel="sponsored noopener noreferrer">compare Sagrada Família ticket options on Viator</a> | <strong>Best time:</strong> Morning for the Nativity facade, afternoon for the Passion facade</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">17. Picasso Museum Free Entry Days</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Picasso Museum is free on the first Sunday of each month, but advance reservation is required. In the current official timetable, it also has a regular free Thursday window from 4–7pm between late September and late March, plus a few open-door dates during the year. Free tickets are released four days before the visit from 10am, so set a reminder instead of hoping to walk in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Free:</strong> First Sunday of the month and selected evening windows with reservation | <strong>Paid entry:</strong> €12 online / €13 ticket office in the current official price table | <strong>Check:</strong> <a href="https://museupicassobcn.cat/en/plan-your-visit/buy-tickets-and-opening-hours" target="_blank" rel="nofollow noopener noreferrer">official Picasso Museum opening hours and tickets</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">18. MNAC Free Entry Days</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Museu Nacional d'Art de Catalunya — the spectacular domed palace on Montjuïc — is free every Saturday from 3pm and on the first Sunday of every month, with early online admission recommended for capacity control. The Romanesque art collection inside is world-class, the best of its kind anywhere. If your timing lines up, this is one of the finest free museum experiences in Europe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Free:</strong> Saturdays from 3pm and the first Sunday of each month | <strong>Paid entry:</strong> €12 general admission | <strong>Check:</strong> <a href="https://www.museunacional.cat/en/opening-hours-and-prices" target="_blank" rel="nofollow noopener noreferrer">official MNAC opening hours and prices</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">19. Gràcia Neighborhood</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Gràcia is a former independent village absorbed into Barcelona in the 19th century that still hasn't quite forgotten it. The neighborhood has a distinct identity — its own plazas, its own markets, its own rhythm — and is genuinely local in a way that the Gothic Quarter no longer is. Walk the Plaça del Sol and Plaça de la Vila de Gràcia, browse the independent shops on Carrer de Verdi, and have a coffee at one of the terrace bars. Free, pleasant, and a good antidote to the tourist intensity of the center.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free to explore | <strong>Getting there:</strong> Metro to Fontana or Diagonal | <strong>Best time:</strong> Late morning or evening</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">20. Sunset from Montjuïc Castle</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Montjuïc Castle sits at the top of the hill and charges for entry, but the walk up through the gardens and the various mirador stops on the way is free. The views over the port, the city, and the sea as the sun goes down are among the finest in Barcelona even without going inside the castle. Stay for the light changing over the city and then walk back down toward MNAC if the Magic Fountain has a scheduled show that evening.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Castle entry:</strong> Paid | <strong>Walk and gardens:</strong> Free | <strong>Getting there:</strong> Funicular de Montjuïc included in T-Casual; cable car is separate and paid | <strong>Best time:</strong> 1 hour before sunset</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Final Thoughts: Free Things to Do in Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The free things to do in Barcelona are not a compromise — they're some of the best experiences the city offers. The Gothic Quarter, the Montjuïc viewpoints, the waterfront walk, the Modernista facades, and the free museum windows can carry an extraordinary two-day Barcelona trip for very little money. The paid attractions (Sagrada Família, Casa Batlló, Park Güell's monumental area) are still worth budgeting for, but knowing what's truly free means you can balance the spending without building the whole trip around ticket prices.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the full day-by-day plan, see our <a href="/4-days-in-barcelona-the-perfect-itinerary/">4 Days in Barcelona itinerary</a>. For the 20 best experiences whether free or paid, our <a href="/barcelona-bucket-list/">Barcelona bucket list</a> covers everything. And for accommodation that works at every budget, our <a href="/where-to-stay-in-barcelona/">where to stay in Barcelona guide</a> breaks down every neighborhood honestly.</p>
+<!-- /wp:paragraph -->
+

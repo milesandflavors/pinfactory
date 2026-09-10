@@ -1,0 +1,218 @@
+<!-- wp:image {"id":2760,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/chicago-winter-street-1.jpg" alt="A snow-dusted Chicago street with old graystone buildings and bare trees in winter" class="wp-image-2760"/><figcaption class="wp-element-caption">Chicago in winter: the lake wind is real, and it changes how the whole city feels.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Winter in Chicago isn't one season — it's three different trips depending on which weeks you land in. December is the Christkindlmarket, the tree, and prices to match. January is the coldest, quietest stretch of the entire year. February starts warming, slightly, while Restaurant Week and a genuinely unhinged beach plunge fill the calendar. Most first-timers plan for the December version and get surprised by how different January actually feels.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here's what actually changes across a Chicago winter, and which stretch fits the trip you're trying to take.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#weather">Weather in Chicago in Winter — What to Pack</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#which-part">December vs. January vs. February</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#events">Events Worth Planning Around</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#hotels">Hotel Prices and Crowds</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#practical-tips">Practical Tips</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-from-chicago">More from Chicago</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Chicago winter runs from a December average high near 37°F down to about 32°F in January, the coldest month, before climbing back toward 35°F in February. December means the Christkindlmarket and peak hotel prices; January and February are colder but genuinely cheaper and quieter, with Chicago Restaurant Week (late January into February) and the Chicago Polar Plunge at North Avenue Beach (early March) bookending the season. The lake wind matters more than the thermometer number — factor it into whatever you pack.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-plan-winter">How I'd plan a winter trip to Chicago</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>First move: decide whether the trip is actually about the Christkindlmarket, or just about Chicago in the cold. If it's the market, that's a December trip and I'd book early. If it's genuinely just "I want to see Chicago and don't mind the wind off the lake," January saves real money and gives you a noticeably calmer Loop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the specific things worth building a January or February day around — Restaurant Week, a rooftop rink, a Chinatown parade — see the <a href="/chicago-winter-bucket-list/">Chicago Winter Bucket List</a>. This page is the planning overview; that one is the actual to-do list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a genuinely cheaper, quieter version of Chicago and don't need market lights to make the trip worth it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> January sits right after the holiday price peak, before spring demand builds back up — one of the better value windows of the entire year.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you want guaranteed mild weather — January averages near 32°F and the wind off Lake Michigan makes it feel colder than the number.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you book:</strong> check Chicago Restaurant Week's exact dates if trying specific restaurants is part of the plan — reservations fill fast at the most popular spots.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weather">Weather in Chicago in Winter — What to Pack</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NWS climate normals (1991-2020) put Chicago's December average high around 36.6°F with lows near 24.4°F. January is the coldest month, with highs around 31.6°F and lows near 18.8°F. February climbs back slightly, with highs around 35°F and lows near 20°F.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The lake wind is the part the thermometer doesn't capture — a 30°F day downtown near Michigan Avenue can feel considerably colder right along the lakefront. Pack a genuinely windproof coat, not just a warm one, along with waterproof boots for slush and gloves you can still use your phone with.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="which-part">December vs. January vs. February</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>December is the version most people picture: the Christkindlmarket, Millennium Park's ice rink, and genuinely festive energy — but also the highest hotel prices of the winter. For that specific version, see <a href="/chicago-at-christmas/">Chicago at Christmas</a> and <a href="/chicago-christmas-itinerary/">the day-by-day plan</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>January is the sharpest contrast: the market packs up, the Loop empties out noticeably, and prices drop fast. It's also genuinely the coldest month, so the trade-off is real. February starts creeping toward spring, with Restaurant Week running through much of the month and the first signs of the coming Polar Plunge season in early March.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="events">Events Worth Planning Around</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Chicago Restaurant Week</strong> (late January through mid-February) — hundreds of restaurants running prix-fixe deals; see the <a href="/chicago-winter-bucket-list/">Winter Bucket List</a> for the full breakdown.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>The Peninsula's Sky Rink</strong> (through mid-February) — a free-admission rooftop rink most visitors don't know exists.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Chinatown Lunar New Year Parade</strong> (late January to early March, follows the lunar calendar) — dragon dancers and floats along Wentworth Avenue.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>The Chicago Polar Plunge</strong> (early March, North Avenue Beach) — technically just past winter on the calendar, but close enough to plan around if your trip lands late in the season.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hotels">Hotel Prices and Crowds</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>December, especially the weeks around the Christkindlmarket and the holidays themselves, is peak pricing and peak crowds downtown. January flips that completely: it's one of the cheapest hotel stretches of the entire year, with noticeably thinner crowds at the Art Institute, Willis Tower, and the river cruise docks (even though the cruise itself pauses for the season).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>February sits in between — still well below December pricing, ticking back up slightly as Restaurant Week draws diners downtown and spring bookings start.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Decide your season first:</strong> December for the market, January or February for the cheaper, quieter version.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Pack for wind, not just cold:</strong> a windproof layer matters more along the lakefront than an extra sweater.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>The architecture river cruise pauses for winter:</strong> the river freezes and boats stop running — plan that specific activity for a different season.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book Restaurant Week reservations early:</strong> the popular spots fill their slots within days of booking opening.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay:</strong> the <a href="/where-to-stay-in-chicago-7-best-areas-hotels/">where to stay in Chicago guide</a> covers neighborhoods, though winter pricing specifically rewards booking January if flexible.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-chicago">More from Chicago</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For the specific things worth doing once you're here, see the <a href="/chicago-winter-bucket-list/">Chicago Winter Bucket List</a>. For the holiday-specific version of the season, <a href="/chicago-at-christmas/">Chicago at Christmas</a> and <a href="/chicago-christmas-itinerary/">the day-by-day itinerary</a> cover the December window in full.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is winter a good time to visit Chicago?</summary><!-- wp:paragraph -->
+<p>It depends what you want. December is festive but crowded and expensive around the Christkindlmarket. January and February are colder but genuinely cheaper and quieter, with real events like Restaurant Week filling the calendar.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the coldest month in Chicago?</summary><!-- wp:paragraph -->
+<p>January, with an average high around 31.6°F and lows near 18.8°F. February is slightly milder, and December is the mildest of the three winter months.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Does the Chicago architecture river cruise run in winter?</summary><!-- wp:paragraph -->
+<p>No. The river cruise pauses for the season since the river can freeze — plan that specific activity for spring through fall instead.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"Is winter a good time to visit Chicago?","acceptedAnswer":{"@type":"Answer","text":"It depends what you want. December is festive but crowded and expensive around the Christkindlmarket. January and February are colder but genuinely cheaper and quieter, with real events like Restaurant Week filling the calendar."}},
+    {"@type":"Question","name":"What is the coldest month in Chicago?","acceptedAnswer":{"@type":"Answer","text":"January, with an average high around 31.6F and lows near 18.8F. February is slightly milder, and December is the mildest of the three winter months."}},
+    {"@type":"Question","name":"Does the Chicago architecture river cruise run in winter?","acceptedAnswer":{"@type":"Answer","text":"No. The river cruise pauses for the season since the river can freeze -- plan that specific activity for spring through fall instead."}}
+  ]
+}
+</script>
+<!-- /wp:html -->

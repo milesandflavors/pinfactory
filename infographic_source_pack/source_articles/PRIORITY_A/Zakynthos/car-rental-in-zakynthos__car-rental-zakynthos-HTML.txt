@@ -1,0 +1,325 @@
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:image {"id":1297,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/IMG_1219-edited-scaled.jpg" alt="Zakynthos coastline and open road on a Greek island road trip" class="wp-image-1297"/><figcaption class="wp-element-caption">Zakynthos rewards the travelers who show up with wheels.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Planning a trip to Zakynthos and still wondering whether renting a car is worth it? Short answer: yes. We spent four days on the island with a compact automatic, three of us traveling together, and I was pregnant at the time. The car was not just convenient. It was the reason the trip actually worked.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Without a car, Zakynthos can still be a pleasant beach holiday. With a car, it becomes a proper island trip: Gerakas, Xigia, the Blue Caves area, quiet viewpoints, and beaches that would be awkward or expensive to reach by taxi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-answer-car-rental-zakynthos">Quick Answer: Do You Need a Car in Zakynthos?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes, if you want to explore beyond Laganas, Tsilivi, and Zakynthos Town. A rental car is the easiest way to reach the island's best beaches, viewpoints, and boat departure points. For a beach-only resort stay, you can skip it. For the kind of Zakynthos trip most people actually imagine, the car is the thing that unlocks the island.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:rank-math/toc-block {"headings":[{"key":"zakynthos-car-toc-01","content":"Do You Need a Car in Zakynthos?","level":2,"link":"#do-you-need-a-car-in-zakynthos","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-02","content":"What We Rented and What It Cost","level":2,"link":"#what-we-rented-and-what-it-cost","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-03","content":"Driving in Zakynthos: What to Expect","level":2,"link":"#driving-in-zakynthos","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-04","content":"The Beaches You Can Only Reach by Car","level":2,"link":"#beaches-reached-by-car","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-05","content":"Getting to Shipwreck Beach (Navagio)","level":2,"link":"#getting-to-shipwreck-beach","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-06","content":"Where We Stayed With a Car","level":2,"link":"#where-we-stayed-with-a-car","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-07","content":"Practical Info: Car Rental in Zakynthos","level":2,"link":"#practical-info-car-rental-zakynthos","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-08","content":"What We'd Do Differently","level":2,"link":"#what-we-would-do-differently","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-09","content":"The Bottom Line on Car Rental in Zakynthos","level":2,"link":"#bottom-line-car-rental-zakynthos","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-10","content":"FAQ: Car Rental in Zakynthos","level":2,"link":"#faq-car-rental-zakynthos","disable":false,"isUpdated":false,"isGeneratedLink":true},{"key":"zakynthos-car-toc-11","content":"More Zakynthos Guides","level":2,"link":"#more-zakynthos-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul","excludeHeadings":["h3"]} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><nav><ul><li class=""><a href="#do-you-need-a-car-in-zakynthos">Do You Need a Car in Zakynthos?</a></li><li class=""><a href="#what-we-rented-and-what-it-cost">What We Rented and What It Cost</a></li><li class=""><a href="#driving-in-zakynthos">Driving in Zakynthos: What to Expect</a></li><li class=""><a href="#beaches-reached-by-car">The Beaches You Can Only Reach by Car</a></li><li class=""><a href="#getting-to-shipwreck-beach">Getting to Shipwreck Beach (Navagio)</a></li><li class=""><a href="#where-we-stayed-with-a-car">Where We Stayed With a Car</a></li><li class=""><a href="#practical-info-car-rental-zakynthos">Practical Info: Car Rental in Zakynthos</a></li><li class=""><a href="#what-we-would-do-differently">What We'd Do Differently</a></li><li class=""><a href="#bottom-line-car-rental-zakynthos">The Bottom Line on Car Rental in Zakynthos</a></li><li class=""><a href="#faq-car-rental-zakynthos">FAQ: Car Rental in Zakynthos</a></li><li class=""><a href="#more-zakynthos-guides">More Zakynthos Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you go — Zakynthos car rental notes</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Book automatic early if you want one.</strong> Manual cars are more common and cheaper, but automatic availability can tighten quickly in summer.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Check insurance before you accept the desk upsell.</strong> Dirt roads and tight town streets are part of the trip, so know what basic cover actually includes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Do not rely on a car for Navagio beach itself.</strong> You can drive to viewpoints and boat departure areas, but Shipwreck Beach is a boat-access experience, and landing rules can change.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="do-you-need-a-car-in-zakynthos">Do You Need a Car in Zakynthos?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes, for most independent trips. Zakynthos has some of the most beautiful beaches in the Mediterranean, but many of them sit far from the easy resort strips. Laganas, Tsilivi, and Zakynthos Town are manageable without a car. Gerakas, Xigia, the quieter viewpoints, and the northern coast are much easier with one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The taxi math also gets ugly fast. One or two rides can be fine; several beach days, restaurant runs, and a northern boat-trip day can quickly approach what a small rental would have cost.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Taxi works best</strong> if you are staying in one resort area and only need occasional short rides.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>A rental car works best</strong> if you want beaches, viewpoints, flexible timing, and a base in Zakynthos Town.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Reality check:</strong> Zakynthos is not huge. You can cross much of the island in under an hour. But without a car, the island feels much smaller than it really is.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-we-rented-and-what-it-cost">What We Rented and What It Cost</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We rented a compact automatic, picked it up at Zakynthos International Airport (ZTH), and dropped it off at the same place four days later. Small, simple, and exactly right for the island.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The automatic was not just a comfort preference. I was pregnant, and driving through Zakynthos Town's narrow streets in a manual would have added a layer of stress I did not want. Even without that, I would still recommend automatic if you are not fully confident with manual transmission in tight streets.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What we actually paid:</strong> around €120 for four days, picked up at ZTH. The airport desk quoted us considerably more for the same general category. Booking online in advance was not just more convenient; it made the price much more reasonable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1299,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/IMG_1115-1-edited-scaled.jpg" alt="Compact rental car in Zakynthos used for a beach road trip" class="wp-image-1299"/><figcaption class="wp-element-caption">A compact automatic is the right call: easier on narrow streets, easier near beaches, and less stressful overall.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>If you already know you need a car, compare availability early. When we price-check this kind of trip, <a href="https://www.discovercars.com" target="_blank" rel="nofollow noopener noreferrer">DiscoverCars is useful for comparing current Zakynthos rental rates</a>, but always read the pickup terms, deposit amount, and insurance details before choosing the cheapest option.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="driving-in-zakynthos">Driving in Zakynthos: What to Expect</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The main roads between towns are fine: paved, manageable, and easy enough with phone navigation. The trickier parts start when you head toward quieter beaches or drive inside Zakynthos Town.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Zakynthos Town has tight corners, scooters, parked cars, and occasional reversing situations when someone blocks the road. The beach roads can be dusty and uneven. None of this felt dangerous to us, but it did reward patient driving.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Drive on the right.</strong> This is the same side as the US and most of continental Europe.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Small cars are easier.</strong> A compact car is better than an SUV for town parking and narrow roads.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Dirt roads are normal near some beaches.</strong> Go slowly and do not assume every access road is smooth.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Check your license and insurance terms.</strong> US travelers should carry a valid license, and many rental/insurance situations are smoother with an International Driving Permit alongside it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Distances are short but not instant.</strong> Zakynthos Town to Gerakas is about 35 minutes; the northern coast can take longer depending on the route.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":1301,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/IMG_1099-edited-scaled.jpg" alt="Zakynthos Town street near restaurants and parked cars" class="wp-image-1301"/><figcaption class="wp-element-caption">Zakynthos Town is manageable, but the streets are tighter than they look on a map.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="beaches-reached-by-car">The Beaches You Can Only Reach by Car</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the real reason to rent a car. Without one, Zakynthos is a decent beach holiday. With one, you can shape the trip around the places that make the island special.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Gerakas</strong> is one of the most important sea turtle nesting beaches in Europe and one of the calmest places we visited. <strong>Xigia</strong> has sulfur springs, cliffs, and water that looks unreal. <strong>Kalamaki</strong> is easier and calmer, good for a slower swim day. The northern coastline and Blue Caves area also make far more sense with a car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If beaches are your main reason for visiting, pair this guide with my <a href="/best-beaches-in-zakynthos/">Zakynthos beaches guide</a>, where I rank the beaches we actually drove to.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1319,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/12photostory-HhlRkFf-UiA-unsplash-1024x683.jpg" alt="Xigia Sulfur Beach in Zakynthos with turquoise water and rocky cliffs" class="wp-image-1319"/><figcaption class="wp-element-caption">Xigia is exactly the kind of beach that makes a rental car worth it.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="getting-to-shipwreck-beach">Getting to Shipwreck Beach (Navagio)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Navagio, the famous Shipwreck Beach, is not a place you simply drive to. The beach sits inside steep cliffs, so the beach itself is reached by boat when access is allowed. You can drive to viewpoints and boat departure points, but the car only gets you part of the way.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rules around Shipwreck Beach have changed in recent years, especially around landing on the sand. Before booking, check whether your tour includes only a view/swim stop from the boat or actual beach access. For most travelers now, it is safest to plan around seeing Navagio from the water and from above rather than assuming you will walk on the beach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We did a private boat tour organized through a Hungarian company, and honestly, it was a miss: cramped, chaotic, and not well timed. If I were doing it again, I would choose a reviewed morning tour with clear group size and timing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1302,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/IMG_1228-1024x768.jpg" alt="Boat tour near Navagio and the Blue Caves in Zakynthos" class="wp-image-1302"/><figcaption class="wp-element-caption">For Navagio and the Blue Caves, the operator matters as much as the route.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>For a reviewed alternative, <a href="https://www.viator.com/Zakynthos/d23524-ttd?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=zakynthos-car-rental" target="_blank" rel="sponsored noopener noreferrer">compare Zakynthos boat tours on Viator</a> and filter for morning departures, smaller groups, and recent reviews. My full <a href="/shipwreck-beach-zakynthos/">Shipwreck Beach Zakynthos guide</a> covers what to expect now.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="where-we-stayed-with-a-car">Where We Stayed With a Car</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We stayed at Palatino Hotel in Zakynthos Town, and that choice only really made sense because we had a car. We did not want Laganas or Tsilivi as our base; we wanted quiet evenings, walkable dinners, and the freedom to drive to beaches during the day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With a car, Zakynthos Town worked beautifully. Without a car, I would choose a different base, probably somewhere walking distance from the beach. My <a href="/where-to-stay-in-zakynthos/">where to stay in Zakynthos guide</a> breaks down the areas honestly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you want to compare similar hotels, <a href="https://www.booking.com" target="_blank" rel="nofollow noopener noreferrer">check current Zakynthos hotel availability on Booking.com</a> and choose free cancellation when the price difference is reasonable. My <a href="/how-to-book-hotels-like-a-pro/">hotel booking guide</a> explains the recheck-and-rebook strategy in more detail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-info-car-rental-zakynthos">Practical Info: Car Rental in Zakynthos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Pickup:</strong> Zakynthos International Airport (ZTH) is the easiest pickup point if you fly in. Compare online before arrival, because desk prices can be higher.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Automatic vs manual:</strong> Manual cars are cheaper and more common. Automatic is worth paying extra for if narrow streets, parking, or hills make you nervous.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Car size:</strong> Small is good. You do not need an SUV for a normal beach itinerary, and a compact car is easier to park.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Insurance:</strong> Read what basic coverage includes before adding extras. Dirt roads, tight alleys, and beach parking are exactly why the insurance line matters here.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Fuel:</strong> There are plenty of gas stations around the main towns. Fill up before long drives north or south.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Money:</strong> I still carry some cash in Greece for taxis, small operators, and beach tavernas. For card spending, my <a href="/best-travel-money-card/">travel money card guide</a> explains the setup I use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Connectivity:</strong> A working phone is useful for maps and last-minute route changes. My <a href="/esim-for-travel/">eSIM guide</a> covers the setup before you fly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-we-would-do-differently">What We'd Do Differently</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Book the car earlier.</strong> We paid a fair price, but automatic cars get scarcer in high season. I would lock it in as soon as the flight dates were fixed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Skip the private Navagio setup we used.</strong> The island is too beautiful to waste the main boat trip on a weak operator. I would choose by reviews, group size, and departure time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Plan fewer beach stops per day.</strong> Gerakas in the morning plus Xigia in the afternoon is a great day. Trying to add a third stop turns a beach day into a checklist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="bottom-line-car-rental-zakynthos">The Bottom Line on Car Rental in Zakynthos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you are building a Zakynthos trip around beaches, viewpoints, and flexible days, rent the car. It is not a luxury add-on here. It is the thing that makes the best version of the island possible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the full budget picture, including what we spent on flights, hotel, food, car rental, and boat tours, see my <a href="/zakynthos-travel-costs/">Zakynthos travel costs guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq-car-rental-zakynthos">FAQ: Car Rental in Zakynthos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Is it worth renting a car in Zakynthos?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes, if you want to visit beaches beyond your resort area. A car makes Gerakas, Xigia, viewpoints, and northern boat departures much easier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Is driving in Zakynthos difficult?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Not usually, but it can feel tight in Zakynthos Town and rougher near some beaches. Drive slowly, choose a small car, and do not rush dirt-road sections.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Do you need an automatic car in Zakynthos?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You do not need one, but I would choose automatic again. It made town driving, parking, and narrow streets much less stressful.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Can you get to Navagio by car?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>No, not to the beach itself. You can drive to viewpoints and boat departure points, but Shipwreck Beach is a boat-viewing or boat-access experience depending on current safety rules.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-zakynthos-guides">More Zakynthos Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/zakynthos-road-trip-itinerary/">Zakynthos Road Trip Itinerary: How We Explored the Island by Car</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/where-to-stay-in-zakynthos/">Where to Stay in Zakynthos: Best Areas Honestly Ranked</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/best-beaches-in-zakynthos/">Best Beaches in Zakynthos: Ranked by Someone Who Drove to All of Them</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/shipwreck-beach-zakynthos/">Shipwreck Beach Zakynthos: Everything You Need to Know Before You Go</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/zakynthos-travel-costs/">Zakynthos Travel Costs: What a Week on the Island Actually Costs</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/how-to-plan-a-trip/">How to Plan a Trip: The Checklist I Use Before Booking Anything</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

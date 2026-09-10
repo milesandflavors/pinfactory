@@ -1,0 +1,254 @@
+<!-- wp:image {"id":2693,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/chicago-christmas-tree-downtown.jpg" alt="Large lit Christmas tree with red lights and star topper in downtown Chicago, with a holiday market tent and CHICAGO sign visible below" class="wp-image-2693"/><figcaption class="wp-element-caption">December in Chicago is cold, real winter — and also when the city looks its most festive.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>December in Chicago means real cold — wind chill off Lake Michigan is not a myth, and it's the coldest month you'll find on this site's Chicago calendar so far. It's also when the city commits fully to the season: mulled wine steaming in the cold air, lights strung over the river, and Christkindlmarket in full swing at Daley Plaza. Whether the month is worth the layers depends on which week you're actually talking about.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#weather">Weather in Chicago in December — What to Pack</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#does-it-snow">Does It Snow in Chicago in December?</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#early-vs-holiday">Early December vs. Christmas Week vs. New Year's</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#events">Best Events in Chicago in December</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#romantic">Romantic Things to Do in Chicago in Winter</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#hotels">Hotel Prices and Crowds</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-from-chicago">More from Chicago</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Chicago in December is genuinely cold — climate normals put the average high around 36.6°F and the average low around 24.4°F (2.6°C and -4.2°C) — but it's also the city's most festive month: Christkindlmarket, Millennium Park skating, and the Magnificent Mile's lights are all running. Early December is quieter and cheaper than Christmas week and New Year's, when hotel rates and crowds both peak. Pack for real winter, and build indoor stops into every day.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-plan-december">How I'd plan a December trip to Chicago</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Decide first whether you want the holiday spectacle or a quieter, cheaper city trip — December delivers very different versions of Chicago depending on the week. Early December, before the week of Christmas, still has Christkindlmarket and the lights running, but without the peak-week crowds and prices. I'd target this window if I wanted the atmosphere without paying the Christmas-week premium.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If the full spectacle is the point, I'd shortlist the <a href="https://www.viator.com/tours/Chicago/Chicago-Holiday-Lights-Tour/d673-5765CHIGHTS?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=chicago-in-december" target="_blank" rel="sponsored noopener noreferrer">Chicago Holiday Lights Tour on Viator</a> — an organized evening route is easier than connecting multiple lit-up areas yourself once it's dark by 4:30pm and genuinely cold outside.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> either the full holiday spectacle or a genuinely quieter, cheaper Chicago trip — pick one, since December swings hard between the two depending on the week.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> early December still has the market and lights running at lower prices; Christmas week and New Year's convert fast into the most expensive, busiest stretch of the whole month.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you're hoping for comfortable outdoor sightseeing — this is the coldest month on the calendar, and wind off the lake makes it feel colder still.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you book:</strong> Christmas week and New Year's hotel rates rise sharply — book earlier than you would for a random December week if your dates land near either.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weather">Weather in Chicago in December — What to Pack</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.weather.gov/lot/chicago_normals" target="_blank" rel="noopener noreferrer">National Weather Service climate normals for Chicago O'Hare</a> put December's average high at 36.6°F and average low at 24.4°F (2.6°C and -4.2°C), with colder spells genuinely possible. Wind chill depends on both the actual temperature and wind speed, so check the hourly "feels like" forecast rather than trusting a fixed rule.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is a full winter-coat month, not a jacket month. Pack an insulated coat, thermal base layers, waterproof footwear with real grip, a hat that covers your ears, a scarf, and touchscreen gloves. Sidewalks can be wet, salted, icy, or slushy depending on the day, so grip matters more than looks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="does-it-snow">Does It Snow in Chicago in December?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes, snow is a normal part of a Chicago December, though it's rarely the heavy, trip-disrupting kind for most of the month. Expect a mix of cold, dry days and days with light-to-moderate snow rather than a guaranteed white-Christmas scene — some years deliver it, some don't. Either way, plan footwear and outdoor time around the possibility rather than assuming clear sidewalks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="early-vs-holiday">Early December vs. Christmas Week vs. New Year's</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Early December</strong>, roughly the first two weeks, is the sweet spot: Christkindlmarket and the Magnificent Mile lights are both running, but Christmas-week crowds and prices haven't arrived yet. This is the window I'd pick for the atmosphere without the premium.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Christmas week</strong> itself is Chicago at its most crowded and most expensive — hotel rates climb, restaurants need reservations further ahead, and the core holiday sights get genuinely busy. It's also, unsurprisingly, when the city looks and feels its most festive, so it's a fair trade if the spectacle matters more than the crowds to you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>New Year's</strong> brings its own spike — fireworks and events downtown push hotel demand right back up after a brief lull following Christmas Day. If you want a quieter stretch, the days between Christmas and New Year's Eve itself tend to be calmer than either peak surrounding them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="events">Best Events in Chicago in December</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Christkindlmarket</strong> at Daley Plaza is the anchor of the month — free general admission, with mulled wine, ornaments, and gifts filling out the spending side. <strong>Millennium Park's ice rink</strong> has traditionally offered free admission with an online reservation, skate rental extra. <strong>ZooLights</strong> at Lincoln Park Zoo runs paid evenings through most of December, with select free Mondays. For the full breakdown of what's free and what's worth paying for across all of these, see <a href="/chicago-at-christmas/">Chicago at Christmas: What Is Actually Worth It</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="romantic">Romantic Things to Do in Chicago in Winter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>December's cold has a genuine upside for couples: fewer crowds at the spots that get overrun in summer, and a specific kind of atmosphere that only shows up once it's actually cold. An evening walk along the Chicago Riverwalk with the bridges and skyline lights reflecting off the water is a low-effort, high-payoff pairing — free, and best after dark. Millennium Park's rink works as a low-stakes date if neither of you is a serious skater. For dinner, look toward River North rather than trying to fit a reservation into an already-packed Loop itinerary; it's close enough to walk from most downtown hotels.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hotels">Hotel Prices and Crowds</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hotel rates in Chicago follow the crowd pattern closely: lowest in early December, climbing through the second half of the month, and peaking around Christmas week and New Year's. If budget matters more than hitting the absolute peak of the decorations, book an early-December date. If the full spectacle is the priority, budget for Christmas-week pricing and book well ahead — good rooms in the Loop and River North sell out before the date gets close.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-chicago">More from Chicago</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/chicago-at-christmas/">Chicago at Christmas: What Is Actually Worth It</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/chicago-christmas-itinerary/">Planning a Chicago Christmas Trip? Start With This Itinerary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/chicago-in-november/">Chicago in November Is Really Two Different Trips</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/where-to-stay-in-chicago-7-best-areas-hotels/">Where to Stay in Chicago: 7 Best Areas + Hotels</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/chicago-bucket-list-25-best-things-to-do/">25 Best Things to Do in Chicago: An Honest First-Timer List</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Chicago cold in December?</summary><!-- wp:paragraph -->
+<p>Yes, genuinely cold. Climate normals put the average high around 36.6°F and average low around 24.4°F (2.6°C and -4.2°C), with wind off Lake Michigan often making it feel colder. This is a full winter-coat month.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Does it snow in Chicago in December?</summary><!-- wp:paragraph -->
+<p>Yes, snow is normal, though it varies year to year between light dustings and heavier accumulation. Don't count on a guaranteed white Christmas, but do plan footwear and outdoor time around the possibility of snow or ice on sidewalks.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>When is the best time to visit Chicago in December?</summary><!-- wp:paragraph -->
+<p>Early December — roughly the first two weeks — gives you Christkindlmarket and the holiday lights without the crowds and prices of Christmas week or New Year's, which are the two most expensive, busiest stretches of the month.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What are romantic things to do in Chicago in winter?</summary><!-- wp:paragraph -->
+<p>An evening Riverwalk stroll with the bridges and skyline lit up is free and low-effort. Millennium Park's ice rink works well for a casual date, and River North has enough dinner options within walking distance of most downtown hotels to skip a long transit trip.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Chicago cold in December?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, genuinely cold. Climate normals put the average high around 36.6F and average low around 24.4F (2.6C and -4.2C), with wind off Lake Michigan often making it feel colder. This is a full winter-coat month."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does it snow in Chicago in December?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, snow is normal, though it varies year to year between light dustings and heavier accumulation. Don't count on a guaranteed white Christmas, but do plan footwear and outdoor time around the possibility of snow or ice on sidewalks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the best time to visit Chicago in December?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early December -- roughly the first two weeks -- gives you Christkindlmarket and the holiday lights without the crowds and prices of Christmas week or New Year's, which are the two most expensive, busiest stretches of the month."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are romantic things to do in Chicago in winter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An evening Riverwalk stroll with the bridges and skyline lit up is free and low-effort. Millennium Park's ice rink works well for a casual date, and River North has enough dinner options within walking distance of most downtown hotels to skip a long transit trip."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>December in Chicago rewards picking your week deliberately — early for value, Christmas week for the full spectacle, and the quiet days between Christmas and New Year's if you want both without the worst crowds. Whichever you choose, pack like it's genuine winter, because it is.</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,718 @@
+<!-- wp:image {"id":1461,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/paul-imanuelsen-RM5ZMgYm8MM-unsplash-1024x768.jpg" alt="Road from Milan toward the Dolomites with mountain peaks ahead" class="wp-image-1461"/><figcaption class="wp-element-caption">The motorway drive from Milan to the Dolomites starts flat, then turns properly alpine as you approach the valleys.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Before we booked flights, the question came up twice: do we actually need a car? A friend who'd done the Dolomites by train said it was perfectly fine. A forum post from 2019 described the bus network as "surprisingly good."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We spent about an hour reading both before concluding that neither of those people had tried to get from Cortina d'Ampezzo to Lago di Braies on a Tuesday morning with a toddler and a full hiking pack. We rented a car at Malpensa airport. We never once wished we hadn't.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here's the honest breakdown of every way to get from Milan to the Dolomites — the drive, the train, the hybrid options, and the one case where skipping the car might actually make sense — and why we'd make the same choice again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary><!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="#quick-reference">Quick Reference</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#getting-to-milan">Getting to Milan from the US</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#rent-a-car">Option 1: Rent a Car at Malpensa and Drive (What We Did)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#the-drive">The Drive: Milan to the Dolomites</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#train-option">Option 2: Train to Bolzano, Then Car</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#verona-option">The Verona Option</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#milan-stopover">Milan as a Stopover Before the Dolomites</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#why-we-rented">Why We Rented a Car</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#practical-summary">Practical Summary</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#more-guides">More Guides for Your Dolomites Trip</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> For most US travelers, the easiest Milan to Dolomites route is to fly into Milan Malpensa, rent a compact car, and drive north toward Bolzano, Ortisei, or Cortina depending on your base. The train to Bolzano can work if you want time in Milan first, but for trailheads, mountain passes, and flexible weather decisions, a car is the practical choice.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"46px"} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-do-the-milan-to-dolomites-leg">How I'd do the Milan-to-Dolomites leg</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I'd book the car and one night in Milan before anything else — both get more expensive the closer you get to your dates, and the car especially sells out of good automatics in peak season.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">Discover Cars</a> is where I'd start — compare rates at Malpensa, Verona, and Bolzano before choosing where to pick up the car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the Milan stopover, <a href="https://expedia.tpm.lv/hZNgMYvW" target="_blank" rel="sponsored noopener noreferrer">NH Milano Corso Buenos Aires</a> is where I'd stay — walkable, near the center, and worth booking with a refundable rate since travel days have a way of changing shape.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're doing the Milan → Bolzano leg by rail instead, compare routes on <a href="https://omio.sjv.io/c/7368997/3892654/7385" target="_blank" rel="sponsored noopener noreferrer">Omio</a>. And if you'd rather skip the mountain-road logistics entirely for a day, <a href="https://www.viator.com/tours/Venice/Dolomite-Mountains-Small-Group-Day-Trip-from-Venice/d522-2635PDOLOMITE?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=milan-to-dolomites" target="_blank" rel="sponsored noopener noreferrer">this is the Dolomites &amp; Cortina small-group day tour on Viator</a> I'd book — 4.6★, 1,500+ reviews.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a clear, decided route from Milan instead of second-guessing car vs. train the whole trip.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> booking the car and hotel early protects pricing and automatic availability, and most rates come with free cancellation, so there's no cost to deciding now.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you're set on doing this without a car at all — the Dolomites genuinely don't work that way past Bolzano.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you go:</strong> sort money, data, and insurance too. My guides to <a href="/best-travel-money-card/">travel money cards</a> and <a href="/esim-for-travel/">eSIMs for travel</a> cover the setup, and <a href="https://ektatraveling.tpm.lv/fqijSuju" target="_blank" rel="sponsored noopener noreferrer">EKTA</a> is worth comparing for driving, hiking, altitude, and rescue coverage.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:html -->
+<!-- Miles & Flavors — How to Get to the Dolomites from Milan — Custom HTML block -->
+<style>
+.maf-infographic2*{box-sizing:border-box;margin:0;padding:0}
+.maf-infographic2{font-family:Georgia,serif;max-width:600px;margin:0 auto 32px;background:#F9F6F1;border-radius:12px;overflow:hidden;border:1px solid #E8E1D9}
+.maf-infographic2 .maf-hero{position:relative;padding:36px 28px 24px;text-align:center;border-bottom:1px solid #E8E1D9}
+.maf-infographic2 .maf-hero-sub{font-family:-apple-system,sans-serif;font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:#C4845A;margin-bottom:10px;display:block}
+.maf-infographic2 .maf-hero h2{font-size:26px;font-weight:700;color:#1C1C1C;line-height:1.2;margin-bottom:8px}
+.maf-infographic2 .maf-hero p{font-family:-apple-system,sans-serif;font-size:13px;color:#8B6E52;max-width:420px;margin:0 auto;line-height:1.5}
+
+.maf-infographic2 .maf-pin-corner{position:absolute;top:14px;right:16px;display:inline-flex;align-items:center;gap:4px;background:#E60023;color:#fff !important;font-family:-apple-system,sans-serif;font-size:10px;font-weight:700;padding:6px 11px;border-radius:20px;text-decoration:none !important;line-height:1}
+
+.maf-infographic2 .maf-block{padding:20px 24px;border-bottom:1px solid #E8E1D9}
+.maf-infographic2 .maf-block:last-of-type{border-bottom:none}
+.maf-infographic2 .maf-block-title{font-size:17px;font-weight:700;color:#1C1C1C;margin-bottom:3px}
+.maf-infographic2 .maf-block-sub{font-family:-apple-system,sans-serif;font-size:12px;color:#8B6E52;margin-bottom:14px;line-height:1.4}
+
+.maf-infographic2 .maf-quick-row{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.maf-infographic2 .maf-q{background:#fff;border:1px solid #E8E1D9;border-radius:10px;padding:12px 8px;text-align:center}
+.maf-infographic2 .maf-q .maf-v{font-size:15px;font-weight:700;color:#1C1C1C;margin-bottom:2px}
+.maf-infographic2 .maf-q .maf-l{font-family:-apple-system,sans-serif;font-size:10px;text-transform:uppercase;letter-spacing:.07em;color:#8B6E52}
+
+.maf-infographic2 .maf-exp-item{display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid #F0EBE4}
+.maf-infographic2 .maf-exp-item:last-child{border-bottom:none;padding-bottom:0}
+.maf-infographic2 .maf-exp-num{min-width:26px;height:26px;border-radius:50%;font-family:-apple-system,sans-serif;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:2px}
+.maf-infographic2 .maf-exp-num.maf-day{background:#F0EBE4;color:#C4845A}
+.maf-infographic2 .maf-exp-num.maf-book{background:#F0EBE4;color:#C4845A}
+.maf-infographic2 .maf-exp-body{flex:1;min-width:0}
+.maf-infographic2 .maf-exp-name{font-size:14px;font-weight:700;color:#1C1C1C;margin-bottom:3px}
+.maf-infographic2 .maf-exp-desc{font-family:-apple-system,sans-serif;font-size:12px;color:#6B6B6B;line-height:1.55;margin-bottom:7px}
+.maf-infographic2 .maf-badge-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.maf-infographic2 .maf-badge-free{font-family:-apple-system,sans-serif;font-size:10px;font-weight:700;background:#D4EDDA;color:#1A6B35;padding:3px 9px;border-radius:100px;white-space:nowrap}
+.maf-infographic2 .maf-badge-info{font-family:-apple-system,sans-serif;font-size:10px;font-weight:600;background:#F0EBE4;color:#8B6E52;padding:3px 9px;border-radius:100px;white-space:nowrap}
+.maf-infographic2 .maf-badge-best{font-family:-apple-system,sans-serif;font-size:10px;font-weight:700;background:#C4845A;color:#fff;padding:3px 9px;border-radius:100px;white-space:nowrap}
+.maf-infographic2 .maf-book-btn{font-family:-apple-system,sans-serif;font-size:11px;font-weight:700;background:#C4845A;color:#fff !important;padding:4px 12px;border-radius:100px;text-decoration:none !important;display:inline-block;white-space:nowrap}
+
+.maf-infographic2 .maf-tip-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.maf-infographic2 .maf-tip-card{background:#fff;border:1px solid #E8E1D9;border-radius:10px;padding:14px}
+.maf-infographic2 .maf-tip-title{font-size:13px;font-weight:700;color:#1C1C1C;margin-bottom:5px}
+.maf-infographic2 .maf-tip-text{font-family:-apple-system,sans-serif;font-size:12px;color:#6B6B6B;line-height:1.5}
+
+.maf-infographic2 .maf-footer{background:#1C1C1C;padding:14px;text-align:center;font-family:-apple-system,sans-serif;font-size:10px;color:rgba(255,255,255,0.45);letter-spacing:.12em;text-transform:uppercase}
+
+@media(max-width:480px){
+  .maf-infographic2 .maf-hero{padding:28px 20px 20px}
+  .maf-infographic2 .maf-hero h2{font-size:22px}
+  .maf-infographic2 .maf-block{padding:18px 16px}
+  .maf-infographic2 .maf-tip-grid{grid-template-columns:1fr}
+  .maf-infographic2 .maf-quick-row{gap:6px}
+  .maf-infographic2 .maf-q{padding:10px 6px}
+  .maf-infographic2 .maf-q .maf-v{font-size:13px}
+  .maf-infographic2 .maf-exp-name{font-size:13px}
+  .maf-infographic2 .maf-pin-corner{font-size:0;padding:6px 7px}
+}
+</style>
+
+<div class="maf-infographic2">
+
+  <div class="maf-hero">
+    <a class="maf-pin-corner" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmilesandflavors.com%2Fdolomites-from-milan%2F&description=Milan%20to%20the%20Dolomites%3A%20car%20vs.%20train%2C%20real%20drive%20times%2C%20and%20the%20airport%20that%20actually%20saves%20you%20hours." target="_blank" rel="noopener noreferrer" title="Save to Pinterest">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12.017 0C5.396 0 0 5.396 0 12.017c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.719-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.889 2.741.099.12.112.225.085.345l-.333 1.36c-.053.225-.172.271-.4.165-1.495-.696-2.436-2.878-2.436-4.632 0-3.777 2.748-7.252 7.92-7.252 4.157 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.463-6.233 7.463-1.212 0-2.354-.63-2.743-1.379l-.746 2.844c-.271 1.043-1.001 2.353-1.494 3.152 1.125.343 2.317.53 3.552.53 6.607 0 11.985-5.396 11.985-11.985C24.002 5.396 18.607 0 12.017 0z"/></svg>
+      Save
+    </a>
+    <span class="maf-hero-sub">Miles &amp; Flavors · Getting There Guide</span>
+    <h2>Milan to the Dolomites<br>3 Ways to Get There</h2>
+    <p>Car, train, or a different airport entirely — what we'd actually pick, and why.</p>
+  </div>
+
+  <div class="maf-block">
+    <div class="maf-block-title">Quick facts</div>
+    <div class="maf-quick-row">
+      <div class="maf-q"><div class="maf-v">4.5–5.5h</div><div class="maf-l">MXP → Cortina</div></div>
+      <div class="maf-q"><div class="maf-v">Compact auto</div><div class="maf-l">Best car type</div></div>
+      <div class="maf-q"><div class="maf-v">IDP required</div><div class="maf-l">US drivers</div></div>
+    </div>
+  </div>
+
+  <div class="maf-block">
+    <div class="maf-block-title">Your 3 ways to get there</div>
+    <div class="maf-block-sub">Compare before you book flights — this is the order we'd rank them</div>
+
+    <div class="maf-exp-item">
+      <div class="maf-exp-num maf-day">1</div>
+      <div class="maf-exp-body">
+        <div class="maf-exp-name">Fly into Malpensa, rent a car</div>
+        <div class="maf-exp-desc">What we did. No transfers, no waiting for trains — you're on the A8 toward the A22 within 20 minutes of landing. Book the car online before you arrive; automatics go fast in peak season.</div>
+        <div class="maf-badge-row">
+          <span class="maf-badge-best">Our pick</span>
+          <span class="maf-badge-info">MXP → Bolzano ~3.25–3.75h</span>
+          <a class="maf-book-btn" href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">Compare cars →</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="maf-exp-item">
+      <div class="maf-exp-num maf-day">2</div>
+      <div class="maf-exp-body">
+        <div class="maf-exp-name">Train to Bolzano, then rent a car</div>
+        <div class="maf-exp-desc">Makes sense if you want a night or two in Milan first. Trenitalia gets you to Bolzano comfortably, but you still need a car from there — the villages and passes above Bolzano aren't reachable by bus.</div>
+        <div class="maf-badge-row">
+          <span class="maf-badge-info">Milan Centrale → Bolzano by rail</span>
+          <span class="maf-badge-info">Car pickup in Bolzano</span>
+          <a class="maf-book-btn" href="https://omio.sjv.io/c/7368997/3892654/7385" target="_blank" rel="sponsored noopener noreferrer">Compare trains →</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="maf-exp-item">
+      <div class="maf-exp-num maf-day">3</div>
+      <div class="maf-exp-body">
+        <div class="maf-exp-name">Fly into Verona instead</div>
+        <div class="maf-exp-desc">Worth it only if your routing connects through Munich, Frankfurt, London, or Amsterdam. Cuts real time off the drive for the eastern Dolomites — Cortina, Tre Cime — less so for Val Gardena or Val di Fassa.</div>
+        <div class="maf-badge-row">
+          <span class="maf-badge-info">VRN → Bolzano ~1.5h</span>
+          <span class="maf-badge-info">Best for eastern Dolomites</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="maf-block">
+    <div class="maf-block-title">Book before you arrive</div>
+    <div class="maf-block-sub">These get more expensive (or sell out) the closer you get to your dates</div>
+
+    <div class="maf-exp-item">
+      <div class="maf-exp-num maf-book">🚗</div>
+      <div class="maf-exp-body">
+        <div class="maf-exp-name">Rent Your Car — Compare Before You Go</div>
+        <div class="maf-exp-desc">Compact automatics are the sweet spot for mountain roads. Compare Malpensa, Verona, and Bolzano pickup prices before choosing an agency.</div>
+        <div class="maf-badge-row">
+          <span class="maf-badge-free">Free cancellation on most rates</span>
+          <a class="maf-book-btn" href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">Compare →</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="maf-exp-item">
+      <div class="maf-exp-num maf-book">★</div>
+      <div class="maf-exp-body">
+        <div class="maf-exp-name">Dolomites &amp; Cortina Small-Group Day Tour</div>
+        <div class="maf-exp-desc">4.6 stars · 1,500+ reviews. For anyone who'd rather skip the mountain-road logistics and let someone else drive for a day.</div>
+        <div class="maf-badge-row">
+          <span class="maf-badge-free">Free cancellation</span>
+          <a class="maf-book-btn" href="https://www.viator.com/tours/Venice/Dolomite-Mountains-Small-Group-Day-Trip-from-Venice/d522-2635PDOLOMITE?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=milan-to-dolomites" target="_blank" rel="sponsored noopener noreferrer">Book →</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="maf-exp-item">
+      <div class="maf-exp-num maf-book">★</div>
+      <div class="maf-exp-body">
+        <div class="maf-exp-name">Travel Insurance for Mountain Driving</div>
+        <div class="maf-exp-desc">Check driving, hiking, altitude, and rescue exclusions before buying — not every policy covers a Dolomites road trip the way you'd expect.</div>
+        <div class="maf-badge-row">
+          <a class="maf-book-btn" href="https://ektatraveling.tpm.lv/fqijSuju" target="_blank" rel="sponsored noopener noreferrer">Compare →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="maf-block">
+    <div class="maf-block-title">What most drivers get wrong</div>
+    <div class="maf-tip-grid" style="margin-top:12px">
+      <div class="maf-tip-card"><div class="maf-tip-title">Booking at the counter</div><div class="maf-tip-text">Airport-desk rates run higher than online, and the good automatics are gone first in peak season.</div></div>
+      <div class="maf-tip-card"><div class="maf-tip-title">Skipping the IDP</div><div class="maf-tip-text">US license holders need an International Driving Permit alongside it — arrange it through AAA before you leave.</div></div>
+      <div class="maf-tip-card"><div class="maf-tip-title">Empty tank in the valleys</div><div class="maf-tip-text">Fill up at the last major stop on the A22 in Bolzano — stations thin out and prices rise once you're in the mountains.</div></div>
+      <div class="maf-tip-card"><div class="maf-tip-title">Renting an SUV</div><div class="maf-tip-text">Bigger isn't better here. A compact automatic handles the passes and narrow valley roads more easily than an SUV.</div></div>
+    </div>
+  </div>
+
+  <div class="maf-footer">milesandflavors.com · how to get to the dolomites from milan</div>
+
+</div>
+<!-- /Miles & Flavors How to Get to the Dolomites from Milan Infographic -->
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"quick-links-box"} -->
+<div class="wp-block-group quick-links-box"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="quick-reference">Quick Reference</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Best option:</strong> Rent a car at Milan Malpensa (MXP) and drive — roughly 4.5–5 hours to Cortina, or about 4–4.5 hours to Ortisei depending on traffic and your exact base</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Alternative:</strong> Train Milan → Bolzano, then rent a car in Bolzano if you want to avoid the motorway section</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Closer airport option:</strong> Verona Villafranca (VRN) — 1.5 hours to Bolzano, better for the eastern Dolomites</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Public transport to the villages:</strong> Not practical — buses exist but won't get you where you need to go</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Verdict:</strong> Rent a car. It's not close.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="getting-to-milan">Getting to Milan from the US</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Milan has two main airports. Malpensa (MXP) handles the transatlantic routes — direct flights from New York, Chicago, Miami, and other major US cities, plus connections via European hubs. It's 30 miles (50 km) northwest of the city center, about 45 minutes by road and 50 minutes by the Malpensa Express train.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Linate (LIN) is the city airport — closer in, mostly short-haul European flights. If you're connecting from another European city, you may land here. For most US travelers doing a Dolomites road trip, Malpensa is the arrival point and the place to pick up the rental car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>From major US cities, Milan flight prices vary heavily by origin, season, and how early you book. Shoulder season — April, May, September, October — is usually easier on both airfare and crowds than summer peak. Our <a href="/how-to-find-cheap-flights/">guide to finding cheap flights</a> covers the approach that works for European connections.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Milan is also worth more than a transit stop. If your routing allows a free stopover before continuing to the Dolomites, a night or two in the city is a good use of that time. Our <a href="/free-stopover-flights-in-2026/">free stopover guide</a> explains how to set this up on certain airlines and routings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="rent-a-car">Option 1: Rent a Car at Malpensa and Drive (What We Did)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the right move for almost everyone doing a Dolomites trip. Picking up the car at Malpensa means you leave the airport and drive north — no transfers, no waiting for trains, no figuring out how to get your luggage onto public transport. You're on the A8 toward the A22 within 20 minutes of the terminal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Book the car before you arrive. Online rates are usually better than what you'll be quoted at the airport desk, and in peak season the better car categories — automatics, especially — go fast. I would compare Malpensa pickup prices on <a href="https://discovercars.tpm.lv/EHat8d9Q" rel="sponsored noopener noreferrer" target="_blank">Discover Cars</a> before choosing an agency, then read the insurance and cross-border wording carefully.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A compact automatic works well for this trip. The motorway section from Milan to Bolzano is straightforward. The mountain roads inside the Dolomites — the passes, the valley roads, the tracks down to remote parking areas — are where a smaller car genuinely helps. An SUV is not necessary and is often harder to maneuver on the narrower stretches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Reality check:</strong> Italian motorways (autostrada) charge tolls. Have a credit card ready at the toll booths — most accept cards, but it's worth knowing the cash option exists too. For the full Milan–Dolomites drive, treat tolls as a real budget line and check a current toll calculator if you need an exact number for your route.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>IDP note:</strong> US license holders should carry an International Driving Permit (IDP) alongside their US license when driving in Italy. Arrange it before you leave through AAA or another authorized issuer, and keep both documents with you while driving.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="the-drive">The Drive: Milan to the Dolomites</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1514,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/leonardo-mott-Er9oNykHfBI-unsplash-1024x576.jpg" alt="A22 motorway through the Adige Valley on the drive from Milan to the Dolomites" class="wp-image-1514"/><figcaption class="wp-element-caption">The A22 through the Adige valley is one of the better motorway drives in Europe.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The drive north from Milan is worth knowing in advance so it doesn't surprise you. The first hour is flat and industrial — Milan's suburbs, the Po plain, the approach to Verona. Nothing remarkable. Then the road enters the Adige valley and the mountains begin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>From Verona north, the A22 runs through one of the most scenic motorway corridors in Italy. The valley narrows, the peaks close in on both sides, and the drive through Trento and up to Bolzano is legitimately beautiful. By the time you exit the motorway and start climbing into the valleys — Val Gardena, Val di Fassa, or the road east toward Cortina — the scenery is already delivering.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Key distances from Milan Malpensa (MXP):</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>MXP → Bolzano: ~195 miles (315 km) — about 3.25–3.75 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>MXP → Ortisei (Val Gardena): ~220 miles (355 km) — about 4–4.5 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>MXP → Canazei (Val di Fassa): ~235 miles (380 km) — about 4.25–5 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>MXP → Cortina d'Ampezzo: ~270 miles (435 km) — about 4.5–5.5 hours</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>These are motorway times in reasonable traffic. Add 20–30 minutes during peak summer weekends, and an extra 30–45 minutes once you're off the A22 and onto the mountain roads into the specific valleys. The valley roads are not slow — they're well-paved and properly signposted — but they're winding, and it takes longer than the straight-line distance suggests.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The map below shows every airport option, route waypoint, and Dolomites destination so you can see the full drive before you commit to a base.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1wwvKpUhW_Je7Sl_uCBxMCcQMmu7ZUvM&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong>Local tip:</strong> Fill up the tank before you leave the motorway. Fuel in the mountain valleys is available but the stations are fewer and the prices are slightly higher. The last major fuel stop on the A22 before heading into the valleys is at Bolzano.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="train-option">Option 2: Train to Bolzano, Then Car</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The train from Milan to Bolzano is a legitimate option for the first leg — fast, comfortable, and often good value if booked in advance. Trenitalia and Italo both run the route, roughly 3–4 hours depending on the train, with one-way fares typically between €15 and €40.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Regional trains are cheapest but slowest, Frecciarossa high-speed is fastest but pricier — and either way, prices climb the closer you book to your travel date. Compare routes and prices on <a href="https://omio.sjv.io/c/7368997/3892654/7385" target="_blank" rel="sponsored noopener noreferrer">Omio</a>. The train can be less tiring than driving the Milan–Bolzano section, especially if you want a night or two in Milan first.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The catch: once you're in Bolzano, you still need a car. The villages in the valleys above Bolzano are accessible by bus in limited ways, but you cannot do a proper Dolomites trip — reaching the passes, hiking from remote trailheads, getting to Tre Cime or Passo Pordoi — without your own transport. You can rent a car in Bolzano city center rather than at MXP; the selection is similar and the prices are comparable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This combination makes most sense if you want a proper day or two in Milan before the mountain section. Take the train from Milan Centrale to Bolzano, pick up the car there, and start the mountain leg fresh. If you're going straight from the airport to the Dolomites, the train adds a transfer step that the car rental doesn't.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="verona-option">The Verona Option</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Verona Villafranca Airport (VRN) is worth considering if your routing goes through a hub that connects there — Munich, Frankfurt, London, or Amsterdam, for example. It's a smaller airport with fewer direct options from the US, but if you're connecting through Europe anyway, it puts you 1.5 hours from Bolzano instead of 2.5–3 hours from Milan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Car rental is available at the airport. For the eastern Dolomites — Cortina, the Tre Cime area — Verona cuts the drive time more meaningfully than it does for Val Gardena or Val di Fassa.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="milan-stopover">Milan as a Stopover Before the Dolomites</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1443,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/ouael-ben-salah-0xe2FGo7Vc0-unsplash-1024x767.jpg" alt="Milan city view for an overnight stop before a Dolomites road trip" class="wp-image-1443"/><figcaption class="wp-element-caption">Milan is worth more than a connection. One night minimum, two if the itinerary allows.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We'd advocate for at least one night in Milan before heading into the mountains. The city is easy, has excellent food, and after a transatlantic flight the idea of immediately driving 3.5 hours on unfamiliar roads is less appealing than it sounds when you're planning from home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sleep in Milan, pick up the car in the morning, and arrive at your Dolomites base in the afternoon with energy left.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Milan has enough to fill two days — the Duomo, the Brera neighborhood, Navigli, the fashion district if that's your thing — and it's a genuinely good city for food. But even just one night, a walk around the center, and a proper dinner is better than treating it as a pure transit point.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the hotel in Milan, the sweet spot is a 4-star in a walkable neighborhood close to the center. Porta Venezia, Brera, and the area around Corso Buenos Aires all work well — <a href="https://expedia.tpm.lv/hZNgMYvW" target="_blank" rel="sponsored noopener noreferrer">NH Milano Corso Buenos Aires</a> is the one I'd shortlist, because the travel day before a road trip has a way of changing its shape and a refundable rate is worth having.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="why-we-rented">Why We Rented a Car</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Dolomites don't have a public transport network that gives you access to the actual experience of the mountains. Buses run between the main towns. A few cable cars reach high viewpoints from those towns. But the thing that makes the Dolomites extraordinary — the high passes, the small mountain lakes, the roads that run along cliff edges with nothing below them, the ability to stop at a random viewpoint because the light is doing something remarkable — none of that is accessible without a car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We knew this before we left, so the car rental wasn't a question. The question was where to pick it up. Malpensa made sense because it removed all transfers and let us start driving immediately after landing. Four hours after touchdown we were in the mountains.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The car also made the trip cheaper than it would have been otherwise. When you can drive between villages, you're not paying taxi rates or bus-pass limitations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You eat where you want, stop when you want, and change plans when the weather changes. In the Dolomites, where the weather is highly local and a cloudy morning can become a perfect afternoon, that flexibility is the difference between a good trip and a great one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-summary">Practical Summary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":1513,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/IMG_5870-edited-scaled.jpg" alt="Mountain viewpoint in the Dolomites after driving from Milan Malpensa" class="wp-image-1513"/><figcaption class="wp-element-caption">About four hours from Malpensa and you're looking at this.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best airport:</strong> Milan Malpensa (MXP) for most US travelers; Verona (VRN) if your routing allows and you're heading to the eastern Dolomites</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Car rental:</strong> Pick up at MXP — book online in advance, automatic preferred, compact size works well. Compare pickup options on <a href="https://discovercars.tpm.lv/EHat8d9Q" target="_blank" rel="sponsored noopener noreferrer">Discover Cars</a> before choosing an agency.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Drive time:</strong> about 3.25–3.75 hrs MXP → Bolzano; roughly 4–5.5 hrs depending on your final Dolomites base</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tolls:</strong> check a current toll calculator for your exact route and keep a card ready at motorway booths</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>IDP:</strong> US drivers should carry an International Driving Permit alongside their US license in Italy</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Milan stopover:</strong> Strongly recommended — one night minimum, two if the itinerary allows</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Train alternative:</strong> Milan Centrale → Bolzano, then car rental in Bolzano if you want to skip the first motorway leg</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>April note:</strong> Light traffic, good road conditions on the motorway; some mountain pass roads may still be closed or recently opened — check before you go</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Paying in Italy:</strong> Cards are accepted widely, but cash is still useful for smaller mountain stops. Use the <a href="/best-travel-money-card/">travel money card guide</a> before choosing how you will pay abroad.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Connectivity:</strong> download offline maps before you drive into the valleys. The <a href="/esim-for-travel/">eSIM guide</a> explains when an Italy eSIM is useful, but it is not a substitute for offline navigation.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel insurance:</strong> strongly recommended for a road trip involving mountain driving and hiking. Compare policy wording from providers such as <a href="https://ektatraveling.tpm.lv/fqijSuju" target="_blank" rel="sponsored noopener noreferrer">EKTA</a>, and check driving, hiking, altitude, and rescue exclusions before buying.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How long is the drive from Milan to the Dolomites?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>From Milan Malpensa Airport: about 4–4.5 hours to Ortisei or Val Gardena, 4.5–5.5 hours to Cortina d'Ampezzo. From Milan city center, add 30–45 minutes. The motorway section (A8 to A4 to A22) is fast; the valley roads inside the Dolomites add time depending on your specific destination. Budget 30–45 minutes more than the GPS estimate on mountain roads.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Do you need a car to get from Milan to the Dolomites?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Yes — for any meaningful Dolomites experience. The train gets you to Bolzano, from where buses serve the main valley towns. But the highlights — high mountain passes, remote trailheads, Lago di Braies, Tre Cime — are inaccessible without a car. Even travelers who prefer public transport for city trips consistently find that the Dolomites require a rental car. Pick it up at Malpensa Airport and you're on the motorway north within minutes.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is it worth stopping in Milan before the Dolomites?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Yes — strongly recommended for at least one night. Arriving after a transatlantic flight and immediately driving 3.5 hours on unfamiliar mountain roads is a recipe for a stressful first day. One night in Milan lets you recover, see the city (Duomo, Brera, Navigli — all genuinely worth your time), and start the mountain section refreshed. If the itinerary allows two nights, even better.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the best airport to fly into for the Dolomites?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Milan Malpensa (MXP) for most US travelers — it has the most transatlantic connections and direct routes from major US cities. Verona Villafranca (VRN) is worth considering if your European routing connects there; it's 1.5 hours from Bolzano versus 2.5–3 hours from Malpensa. Venice Marco Polo (VCE) works well if you're combining Venice and the Dolomites in one trip — the eastern Dolomites (Cortina, Tre Cime) are about 2–2.5 hours from Venice airport.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How much does it cost to drive from Milan to the Dolomites?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Budget for motorway tolls, fuel, parking, and the rental itself. Fuel and car rental costs vary too much by season and vehicle type to quote as fixed numbers, so compare your exact dates on <a href="https://discovercars.tpm.lv/EHat8d9Q" rel="sponsored noopener noreferrer" target="_blank">Discover Cars</a> and add tolls as a separate line item.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Can you take a train from Milan to the Dolomites?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Yes, as far as Bolzano — the train doesn't reach the mountain valleys themselves. Trenitalia and Italo run Milan Centrale to Bolzano in roughly 3–4 hours, with one-way fares typically €15–40 depending on the train type and how far ahead you book. From Bolzano you still need a rental car; the passes, lakes, and trailheads inside the Dolomites aren't reachable by public transport.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Are the Dolomites closer to Milan or Venice?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>It depends which part of the Dolomites you mean. For the western Dolomites — Val Gardena, Alpe di Siusi, Ortisei — Milan Malpensa is the better gateway, about 4–4.5 hours by car. For the eastern Dolomites — Cortina d'Ampezzo, Tre Cime di Lavaredo, Lago di Braies — Venice is significantly closer, around 2 hours by car, which is why it works as a (long) day trip from Venice but not realistically from Milan. See our <a href="/day-trip-to-the-dolomites-from-venice/">day trip to the Dolomites from Venice</a> guide if that's your starting point instead.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is it possible to do a day trip to the Dolomites from Milan?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Technically, but we wouldn't recommend it. Milan Malpensa to even the closest Dolomites towns is 3.5+ hours each way — a day trip means 7+ hours of driving for a few hours in the mountains. Venice is the realistic day-trip base for the eastern Dolomites, about 2 hours each way. From Milan, plan on at least one overnight in the mountains rather than trying to do it in a single day.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long is the drive from Milan to the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From Milan Malpensa Airport: about 4–4.5 hours to Ortisei or Val Gardena, 4.5–5.5 hours to Cortina d'Ampezzo. From Milan city center, add 30–45 minutes. Budget 30–45 minutes more than the GPS estimate on mountain roads."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you need a car to get from Milan to the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — for any meaningful Dolomites experience. The train gets you to Bolzano, from where buses serve the main valley towns, but the highlights — high mountain passes, remote trailheads, Lago di Braies, Tre Cime — are inaccessible without a car."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth stopping in Milan before the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — strongly recommended for at least one night. Arriving after a transatlantic flight and immediately driving 3.5 hours on unfamiliar mountain roads is a recipe for a stressful first day. One night in Milan lets you recover and start the mountain section refreshed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best airport to fly into for the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Milan Malpensa (MXP) for most US travelers — it has the most transatlantic connections. Verona Villafranca (VRN) is worth considering if your European routing connects there, at 1.5 hours from Bolzano. Venice Marco Polo (VCE) works well if combining Venice and the Dolomites."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does it cost to drive from Milan to the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Budget for motorway tolls, fuel, parking, and the rental itself. Fuel and car rental costs vary too much by season and vehicle type to quote as fixed numbers, so compare exact dates and add tolls as a separate line item."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you take a train from Milan to the Dolomites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as far as Bolzano — the train doesn't reach the mountain valleys themselves. Trenitalia and Italo run Milan Centrale to Bolzano in roughly 3–4 hours, with one-way fares typically €15–40. From Bolzano you still need a rental car."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are the Dolomites closer to Milan or Venice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends which part. For the western Dolomites (Val Gardena, Alpe di Siusi, Ortisei), Milan Malpensa is the better gateway at about 4–4.5 hours. For the eastern Dolomites (Cortina, Tre Cime, Lago di Braies), Venice is significantly closer at around 2 hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to do a day trip to the Dolomites from Milan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technically, but not recommended. Milan Malpensa to even the closest Dolomites towns is 3.5+ hours each way. Venice is the realistic day-trip base for the eastern Dolomites, about 2 hours each way. From Milan, plan on at least one overnight instead."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Guides for Your Dolomites Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Coming from Venice instead?</strong> → <a href="/day-trip-to-the-dolomites-from-venice/">Day trip to the Dolomites from Venice</a> — what is realistic in one long day and what to skip.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not sure where to base yourself?</strong> → <a href="/where-to-stay-in-the-dolomites/">Where to stay in the Dolomites</a> — honest breakdown of Ortisei vs. Cortina vs. Canazei.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Figuring out the full trip cost?</strong> → <a href="/dolomites-travel-costs/">Dolomites travel costs</a> — what we actually spent: car, cable cars, rifugio lunch, parking.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Planning the hikes?</strong> → <a href="/hiking-in-the-dolomites/">Hiking in the Dolomites</a> — trail-by-trail breakdown with difficulty and access logistics.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Trying to find the cheapest flights?</strong> → <a href="/how-to-find-cheap-flights/">How to find cheap flights</a> — the approach that works for European connections from the US.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

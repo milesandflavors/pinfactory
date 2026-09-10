@@ -1,0 +1,458 @@
+﻿<!-- wp:image {"id":1701,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/shai-pal-dmscsFKoKp4-unsplash-1024x727.jpg" alt="Fushimi Inari Shrine torii gates in Kyoto before the morning crowds" class="wp-image-1701"/><figcaption class="wp-element-caption">Fushimi Inari before 7am — the gates stretch for 4km and at this hour you'll have them almost to yourself.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Kyoto is the reason most people decide to go to Japan. It has more UNESCO World Heritage Sites than almost anywhere else on earth, and unlike most places on that list, they're consistently excellent. The challenge isn't finding things worth doing — it's deciding what to cut. This list does that work: 20 experiences that justify the trip, organized by what to prioritize, what to book ahead, and what the guidebooks consistently get wrong about timing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you go — quick links</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best guided tours</strong> - <a href="https://www.viator.com/Kyoto/d332-ttd?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=kyoto" target="_blank" rel="sponsored noopener noreferrer">Browse Kyoto tours on Viator</a> - compare tea ceremonies, food tours, and early-morning sightseeing before choosing the slot that fits your route.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay</strong> - <a href="https://www.expedia.com/Hotel-Search?destination=Kyoto+Japan" target="_blank" rel="nofollow noopener noreferrer">Expedia</a> or <a href="https://www.booking.com/searchresults.html?ss=Kyoto" target="_blank" rel="nofollow noopener noreferrer">Booking.com</a> - ryokans and well-located hotels can fill early for cherry blossom and autumn foliage dates.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel card</strong> - <a href="https://wise.com/" target="_blank" rel="nofollow noopener noreferrer">Wise</a> - compare card fees before you go; Japan still has many cash-only moments, especially at smaller temples, stalls, and local restaurants.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>eSIM</strong> - <a href="https://www.airalo.com/japan-esim" target="_blank" rel="nofollow noopener noreferrer">Airalo Japan eSIM</a> - compare current Japan data plans and install before departure so setup is easier after landing.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel insurance</strong> - <a href="https://www.worldnomads.com/travel-insurance/" target="_blank" rel="nofollow noopener noreferrer">World Nomads</a> - compare policy wording carefully, especially if your route includes hikes, winter weather, or higher-value gear.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-disclosure"} -->
+<p><em>This post contains affiliate links. If you book or buy something through them, I may earn a small commission — at no extra cost to you. Recommendations are based on research, itinerary fit, reader value, and practical planning usefulness.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:rank-math/toc-block {"title":"In This Guide","headings":[],"listStyle":"ul"} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><h2>In This Guide</h2><nav><ul><li><a href="#must-do">The Experiences Worth Planning Your Trip Around</a></li><li><a href="#neighborhoods">Kyoto Neighborhoods Worth Half a Day Each</a></li><li><a href="#book-ahead">The Experiences You Need to Book in Advance</a></li><li><a href="#extra-kyoto-experiences">Extra Kyoto Experiences Worth Adding</a></li><li><a href="#day-trips">Best Day Trips from Kyoto</a></li><li><a href="#where-to-stay">Where to Stay in Kyoto</a></li><li><a href="#practical">Practical Tips for Kyoto</a></li><li><a href="#faq">Frequently Asked Questions</a></li><li><a href="#more-guides">More Japan Travel Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:paragraph -->
+<p>The map below shows the key Kyoto locations from this guide grouped into five color-coded layers by area — Fushimi and South Kyoto, Arashiyama and the Northwest, Central Kyoto, Higashiyama and East Kyoto, and the outlying spots in the north and south like Kurama, Kibune, and Uji. Use it to plan which experiences you can combine on the same day without unnecessary cross-city travel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1pMs__4MFK3C8zWeyhUY-3khccTltrpU&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="must-do">The Experiences Worth Planning Your Trip Around</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>These are the ones that make Kyoto Kyoto. Not because they're on every list — because they're genuinely unlike anything else.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-1">1. Fushimi Inari Shrine Before 7am</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The thousands of vermilion torii gates winding up the mountain behind Fushimi Inari Shrine are the single most photographed sight in Japan — and one of the few experiences that fully delivers in person. The catch is timing. By 10am the main path is crowded. By noon it's packed. Before 7am, with mist still in the trees and almost no one on the trail, it's something else entirely: atmospheric, quiet, and exactly what the photos promise. Set an alarm. This is the one morning in Kyoto where it genuinely matters.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The full trail to the summit is 4km each way and takes about 2–3 hours return. Most visitors turn around at the first or second gate cluster — which is fine if time is short, but the upper mountain gets quieter and more interesting as you go. Admission is free.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-2">2. Arashiyama Bamboo Grove at Opening Time</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The bamboo grove and the bamboo grove at 11am are essentially different experiences. The grove itself is compact — the main path takes about 10 minutes to walk. What makes it extraordinary is the light filtering through the canopy, the sound of the bamboo moving, and the specific feeling of being enclosed by something alive and enormous. All of that disappears when it's full of people taking selfies. Arrive by 7am, and you get the real version.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Combine it with Tenryu-ji temple garden next door — one of the finest Zen gardens in Japan, UNESCO-listed, worth 45 minutes — and the quieter back trail through Jojakko-ji and Nison-in temples that most visitors skip because they leave after the bamboo. Don't skip it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1702,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/atsushi-tsubokura-5oguG6eOYrk-unsplash-1024x681.jpg" alt="Arashiyama Bamboo Grove in Kyoto with tall green bamboo lining the path" class="wp-image-1702"/><figcaption class="wp-element-caption">The bamboo grove before 8am — by 10am it's a different experience entirely.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-3">3. A Tea Ceremony</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The expectation is that it'll feel performative — a tourist checkbox dressed up in ceremony. The reality, with a good host in a proper setting, is 45–90 minutes of genuine instruction in something that rewards attention. You learn the logic behind each movement, why the bowl is turned before drinking, what the seasonal themes in the room decoration mean. The matcha is excellent. The accompanying sweets are the best thing you'll eat in Japan that doesn't involve soy sauce.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kyoto is the right city to do this — the quality of hosts and settings here is higher than Tokyo, and the experience connects more naturally to the surroundings. Good morning slots book out weeks ahead in peak season. <a href="https://www.viator.com/searchResults/all?text=Kyoto%20tea%20ceremony&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=kyoto-tea-ceremony" rel="sponsored noopener noreferrer" target="_blank">Compare Kyoto tea ceremonies on Viator</a> — morning slots sell out first.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-4">4. Kinkaku-ji (The Golden Pavilion)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There is no quiet time at Kinkaku-ji. The golden pavilion reflected in the mirror pond is one of those sights that exists in two states: the photograph and the reality. The reality is crowded, the path is one-way, and you're moving through with several hundred other people. It's still worth it. The building is genuinely extraordinary — three stories of Zen temple architecture, the top two covered in gold leaf, sitting at the edge of a manicured pond. Arrive at opening time (9am) to minimize the queue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The grounds take about 45 minutes, but check the current admission fee and opening hours before you go because temple details can change. It is best combined with nearby Ryoan-ji and its famous rock garden: 15 stones arranged so that no matter where you stand, one is always hidden. The garden is either profound or baffling depending on your mood; either way it is worth 30 minutes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1703,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/vladimir-haltakov-l5wxPzqXg2c-unsplash-1024x683.jpg" alt="Kinkaku-ji Golden Pavilion in Kyoto reflected in the pond" class="wp-image-1703"/><figcaption class="wp-element-caption">Kinkaku-ji — there's no quiet moment here, but the reflection makes it worth it regardless.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-5">5. Gion at Dusk</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Gion is Kyoto's most famous geisha district, and the version worth experiencing is the one between 6 and 8pm. Hanamikoji street — the main lane of traditional wooden machiya townhouses — looks most like the image people carry of Kyoto at this hour: lantern-lit, atmospheric, the occasional geiko or maiko moving between engagements. By noon it's a crowded street with tourists pointing cameras. At dusk it's something considerably better.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Walk slowly, keep to public streets, and do not block or photograph geiko or maiko without permission. Gion is beautiful, but it is also a working neighborhood. The side streets are often more interesting than the main lane, especially Shirakawa-minami-dori along the canal, which is quieter and equally atmospheric.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-6">6. Nishiki Market for Lunch</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Five blocks long and barely wide enough for two people to pass, Nishiki is the kind of food market that rewards going hungry. Vendors sell pickled vegetables in every variation, grilled skewers, fresh tofu, matcha sweets, octopus balls, and things without obvious English translations. The stalls toward the center and back are the ones to seek out — the ones near the entrance cater more to tourist traffic. Go between 10am and 1pm for the full selection. Prices vary by appetite and what you sample, so treat it as a flexible grazing lunch rather than a fixed-price meal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="7-kiyomizudera-and-the-higashiyama-walk">7. Kiyomizudera and the Higashiyama Walk</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph --><p>Kiyomizudera's famous wooden terrace, cantilevered off a hillside with a view over the city, is the image most people recognize. The temple itself dates to 778, and the current main hall to 1633. What is less photographed is the walk to get there: the Higashiyama preserved district, a network of stone-paved lanes lined with craft shops, tea houses, and small shrines. The walk from Gion to the temple takes about 20 minutes and is worth taking slowly. Check the current temple fee and hours, then aim for early morning or late afternoon when the light is better and the crowds are thinner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="8-philosophers-path-in-cherry-blossom-season">8. Philosopher's Path in Cherry Blossom Season</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A 2km stone path along a canal connecting the Ginkaku-ji (Silver Pavilion) area to Nanzen-ji, lined with cherry trees. In late March and early April, it's one of the best cherry blossom walks in Japan — petals on the water, the path dappled pink and white, small cafes open along the route. Outside of spring it's a pleasant walk with some good coffee stops, but the spring version is the reason it made this list. Arrive before 9am to have it largely to yourself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1704,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/05/jake-weirick-kEgfUDQP-Os-unsplash-1024x683.jpg" alt="Philosophers Path canal in Kyoto lined with cherry blossoms" class="wp-image-1704"/><figcaption class="wp-element-caption">The Philosopher's Path in spring — two kilometers of canal walk lined with cherry trees.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="9-nijo-castle">9. Nijo Castle</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph --><p>The former Kyoto residence of the Tokugawa shoguns, built in 1603. The interior has something few Japanese sites offer: you walk through it. The Ninomaru Palace rooms are open, the painted screens and carved transoms are original, and the famous "nightingale floors" actually squeak as you walk over them. It is one of the most tactile historic experiences in the city. Check current ticket details and closing times before you go, and allow about 90 minutes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="10-fushimi-sake-district">10. Fushimi Sake District</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph --><p>Fushimi is one of Japan's most famous sake-producing regions, and a 30-minute walk from Fushimi Inari shrine puts you in the middle of it. The historic district around Gekkeikan Okura Sake Museum has canal-side streets of old breweries, sake bars, and an easy introduction to how sake is made. Check current museum entry details and tasting rules before you go. This works best after an early Fushimi Inari visit on the same morning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="neighborhoods">Kyoto Neighborhoods Worth Half a Day Each</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="arashiyama">Arashiyama</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best for:</strong> bamboo grove, Tenryu-ji garden, quiet back trails, the Sagano scenic railway</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>When:</strong> arrive by 7am for the bamboo; the neighborhood itself is pleasant all morning</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Don't miss:</strong> the back trails past Jojakko-ji after the bamboo — most visitors leave too early</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Walk time:</strong> half a day comfortably</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="higashiyama">Higashiyama</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best for:</strong> Kiyomizudera, preserved stone lanes, ceramics and craft shops, Gion access</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>When:</strong> early morning before tour groups, or late afternoon for the light</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Don't miss:</strong> the lanes between Sannenzaka and Ninenzaka — the best-preserved stretch of old Kyoto</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Walk time:</strong> 2–3 hours from Gion to Kiyomizudera</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="northern-kyoto-ohara-kurama">Northern Kyoto (Ohara / Kurama)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For a half-day out of the city center: Ohara has Sanzenin temple in a rural mountain setting — mossy garden, thatched buildings, almost no tourists compared to central Kyoto. Kurama has a mountain temple and natural hot spring (onsen) reachable by a 30-minute hike. Both require bus rides of 30–45 minutes but reward the effort with a completely different atmosphere from the city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="book-ahead">The Experiences You Need to Book in Advance</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="11-kimono-rental-for-a-day">11. Kimono Rental for a Day</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph --><p>Renting a kimono and wearing it through the Higashiyama lanes works better than it sounds. It is not just a photo prop; it changes the pace of the neighborhood and makes you slow down. Rental shops usually include dressing assistance, with return times in the late afternoon or early evening. Prices vary by package, fabric, hairstyling, and season, so compare inclusions before booking. Book at least the day before if you care about styling options.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="12-katsura-imperial-villa">12. Katsura Imperial Villa</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph --><p>One of the finest examples of Japanese garden design in existence: a 17th-century imperial villa with a landscape garden designed to be experienced by walking specific routes at specific times. Access requires advance reservation through the Imperial Household Agency, and availability is limited. Check the current application rules, tour times, and fees before planning around it. If you have any interest in Japanese gardens, architecture, or design, this is one of the most rewarding things to book in Kyoto.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="13-kyoto-food-tour-evening">13. Kyoto Food Tour (Evening)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A guided evening food tour covers more ground than independent navigation allows on a first visit — Pontocho alley, Nishiki after dark, izakaya culture, sake pairing. A good guide gets you into venues that don't have English menus and explains what you're eating in a way that makes the rest of the trip better. <a href="https://www.viator.com/searchResults/all?text=Kyoto%20evening%20food%20tour&amp;pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=kyoto-food-tour" rel="sponsored noopener noreferrer" target="_blank">Compare Kyoto evening food tours on Viator</a> — small group tours with local guides fill up well in advance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="14-sagano-scenic-railway">14. Sagano Scenic Railway</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph --><p>A 25-minute scenic train ride through the Hozu River gorge between Kameoka and Arashiyama. The autumn foliage version of this ride is one of the most beautiful short train journeys in Japan: the gorge walls turn red and orange, and the train moves slowly enough to take it in properly. Spring has its own version with fresh green growth. Tickets can be limited during peak periods, so check the official timetable, fare, and reservation window before building a day around it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="extra-kyoto-experiences">Extra Kyoto Experiences Worth Adding</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you have more than two full days in Kyoto, these are the places that turn a standard first visit into a better-planned route. They are also useful swaps when the biggest sights are too crowded.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="15-ryoan-ji-rock-garden">15. Ryoan-ji Rock Garden</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ryoan-ji is the best pairing with Kinkaku-ji because it gives you the opposite mood: less gold, more silence, more room to sit and actually look. The famous rock garden is small, but it rewards time. Do not rush through it just because the photos look simple.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="16-to-ji-temple-and-pagoda">16. To-ji Temple and Pagoda</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>To-ji is one of the easiest major temples to add if you are staying near Kyoto Station. The five-story pagoda gives the site its postcard silhouette, but the real value is that it feels more spacious and less frantic than the marquee east-side temples.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="17-pontocho-alley-at-night">17. Pontocho Alley at Night</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pontocho is narrow, lantern-lit, and best treated as an evening wander rather than a checklist stop. Some restaurants are expensive and reservation-heavy, but you do not need a splurge dinner to enjoy the atmosphere. Walk it before or after Gion, then cross toward the Kamogawa river for a calmer finish.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="18-kyoto-station-and-ramen-street">18. Kyoto Station and Ramen Street</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kyoto Station is more useful than romantic, but that is exactly why it belongs in a first-timer itinerary. It is a transport hub, food stop, rainy-day backup, and easy place to regroup. The ramen floor is especially practical when you want dinner without another reservation puzzle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="19-kurama-and-kibune">19. Kurama and Kibune</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kurama and Kibune are for travelers who want a mountain break without leaving the Kyoto orbit. The hike between the two villages gives you forest, shrines, and a completely different rhythm from central Kyoto. Check weather and transport before you go, especially in winter or after heavy rain.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="20-uji-for-matcha-and-byodo-in">20. Uji for Matcha and Byodo-in</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Uji works as a half-day add-on if you want matcha culture without forcing another full city into the itinerary. Byodo-in gives the trip a strong temple anchor, while the tea shops make it feel distinct from Kyoto's central neighborhoods. It is especially good if Nara feels too big for your available time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="day-trips">Best Day Trips from Kyoto</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Destination</th><th>Travel time</th><th>Best for</th><th>Worth it?</th></tr></thead><tbody><tr><td><strong>Nara</strong></td><td>45 min by JR</td><td>Free-roaming deer, Todai-ji temple, Kasuga Shrine</td><td>Yes — easy half-day</td></tr><tr><td><strong>Osaka</strong></td><td>15 min by shinkansen</td><td>Street food, Dotonbori, Osaka Castle</td><td>Yes — or stay overnight</td></tr><tr><td><strong>Himeji</strong></td><td>1 hr by shinkansen</td><td>Japan's finest feudal castle</td><td>Yes — for castle fans</td></tr><tr><td><strong>Uji</strong></td><td>30 min by JR</td><td>Byodoin temple, matcha everything</td><td>Good half-day</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p><strong>Nara</strong> is the strongest day trip from Kyoto: quick by train, easy to navigate, and genuinely unlike anything else. You can travel by JR or Kintetsu, so compare the route from your hotel before assuming a pass is the best choice. The deer in Nara Park are tame, numerous, and slightly aggressive about crackers. Todai-ji temple holds the largest bronze Buddha in Japan. The whole circuit takes 3-4 hours and leaves you back in Kyoto for dinner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="where-to-stay">Where to Stay in Kyoto</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Central Kyoto (near Kyoto Station)</strong> is the most practical base — excellent bus and subway connections to all the main sights, and Fushimi Inari is a 10-minute train ride south. <strong>Higashiyama</strong> puts you within walking distance of the preserved districts and Gion, but limits access to Arashiyama without a bus or taxi. For one night in a ryokan, the Arashiyama area offers the most atmospheric options — wake up in the neighborhood before the day visitors arrive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Search for Kyoto accommodations: <a href="https://www.expedia.com/Hotel-Search?destination=Kyoto+Japan" rel="nofollow noopener noreferrer" target="_blank">Expedia</a> or <a href="https://www.booking.com/searchresults.html?ss=Kyoto" rel="nofollow noopener noreferrer" target="_blank">Booking.com</a> - compare location carefully, especially if you want easy early-morning access to Higashiyama, Arashiyama, or Fushimi Inari.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical">Practical Tips for Kyoto</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Getting around:</strong> Buses cover many sights but get crowded. The subway is faster for north-south routes, and IC cards work well for simple pay-as-you-go trips. If you plan a heavy sightseeing day, check the current Kyoto Subway &amp; Bus 1-Day Pass options before deciding whether a pass is worth it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Cash:</strong> Smaller temples, market stalls, and traditional restaurants can still be cash-only. Keep enough yen for temple fees, snacks, and local buses. The <a href="/best-travel-money-card/">Wise card guide</a> explains how to compare fees before you withdraw.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Connectivity:</strong> A <a href="/esim-for-travel/">Japan eSIM</a> can save time at the airport, but install it before departure and check activation steps before you rely on it for maps.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Crowds:</strong> Shoulder season (May and November) gives better weather and fewer people than peak cherry blossom (late March–April) or peak autumn (mid-November). The sights exist at any time of year — the crowds are the variable.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mornings:</strong> The single most useful piece of advice for Kyoto. Every major sight is better before 9am. This applies especially to Fushimi Inari, the bamboo grove, and Kiyomizudera.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-many-days-do-you-need-in-kyoto">How many days do you need in Kyoto?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Three nights is the minimum to do Kyoto properly — enough for Arashiyama, the Higashiyama district, Fushimi Inari, and one day trip to Nara. Two days is possible but rushed. Four nights allows a slower pace with time for Nijo Castle, the northern temples, and an evening food tour. If you're following the <a href="/japan-10-day-itinerary/">10-day Japan itinerary</a>, three nights in Kyoto is the right allocation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-the-best-time-of-year-to-visit-kyoto">What is the best time of year to visit Kyoto?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph --><p>May and November are often the easiest months: comfortable temperatures, good light, and usually fewer crowds than cherry blossom season or peak autumn foliage. Late March and early April can be extraordinary if you time the cherry blossoms right, but accommodation books out early. Summer is hot and humid; January and February are colder, but crowds are thinner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-kyoto-or-tokyo-better-for-a-first-visit-to-japan">Is Kyoto or Tokyo better for a first visit to Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Both. The standard answer — and the correct one — is that they complement each other rather than compete. Tokyo is the modern, urban, sensory-overload experience; Kyoto is temples, tradition, and carefully preserved history. Most first-time visitors do Tokyo first, then move west to Kyoto. The <a href="/japan-10-day-itinerary/">10-day Japan itinerary</a> covers the route that works.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-kyoto-walkable">Is Kyoto walkable?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph --><p>Within neighborhoods, yes: Higashiyama and Arashiyama are both best explored on foot. Between major sights, no. Kyoto is spread out, and buses, trains, or the subway are necessary. Check current Kyoto pass options if you are stacking several bus and subway rides into one day. Fushimi Inari, Arashiyama, and the northern temples each require separate transport planning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="do-i-need-to-book-kyoto-attractions-in-advance">Do I need to book Kyoto attractions in advance?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Tea ceremonies, the Katsura Imperial Villa, and any evening food or culture tours should be booked in advance — the good slots go quickly in peak season. Fushimi Inari, the bamboo grove, Kinkaku-ji, and Kiyomizudera require no booking but reward early arrival. The Ghibli Museum nearby in Tokyo requires advance tickets; Nijo Castle and Nishiki Market are walk-in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-much-does-a-day-in-kyoto-cost">How much does a day in Kyoto cost?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph --><p>A mid-range Kyoto day depends heavily on how many paid temples, tours, and restaurant meals you stack together. Fushimi Inari is free, many temples charge modest entry fees, and experiences like tea ceremonies or food tours can change the daily total quickly. For a full cost breakdown, the <a href="/japan-travel-costs/">Japan travel costs guide</a> covers the full trip budget and the trade-offs that matter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "How many days do you need in Kyoto?", "acceptedAnswer": {"@type": "Answer", "text": "Three nights is the minimum to do Kyoto properly. It gives you time for Arashiyama, Higashiyama, Fushimi Inari, and one day trip to Nara. Two days is possible but rushed, while four nights gives you a much better pace."}},
+    {"@type": "Question", "name": "What is the best time of year to visit Kyoto?", "acceptedAnswer": {"@type": "Answer", "text": "May and November are often the easiest months for Kyoto because the weather is comfortable and crowds are usually more manageable than cherry blossom or peak autumn foliage periods."}},
+    {"@type": "Question", "name": "Is Kyoto or Tokyo better for a first visit to Japan?", "acceptedAnswer": {"@type": "Answer", "text": "They work best together. Tokyo gives you the modern urban side of Japan, while Kyoto gives you temples, traditional districts, gardens, and preserved historic atmosphere."}},
+    {"@type": "Question", "name": "Is Kyoto walkable?", "acceptedAnswer": {"@type": "Answer", "text": "Kyoto is walkable within individual neighborhoods such as Higashiyama and Arashiyama, but the main sights are spread out. Most visitors still need buses, trains, subway rides, or taxis between areas."}},
+    {"@type": "Question", "name": "Do I need to book Kyoto attractions in advance?", "acceptedAnswer": {"@type": "Answer", "text": "Book tea ceremonies, Katsura Imperial Villa visits, evening food tours, and high-demand seasonal experiences in advance. Major open sights such as Fushimi Inari and the bamboo grove do not need tickets, but early arrival helps."}},
+    {"@type": "Question", "name": "How much does a day in Kyoto cost?", "acceptedAnswer": {"@type": "Answer", "text": "A Kyoto day varies by how many paid temples, tours, and restaurant meals you include. Free sights like Fushimi Inari keep costs lower, while tea ceremonies and food tours raise the daily budget."}}
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Japan Travel Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Still planning? These guides cover the rest of the trip:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Planning the full route? → <a href="/japan-10-day-itinerary/">Japan 10-Day Itinerary: Tokyo, Hakone, Kyoto, Osaka</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Starting in Tokyo? → <a href="/best-things-to-do-in-tokyo/">Best Things to Do in Tokyo</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Figuring out the budget? → <a href="/japan-travel-costs/">Japan Travel Costs: What to Budget for 10 Days</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Still in early planning? → <a href="/how-to-plan-a-trip/">How to Plan a Trip</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+

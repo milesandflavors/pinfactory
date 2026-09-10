@@ -1,0 +1,189 @@
+<!-- wp:image {"id":2764,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/barcelona-winter-street.jpg" alt="A quiet Barcelona street in mild winter sunshine with few tourists" class="wp-image-2764"/><figcaption class="wp-element-caption">Barcelona in winter: the mildest, cheapest, quietest version of the city — if you pick the right weeks.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Barcelona doesn't really have a harsh winter — it has a mild one that most visitors underestimate, and a genuinely festive December that most visitors overestimate the crowds of. December brings the Christmas market and holiday lights; January drops prices and empties the beach; February adds a homegrown festival most tourists have never heard of. None of it involves snow, and almost none of it requires the heavy coat first-timers pack.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here's what actually changes across a Barcelona winter, and which weeks fit the trip you're planning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#weather">Weather in Barcelona in Winter — What to Pack</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#which-part">December vs. January vs. February</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#hotels">Hotel Prices and Crowds</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#practical-tips">Practical Tips</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-from-barcelona">More from Barcelona</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Barcelona winter runs mild — December averages a high near 56°F/13°C, January (the coolest month) sits around 54°F/12°C, and February climbs back to about 56°F/13°C. December means the Christmas market and the highest winter prices; January and February are noticeably cheaper and quieter, with the Three Kings Parade (Jan 5) and Festes de Santa Eulàlia (mid-February) giving each month its own real event to plan around. A midweight coat covers nearly the whole season — you won't need what you'd pack for northern Europe.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-plan-winter">How I'd plan a winter trip to Barcelona</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>First decide whether the market and lights are the point, or just a bonus. If it's the market, book December and expect the highest winter prices. If you genuinely just want mild weather, an empty beach, and lower rates, January or February deliver all three — plus a real, specific event each month instead of just "off-season."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the specific things worth building a January or February day around — the Three Kings Parade, Festes de Santa Eulàlia, a century-old hot chocolate spot — see the <a href="/barcelona-winter-bucket-list/">Barcelona Winter Bucket List</a>. This page is the planning overview; that one is the actual to-do list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> mild weather, lower prices, and a genuinely uncrowded look at Gaudí's sites.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> January and February sit well below December's market-driven pricing, and the summer queues at Sagrada Família and Park Güell are gone.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you specifically want the Christmas market and lights — that's a December-only window.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before you book:</strong> if the Three Kings Parade (January 5th) is part of the plan, book central accommodation early — it's one of the busiest single nights of the winter for hotels near the route.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="weather">Weather in Barcelona in Winter — What to Pack</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona's winter is genuinely mild by European standards. December averages a high around 56°F/13°C and a low near 47°F/9°C. January, the coolest month, runs about 54°F/12°C by day and 45°F/7°C overnight. February climbs back slightly to roughly 56°F/13°C by day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A midweight coat, a scarf for evenings, and layers for the daytime sun cover nearly the entire season — leave the heavy winter coat at home. Rain is more likely than cold, so a packable umbrella or light rain shell earns its space more than extra wool does.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="which-part">December vs. January vs. February</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>December is the version most people picture: the Christmas market at the Cathedral, festive lights along Passeig de Gràcia, and genuinely warm holiday energy — but also the highest winter hotel prices. For that specific version, see <a href="/barcelona-at-christmas/">Barcelona at Christmas</a> and <a href="/barcelona-christmas-itinerary/">the day-by-day plan</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>January opens with the Three Kings Parade on the 5th, one of the city's most-attended traditions, then settles into the calmest, cheapest stretch of the entire year. February keeps that lower pricing going and adds Festes de Santa Eulàlia — Barcelona's own winter festival, with giants and fire runs, that most visitors never plan around simply because they don't know it exists.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hotels">Hotel Prices and Crowds</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>December, especially the two weeks around Christmas and the market, is peak winter pricing and the fullest hotels of the season. January flips that fast: it's one of the cheapest stretches of the year to book Barcelona, apart from a single-night spike around the Three Kings Parade itself. February holds steady at that lower rate, with noticeably shorter lines at Sagrada Família and Park Güell than any other time of year.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Decide your window first:</strong> December for the market, January or February for the cheaper, quieter version.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Pack light, not heavy:</strong> a midweight coat and a rain shell beat a full winter wardrobe.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Book early for January 5th:</strong> the Three Kings Parade fills central hotels for that one night even though the rest of the month is quiet.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Use the mild midday sun:</strong> beach walks and outdoor terraces are genuinely pleasant around midday even in January.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Where to stay:</strong> the <a href="/where-to-stay-in-barcelona/">where to stay in Barcelona guide</a> covers neighborhoods, and winter specifically rewards booking January or February if your dates are flexible.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-barcelona">More from Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For the specific things worth doing once you're here, see the <a href="/barcelona-winter-bucket-list/">Barcelona Winter Bucket List</a>. For the holiday-specific version of the season, <a href="/barcelona-at-christmas/">Barcelona at Christmas</a> and <a href="/barcelona-christmas-itinerary/">the day-by-day itinerary</a> cover December in full.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is winter a good time to visit Barcelona?</summary><!-- wp:paragraph -->
+<p>Yes — it's the mildest major-city winter in Europe, with genuinely lower prices and thinner crowds outside the two weeks around Christmas.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What is the coldest month in Barcelona?</summary><!-- wp:paragraph -->
+<p>January, with an average high around 54°F/12°C and lows near 45°F/7°C. December and February are both slightly milder.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Do I need a heavy winter coat in Barcelona?</summary><!-- wp:paragraph -->
+<p>No. A midweight coat and a rain layer cover nearly the entire winter — daytime temperatures rarely drop low enough to need a genuinely heavy coat.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"Is winter a good time to visit Barcelona?","acceptedAnswer":{"@type":"Answer","text":"Yes -- it's the mildest major-city winter in Europe, with genuinely lower prices and thinner crowds outside the two weeks around Christmas."}},
+    {"@type":"Question","name":"What is the coldest month in Barcelona?","acceptedAnswer":{"@type":"Answer","text":"January, with an average high around 54F/12C and lows near 45F/7C. December and February are both slightly milder."}},
+    {"@type":"Question","name":"Do I need a heavy winter coat in Barcelona?","acceptedAnswer":{"@type":"Answer","text":"No. A midweight coat and a rain layer cover nearly the entire winter -- daytime temperatures rarely drop low enough to need a genuinely heavy coat."}}
+  ]
+}
+</script>
+<!-- /wp:html -->

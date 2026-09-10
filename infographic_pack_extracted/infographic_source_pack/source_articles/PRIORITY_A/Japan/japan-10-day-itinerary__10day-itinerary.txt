@@ -1,0 +1,710 @@
+﻿<!-- wp:image {"id":1711,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img alt="Fushimi Inari torii gates in Kyoto at sunrise with the path mostly empty" src="/wp-content/uploads/2026/05/shai-pal-dmscsFKoKp4-unsplash-1-1024x727.jpg" class="wp-image-1711"/><figcaption class="wp-element-caption">Fushimi Inari before 8am — the iconic orange gate path with almost no one in it</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Japan looks like one of the hardest trips to plan. It's not — if you keep the route simple and resist the urge to add every city you've ever heard of. This 10-day Japan itinerary covers Tokyo, Hakone, Kyoto, and Osaka: four stops that deliver on a first visit, with enough time in each place to actually settle in rather than just pass through.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The most common mistake is over-ambition. Ten days sounds like a lot until jet lag hits and you realize that moving cities, navigating trains, and absorbing a completely different culture takes more out of you than a European trip. Fewer places, done well, is always better in Japan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Before you go — quick links</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Where to stay</strong> — see <a href="#where-to-stay">where to stay on this route below</a> — book Hakone ryokans 2–3 months out, they fill fast</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Best guided tours</strong> — <a href="https://www.viator.com/tours/Kyoto/Experience-Tea-Ceremony-wearing-a-Kimono-in-Kyoto/d332-51440P61?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=japan-10day-quicklinks" target="_blank" rel="sponsored noopener noreferrer">Book a Kyoto tea ceremony on Viator →</a> — tea ceremonies and early Fushimi Inari slots sell out weeks ahead</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel card</strong> - <a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer">Wise</a> - compare card fees, exchange-rate costs, and ATM withdrawal charges before you travel</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>eSIM</strong> - <a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer">Telekonek Japan eSIM</a> - code <strong>MILESANDFLAVORS5</strong> for 5% off; compare current Japan data plans and install before departure</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Travel insurance</strong> - <a href="https://ektatraveling.tpm.lv/fqijSuju" target="_blank" rel="sponsored noopener noreferrer">EKTA Travel Insurance</a> - compare policy wording for medical care, cancellation, evacuation, activities, and exclusions</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-disclosure"} -->
+<p><em>This post contains affiliate links. If you book or buy something through them, I may earn a small commission — at no extra cost to you. This guide is built to help you compare the most useful planning options before you spend money.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:rank-math/toc-block {"title":"In This Guide","headings":[{"key":"ff2f6540-3f50-47a8-8d40-02c4246527f4","content":"Sort This Before You Book Anything Else","level":2,"link":"#before-you-start","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"a08d14f2-8ed0-4251-9695-2224c28419aa","content":"The 10-Day Japan Route at a Glance","level":2,"link":"#route-overview","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"cf199f08-6730-4d42-a578-5470c17c5ef6","content":"Days 1–3 in Tokyo: Arriving, Adjusting, Exploring","level":2,"link":"#tokyo","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"6b0b5382-01e1-4e65-b299-aabaa07223ad","content":"Day 4 in Hakone: Mount Fuji Views and a Ryokan Night","level":2,"link":"#hakone","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"bc7c021d-59eb-4381-b7fb-fba2292fc47d","content":"Days 5–7 in Kyoto: The City That Makes Japan Worth the Flight","level":2,"link":"#kyoto","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"e004c040-b85a-40e2-9187-6a6792f08aff","content":"Days 8–10 in Osaka: Street Food, Energy, and the Last Nights","level":2,"link":"#osaka","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"4e0cf762-43c6-4663-a96c-623b715c6888","content":"If You Only Have 7 Days","level":2,"link":"#seven-days","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"f67171fd-2244-4b68-a81c-d054bf0bb262","content":"Is 10 Days in Japan Enough?","level":2,"link":"#worth-it","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"dd4953a0-ae78-4957-a119-d04211432759","content":"What First-Time Japan Visitors Usually Get Wrong","level":2,"link":"#what-id-change","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"e8bafea2-2f15-4b4e-91ff-8947c5824e9a","content":"Best Time to Visit Japan for a 10-Day Trip","level":2,"link":"#best-time","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"eb4ca07d-67e4-4f39-a23a-a12c54d3f651","content":"Practical Information for a 10-Day Japan Trip","level":2,"link":"#practical-info","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"42bb7fc0-e3a8-46d0-9cdb-77841751e4af","content":"Where to Stay on This 10-Day Japan Itinerary","level":2,"link":"#where-to-stay","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"6aa44a44-835f-4138-a4ef-9ef3d4984b3b","content":"Planning Your 10-Day Japan Itinerary: Final Thoughts","level":2,"link":"#final-thoughts","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"324e177b-bf7a-4fbb-8d22-0a0f4a0625b9","content":"Japan 10-Day Itinerary: Frequently Asked Questions","level":2,"link":"#faq","disable":false,"isUpdated":false,"isGeneratedLink":false},{"key":"12c14b58-d927-4e88-b97d-ff85e145a31e","content":"More Japan Travel Guides","level":2,"link":"#more-guides","disable":false,"isUpdated":false,"isGeneratedLink":true}],"listStyle":"ul","excludeHeadings":["h3"]} -->
+<div class="wp-block-rank-math-toc-block" id="rank-math-toc"><h2>In This Guide</h2><nav><ul><li class=""><a href="#before-you-start">Sort This Before You Book Anything Else</a></li><li class=""><a href="#route-overview">The 10-Day Japan Route at a Glance</a></li><li class=""><a href="#tokyo">Days 1–3 in Tokyo: Arriving, Adjusting, Exploring</a></li><li class=""><a href="#hakone">Day 4 in Hakone: Mount Fuji Views and a Ryokan Night</a></li><li class=""><a href="#kyoto">Days 5–7 in Kyoto: The City That Makes Japan Worth the Flight</a></li><li class=""><a href="#osaka">Days 8–10 in Osaka: Street Food, Energy, and the Last Nights</a></li><li class=""><a href="#seven-days">If You Only Have 7 Days</a></li><li class=""><a href="#worth-it">Is 10 Days in Japan Enough?</a></li><li class=""><a href="#what-id-change">What First-Time Japan Visitors Usually Get Wrong</a></li><li class=""><a href="#best-time">Best Time to Visit Japan for a 10-Day Trip</a></li><li class=""><a href="#practical-info">Practical Information for a 10-Day Japan Trip</a></li><li class=""><a href="#where-to-stay">Where to Stay on This 10-Day Japan Itinerary</a></li><li class=""><a href="#final-thoughts">Planning Your 10-Day Japan Itinerary: Final Thoughts</a></li><li class=""><a href="#faq">Japan 10-Day Itinerary: Frequently Asked Questions</a></li><li class=""><a href="#more-guides">More Japan Travel Guides</a></li></ul></nav></div>
+<!-- /wp:rank-math/toc-block -->
+
+<!-- wp:paragraph -->
+<p>The map below shows the full route — Tokyo, Hakone, Kyoto, and Osaka — with the key stops at each destination color-coded by city. Use it to get a sense of the geography before you start planning, and to see how the cities sit relative to each other along the route west.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=10t7xS43Q-Jk3v7LmCyFb6PXD-uvQ5f8&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="before-you-start">Sort This Before You Book Anything Else</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Japan Rail Pass reality check:</strong> there is no 10-day nationwide Japan Rail Pass. The official nationwide pass is sold for 7, 14, or 21 days, so for this route you need to compare individual train tickets against the current 7-day or 14-day pass price before buying. For a simple one-way Tokyo - Hakone - Kyoto - Osaka route, the pass is not an automatic win; it becomes more attractive if you add a return to Tokyo or extra long-distance JR day trips.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you decide a JR Pass makes sense, buy through the official site or an authorized seller and check the current yen price before purchase. Also note that Nozomi and Mizuho shinkansen services have extra conditions for Japan Rail Pass holders, so always check the exact train type before assuming it is included.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Everything else you need to organize before landing:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Flights:</strong> Fly into Haneda (HND) if possible — it's 30–40 minutes from central Tokyo versus 60–90 for Narita. East Coast to Tokyo: ~14 hours non-stop. West Coast: 11–12 hours.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Cash:</strong> Japan is more card-friendly than it used to be, but cash is still useful for temple fees, small restaurants, traditional markets, lockers, and rural stops. 7-Eleven and Japan Post ATMs are usually reliable for foreign cards. Compare your bank card fees and exchange-rate costs before you leave; a <a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer">Wise card</a> is one option to compare.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>eSIM:</strong> A <a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer">Telekonek Japan eSIM</a> (code <strong>MILESANDFLAVORS5</strong> for 5% off) lets you compare current Japan data plans and install before departure. Having data on arrival makes maps, translation, train routing, and restaurant searches much easier.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="route-overview">The 10-Day Japan Route at a Glance</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Days</th><th>Location</th><th>Nights</th><th>Main focus</th></tr></thead><tbody><tr><td>1–3</td><td>Tokyo</td><td>3</td><td>Arrive, recover, explore neighborhoods</td></tr><tr><td>4</td><td>Hakone</td><td>1</td><td>Mount Fuji views, ryokan, onsen</td></tr><tr><td>5–7</td><td>Kyoto</td><td>3</td><td>Temples, bamboo, Gion, Nara day trip</td></tr><tr><td>8–10</td><td>Osaka</td><td>2</td><td>Street food, castle, fly home Day 10</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>The route moves west in one straight line. Each move is easy: <strong>Tokyo to Hakone — 90 min</strong> by train. <strong>Hakone to Kyoto — 2.5 hours</strong> on the shinkansen. <strong>Kyoto to Osaka — 15 minutes</strong>. You're never spending more than half a day in transit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="tokyo">Days 1–3 in Tokyo: Arriving, Adjusting, Exploring</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Tokyo is the world's largest metropolitan area, and it takes at least a day to stop feeling overwhelmed by it. Three nights is the right amount — enough to get past the disorientation and actually enjoy the city, not so much that you lose time in Kyoto.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0F4F8"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"24px","right":"24px"}},"border":{"left":{"color":"#5B8DB8","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#5B8DB8;border-left-width:4px;background-color:#F0F4F8;padding-top:20px;padding-right:24px;padding-bottom:20px;padding-left:24px"><!-- wp:paragraph -->
+<p><strong>Reality check:</strong> Don't plan Day 1. Land, find your hotel, eat something within walking distance, sleep. Jet lag eastward from the US is brutal — fighting it on Day 1 costs you Day 2 and 3.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-1">Day 1 — Shinjuku: Arrive and Orient</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Stay in Shinjuku for this itinerary — central, excellent subway connections in every direction, and the neighborhood itself gives you a complete first impression of Tokyo without going anywhere. No agenda on Day 1. Walk around. Find dinner nearby. The neon, the food stalls, the general motion of the place is worth experiencing without a plan attached to it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-2">Day 2 — Asakusa and the Historic East Side</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Go early. This applies everywhere in Japan, but especially here.</strong> Senso-ji temple before 8am is quiet and atmospheric. By 10am it's crowded. By noon it's genuinely difficult to move through the approach street.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Senso-ji temple</strong> — arrive before 8am, the precinct is a different place at that hour</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Nakamise shopping street</strong> — traditional crafts, snacks, souvenirs; better browsed early or late</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Ueno Park and Tokyo National Museum</strong> — 10-minute walk from Asakusa, good for the afternoon</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Asakusa backstreets</strong> — the lanes behind the temple are more interesting than the main approach; most people miss them entirely</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-3">Day 3 — Harajuku, Meiji Shrine, Shibuya</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The west side of Tokyo is completely different in character from Asakusa — younger, more fashion-forward, more international. A full contrast day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Meiji Shrine</strong> (morning) — 30 minutes of quiet forested paths in the middle of the city; adjacent to Harajuku and a good first stop</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Harajuku / Takeshita Street</strong> — worth seeing for the spectacle, even if it's not your shopping destination</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Omotesando</strong> — Tokyo's answer to a Parisian boulevard; good lunch options</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Shibuya Crossing</strong> (5–7pm) — go at rush hour for the full effect; the synchronized crossing of a thousand people is worth seeing in person</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Shibuya Sky observation deck</strong> - check current ticket prices and time slots; skip it if the street-level crossing view is enough for you</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":1577,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img alt="Shibuya Crossing in Tokyo with crowds crossing beneath bright city screens" src="/wp-content/uploads/2026/05/jezael-melgoza-CudNrzbsyZw-unsplash-1024x664.jpg" class="wp-image-1577"/><figcaption class="wp-element-caption">Shibuya Crossing — the most visually arresting intersection in the world</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="hakone">Day 4 in Hakone: Mount Fuji Views and a Ryokan Night</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hakone is the reset the trip needs. After three days in Tokyo, one night in a traditional ryokan with an outdoor onsen recalibrates everything. It's also the best chance on this route to see Mount Fuji — though "chance" is the right word. Visibility is unpredictable. Roughly half of visitors don't get a clear view. Go for the ryokan and treat Fuji as a bonus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1714,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img alt="Mount Fuji and Lake Ashi in Hakone on a clear day" src="/wp-content/uploads/2026/05/jes_maru-sunQAZcKm0Q-unsplash-edited-scaled.jpg" class="wp-image-1714"/><figcaption class="wp-element-caption">Lake Ashi on a clear day — and the reason you go to Hakone even when Fuji is hidden in clouds</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Getting there:</strong> From Shinjuku, the Romancecar train runs directly to Hakone-Yumoto in ~85 minutes, no transfers. With the JR Pass, take the standard JR line to Odawara and connect to the Hakone Tozan railway.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The Hakone Round Course</strong> — do this in the morning:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Hakone ropeway</strong> — over the Owakudani volcanic crater, best Fuji views when clear</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Lake Ashi ferry</strong> — across the lake with Fuji in the background (on clear days)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Hakone Open Air Museum</strong> — modern sculpture in an outdoor setting; better than it sounds, genuinely worth 2 hours</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>The ryokan:</strong> This is the one booking to make early. A ryokan with dinner and breakfast included is often one of the most expensive nights of the trip, but it gives you the full Hakone experience: tatami room, futon bedding, multi-course kaiseki dinner, and onsen bathing. Compare current rates and cancellation terms before you lock it in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0F4F8"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"24px","right":"24px"}},"border":{"left":{"color":"#5B8DB8","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#5B8DB8;border-left-width:4px;background-color:#F0F4F8;padding-top:20px;padding-right:24px;padding-bottom:20px;padding-left:24px"><!-- wp:paragraph -->
+<p><strong>Reality check:</strong> Hakone as a day trip from Tokyo misses the point entirely. The ryokan is the reason to go — not the ropeway, not Fuji. If budget is tight, cut something else before cutting the overnight.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p>If an overnight truly doesn't work, this <a href="https://www.viator.com/tours/Tokyo/Mt-Fuji-and-Hakone-1-Day-Bus-Tour-return-by-Bullet-Train-Shinkansen/d334-28575P41?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=japan-10day" rel="sponsored noopener noreferrer" target="_blank">Mt. Fuji and Hakone day tour from Tokyo (return by bullet train) on Viator →</a> covers the main highlights efficiently — currently rated 4.8 from over 31,000 reviews, so check the latest rating before booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Where I'd stay: <a href="https://expedia.tpm.lv/OW0YggnQ" rel="sponsored noopener noreferrer" target="_blank">Hakone Kowakien TEN-YU on Expedia →</a> — a 4.5-star ryokan resort rated 9.6/10 by guests, with private in-room onsen options. It's genuinely one of the most expensive nights on this route, but it's the one splurge worth making.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="kyoto">Days 5–7 in Kyoto: The City That Makes Japan Worth the Flight</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kyoto is the reason most people decide to go to Japan. More UNESCO World Heritage Sites than almost anywhere else on earth — and unlike most places on that list, they're consistently excellent. Three nights is the minimum. Two is not enough.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Getting there from Hakone:</strong> Check out in the morning, train to Odawara, shinkansen to Kyoto. Door to door: <strong>about 2.5 hours</strong>. You arrive mid-afternoon with the rest of Day 5 ahead of you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-4">Day 5 — Arashiyama: Bamboo, Temples, and the Right Start</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The bamboo grove at 7am and the bamboo grove at 11am are essentially different experiences. Go early — this is the most useful piece of advice for the entire Kyoto portion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1716,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img alt="Arashiyama bamboo grove in Kyoto photographed early in the morning" src="/wp-content/uploads/2026/05/atsushi-tsubokura-5oguG6eOYrk-unsplash-1-1024x681.jpg" class="wp-image-1716"/><figcaption class="wp-element-caption">Arashiyama bamboo grove before 8am — one of the most atmospheric sights in Japan, best experienced at dawn</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Arashiyama bamboo grove</strong> — before 8am; by 10am the tour groups arrive and the effect is gone</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tenryu-ji temple</strong> — UNESCO-listed garden, walk from the bamboo grove, worth 45 minutes</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Togetsukyo Bridge</strong> — the classic Arashiyama view over the Oi River</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Jojakko-ji and Nison-in temples</strong> — the quieter back-trail most visitors skip because they leave after the bamboo; don't skip it</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Iwatayama Monkey Park</strong> (afternoon) — 20-minute uphill walk, free-roaming macaques, city view; a genuine experience rather than a tourist attraction</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-5">Day 6 — Golden Pavilion, Nishiki Market, Gion at Dusk</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Kinkaku-ji (Golden Pavilion)</strong> (morning) — there is no quiet time here; arrive at opening and accept the crowds. The reflection in the pond is worth it regardless.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Nishiki Market</strong> (lunch) — a narrow covered street a few blocks long, packed with vendors selling pickled vegetables, grilled skewers, tofu, matcha sweets. Go hungry.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Gion district</strong> (6–8pm) — when Kyoto looks most like the image people have of it. Hanamikoji street, lantern-lit machiya townhouses, the occasional geiko moving through the backstreets. It's atmospheric at this hour in a way it isn't at noon.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":1703,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img alt="Kinkaku-ji Golden Pavilion in Kyoto reflected in the pond" src="/wp-content/uploads/2026/05/vladimir-haltakov-l5wxPzqXg2c-unsplash-1024x683.jpg" class="wp-image-1703"/><figcaption class="wp-element-caption">Kinkaku-ji — there's no quiet time here, but the reflection makes it worth it regardless</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A <strong>tea ceremony</strong> is one of the most worthwhile bookings in Kyoto. Prices vary by setting and format, but a good session usually includes prepared matcha, traditional sweets, and instruction. It sounds like a tourist checkbox. It is not. Book in advance because good morning slots can go quickly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.viator.com/tours/Kyoto/Experience-Tea-Ceremony-wearing-a-Kimono-in-Kyoto/d332-51440P61?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=japan-10day" rel="sponsored noopener noreferrer" target="_blank">Book the Kimono Tea Ceremony at Kyoto Maikoya on Viator →</a> — currently rated 4.85 from over 1,000 reviews, and the kimono is included. Morning slots sell out weeks ahead in peak season; check the current rating before booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-6">Day 7 — Fushimi Inari at Dawn, Nara by Afternoon</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"color":{"background":"#F0F4F8"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"24px","right":"24px"}},"border":{"left":{"color":"#5B8DB8","width":"4px"}}}} -->
+<div class="wp-block-group has-background" style="border-left-color:#5B8DB8;border-left-width:4px;background-color:#F0F4F8;padding-top:20px;padding-right:24px;padding-bottom:20px;padding-left:24px"><!-- wp:paragraph -->
+<p><strong>Reality check:</strong> Fushimi Inari before 8am and Fushimi Inari at 11am are not the same place. The gate route that appears in every Japan photo exists at 7am. By mid-morning it's a crowded trail. Set one alarm and go.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Fushimi Inari Taisha</strong> — arrive by 6:30am; the lower sections are quiet before 8am, and beyond the first 20 minutes of trail (where most people stop), it stays quiet regardless of hour</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Full hike</strong> — 2.5 miles (4km) round trip, 2–3 hours; the best concentration of gates is in the first third, but going further gives you mountain silence and shrine after shrine with no queue</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Nara</strong> (afternoon) - about 45 minutes from Kyoto by express train; free-roaming deer at Nara Park, Todai-ji temple, and a compact temple route. Half a day is enough for most first-time visitors.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="osaka">Days 8–10 in Osaka: Street Food, Energy, and the Last Nights</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Osaka is Japan's food city — and the contrast with Kyoto is immediate. Louder, less refined, more fun at street level. The density of good, affordable eating in the Dotonbori and Namba area is unlike anywhere else on this itinerary. It's also the cheapest of the four stops.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Getting there from Kyoto: 15 minutes on the shinkansen.</strong> You can return to Kyoto from Osaka for anything you missed — it's a realistic day trip if needed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1624,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img alt="Dotonbori canal in Osaka at night with neon signs and restaurant lights" src="/wp-content/uploads/2026/05/ramon-kagie-LoJ87AsXbFw-unsplash-1024x769.jpg" class="wp-image-1624"/><figcaption class="wp-element-caption">Dotonbori at night — the heart of Osaka's street food scene and the most energetic stretch of this itinerary</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="undefined-7">Day 8 — Dotonbori, Shinsaibashi, First Night Out</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Dotonbori</strong> — the canal, the neon, the giant mechanical crab. Walk it slowly and eat from the stalls. Try takoyaki (grilled octopus balls) from a street vendor, not a sit-down restaurant.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Shinsaibashi covered arcade</strong> — one of the longest covered shopping streets in Japan; useful for souvenirs and everything else without weather concerns</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Evening food tour</strong> — the highest-value option for a first night in Osaka. A good guide takes you through 5–6 spots in 3 hours — local izakayas, stalls, places you wouldn't find walking past. You eat more variety than you would on your own.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.viator.com/tours/Osaka/Deep-Osaka-Food-Tours/d333-130036P2?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=japan-10day" rel="sponsored noopener noreferrer" target="_blank">Book the Osaka Food Tour (15 dishes, 5 eateries) on Viator →</a> — currently rated 4.9 from over 3,400 reviews; check the current stops and rating before booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="day-9-osaka-castle-and-open-agenda">Day 9 — Osaka Castle and Open Agenda</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Osaka Castle</strong> (morning) - the park grounds are free; the castle exterior is the highlight. The interior museum has a separate ticket and is useful if you want the history, skippable if you mostly came for the view and photos.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Flexibility options:</strong> back to Kyoto for a temple you missed (15 min away), Universal Studios Japan (20 min by direct train, book tickets in advance for peak season), or simply slow down and eat your way through Osaka's covered arcades</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="day-10-departure-from-kansai-airport-kix">Day 10 — Departure from Kansai Airport (KIX)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kansai International Airport is <strong>70 minutes from central Osaka</strong> by direct Haruka express. Allow more time than you'd expect — KIX is a full international airport and check-in takes longer than a domestic flight. Most morning departures mean leaving the hotel by 5–6am.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If your return flight is from Tokyo rather than Osaka, take the last shinkansen from Osaka the evening before — 2.5 hours, gives you a final night in Tokyo before a morning departure. Flying home from Osaka is simpler for this itinerary; worth considering when booking flights.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="seven-days">If You Only Have 7 Days</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Days</th><th>Location</th><th>Nights</th></tr></thead><tbody><tr><td>1–2</td><td>Tokyo</td><td>2</td></tr><tr><td>3–5</td><td>Kyoto</td><td>3</td></tr><tr><td>6–7</td><td>Osaka</td><td>1 (fly home Day 7)</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>Seven days works, but the trade-off is real: you lose Hakone and the ryokan night. If forced to choose, the better move is cutting Tokyo to 2 nights rather than removing Hakone entirely. A third day in Tokyo is replaceable. The ryokan isn't.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="worth-it">Is 10 Days in Japan Enough?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For a first visit: yes. Tokyo, Hakone, Kyoto, and Osaka cover the four destinations that consistently come up as the highlights of Japan for first-time visitors. You'll leave with a clear picture of what the country is — and a list of specific things to return for, which is exactly the right outcome.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What you're not covering:</strong> Hiroshima and Miyajima (add these if you have 14 days), Kanazawa (one of Japan's most underrated cities), the Japanese Alps, the north. All valid reasons for a second trip — and Japan is one of the destinations where a second trip is genuinely common.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The 14-hour flight is the hardest part. Japan itself is surprisingly easy to navigate independently. The trains run on time, signage is reliable in English, and the food is exceptional at every price point. The effort-to-reward ratio is one of the best in international travel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-id-change">What First-Time Japan Visitors Usually Get Wrong</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Over-scheduling Tokyo.</strong> Three nights feels generous until you realize basic navigation and jet lag eat the first day. Most visitors either feel rushed in Tokyo or compensate by shortchanging Kyoto — which is where the trip tends to become unforgettable. Three nights, no more, no less.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Treating Hakone as a day trip.</strong> The ropeway and Lake Ashi are fine. The ryokan is the reason to go. Doing Hakone without staying overnight is like going to the Amalfi Coast and not eating dinner on the water - you have technically been there, but you have missed the best part. If the budget allows, the overnight adds much more to the trip than another standard city hotel night.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Skipping the early morning at Fushimi Inari.</strong> One alarm, one morning. The whole memory of Kyoto changes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Assuming the JR Pass automatically saves money.</strong> It does not. There is no 10-day nationwide pass, and the 7-day or 14-day pass needs to be compared against your exact trains. Calculate before buying, especially if your route is one-way from Tokyo to Osaka.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="best-time">Best Time to Visit Japan for a 10-Day Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Season</th><th>When</th><th>What to expect</th><th>Book ahead</th></tr></thead><tbody><tr><td><strong>Cherry blossom</strong></td><td>Late March-mid April</td><td>Beautiful sakura, higher demand, and more pressure on hotels and ryokans</td><td>4-6 months</td></tr><tr><td><strong>Autumn foliage</strong></td><td>Mid October-mid November</td><td>Vivid reds and oranges in Kyoto, Arashiyama, and Hakone; still busy but often easier than sakura season</td><td>3-4 months</td></tr><tr><td><strong>Shoulder season</strong></td><td>May-June, September</td><td>Usually a strong balance of weather, availability, and manageable crowds</td><td>2-3 months</td></tr><tr><td><strong>Winter</strong></td><td>December-February</td><td>Fewer crowds and crisp sightseeing weather; Kyoto can be beautiful in winter, but pack for cold mornings</td><td>1-2 months</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>One to avoid: July and August. Tokyo and Osaka in midsummer run 90–95°F (32–35°C) with high humidity. It's not impossible, but it's genuinely uncomfortable for a trip built around walking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-info">Practical Information for a 10-Day Japan Trip</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Budget — what to expect:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Item</th><th>Typical budget note</th></tr></thead><tbody><tr><td>Flights (US round-trip)</td><td>Varies heavily by season, route, and booking window</td></tr><tr><td>Long-distance trains</td><td>Compare individual tickets with the current 7-day or 14-day Japan Rail Pass price</td></tr><tr><td>Hotels (mid-range)</td><td>Usually the biggest variable; Tokyo, Kyoto, and Hakone rise sharply in peak seasons</td></tr><tr><td>Hakone ryokan</td><td>Often the most expensive single night, especially with dinner and breakfast included</td></tr><tr><td>Food</td><td>Flexible: convenience stores, ramen, markets, izakayas, and splurge meals can all fit the same trip</td></tr><tr><td>Entrance fees and activities</td><td>Budget extra for tea ceremony, food tours, observation decks, museums, and guided day trips</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>Japan's mid-range is worth spending on. The food, service, and general experience at this budget level outperforms comparable spending almost anywhere in Western Europe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Visa:</strong> Not required for American citizens — 90-day tourist entry with a valid US passport</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Safety:</strong> Japan is generally one of the easiest countries for first-time visitors to navigate safely, but standard awareness still applies in crowds, nightlife areas, stations, and when handling luggage or cash.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Language:</strong> English signage is reliable at all train stations and tourist sites on this route. Google Translate's camera function handles restaurant menus.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>One practical note on insurance: Japan has excellent healthcare, but visitors may still need to pay upfront depending on the situation and their insurance. Compare policy wording for medical care, evacuation, cancellation, activities, and exclusions before you travel. <a href="https://ektatraveling.tpm.lv/fqijSuju" rel="sponsored noopener noreferrer" target="_blank">EKTA Travel Insurance</a> is one option to compare.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="where-to-stay">Where to Stay on This 10-Day Japan Itinerary</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="tokyo-shinjuku-or-shibuya">Tokyo — Shinjuku or Shibuya</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Both neighborhoods have excellent subway and JR connections to every part of the city and direct access to the shinkansen for Hakone. Mid-range hotel prices vary sharply by season, room size, and cancellation terms, so compare early if you are traveling during sakura or autumn foliage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One thing worth knowing: Japanese hotel rooms are smaller than American standards. This is not a quality issue — rooms are immaculate and well-designed. The room is for sleeping; everything else happens outside. Prioritize location and breakfast-included options over room size.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is where I'd stay: <a href="https://expedia.tpm.lv/JtckFWtT" rel="sponsored noopener noreferrer" target="_blank">Hotel Gracery Shinjuku on Expedia →</a> — 4-star, rated 9.0/10 from over 5,000 reviews, right in Kabukicho with easy access to the Shinjuku and Shibuya sights above. Compare current rates and cancellation terms for your dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="hakone-ryokan-with-onsen">Hakone — Ryokan with Onsen</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The decision is binary: ryokan or regular hotel. For a first visit, ryokan is the point of the Hakone night. Rates vary sharply by property, meal plan, private onsen access, and season, so compare current prices and book early for peak travel dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is where I'd stay: <a href="https://expedia.tpm.lv/OW0YggnQ" rel="sponsored noopener noreferrer" target="_blank">Hakone Kowakien TEN-YU on Expedia →</a> — 4.5-star, rated 9.6/10 from nearly 2,000 reviews, with private in-room onsen options. Compare current rates and meal plans; this books out early for peak dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="kyoto-central-near-gion-or-kyoto-station">Kyoto — Central, Near Gion or Kyoto Station</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Stay within a 10-minute walk of the Higashiyama district or Kyoto Station. The city is navigable by bus and subway, but central positioning matters on early-start days — and most Kyoto days are early-start days.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kyoto Station gives you the best transport connections — buses and the subway radiate out from there, and Fushimi Inari is a 10-minute train ride south. Staying near Higashiyama or Gion cuts your walk time to the eastern temples but limits flexibility. Either works; the difference matters most on early-start mornings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is where I'd stay: <a href="https://expedia.tpm.lv/TZQdm9f0" rel="sponsored noopener noreferrer" target="_blank">Nohga Hotel Kiyomizu Kyoto on Expedia →</a> — rated 9.8/10 from over 2,000 reviews, a short walk from Kiyomizu-dera and the Higashiyama lanes. Compare current rates and cancellation terms for your dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="osaka-namba-or-shinsaibashi">Osaka — Namba or Shinsaibashi</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The heart of the food and nightlife action. For the final two nights, this is exactly where you want to be: everything walkable, with straightforward airport access from Namba. Osaka is often better value than Tokyo and Kyoto, but compare current rates before locking it in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is where I'd stay: <a href="https://expedia.tpm.lv/iY8oWLlk" rel="sponsored noopener noreferrer" target="_blank">Hotel Keihan Namba Grande on Expedia →</a> — 4-star, rated 9.2/10 from over 1,100 reviews, right in Namba and walkable to Dotonbori. Compare current rates and cancellation terms for your dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="final-thoughts">Planning Your 10-Day Japan Itinerary: Final Thoughts</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Japan consistently surprises people who expect it to be difficult. The trains run on time. Signage works. The food is exceptional at every price point. The general experience of being somewhere where things work reliably is its own kind of travel luxury — and it's available at the mid-range, not just at the top.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tokyo's scale, Hakone's quiet, Kyoto's depth, Osaka's energy — four cities that don't blur together. That's what a focused route gives you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You don't need 20 days to love Japan. You just need to stop adding cities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Japan 10-Day Itinerary: Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="is-10-days-enough-for-japan">Is 10 days enough for Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yes, for a first visit — if the itinerary stays focused on three to four cities. This plan covers Tokyo, Hakone, Kyoto, and Osaka, which are consistently the highlights of Japan for first-time visitors. A route that adds Hiroshima, Kanazawa, or the Japanese Alps is better suited to 14 days.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-much-does-a-10-day-japan-trip-cost">How much does a 10-day Japan trip cost?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A comfortable 10-day Japan trip can vary widely depending on flights, hotel season, ryokan choice, and how many paid activities you add. The safest approach is to price the big pieces separately: flights, hotels, long-distance trains, Hakone ryokan, food, and activities. Japan can be excellent value at the mid-range, but the JR Pass should be calculated rather than assumed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="do-i-need-a-jr-pass-for-10-days-in-japan">Do I need a JR Pass for 10 days in Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Not automatically. There is no 10-day nationwide JR Pass; the official nationwide pass comes in 7, 14, and 21-day versions. For a Tokyo - Hakone - Kyoto - Osaka route, compare individual tickets with the current 7-day or 14-day pass price. A pass may make sense if you add a return to Tokyo or extra long-distance JR day trips, but it is not something to assume for this one-way itinerary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="whats-the-best-area-to-stay-in-tokyo">What's the best area to stay in Tokyo?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Shinjuku or Shibuya for this itinerary. Both have direct subway and JR connections to every part of the city and shinkansen access for the Hakone leg. Shinjuku has slightly better mid-range hotel value; Shibuya is marginally more central for the western sights. Either works.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-should-i-book-in-advance-for-japan">What should I book in advance for Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hakone ryokans (2–3 months ahead), Kyoto tea ceremonies, and early Fushimi Inari tours. Universal Studios Japan tickets require advance booking in peak season. Hotels and flights: 3–4 months out, especially for cherry blossom (late March to mid-April) and autumn foliage (mid-October to mid-November).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="what-is-the-best-time-of-year-to-visit-japan">What is the best time of year to visit Japan?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>May and September-October are usually the easiest months for a first Japan trip: comfortable sightseeing weather, strong scenery, and less pressure than peak sakura dates. Cherry blossom and autumn foliage are spectacular but require earlier booking. July-August can be hot and humid in Tokyo, Kyoto, and Osaka; winter is quieter and can be excellent if you pack for cold mornings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is 10 days enough for Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 10 days is enough for a first Japan trip if you keep the route focused. Tokyo, Hakone, Kyoto, and Osaka make a strong first-time itinerary without trying to cover too much of the country."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does a 10-day Japan trip cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total varies widely depending on flights, hotel season, ryokan choice, train tickets, food, and paid activities. Price flights, hotels, long-distance trains, Hakone ryokan, food, and tours separately before you commit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a JR Pass for 10 days in Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not automatically. There is no 10-day nationwide JR Pass; the official pass comes in 7, 14, and 21-day versions. Compare individual tickets with the current pass price before buying, especially for a one-way Tokyo to Osaka route."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best area to stay in Tokyo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shinjuku is the easiest base for most first-time visitors because of its transport connections and nightlife. Shibuya is a close second if you want to be closer to Harajuku, Meiji Shrine, and Omotesando."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I book in advance for Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Book Hakone ryokans, popular Kyoto experiences, major seasonal dates, and central hotels early. Cherry blossom and autumn foliage periods need the most advance planning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to visit Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "May and September to October are usually the easiest months for a first Japan trip. Cherry blossom and autumn foliage are beautiful but busier; July and August can be hot and humid."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-guides">More Japan Travel Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Building out the rest of your Japan trip? These guides help with the next planning decisions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Not sure where to stay in Tokyo? → <a href="/where-to-stay-in-tokyo">Where to Stay in Tokyo</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Trying to figure out what Japan actually costs? → <a href="/japan-travel-costs">Japan travel costs breakdown</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Want to add more time? Add extra nights in Tokyo and Kyoto, or extend the route toward Hiroshima and Miyajima.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Still deciding on flights? → <a href="/category/trip-planning/">How we find cheap long-haul flights</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+

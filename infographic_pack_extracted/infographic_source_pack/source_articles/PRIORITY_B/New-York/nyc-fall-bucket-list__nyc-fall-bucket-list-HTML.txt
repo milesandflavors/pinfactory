@@ -1,0 +1,398 @@
+<!-- wp:image {"id":2631,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/reid-zura-5DlUEwwNlBs-unsplash-edited-scaled.jpg" alt="Halloween-decorated brownstone stoop with pumpkins in New York City" class="wp-image-2631"/><figcaption class="wp-element-caption">The real NYC fall bucket list goes beyond Central Park foliage — think pumpkin-decorated stoops, cemetery skylines, fall oyster happy hours, and warm apple cider donuts.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Somewhere around the second week of October, the whole city recalibrates. Stoop pumpkins go up on Charles Street before half the trees have turned, oyster bars start chalking "R month" specials on their windows, and a line forms outside a mini-doughnut cart that didn't exist in July.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This isn't the Central Park foliage story or the Halloween Parade play-by-play — both get their own coverage in the <a href="/fall-in-new-york-city/">fall in New York City overview</a> and the <a href="/central-park-nyc-guide/">Central Park guide</a>. This is the shorter, sharper list: the specific, physical things worth interrupting your week for, ranked by how much you'd regret skipping them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some of these you can book. Most of them you can simply show up for. Together, they give you a more varied version of fall in New York than spending every afternoon following the same Central Park route.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#west-village-in-fall">The West Village in Fall</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#what-locals-actually-do">What Locals Actually Do This Time of Year</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#fall-flavors-worth-seeking-out">Fall Flavors Worth Seeking Out</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#one-extra-day-pumpkin-picking">If You Have One Extra Day: Pumpkin Picking</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#which-one-to-prioritize">Which One Should You Actually Prioritize</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">FAQ: NYC Fall Bucket List</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-nyc-guides">More New York City Guides</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> If you only do one thing from this list, explore Green-Wood Cemetery in Brooklyn in the late afternoon. Its 478 acres combine Victorian architecture, fall color, and skyline views with far fewer visitors than Central Park or Prospect Park.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If your dates line up with a confirmed seasonal event, also look for Governors Island's Pumpkin Point and the Tompkins Square Halloween Dog Parade. Neither event had announced final 2026 details at the time of this update, so check the official listings before building a day around either one.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://www.viator.com/tours/New-York-City/New-York-City-Ghosts-of-the-Village-Tour/d687-31003P5?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=nyc-fall-bucket-list" target="_blank" rel="sponsored noopener noreferrer">Greenwich Village Ghost Tour</a></strong> — a two-hour walk built around local stories, neighborhood history, and reported hauntings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if:</strong> you want a fall evening out without the Halloween Parade crowds.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> the current listing offers free cancellation up to 24 hours before the start time, and reviews consistently praise the guides as engaging storytellers. Check the exact terms for your departure before booking.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> young kids are along — try the <a href="/nyc-halloween-with-kids/">NYC Halloween with kids guide</a> instead.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before booking:</strong> confirm the meeting point in your email — it's a walking tour, and start points shift by departure time.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://www.viator.com/tours/New-York-City/Greenwich-Village-Food-Tour/d687-9510P2?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=nyc-fall-bucket-list" target="_blank" rel="sponsored noopener noreferrer">Greenwich Village Food Tour</a></strong> — the West Village walk from this list, with someone else picking the stops.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if:</strong> you want one afternoon in the neighborhood with food handled for you.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> it has well over 1,500 reviews and a very high current rating, which is reassuring for a group experience. Check the latest rating and inclusions before booking.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> the group format can't flex around real dietary restrictions — check with the operator first.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before booking:</strong> skip breakfast — three hours of tastings adds up faster than it sounds.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Where to stay</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nothing on this list needs a specific hotel pick — it's spread across Manhattan and Brooklyn, not tied to one neighborhood. Full picks by area and budget are in the <a href="/where-to-stay-in-nyc/">where to stay in NYC guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel smarter</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer"><strong>Wise card</strong></a> — useful for cutting your home bank's foreign transaction markup on the small stuff this list runs on: donuts, oysters, ferry tickets, cover charges.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer"><strong>Telekonek eSIM</strong></a> — set up before you land so you can pull up ferry schedules, Metro-North times, and Governors Island event calendars without hunting for wifi. Use code <strong>MILESANDFLAVORS5</strong> for 5% off.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="west-village-in-fall">The West Village in Fall</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Walk Charles, Bank, Grove, and St. Luke's Place</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most first-time visitors photograph the same three blocks near Bleecker Street and call it a day. The better version of this walk runs west of Seventh Avenue — Charles Street, Bank Street, Grove Street, Bedford Street, Commerce Street, and St. Luke's Place across from the park — where the brownstones are older, the tree canopy is thicker, and by mid-October the stoops turn into small, unofficial pumpkin-carving competitions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nobody is running this walk for you. That's the point. Pick a weekday afternoon when the light is low and the tourists have thinned out, and give yourself permission to get slightly lost between Bedford and Commerce — that dead-end block with the ivy-covered building is the one everyone photographs from Instagram without knowing where it actually is.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Weekday afternoons from late September through Halloween week, when the decorations peak | <strong>Time needed:</strong> 1.5-2 hours at a genuinely unhurried pace | <strong>Tip:</strong> Start at Christopher Street station and end at St. Luke's Place — it puts the best light behind you on the way back and drops you near coffee when you're done.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Or Let Someone Else Run It</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If self-guided wandering isn't your speed, the same streets work as a proper afternoon or evening out. A <a href="https://www.viator.com/tours/New-York-City/Greenwich-Village-Food-Tour/d687-9510P2?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=nyc-fall-bucket-list" target="_blank" rel="sponsored noopener noreferrer">Greenwich Village food tour</a> turns the walk into three hours of tastings with a guide who knows the actual good bakery, not the one with the longest line. A <a href="https://www.viator.com/tours/New-York-City/New-York-City-Ghosts-of-the-Village-Tour/d687-31003P5?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=nyc-fall-bucket-list" target="_blank" rel="sponsored noopener noreferrer">ghost tour of Greenwich Village</a> does the same streets after dark, with the neighborhood's genuine history of fires, disappearances, and reported hauntings instead of pastry.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Food tour from around $99 per person; ghost tour from around $39 per person, both subject to change | <strong>Best time:</strong> Food tour by daylight, ghost tour after dusk for the right atmosphere | <strong>Time needed:</strong> 2-3 hours depending on which one | <strong>Tip:</strong> Book the ghost tour for a weeknight — weekend evenings in the Village get loud in a way that competes with a guide trying to set a mood.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-locals-actually-do">What Locals Actually Do This Time of Year</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Green-Wood Cemetery, Brooklyn</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the pick I'd send a friend to over Prospect Park in October, and I'd stand by it. Green-Wood is 478 acres of rolling Victorian hills, elaborate 19th-century mausoleums, and — from several of the higher points — one of the best unobstructed skyline views in all of Brooklyn, framed by exactly the kind of fall color everyone else is fighting crowds for a few miles north.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It sounds like a strange place to recommend as a highlight, until you're standing on one of those hills in the late-afternoon light with the Manhattan skyline in the distance. It's free, it's enormous, and it can feel noticeably calmer than the city's best-known parks during peak foliage weeks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Free | <strong>Best time:</strong> Early to mid-afternoon from October through early November | <strong>Time needed:</strong> 2-3 hours to actually cover ground | <strong>Tip:</strong> Take the R train to 25th Street, then walk one block east and uphill to the Fifth Avenue main entrance. From October 1 through March 31, the main entrance is generally open 8am-5pm; leave at least 10 minutes before closing and verify the <a href="https://www.green-wood.com/hours-directions-rules/" target="_blank" rel="nofollow noopener noreferrer">current Green-Wood hours</a> before visiting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Governors Island's Pumpkin Point</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Governors Island has hosted a genuinely charming annual fall event called Pumpkin Point: a free pop-up pumpkin patch at Nolan Park. Past editions have limited visitors to one pumpkin per person per household, while supplies lasted, and have also included trick-or-treating around the historic houses. It is low-key, photogenic, and easy to miss because it runs only on selected dates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pumpkin Point had not been confirmed for 2026 at the time of this update. If it returns, check the current listing on <a href="https://www.govisland.com/things-to-do/events/" target="_blank" rel="nofollow noopener noreferrer">Governors Island's official events calendar</a> before planning around it. Governors Island itself is open year-round, but event dates, ferry schedules, activities, and pumpkin availability can change.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> The event has previously been free; ferry transportation may cost extra | <strong>Best time:</strong> Only if a 2026 edition is officially announced | <strong>Time needed:</strong> Half a day including the ferry | <strong>Tip:</strong> If Pumpkin Point returns, bring a tote bag and arrive early because pumpkins and trick-or-treat supplies have previously been available only while stocks lasted.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2632,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/Pumpkin_point-1024x683.png" alt="Pumpkin Point fall festival on Governors Island with pumpkins and skyline views" class="wp-image-2632"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Tompkins Square Halloween Dog Parade</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the one that actually earns the word "spectacle." The long-running event brings together dogs in genuinely elaborate costumes and a crowd that treats the parade as a serious East Village tradition. The next edition will be the 36th, but its 2026 date, route, and viewing arrangements had not been announced at the time of this update.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're traveling with kids and want the daytime, family-scale version of NYC Halloween rather than this or the Sixth Avenue parade, the <a href="/nyc-halloween-with-kids/">NYC Halloween with kids guide</a> covers the options built specifically for that.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Historically free to watch | <strong>Best time:</strong> The official 2026 date has not yet been announced | <strong>Time needed:</strong> Allow 1-2 hours once the schedule is confirmed | <strong>Tip:</strong> Check the <a href="https://www.nydogparade.org/tshalloween" target="_blank" rel="nofollow noopener noreferrer">official Tompkins Square Halloween Dog Parade page</a> for the final date, location, registration details, and spectator guidance before making plans.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="fall-flavors-worth-seeking-out">Fall Flavors Worth Seeking Out</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Oyster Season, Properly</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The old "R month" saying is more tradition than a modern food-safety rule, but fall still feels like the right time to seek out a New York oyster happy hour. At the time of this update, <a href="https://www.themermaidnyc.com/menu/west-village-happy-hour/" target="_blank" rel="nofollow noopener noreferrer">Mermaid Oyster Bar's West Village menu</a> listed $2 oysters with a minimum order of six: all night on Monday and from 4:30-6pm Tuesday through Sunday. Offers can change, so check the current menu before going.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This isn't a destination meal — it's a between-things stop, the kind of thing you do on your way from one part of the list to another. That's exactly why it belongs here.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Currently $2 per oyster at Mermaid's happy hour, with a minimum order of six; prices can change | <strong>Best time:</strong> Monday evening or the current Tuesday-Sunday happy-hour window | <strong>Time needed:</strong> About an hour | <strong>Tip:</strong> Confirm the latest happy-hour days, prices, and minimum order before you go.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Apple Cider Donuts, Without Leaving the City</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The classic move is an upstate orchard day trip — worth doing, and covered separately below — but you don't actually need to leave the five boroughs for the donut itself. Doughnuttery, tucked inside Chelsea Market, lists an apple cider mini doughnut flavored with apple, orange zest, and fall spices. Peter Pan Donuts in Greenpoint, Brooklyn, has been running since the 1950s and lists apple cider glazed and apple cider cinnamon varieties on its fall menu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Skip the ones sold pre-bagged at tourist-heavy stands near major attractions — they're rarely fried to order, and a cider donut that isn't warm is a different, lesser food.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Check the current menu because serving sizes and prices differ by shop | <strong>Best time:</strong> September through November, while fall flavors are available | <strong>Time needed:</strong> 15-30 minutes | <strong>Tip:</strong> Seasonal flavors can sell out, so go earlier in the day if apple cider is the reason for your visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A Rooftop That Still Works in Fall</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NYC rooftop season doesn't necessarily end when summer does — it just becomes more weather-dependent. <a href="https://www.1hotels.com/brooklyn-bridge/taste/harriets-rooftop" target="_blank" rel="nofollow noopener noreferrer">Harriet's Rooftop at 1 Hotel Brooklyn Bridge</a> has wide views across Lower Manhattan and the harbor, making it a strong sunset option on a clear fall evening. By late October, temperatures can dip into the 50s°F (about 10-15°C), so bring a warm layer even if the afternoon feels mild.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is a sunset-to-dark plan, not a daytime one — the skyline lighting up as it gets colder is the whole point.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Cocktails currently sit around the high-$20s, but menus and any entry policies can change | <strong>Best time:</strong> An hour before sunset through early evening | <strong>Time needed:</strong> 1.5-2 hours | <strong>Tip:</strong> The rooftop operates weather permitting and reservations are recommended. Check current hours, dress guidance, menu prices, and availability directly with the venue before going.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2633,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/Rooftop_bar_fire_pit-1024x683.png" alt="NYC rooftop fire pit with the Empire State Building lit at night" class="wp-image-2633"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="one-extra-day-pumpkin-picking">If You Have One Extra Day: Pumpkin Picking</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Everything above happens inside the five boroughs. This one doesn't, and it is the exception worth making. Outhouse Orchards in North Salem, New York, is reachable by Metro-North from Grand Central to Croton Falls — roughly 80 minutes, depending on the train — plus a prearranged cab or rideshare to the farm. Its pumpkin patch uses vine-free pumpkins, so you choose a pre-cut pumpkin rather than cutting one from the vine. Check the <a href="https://www.outhouseorchardsny.com/pumpkin-patch" target="_blank" rel="nofollow noopener noreferrer">official pumpkin-patch page</a> for current dates, admission details, activities, and pricing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is a different trip from a foliage day trip, even though the train routes overlap. If color is the priority rather than pumpkins, the <a href="/nyc-fall-foliage-day-trips/">NYC fall foliage day trips guide</a> covers Cold Spring, Beacon, and the Catskills in more depth. If you only have room for one day trip on the whole visit, decide first whether you want a pumpkin or a hillside — they're both worth it, but they're not really the same day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Price:</strong> Round-trip Metro-North fare plus current farm admission and pumpkin pricing | <strong>Best time:</strong> Early to mid-October, subject to the farm's published season and availability | <strong>Time needed:</strong> Most of a day | <strong>Tip:</strong> Arrange the ride from Croton Falls in advance and confirm the return plan — it is a rural station, not a dependable taxi stand.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="which-one-to-prioritize">Which One Should You Actually Prioritize</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Bucket list item</th><th>Cost</th><th>Best time</th><th>Why it's on this list</th></tr></thead><tbody><tr><td>West Village walk</td><td>Free</td><td>Weekday afternoons, late September-Halloween</td><td>A self-paced way to see decorated stoops and quieter side streets</td></tr><tr><td>Green-Wood Cemetery</td><td>Free</td><td>Early to mid-afternoon, October-early November</td><td>Fall color, architecture, and skyline views with fewer crowds</td></tr><tr><td>Governors Island Pumpkin Point</td><td>Previously free; ferry may cost extra</td><td>Only if 2026 dates are announced</td><td>A distinctive local event, if it returns for the season</td></tr><tr><td>Tompkins Square Dog Parade</td><td>Historically free to watch</td><td>Official 2026 date not yet announced</td><td>An imaginative East Village Halloween tradition</td></tr><tr><td>Oyster happy hour</td><td>Currently $2 each at Mermaid, minimum six</td><td>During the venue's current happy-hour window</td><td>A quick fall food stop that pairs easily with the West Village</td></tr><tr><td>Apple cider donuts</td><td>Check current shop prices</td><td>September-November, while available</td><td>A seasonal taste of fall without leaving the city</td></tr><tr><td>Fall rooftop evening</td><td>High-$20s for many current cocktails</td><td>Sunset on a clear, mild evening</td><td>Skyline views after the peak summer rooftop season</td></tr><tr><td>Pumpkin-patch day trip</td><td>Train fare + farm admission and pumpkin pricing</td><td>Early to mid-October, subject to availability</td><td>A farm experience beyond the five boroughs</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>If you're short on time, pair the West Village walk with oyster happy hour or apple cider donuts — they sit close together and cost almost nothing. If you have a full free day, Green-Wood Cemetery in the late afternoon, followed by dinner nearby, is the single best return on effort on this entire list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">FAQ: NYC Fall Bucket List</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>What's the single best fall thing to do in NYC that isn't Central Park?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Green-Wood Cemetery in Brooklyn — 478 free acres of Victorian hills and one of the best skyline views in the city, with a fraction of the crowds you'd find in Central Park or Prospect Park during peak foliage weeks.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Governors Island open in October 2026?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Yes. Governors Island is open year-round, but ferry schedules and seasonal activities can change. Pumpkin Point had not been confirmed for 2026 at the time of this update, so check the official events calendar before planning around it.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>When is the Tompkins Square Halloween Dog Parade in 2026?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>The 2026 date, location, and registration details had not been announced at the time of this update. The next edition will be the 36th. Check the official organizer's page before adding it to your itinerary.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Do I need to book the Greenwich Village food or ghost tour in advance?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Booking ahead is sensible for October weekends, especially close to Halloween. At the time of this update, both Viator listings offered free cancellation up to 24 hours before the start time, but the exact cutoff and conditions shown for your selected departure always apply.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Where can I get apple cider donuts in NYC without leaving the city?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>Doughnuttery at Chelsea Market fries an apple cider mini doughnut with orange zest to order, and Peter Pan Donuts in Greenpoint, Brooklyn, adds apple cider glazed and cinnamon versions every fall. Both beat any pre-bagged donut sold near the major tourist attractions.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:paragraph -->
+<p>None of this is the version of NYC fall that shows up on a postcard, and that's exactly the point. The postcard version is one park and one parade. This is the version with dirt under your fingernails from a pumpkin, cider glaze on your fingers, and a skyline view you had almost entirely to yourself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"What's the single best fall thing to do in NYC that isn't Central Park?","acceptedAnswer":{"@type":"Answer","text":"Green-Wood Cemetery in Brooklyn — 478 free acres of Victorian hills and one of the best skyline views in the city, with a fraction of the crowds you'd find in Central Park or Prospect Park during peak foliage weeks."}},
+    {"@type":"Question","name":"Is Governors Island open in October 2026?","acceptedAnswer":{"@type":"Answer","text":"Yes. Governors Island is open year-round, but ferry schedules and seasonal activities can change. Pumpkin Point had not been confirmed for 2026 at the time of this update, so check the official events calendar before planning around it."}},
+    {"@type":"Question","name":"When is the Tompkins Square Halloween Dog Parade in 2026?","acceptedAnswer":{"@type":"Answer","text":"The 2026 date, location, and registration details had not been announced at the time of this update. The next edition will be the 36th. Check the official organizer's page before adding it to your itinerary."}},
+    {"@type":"Question","name":"Do I need to book the Greenwich Village food or ghost tour in advance?","acceptedAnswer":{"@type":"Answer","text":"Booking ahead is sensible for October weekends, especially close to Halloween. At the time of this update, both Viator listings offered free cancellation up to 24 hours before the start time, but the exact cutoff and conditions shown for your selected departure always apply."}},
+    {"@type":"Question","name":"Where can I get apple cider donuts in NYC without leaving the city?","acceptedAnswer":{"@type":"Answer","text":"Doughnuttery at Chelsea Market fries an apple cider mini doughnut with orange zest to order, and Peter Pan Donuts in Greenpoint, Brooklyn, adds apple cider glazed and cinnamon versions every fall. Both beat any pre-bagged donut sold near the major tourist attractions."}}
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-nyc-guides">More New York City Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/fall-in-new-york-city/">Fall in New York City: Best Things to Do, Foliage + Events</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-in-october/">NYC in October: 18 Best Things to Do</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-fall-foliage-day-trips/">NYC Fall Foliage Day Trips</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-halloween-with-kids/">NYC Halloween With Kids</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/central-park-nyc-guide/">Central Park NYC Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/where-to-stay-in-nyc/">Where to Stay in New York City</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

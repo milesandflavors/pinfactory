@@ -1,0 +1,314 @@
+﻿<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Barcelona travel costs surprised us — in both directions. Some things cost more than expected (the Gaudí buildings add up fast), and some things cost less (a proper three-course lunch with wine for €14 and a 10-journey metro card that keeps city transport cheap). The city is not cheap, but it rewards people who know where the value is. Here's exactly what we paid on our September trip, plus the 2026 prices worth checking before you book.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Still working out the logistics? Our <a href="/how-to-plan-a-trip/">complete trip planning guide</a> covers flights, accommodation booking strategy, and travel insurance in one place. For the full day-by-day itinerary, see our <a href="/4-days-in-barcelona-the-perfect-itinerary/">4 Days in Barcelona guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":926,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/IMG_8911-edited-scaled.jpg" alt="Casa Mila rooftop and stone facade in Barcelona" class="wp-image-926"/><figcaption class="wp-element-caption">Casa Milà</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Quick Summary: Barcelona Daily Budget</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th></th><th>Budget</th><th>Mid-Range</th><th>Comfortable</th></tr></thead><tbody><tr><td><strong>Accommodation</strong></td><td>€65–90/night</td><td>€95–160/night</td><td>€170–300+/night</td></tr><tr><td><strong>Food</strong></td><td>€25–35/day</td><td>€45–70/day</td><td>€80–120/day</td></tr><tr><td><strong>Transport</strong></td><td>€3–6/day</td><td>€6–12/day</td><td>€15–25/day</td></tr><tr><td><strong>Activities</strong></td><td>€10–20/day</td><td>€25–45/day</td><td>€50–80/day</td></tr><tr><td><strong>Total per day</strong></td><td>€103–151</td><td>€171–287</td><td>€315–525</td></tr><tr><td><strong>4-day trip total</strong></td><td>€410–600</td><td>€685–1,150</td><td>€1,260–2,100</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p><em>Flights not included. See flights section below. Accommodation costs assume sharing a room; solo travelers should expect the accommodation part of the budget to rise because the room is not shared.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:kadence/tableofcontents {"uniqueID":"891_29e888-4f","titleBorderColor":""} /-->
+
+<!-- wp:paragraph -->
+<p>The map below shows every paid sight with its ticket price, the best cheap food neighborhoods, and all airport transfer points — useful for planning your days and your budget before you book.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1SWZLXs-edWBcLWU7O8uVcq1lPGQqu_s&ehbc=2E312F" style="left:0;top:0;height:100%;width:100%;position:absolute;" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Flights to Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona El Prat (BCN) is well-connected from major US cities, usually with one connection through Madrid, London, or another European hub. Direct transatlantic flights exist but are less common and typically more expensive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What to expect from the US:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>New York → Barcelona:</strong> $550–850 round trip in shoulder season (May, September–October)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Chicago → Barcelona:</strong> $580–900 round trip</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Los Angeles → Barcelona:</strong> $650–980 round trip</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Peak season (July–August):</strong> Expect noticeably higher fares than shoulder season, especially on direct or weekend routes</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>How to save on flights:</strong> Check <a href="https://www.google.com/flights" target="_blank" rel="nofollow noopener noreferrer">Google Flights</a> with the flexible dates calendar — flying Tuesday or Wednesday instead of Friday or Sunday can sometimes save a meaningful amount on the same routing. <a href="https://www.skyscanner.com" target="_blank" rel="nofollow noopener noreferrer">Skyscanner</a> can surface less obvious routings, especially if you are open to one connection instead of a direct transatlantic flight.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>When to book:</strong> 3–5 months ahead for shoulder season. Summer flights lock in earlier — book 5–6 months ahead or accept peak pricing. We always book directly with the airline after finding the price on a comparison tool — much easier to handle changes or cancellations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Accommodation Costs in Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona accommodation varies significantly by season, neighborhood, and how early you book. The single biggest lever on price is timing: the same hotel can feel like a different budget category in August than it does in May or September.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Budget: €65–90/night</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The best budget options in Barcelona are in Gràcia and the outer edges of Eixample — a metro stop or two further from the main sights, but genuinely local neighborhoods with solid transport connections. Budget hotels in the Gothic Quarter exist but require checking recent noise reviews carefully. <a href="https://www.booking.com/searchresults.html?dest_id=-372490&amp;dest_type=city&amp;nflt=class%3D3" target="_blank" rel="nofollow noopener noreferrer">Browse budget Barcelona hotels on Booking.com.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Mid-range: €95–160/night</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the sweet spot for most travelers — well-located 3- and 4-star hotels in Eixample, within walking distance of the Gaudí buildings and the main metro lines. Prices vary significantly by season: the same hotel runs €95/night in September and €175/night in August. We stayed in this range and it was comfortable, clean, and well-run. <a href="https://www.booking.com/searchresults.html?dest_id=-372490&amp;dest_type=city&amp;nflt=class%3D4" target="_blank" rel="nofollow noopener noreferrer">Browse mid-range Barcelona hotels on Booking.com.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Luxury: €170–300+/night</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona's luxury hotel scene is concentrated in upper Eixample and along Passeig de Gràcia — boutique properties in landmark buildings, rooftop pools, and concierge services that actually know the city. The 5-star hotels on and around Passeig de Gràcia are genuinely excellent. <a href="https://www.booking.com/searchresults.html?dest_id=-372490&amp;dest_type=city&amp;nflt=class%3D5" target="_blank" rel="nofollow noopener noreferrer">Browse luxury Barcelona hotels on Booking.com.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The free cancellation strategy:</strong> Always book free cancellation. Set a calendar reminder to check prices again 3–4 weeks before arrival — Barcelona rates sometimes soften, especially heading into shoulder season. Rebooking at a lower rate takes 5 minutes and has saved us €80–150 on a single booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For our full neighborhood breakdown, see our <a href="/where-to-stay-in-barcelona/">where to stay in Barcelona guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Food and Drink Costs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":897,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2026/04/IMG_8816-768x1024.jpg" alt="Seafood paella meal in Barcelona" class="wp-image-897"/><figcaption class="wp-element-caption">Seafood Paella</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>What</th><th>Price Range</th></tr></thead><tbody><tr><td>Coffee (café amb llet)</td><td>€1.50–2.50</td></tr><tr><td>Breakfast at a local café</td><td>€4–8</td></tr><tr><td>Menú del día (3-course lunch + drink)</td><td>€12–16</td></tr><tr><td>Tapas per dish</td><td>€5–12</td></tr><tr><td>Dinner at a mid-range restaurant</td><td>€20–35 per person</td></tr><tr><td>Seafood paella (per person)</td><td>€15–25</td></tr><tr><td>Glass of house wine</td><td>€3–6</td></tr><tr><td>Draft beer (cerveza)</td><td>€2.50–4</td></tr><tr><td>Cocktail at a terrace bar</td><td>€10–15</td></tr><tr><td>Supermarket lunch (sandwich + drink)</td><td>€5–8</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The Menú del Día: Barcelona's Best Value</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The menú del día is a fixed 3-course lunch — starter, main, dessert, bread, and a drink (wine, beer, or water) — offered at almost every non-tourist restaurant in the city on weekdays. Price: €12–16. The same restaurants charge €35–50 per person at dinner. Eating the menú del día for lunch and a lighter dinner (tapas, pintxos, market food) is how we kept food costs genuinely low without eating badly. It's also how locals eat — which is always a good sign.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Where Prices Are Inflated (And How to Avoid Them)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The restaurants directly on La Rambla, the Barceloneta beachfront strip, and immediately outside La Boqueria often charge noticeably more than similar places a few streets away. The rule is simple: walk one block in any direction from a major tourist attraction and compare menus before sitting down. We had a genuinely excellent dinner in Eixample — proper Catalan food, good wine — for €38 for two people. The restaurant a 2-minute walk from La Boqueria was charging €28 per person for a similar meal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Transport Costs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Transport</th><th>Cost</th></tr></thead><tbody><tr><td>T-Casual card (10 metro/bus/funicular trips)</td><td>€13</td></tr><tr><td>Single metro journey</td><td>€2.90</td></tr><tr><td>Aerobus airport to city (one way)</td><td>€7.45</td></tr><tr><td>Aerobus airport to city (return)</td><td>€12.85</td></tr><tr><td>Uber/taxi (most city center journeys)</td><td>€8–18</td></tr><tr><td>Funicular de Montjuïc</td><td>Included in T-Casual</td></tr><tr><td>FGC train to Montserrat (return)</td><td>~€15</td></tr><tr><td>Montserrat rack railway (return)</td><td>~€12</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>The T-Casual card (10 trips, €13 in the 2026 TMB fare table) covers four days of movement comfortably if you're walking a reasonable amount — it covers metro, bus, tram, and the Funicular de Montjuïc. One card per person; they're not shareable. It is not valid for the L9 Sud airport metro stations, so use Aerobus, the airport train, a taxi, or the dedicated airport metro ticket for that first transfer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Airport transfer:</strong> The Aerobus (€7.45 one way or €12.85 return in the 2025/26 service document) runs frequently from T1 and T2 to Plaça de Catalunya. It's the easiest option with luggage and usually simpler than the metro if your hotel is central. If your return date is fixed, the return ticket is normally better value than buying two singles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Price check:</em> Barcelona transport fares change, so double-check the <a href="https://www.tmb.cat/es/tarifas-metro-bus-barcelona/precios-titulos-transporte" target="_blank" rel="nofollow noopener noreferrer">official TMB fare table</a> and the <a href="https://aerobusbarcelona.es/viaje/tarifas/" target="_blank" rel="nofollow noopener noreferrer">official Aerobus fare page</a> before you travel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Attraction and Activity Costs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Attraction</th><th>Price</th><th>Book in advance?</th></tr></thead><tbody><tr><td>Sagrada Família (with audio guide)</td><td>€26–45</td><td>Yes — weeks ahead in peak season</td></tr><tr><td>Casa Batlló</td><td>€35–45</td><td>Yes — sells out regularly</td></tr><tr><td>Casa Milà (La Pedrera)</td><td>€25–35</td><td>Recommended</td></tr><tr><td>Park Güell (ticketed section)</td><td>€18</td><td>Recommended</td></tr><tr><td>MNAC</td><td>€12</td><td>No (free first Sunday/month)</td></tr><tr><td>Picasso Museum</td><td>€12</td><td>Recommended (free first Sunday/month + Thu eve)</td></tr><tr><td>Palau de la Música Catalana</td><td>€22 (tour)</td><td>Recommended</td></tr><tr><td>Montjuïc Castle</td><td>€5</td><td>No</td></tr><tr><td>Montserrat (train + rack railway return)</td><td>~€27</td><td>Yes — rack railway sells out in summer</td></tr><tr><td>Magic Fountain show</td><td>Free</td><td>No</td></tr><tr><td>Gothic Quarter, beaches, viewpoints</td><td>Free</td><td>No</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p><em>Price check:</em> Park Güell's official general ticket is €18 in the current tariff table. Check the <a href="https://parkguell.barcelona/en/planning-your-visit/prices-and-times" target="_blank" rel="nofollow noopener noreferrer">official Park Güell prices and times page</a> before locking your final sightseeing budget.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Where to book:</strong> Buy tickets directly on the official attraction websites or compare timed-entry and guided options through <a href="https://www.viator.com/Barcelona/d562?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=barcelona-travel-costs" target="_blank" rel="sponsored noopener noreferrer">Viator's Barcelona tickets and tours</a> — skip-the-line tickets are worth it for Sagrada Família and Casa Batlló especially. Walk-up queues in peak season can be painful, and the best timed-entry slots disappear first. For everything that's free, see our <a href="/free-things-to-do-in-barcelona/">free things to do in Barcelona guide</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Sample 4-Day Budget Breakdown</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is what our trip actually looked like, per person, in September (shoulder season), sharing accommodation:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":false} -->
+<figure class="wp-block-table"><table><thead><tr><th>Category</th><th>Cost (per person)</th><th>Notes</th></tr></thead><tbody><tr><td>Accommodation (4 nights, 3-star Eixample, shared)</td><td>€190</td><td>€95/night in September, split two ways</td></tr><tr><td>Sagrada Família</td><td>€29</td><td>With audio guide, booked via Viator</td></tr><tr><td>Casa Milà rooftop</td><td>€26</td><td>Late afternoon visit</td></tr><tr><td>MNAC</td><td>€12</td><td>Full museum visit</td></tr><tr><td>Montserrat (train + rack railway return)</td><td>€27</td><td>FGC + cremallera combined ticket</td></tr><tr><td>Magic Fountain, Gothic Quarter, Montjuïc</td><td>€0</td><td>All free</td></tr><tr><td>Food (4 days: menú del día + dinners + breakfast)</td><td>€175</td><td>Menú del día for lunch daily kept this manageable</td></tr><tr><td>Transport (T-Casual + Aerobus return)</td><td>€26</td><td>T-Casual €13 + Aerobus return €12.85</td></tr><tr><td>Miscellaneous (coffees, snacks, one cocktail)</td><td>€35</td><td></td></tr><tr><td><strong>Total (4 days, per person)</strong></td><td><strong>~€520</strong></td><td>Excluding flights</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>Flights from New York in September: approximately $650 round trip. Total per person including flights: approximately $1,230 / €1,140. That's a genuinely good value for a 4-day European city trip with most of the main sights covered.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Money and Cards in Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona is almost entirely cashless — cards are accepted everywhere from supermarkets to market stalls. The exceptions are some small cafes and occasional market vendors. Carry €30–50 in cash for incidentals but you'll rarely need more.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Use a card with no foreign transaction fees.</strong> Standard US debit and credit cards charge 1–3% on every foreign purchase. On a €700 trip that's €7–21 in fees — not catastrophic, but avoidable. <a href="https://wise.com" target="_blank" rel="nofollow noopener noreferrer">Wise</a> uses real exchange rates and works like a local card in 50+ currencies. Charles Schwab reimburses all ATM fees worldwide if you need cash.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>ATMs:</strong> Use CaixaBank or BBVA machines if you need cash — they are usually more predictable than the independent ATMs near tourist sites. Avoid exchanging currency at airport kiosks unless it is an emergency; the rate is rarely kind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Shoulder Season: The Single Best Way to Save</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The difference between visiting Barcelona in September versus August is not just about crowds — it's about cost:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Hotels:</strong> Often much cheaper in shoulder season. The 3-star Eixample hotel we stayed in was €95/night in September and €178/night in August. On 4 nights sharing a room, that difference would have meant €332 saved.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Flights:</strong> Often cheaper in May or September than July or August, especially if you can avoid Friday-to-Sunday dates.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Experience:</strong> Sagrada Família at 9am in September feels completely different to 9am in August. The crowds are manageable rather than overwhelming.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Weather:</strong> September averages 24°C with lower humidity than August. May averages 20–22°C. Both are genuinely pleasant.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>If your dates are at all flexible, May or September is the answer. The experience is better in almost every dimension and it costs significantly less.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Is Barcelona Expensive?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Compared to London or Paris: noticeably cheaper. Compared to Lisbon or Krakow: more expensive. In the right season, with the menú del día habit and the free cancellation booking strategy, a 4-day Barcelona trip is very manageable at €500–700 per person all-in excluding flights — and genuinely excellent at €800–1,000.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The things that make it feel expensive are almost entirely avoidable: tourist zone restaurants, walk-up ticket prices, and August hotel rates. Avoid those three and Barcelona becomes one of the best value major city trips in Europe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Final Thoughts: Barcelona Travel Costs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barcelona rewards people who plan. Book the tickets before you go, eat the menú del día for lunch, stay in Eixample in September, and use a card without foreign transaction fees — and the city becomes very affordable without giving anything up. That's a good deal for what Barcelona delivers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the full day-by-day itinerary with all the ticket links, see our <a href="/4-days-in-barcelona-the-perfect-itinerary/">4 Days in Barcelona guide</a>. For the 20 best experiences whether free or paid, our <a href="/barcelona-bucket-list/">Barcelona bucket list</a> covers everything. For accommodation recommendations at every budget level, our <a href="/where-to-stay-in-barcelona/">where to stay in Barcelona guide</a> breaks down every neighborhood with honest notes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a trip to Barcelona cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A budget trip to Barcelona usually starts around €100–150 per person per day when sharing accommodation and excluding flights. Mid-range travelers should expect closer to €170–290 per person per day, depending heavily on hotel season and paid attractions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Barcelona expensive for tourists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Barcelona is moderately priced by Western European standards. Accommodation and dining can be costly in the center, but the city offers many free attractions and affordable tapas bars."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cheapest time to visit Barcelona?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "January to March usually brings the lowest hotel prices, but May and September are often the best value months because the weather is pleasant and prices are usually lower than July or August."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much spending money do I need for Barcelona per day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If accommodation is already paid, budget around €50–90 per day for meals, local transport, and occasional paid sights. With accommodation included, use the main daily budget ranges in this guide instead."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->

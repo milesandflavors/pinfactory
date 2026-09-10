@@ -1,0 +1,287 @@
+﻿<!-- wp:image {"id":2562,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/sui-xu-Xq0mHHlZyHs-unsplash-scaled.jpg" alt="Sagrada Familia towers rising above the Barcelona skyline" class="wp-image-2562"/><figcaption class="wp-element-caption">The tower ticket adds €10 to basic entry — the real question is what that €10 actually buys you.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Every Sagrada Família ticket gets you inside the basilica. The tower ticket adds €10 on top for one very specific experience: a lift ride up one of the towers, a walk down a narrow spiral staircase, and a view over Barcelona from inside Gaudí's stonework. Whether that extra cost — and the extra 30-45 minutes — is worth it depends on what you actually want out of the visit, and on whether everyone in your group can comfortably handle the tower rules.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#what-tower-gets-you">What the Tower Ticket Actually Gets You</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#nativity-vs-passion">Nativity Tower vs. Passion Tower</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#is-it-worth-it">Is It Worth the Extra Cost?</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#not-worth-it">When to Skip It</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#practical-tips">Practical Tips</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-from-barcelona">More from Barcelona</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Current official prices list basic basilica entry at €26; adding tower access brings it to €36, or €40 with a guided tour. For most first-time visitors, yes, the tower is worth it — not because the view is the highest in Barcelona, but because it lets you experience the basilica from inside the spires, close to the detail you cannot see from the floor.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>It is less worth it if you dislike heights or enclosed staircases, if you are traveling with children under 6, or if your Barcelona time is tight enough that an extra 30-45 minutes matters more than the view. If you choose one tower, I would pick the Nativity tower for the more distinctive Gaudí connection.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"46px"} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"25px"} -->
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="how-id-decide">How I'd decide on tower access</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If it's my only visit to Barcelona and I'm not nervous about heights or narrow stairs, I'd add the tower without much hesitation — €10 on top of a ticket I'm already buying is a small amount for a perspective I can't get from the basilica floor. For a plain tower ticket, I would book directly through the official site, because it is timed-entry either way and I would rather not pay extra for a tour I do not need.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If I wanted the symbolism and geometry explained by someone who actually knows it, I'd upgrade to the <a href="https://www.viator.com/tours/Barcelona/Sagrada-Familia-Fast-Track-Guided-Tour-with-Towers-Access/d562-56823P23?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=sagrada-familia-towers-worth-it" rel="sponsored noopener noreferrer" target="_blank">Sagrada Família guided tour with tower access on Viator</a> instead — a guide makes the basilica itself land differently, and the tower becomes the payoff at the end rather than a separate errand. Before booking through Viator, I would still check the exact inclusions, meeting point, tower access details, cancellation window, and whether reserve-now-pay-later is available for my date.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a genuinely different view of Barcelona and a closer look at Gaudí's detail work up close.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> €10 is a small add-on relative to the base ticket price, and the experience — elevator up, spiral stairs down through the spires — isn't replicated anywhere else in the city.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you're uneasy with heights or tight, enclosed stairwells, or your group includes anyone who cannot use the towers under the current safety rules.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before booking:</strong> tower slots are more limited than basic entry and sell out faster, especially in peak season — decide early, not the week of your trip.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="what-tower-gets-you">What the Tower Ticket Actually Gets You</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The tower ticket is a separate add-on to standard basilica entry. The <a href="https://sagradafamilia.org/en/prices" rel="nofollow noopener noreferrer" target="_blank">current official Sagrada Família price page</a> lists the base basilica ticket at €26, Sagrada Família with Towers at €36, and the Guided Tour + Towers ticket at €40.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You take an elevator up one tower — Nativity or Passion, whichever you booked — then walk down a narrow spiral staircase past close-up views of the spires' stonework and stained glass that you cannot see properly from ground level. Budget roughly 30 to 45 minutes for the tower portion on top of your basilica visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It's genuinely a different experience from the basilica interior — where the interior visit is about the space and the light, the tower visit is about scale and detail: how tall the structure actually is, how intricate the stonework gets up close, and a view over the Eixample grid that puts the rest of the city in context.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="nativity-vs-passion">Nativity Tower vs. Passion Tower</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You choose one tower when booking — there's no ticket that includes both. The <strong>Nativity tower</strong>, on the east side, is the more ornate option: it's part of the façade Gaudí himself completed and supervised, dense with sculptural detail, and generally considered the more distinctive of the two. The <strong>Passion tower</strong>, on the west side, is starker and more angular — built later, to a different aesthetic — but gives sweeping views toward the Eixample and the sea that some visitors prefer precisely because the tower itself is less busy to look at.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you can only pick one and have no strong preference, go with the Nativity tower — it's the more commonly recommended choice and puts you closest to Gaudí's original, most detailed sculptural work.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="is-it-worth-it">Is It Worth the Extra Cost?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For most first-time visitors, yes. €10 is a small increment on top of a ticket you're already buying, and the view and up-close detail are things you cannot get from the basilica floor or a normal city viewpoint. If the Sagrada Família is the one big paid sight on your Barcelona trip, the tower is the part that can turn a memorable visit into a genuinely unique one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="not-worth-it">When to Skip It</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Fear of heights or enclosed spaces:</strong> the elevator is small and the spiral staircase down is narrow and enclosed. If vertigo, claustrophobia, dizziness, or tight stairwells are an issue, skip the tower and enjoy the basilica from the floor.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Young children:</strong> children under 6 cannot visit the towers, and visitors under 16 must be accompanied by an adult. Even when children are old enough, the stairs down still require steady footing.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mobility, pregnancy, or health limitations:</strong> the official tower rules say this area is not adapted for reduced mobility, and the restrictions are stricter than the basilica visit itself. Check the <a href="https://sagradafamilia.org/en/rules-and-conditions-of-sale" rel="nofollow noopener noreferrer" target="_blank">current tower rules</a> before booking if this might affect anyone in your group.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Very tight schedule:</strong> if you're squeezing Sagrada Família into a packed single day with several other paid sights, the extra 30-45 minutes might matter more than the view.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="practical-tips">Practical Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Book tower slots early:</strong> tower access is more limited than basic entry, and the specific tower/time you want can sell out faster in peak season.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Choose your tower carefully:</strong> normal tower tickets include one tower, not both. Do not assume you can switch from Nativity to Passion, or the other way around, once your ticket is booked.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Check the plain ticket first:</strong> if you only want entry plus tower access, compare the official ticket first. If you want explanation, context, and someone else handling the flow of the visit, then the guided tower option can make more sense.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Watch the weather:</strong> towers can close for adverse weather, maintenance, or safety reasons. The official ticket conditions are strict, so do not assume a tower closure will automatically mean a refund — treat tower access as a bonus, not the whole reason for booking.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Combine with the rest of your visit:</strong> for the full basilica visit beyond just the towers, see the <a href="/sagrada-familia-skip-the-line/">Sagrada Família skip-the-line guide</a>.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="more-from-barcelona">More from Barcelona</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For the full basilica visit, the <a href="/sagrada-familia-skip-the-line/">Sagrada Família skip-the-line guide</a> covers booking, timing, and what to see inside. If you're pairing it with Gaudí's other sites, the <a href="/park-guell-sagrada-familia-barcelona/">Park Güell and Sagrada Família in one day guide</a> covers the timing, and the <a href="/casa-mila-vs-casa-batllo/">Casa Milà vs Casa Batlló comparison</a> rounds out the Gaudí picture for the rest of your trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is the Sagrada Família tower ticket worth it?</summary><!-- wp:paragraph -->
+<p>For most first-time visitors, yes. It adds about €10 to basic entry and gives you close-up tower detail plus a view over Barcelona that you cannot get from the basilica floor. It is less worth it if you dislike heights, enclosed stairs, or have very limited time.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Which Sagrada Família tower is better, Nativity or Passion?</summary><!-- wp:paragraph -->
+<p>The Nativity tower is the one I would choose first. It is the more distinctive option because it connects more closely to Gaudí's original façade and has denser sculptural detail. The Passion tower is starker and can still be a good choice if you prefer cleaner lines and views toward the Eixample and the sea.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How much does Sagrada Família tower access cost?</summary><!-- wp:paragraph -->
+<p>Current official prices list basic basilica entry at €26, Sagrada Família with Towers at €36, and Guided Tour + Towers at €40. Prices and availability can change, so check the official price page before booking.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Can children visit the Sagrada Família towers?</summary><!-- wp:paragraph -->
+<p>Children under 6 cannot visit the towers. Visitors under 16 must be accompanied by an adult, and the descent is by a narrow staircase, so it is worth thinking carefully before adding tower access for younger kids.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Can you choose both Sagrada Família towers on one ticket?</summary><!-- wp:paragraph -->
+<p>No. Standard tower tickets include one tower only, and you choose Nativity or Passion when booking. If you have no strong preference, I would choose Nativity for the more distinctive Gaudí connection.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is the Sagrada Família tower ticket worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most first-time visitors, yes. It adds about 10 euros to basic entry and gives you close-up tower detail plus a view over Barcelona that you cannot get from the basilica floor. It is less worth it if you dislike heights, enclosed stairs, or have very limited time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Sagrada Família tower is better, Nativity or Passion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Nativity tower is the one I would choose first. It is the more distinctive option because it connects more closely to Gaudi's original facade and has denser sculptural detail. The Passion tower is starker and can still be a good choice if you prefer cleaner lines and views toward the Eixample and the sea."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does Sagrada Familia tower access cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current official prices list basic basilica entry at 26 euros, Sagrada Familia with Towers at 36 euros, and Guided Tour + Towers at 40 euros. Prices and availability can change, so check the official price page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can children visit the Sagrada Familia towers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Children under 6 cannot visit the towers. Visitors under 16 must be accompanied by an adult, and the descent is by a narrow staircase, so it is worth thinking carefully before adding tower access for younger kids."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you choose both Sagrada Familia towers on one ticket?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Standard tower tickets include one tower only, and you choose Nativity or Passion when booking. If you have no strong preference, I would choose Nativity for the more distinctive Gaudi connection."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+

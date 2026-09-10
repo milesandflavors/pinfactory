@@ -1,0 +1,300 @@
+<!-- wp:image {"id":2715,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/thanksgiving-nyc-rockefeller-rink.jpg" alt="Ice skaters at Rockefeller Center's rink in front of the golden Prometheus statue at night" class="wp-image-2715"/><figcaption class="wp-element-caption">Rockefeller Center's rink runs timed sessions right through Thanksgiving Day.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>New York on Thanksgiving Day is really two different cities layered on top of each other. Half of it shuts down completely — offices, most museums, most stores, Broadway — while the other half puts on the biggest, most crowded show of its entire year right through the middle of Manhattan. Knowing which half you're walking into changes everything about whether the trip is worth it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This guide covers exactly what's open and what's closed on Thanksgiving Day 2026 (November 26), what's actually worth doing besides the parade, and how to handle Black Friday if you're staying through the weekend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details" style="background-color:#F7F4EF;border-left:4px solid #C4845A;border-radius:4px;padding:18px 22px"><summary style="font-weight:700;font-size:1.05em;cursor:pointer">Contents</summary>
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li><a href="#lilis-picks">Lili's Picks</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#whats-open">What's Actually Open on Thanksgiving Day</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#whats-closed">What's Closed</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#beyond-parade">Beyond the Parade: What's Actually Worth Doing</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#eating">Where to Eat on Thanksgiving Day</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#black-friday">Black Friday in NYC</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#where-to-stay">Where to Stay</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#faq">Frequently Asked Questions</a></li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="#more-guides">More NYC Guides</a></li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</details>
+<!-- /wp:details -->
+
+<!-- wp:group {"style":{"color":{"background":"#F7F4EF"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div id="quick-answer" class="wp-block-group has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F7F4EF;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:paragraph -->
+<p><strong>Quick answer:</strong> Thanksgiving in NYC (November 26, 2026) is worth it if the parade and the holiday atmosphere are the draw — most major museums (MoMA, the American Museum of Natural History, the Met) and most stores and restaurants close, but observation decks, the Statue of Liberty ferry, the city's zoos, Rockefeller Center's ice rink, and Bryant Park's Winter Village all stay open. Subways and buses run on a reduced Sunday schedule. Book any restaurant meal well ahead — the ones that stay open sell out their Thanksgiving seatings fast.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"className":"affiliate-notice","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<p class="affiliate-notice" style="margin-bottom:0"><em><strong>Affiliate disclosure:</strong> This post contains affiliate links. If you book or buy something through these links, I may earn a small commission at no extra cost to you. I only recommend things I genuinely use or believe in. <a href="/affiliate-disclosure/">Learn more</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"lili-tips-box","style":{"color":{"background":"#F0EBE4"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"28px","right":"28px"}},"border":{"left":{"color":"#C4845A","width":"4px"}}}} -->
+<div class="wp-block-group lili-tips-box has-background" style="border-left-color:#C4845A;border-left-width:4px;background-color:#F0EBE4;padding-top:24px;padding-right:28px;padding-bottom:24px;padding-left:28px"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="lilis-picks">Lili's Picks for Thanksgiving in NYC</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>This is what I'd book:</strong> <a href="https://www.viator.com/tours/New-York-City/Top-of-the-Rock-Observation-Deck-New-York/d687-3784TOPROCK?pid=P00300034&amp;mcid=42383&amp;medium=link&amp;campaign=thanksgiving-in-nyc" target="_blank" rel="sponsored noopener noreferrer">Top of the Rock tickets on Viator</a>. With most museums closed, an observation deck is one of the few big-ticket indoor-adjacent things still open, and Top of the Rock gives you the Empire State Building in your skyline photo — a genuinely good use of a Thanksgiving afternoon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Best if you want:</strong> a real activity for the afternoon after the parade crowds clear, without needing a museum that's closed for the day.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Why it works:</strong> timed entry keeps the line manageable even on a holiday, and it's a five-minute walk from the parade's finish area and the Fifth Avenue window displays. When checked on August 20, 2026, the listing held a 4.3 rating from around 4,800 reviews.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Not ideal if:</strong> you'd rather save the observation deck for a clearer day — late November skies can be overcast, and the view is the whole point.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Before booking:</strong> confirm the current Thanksgiving Day hours and check the cancellation policy for your slot. The listing currently shows free cancellation.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>This is where I'd stay:</strong> <a href="https://expedia.tpm.lv/oq9U9Bpo" target="_blank" rel="sponsored noopener noreferrer">Dream Midtown, by Hyatt on Expedia</a>. It's near Columbus Circle, walkable to both the parade route and Fifth Avenue's window displays, which matters on a day when subway service runs a reduced schedule. It currently holds an 8.2 out of 10 rating from over 1,500 reviews. Compare the final total, room type, and cancellation terms for your dates before booking.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel smarter</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>If you are visiting from abroad, the <a href="https://wise.prf.hn/click/camref:1101l5L5pb/destination:https%3A%2F%2Fwise.com%2Fregister%23%2Femail" target="_blank" rel="sponsored noopener noreferrer"><strong>Wise card</strong></a> can show the exchange rate and applicable fee before you convert or spend. Check current availability and pricing for your home country, and carry a backup payment method.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>For mobile data, you can set up a <a href="https://telekonek.com/?via=liliana" target="_blank" rel="sponsored noopener noreferrer"><strong>Telekonek eSIM</strong></a> before departure so maps and subway directions work when you land. Check device compatibility and the current plan terms first; code <strong>MILESANDFLAVORS5</strong> gives 5% off.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="whats-open">What's Actually Open on Thanksgiving Day</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The big observation decks stay open: the Empire State Building, One World Observatory, and Top of the Rock all run on Thanksgiving Day. The Statue of Liberty and Ellis Island ferries operate as well, so the classic harbor visit is still on the table.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The city's zoos and aquarium stay open too — Central Park Zoo, Prospect Park Zoo, Queens Zoo, and the New York Aquarium are all running, which makes for a good lower-key option if you're traveling with kids and want something calmer than the parade crowds. A few smaller museums stay open as well, including the National Museum of the American Indian downtown.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rockefeller Center's ice rink runs timed sessions on Thanksgiving Day, and Bryant Park's Winter Village — more than 180 shopping and food kiosks around a seasonal ice rink — is open too, so both of the city's signature holiday-season spots are in play even on the holiday itself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Subways and buses run on Thanksgiving Day, but on a reduced Sunday schedule — build extra time into any transit-dependent plan, especially getting to or from the parade route.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="whats-closed">What's Closed</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most major museums close for the day, including MoMA, the American Museum of Natural History, and the Met. Broadway goes dark on Thanksgiving Day as well — there are no evening performances, so don't plan a show around this specific date. Most offices, banks, and a large share of retail stores are closed too, particularly outside the main tourist corridors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most restaurants close for the day as well, though this is the one category with real exceptions — see the eating section below for what actually stays open.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="beyond-parade">Beyond the Parade: What's Actually Worth Doing</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you're only in town for the parade itself, see my separate <a href="/macys-thanksgiving-day-parade-2026/">Macy's Thanksgiving Day Parade guide</a> for the route, viewing spots, and the balloon inflation the night before. For everything else the day has to offer:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Fifth Avenue's holiday window displays</strong> go up before Thanksgiving and are worth the walk regardless of the parade — Saks Fifth Avenue's light-and-music show and Macy's animated windows are the two standouts. See them after dark, around 4:30pm, and aim for late afternoon or early evening on Thanksgiving Day itself, when the crowds are noticeably thinner than a weekend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Rockefeller Center's ice rink</strong> is a straightforward way to spend an hour once the parade crowds thin out, especially since it's a short walk from the Fifth Avenue windows. Book a timed session rather than showing up and hoping.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Bryant Park's Winter Village</strong> gives you a market atmosphere without needing the parade at all — food kiosks, shopping, and its own ice rink with a rinkside restaurant if you want to sit down and warm up.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2716,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://milesandflavors.com/wp-content/uploads/2026/08/thanksgiving-nyc-holiday-decorations-tree.jpg" alt="Lit angel decorations near Rockefeller Center with the Christmas tree visible in the background at night" class="wp-image-2716"/><figcaption class="wp-element-caption">Holiday decorations go up around Rockefeller Center before Thanksgiving and stay lit through the season.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="eating">Where to Eat on Thanksgiving Day</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Don't assume you'll find a table by walking in. The restaurants that do stay open on Thanksgiving mostly run a set, prix-fixe holiday menu and take reservations that fill up well in advance — book as early as you can once your travel dates are set.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If a traditional turkey dinner isn't the goal, plenty of international restaurants stay open as normal since Thanksgiving isn't part of their calendar — Chinatown and the East Village are reliable neighborhoods to check for a non-traditional meal that doesn't require a holiday reservation months out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="black-friday">Black Friday in NYC</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If your trip stretches into Friday, the city flips back to normal fast — stores reopen, restaurants reopen, and Fifth Avenue and Herald Square get genuinely crowded with shoppers on top of the usual tourist traffic. If shopping isn't the plan, treat Friday as a good day to do the museums that were closed on Thursday, since Black Friday crowds concentrate around retail, not necessarily around every museum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="where-to-stay">Where to Stay</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Midtown, near Columbus Circle or Rockefeller Center, is the most convenient base for Thanksgiving week — it puts you within walking distance of the parade route, the Fifth Avenue windows, and Rockefeller Center's rink, which matters when transit is running a reduced schedule. <a href="https://expedia.tpm.lv/oq9U9Bpo" target="_blank" rel="sponsored noopener noreferrer">Dream Midtown, by Hyatt on Expedia</a> sits in that zone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Book early regardless of neighborhood — Thanksgiving week is one of the highest-demand periods of the year for New York hotels, and rates climb the closer you get to the date.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="faq">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Is Thanksgiving in NYC worth it?</summary><!-- wp:paragraph -->
+<p>Yes, if the parade and holiday atmosphere are what you're after. Most museums, offices, and many restaurants close, but observation decks, the Statue of Liberty ferry, city zoos, Rockefeller Center's rink, and Bryant Park's Winter Village all stay open, so there's a real day's worth of things to do beyond the parade itself.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Are museums open on Thanksgiving Day in NYC?</summary><!-- wp:paragraph -->
+<p>Most major museums are closed, including MoMA, the American Museum of Natural History, and the Met. A few smaller institutions, like the National Museum of the American Indian, stay open, along with the city's zoos and aquarium.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Do subways run on Thanksgiving in NYC?</summary><!-- wp:paragraph -->
+<p>Yes, subways and buses operate on Thanksgiving Day, but on a reduced Sunday schedule rather than a normal weekday timetable. Build in extra time for transit, especially around the parade route.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>Can I find a Thanksgiving dinner in NYC without planning ahead?</summary><!-- wp:paragraph -->
+<p>It's risky. Restaurants that stay open on Thanksgiving mostly offer a set holiday menu with reservations that fill up well in advance. If you want a traditional dinner, book as early as possible. For a non-traditional option without a holiday reservation, check international restaurants in neighborhoods like Chinatown or the East Village, which mostly stay open as normal.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:html -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Thanksgiving in NYC worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the parade and holiday atmosphere are what you're after. Most museums, offices, and many restaurants close, but observation decks, the Statue of Liberty ferry, city zoos, Rockefeller Center's rink, and Bryant Park's Winter Village all stay open, so there's a real day's worth of things to do beyond the parade itself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are museums open on Thanksgiving Day in NYC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most major museums are closed, including MoMA, the American Museum of Natural History, and the Met. A few smaller institutions, like the National Museum of the American Indian, stay open, along with the city's zoos and aquarium."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do subways run on Thanksgiving in NYC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, subways and buses operate on Thanksgiving Day, but on a reduced Sunday schedule rather than a normal weekday timetable. Build in extra time for transit, especially around the parade route."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I find a Thanksgiving dinner in NYC without planning ahead?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's risky. Restaurants that stay open on Thanksgiving mostly offer a set holiday menu with reservations that fill up well in advance. If you want a traditional dinner, book as early as possible. For a non-traditional option without a holiday reservation, check international restaurants in neighborhoods like Chinatown or the East Village, which mostly stay open as normal."
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":2} -->
+<h2 id="more-guides">More NYC Guides</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Filling out a Thanksgiving week trip to New York:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="/macys-thanksgiving-day-parade-2026/">Macy's Thanksgiving Day Parade Turns 100 in 2026</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-at-christmas/">NYC at Christmas: What's Actually Worth It</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/empire-state-building-vs-top-of-the-rock/">Empire State Building vs Top of the Rock: Which Is Worth It?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/central-park-nyc-guide/">Central Park NYC: The Complete Guide</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="/nyc-travel-costs/">NYC Travel Costs: What a Real Trip Actually Costs</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Thanksgiving in New York rewards a plan more than almost any other day of the year — half the city is closed, the other half is putting on its biggest show, and the difference between a great day and a frustrating one usually comes down to knowing which is which before you leave the hotel. Book dinner early if you want one, dress for a reduced subway schedule, and use the quiet of a holiday afternoon to see Fifth Avenue's windows the way they're meant to be seen: lit up, after dark, with room to actually look.</p>
+<!-- /wp:paragraph -->
